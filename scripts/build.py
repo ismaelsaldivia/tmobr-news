@@ -227,12 +227,16 @@ def main():
 
     if ai:
         keep = set(i for i in ai.get("keep", []) if i in byid)
+        import unicodedata
         def words(t):
-            return re.sub(r"[^\w ]+", " ", (t or "").lower()).split()
+            t = unicodedata.normalize("NFKD", (t or "").lower())
+            t = "".join(c for c in t if not unicodedata.combining(c))
+            return re.sub(r"[^\w ]+", " ", t).split()
         for i, tr in (ai.get("en") or {}).items():
             if i in byid and isinstance(tr, dict) and tr.get("t"):
-                o = words(tr.get("o"))[:3]
-                if not o or words(byid[i]["title"])[:len(o)] != o:
+                o = [w for w in words(tr.get("o"))[:4] if len(w) > 2]
+                head = set(words(byid[i]["title"])[:10])
+                if not o or sum(w in head for w in o) < max(1, len(o) - 1):
                     log("translation rejected (does not match its original)", i, tr.get("o"))
                     continue
                 if tr.get("lang") in LANGNAME:
