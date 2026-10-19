@@ -100,6 +100,7 @@ Below are today's candidate items, one per line: id | language | section | sourc
 Return ONLY a JSON object with these keys:
 - "keep": array of ids worth publishing. Keep business, markets, telecom, satellites, subsea cables, data centers, energy for data centers, AI, semiconductors, technology policy and corporate deals. Drop lifestyle, culture, sports, crime, celebrity, generic domestic politics, sponsored content, events/webinars and market-session wraps that only list prices. If several items report the same story (in any language), keep only the most informative one.
 - "en": object mapping EVERY kept PT or ES id to {"o": the first five words of that item's ORIGINAL headline copied exactly, "lang": "PT" or "ES" (the real language of that headline), "t": English headline, "x": English one-sentence excerpt of at most 25 words, or "" if there is no excerpt}. Translate faithfully; do not add facts. Double-check that each translation belongs to its own id.
+- "story": object mapping EVERY kept id to a short lowercase English slug (3 to 6 words) naming the underlying event. Items that report the same event, in any language or from any source, MUST get exactly the same slug.
 - "top": array of 4 kept ids, the most important stories of the day for this audience, most important first. Prefer items with substance (deals, capacity, regulation, financing).
 - "chart": the most striking figure of the day for this audience, or null. Object: {"title": short English headline stating the finding, "value": the number exactly as written in the source text, "total": a second number from the SAME source text it should be compared against, or "", "value_label": short label for value, "total_label": short label for total or "", "id": source item id}. Use only numbers that appear literally in that item's headline or excerpt.
 - "numbers": array of up to 4 other striking figures: {"value": number exactly as written in the source text, "label": English label of at most 10 words, "id": source item id}. Each from a different item. Use only numbers that appear literally in that item's headline or excerpt.
@@ -130,6 +131,21 @@ def ask_claude(items):
     except Exception as ex:
         log("CLAUDE FAIL", ex)
         return None
+
+
+PT_HINTS = ("ção", "ções", "ão ", "ões", "ã", "õ", " não ", " após ", " em ", " do ", " da ", " dos ", " das ", " para o ", " com ", "ê", "lh")
+ES_HINTS = ("ción", "ciones", "ñ", " el ", " los ", " las ", " del ", " para el ", " con ", " una ", " según ", " y ")
+
+
+def detect_lang(text, default):
+    t = " " + (text or "").lower() + " "
+    pt = sum(t.count(h) for h in PT_HINTS)
+    es = sum(t.count(h) for h in ES_HINTS)
+    if pt > es:
+        return "PT"
+    if es > pt:
+        return "ES"
+    return default
 
 
 # ---------------------------------------------------------------- verify figures
@@ -233,18 +249,29 @@ def main():
             t = "".join(c for c in t if not unicodedata.combining(c))
             return re.sub(r"[^\w ]+", " ", t).split()
         for i, tr in (ai.get("en") or {}).items():
-            if i in byid and isinstance(tr, dict) and tr.get("t"):
+            if i in byid and byid[i]["lang"] != "EN" and isinstance(tr, dict) and tr.get("t"):
                 o = [w for w in words(tr.get("o"))[:4] if len(w) > 2]
                 head = set(words(byid[i]["title"])[:10])
                 if not o or sum(w in head for w in o) < max(1, len(o) - 1):
                     log("translation rejected (does not match its original)", i, tr.get("o"))
                     continue
-                if tr.get("lang") in LANGNAME:
-                    byid[i]["lang"] = tr["lang"]
+                byid[i]["lang"] = detect_lang(byid[i]["title"] + " " + byid[i]["summary"], byid[i]["lang"])
                 byid[i]["title_en"] = tr["t"].strip()
                 byid[i]["excerpt_en"] = (tr.get("x") or "").strip()
         pool = [x for x in items if x["id"] in keep and (x["lang"] == "EN" or x.get("title_en"))]
         top = [byid[i] for i in ai.get("top", []) if i in byid and byid[i] in pool]
+        # one item per story: top picks first, then items with a picture, then newest
+        story = ai.get("story") or {}
+        order = sorted(pool, key=lambda x: (0 if x in top else 1, 0 if x.get("img") else 1, -x["ts"]))
+        seen_story, dedup = set(), set()
+        for x in order:
+            slug = re.sub(r"\W+", " ", str(story.get(x["id"], x["id"])).lower()).strip()
+            if slug in seen_story:
+                log("duplicate story dropped", x["src"], x["title"][:60])
+                continue
+            seen_story.add(slug); dedup.add(x["id"])
+        pool = [x for x in pool if x["id"] in dedup]
+        top = [x for x in top if x["id"] in dedup]
         chart = ai.get("chart")
         if chart and not (chart.get("id") in byid and appears(chart.get("value"), byid[chart["id"]])):
             log("chart rejected (figure not found in source)", chart)
