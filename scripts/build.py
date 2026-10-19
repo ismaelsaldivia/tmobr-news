@@ -98,8 +98,8 @@ PROMPT = """You are the editor of TMOBR News, a non-profit aggregator of busines
 Below are today's candidate items, one per line: id | language | section | source | headline | excerpt.
 
 Return ONLY a JSON object with these keys:
-- "keep": array of ids worth publishing. Keep business, markets, telecom, satellites, subsea cables, data centers, energy for data centers, AI, semiconductors, technology policy and corporate deals. Drop lifestyle, culture, sports, crime, celebrity, generic domestic politics, sponsored content, events/webinars and market-session wraps that only list prices.
-- "en": object mapping EVERY kept PT or ES id to {"t": English headline, "x": English one-sentence excerpt of at most 25 words, or "" if there is no excerpt}. Translate faithfully; do not add facts.
+- "keep": array of ids worth publishing. Keep business, markets, telecom, satellites, subsea cables, data centers, energy for data centers, AI, semiconductors, technology policy and corporate deals. Drop lifestyle, culture, sports, crime, celebrity, generic domestic politics, sponsored content, events/webinars and market-session wraps that only list prices. If several items report the same story (in any language), keep only the most informative one.
+- "en": object mapping EVERY kept PT or ES id to {"o": the first five words of that item's ORIGINAL headline copied exactly, "lang": "PT" or "ES" (the real language of that headline), "t": English headline, "x": English one-sentence excerpt of at most 25 words, or "" if there is no excerpt}. Translate faithfully; do not add facts. Double-check that each translation belongs to its own id.
 - "top": array of 4 kept ids, the most important stories of the day for this audience, most important first. Prefer items with substance (deals, capacity, regulation, financing).
 - "chart": the most striking figure of the day for this audience, or null. Object: {"title": short English headline stating the finding, "value": the number exactly as written in the source text, "total": a second number from the SAME source text it should be compared against, or "", "value_label": short label for value, "total_label": short label for total or "", "id": source item id}. Use only numbers that appear literally in that item's headline or excerpt.
 - "numbers": array of up to 4 other striking figures: {"value": number exactly as written in the source text, "label": English label of at most 10 words, "id": source item id}. Each from a different item. Use only numbers that appear literally in that item's headline or excerpt.
@@ -227,8 +227,16 @@ def main():
 
     if ai:
         keep = set(i for i in ai.get("keep", []) if i in byid)
+        def words(t):
+            return re.sub(r"[^\w ]+", " ", (t or "").lower()).split()
         for i, tr in (ai.get("en") or {}).items():
             if i in byid and isinstance(tr, dict) and tr.get("t"):
+                o = words(tr.get("o"))[:3]
+                if not o or words(byid[i]["title"])[:len(o)] != o:
+                    log("translation rejected (does not match its original)", i, tr.get("o"))
+                    continue
+                if tr.get("lang") in LANGNAME:
+                    byid[i]["lang"] = tr["lang"]
                 byid[i]["title_en"] = tr["t"].strip()
                 byid[i]["excerpt_en"] = (tr.get("x") or "").strip()
         pool = [x for x in items if x["id"] in keep and (x["lang"] == "EN" or x.get("title_en"))]
