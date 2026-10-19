@@ -1,144 +1,203 @@
 {
- "updated_utc": "2026-10-19T19:58:27Z",
+ "updated_utc": "2026-10-19T23:14:53Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Amazon and AEP nuclear power deal capacity",
+  "title": "Amazon, X-energy to deploy nearly 1 gigawatt nuclear capacity in Indiana",
   "value": "960MW",
   "total": "",
-  "value_label": "Power generation capacity",
+  "value_label": "Small modular reactors capacity",
   "total_label": "",
   "id": "5d5c71a73c"
  },
  "numbers": [
   {
-   "value": "$45 billion",
-   "label": "Nscale-Anthropic cloud computing deal",
-   "id": "ba4c6fde36"
+   "value": "$1.5 billion",
+   "label": "Tenstorrent funding round",
+   "id": "b862485a23"
   },
   {
-   "value": "$1.5 billion",
-   "label": "Tenstorrent Series B funding round",
+   "value": "$6.2 billion",
+   "label": "Tenstorrent company valuation",
    "id": "36c2a79412"
   },
   {
-   "value": "$108 million",
-   "label": "Town AI assistant Series B round",
-   "id": "ebe42a2b25"
-  },
-  {
-   "value": "€48.4M",
-   "label": "PISCES subsea cable EU CEF funding",
-   "id": "d1515fd161"
+   "value": "1,000 basis points",
+   "label": "CoreWeave bonds yield spread",
+   "id": "073765c16b"
   }
  ],
  "items": [
   {
-   "id": "65790973a7",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Nvidia colabora con Mercedes-Benz y Volvo en conducción autónoma segura",
-   "link": "https://dplnews.com/nvidia-colabora-con-mercedes-benz-conduccion-autonoma/",
-   "ts": 1792438813,
-   "summary": "Nvidia ampliará sus alianzas con Mercedes-Benz y Volvo para desarrollar sistemas de conducción autónoma con Inteligencia Artificial y mayores estándares de seguridad.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/mercedes-benz-nvidia.jpeg",
-   "title_en": "Nvidia expands partnerships with Mercedes-Benz and Volvo on autonomous driving safety",
-   "excerpt_en": "Nvidia expanding alliances to develop autonomous driving systems with AI and enhanced safety standards."
+   "id": "0b7dc7195b",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Z.AI Founders Worked on Research Funded by China Institute UK Tied to Spies",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-19/z-ai-founders-worked-on-research-funded-by-china-institute-uk-tied-to-spies",
+   "ts": 1792450800,
+   "summary": "Four founders of one of China’s most promising artificial intelligence companies, Z.AI Co., worked on research in a joint project with a technology institute that the UK government accused of having “very strong ties” to China’s main spy agency, according to publicly available research papers from China and an “espionage alert” from the UK.",
+   "img": null
   },
   {
-   "id": "013592636b",
+   "id": "f0ced961c9",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Inter compra fatia da Wiz Co por R$ 409,5 milhões e fica com 100% de sua seguradora",
+   "link": "https://neofeed.com.br/negocios/inter-compra-fatia-da-wiz-co-por-r-4095-milhoes-e-fica-com-100-de-sua-seguradora/",
+   "ts": 1792449736,
+   "summary": "A Wiz Co está se desfazendo de sua participação na Inter Seguros, em meio aos esforços para simplificar sua atuação. A companhia de corretagem de seguros anunciou na segunda-feira, 19 de outubro, que assinou um acordo para vender ao Banco Inter os 39,75% que detém na corretora por R$ 409,5 milhões. Com a conclusão do […] O post Inter compra fatia da Wiz Co por R$ 409,5 milhões e fica com 100% de s",
+   "img": "https://neofeed.com.br/wp-content/uploads/2025/05/INTER-300x169.webp",
+   "title_en": "Inter Buys Wiz Insurance Stake for R$ 409.5 Million, Reaches 100% Ownership",
+   "excerpt_en": "Wiz Co. divested its Inter Seguros stake; Inter now fully owns the insurance subsidiary."
+  },
+  {
+   "id": "5b563e6baf",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Squad.com recebe aporte estratégico do Vivo Ventures",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/squad-com-recebe-aporte/",
+   "ts": 1792448659,
+   "summary": "Investimento sela parceria entre empresas, visando à exploração de novos negócios e à expansão da plataforma de agentes",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-acordoRDZ-300x169.jpg",
+   "title_en": "Squad.com Receives Strategic Investment from Vivo Ventures",
+   "excerpt_en": "Investment seals partnership to explore new businesses and expand the AI agents platform."
+  },
+  {
+   "id": "d530829bc7",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Alger’s Crawford: There’s Skittishness in the Market",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/alger-s-crawford-there-s-skittishness-in-the-market-video",
+   "ts": 1792447565,
+   "summary": "Ankur Crawford, a Portfolio Manager at Alger and Former Intel Engineer, said recent market nervousness around AI— including concerns tied to CoreWeave—does not reflect the strength of underlying adoption and infrastructure demand. She described a striking gap between stock performance and on-the-ground fundamentals, while noting that returns from AI investment will take time and that debt, supply-",
+   "img": null
+  },
+  {
+   "id": "e7197787aa",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Big Take: CoreWeave And The Fragile AI Economy",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-take-coreweave-and-the-fragile-ai-economy",
+   "ts": 1792447252,
+   "summary": "CoreWeave’s debt is rattling some investors. Today on the Big Take podcast, what the company’s financial strain reveals about the AI boom and what lies ahead for cloud infrastructure providers. (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "8113e33111",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Big Tech Earnings Could Validate AI, Ives Says",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/big-tech-earnings-could-validate-ai-ives-says-video",
+   "ts": 1792446505,
+   "summary": "Dan Ives, partner and senior managing director at Yorkville, Ives, and Company, says the upcoming earnings from major technology companies will be an important test of confidence in AI. He also talks about giving investors a chance to invest in private ai companies. (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "50c115309d",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "The fossil fuel comeback is here",
+   "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+   "ts": 1792446481,
+   "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despite those growing demands, the […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25824781/STK438_CLIMATE_CHANGE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "b862485a23",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Tenstorrent CEO on New Funding Round, AI Progress",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-19/tenstorrent-ceo-on-new-funding-round-ai-progress-video",
+   "ts": 1792446250,
+   "summary": "Tenstorrent CEO Jim Keller discussed the chip startup’s $1.5 billion funding round, which values the company at about $6.2 billion. He said the company is focused on scaling its Galaxy server program and developing AI intellectual property, rather than pursuing a sale. He speaks with Romaine Bostick & Bailey Lipschultz on \"The Close.\" (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "073765c16b",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "CoreWeave’s debt is becoming the whole AI industry’s problem",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+   "ts": 1792445300,
+   "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the AI buildout was a private credit bubble. […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/Vrg_Illo_AI_Bubble.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "d4a13df342",
+   "src": "Convergência Digital",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Teles têm até 15 dias para bloquear chamadas abusivas a partir do dia 12 de novembro",
+   "link": "https://convergenciadigital.com.br/telecom/teles-tem-ate-15-dias-para-bloquear-chamadas-abusivas-a-partir-do-dia-12-de-novembro/",
+   "ts": 1792445273,
+   "summary": "Para a Anatel, ocorre uso abusivo de chamadas quando o usuário, no mesmo dia, ultrapassa 1 mil ligações por acesso ou 10 mil chamadas distribuídas por diversos números. Além disso, também é considerado uso abusivo quando as ligações curtas (não completadas, destinadas à caixa postal ou com duração de até seis segundos) representem pelo menos 85% do total de chamadas.",
+   "img": null,
+   "title_en": "Telecoms Have 15 Days to Block Abusive Calls Starting November 12",
+   "excerpt_en": "Anatel defines abusive use as 1,000 calls per day or 10,000 distributed across numbers."
+  },
+  {
+   "id": "993c84ccc3",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "OpenAI employee accused of bugging had links to Saudi royals, prosecutors claim",
+   "link": "https://www.ft.com/content/9e10eaa4-ed5e-417b-85c5-b5003b064017?syn-25a6b1a6=1",
+   "ts": 1792445254,
+   "summary": "US judge rules Abdulrahman Alfozan should not be released on bail after US government argued he had ‘considerable support from a foreign government’",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F418581fb-efdc-4d80-a2fe-0aa3c4b779e4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "d07b2e38d5",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say",
+   "link": "https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html",
+   "ts": 1792444662,
+   "summary": "Saudi officials paid for his wife and son to fly out of the U.S. and offered to cover his bail, according to court filings. A judge ordered the engineer to remain in custody.",
+   "img": "https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "8e44dd8497",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
+   "link": "https://www.lightreading.com/regulatory-politics/tp-link-taps-key-tronic-to-bring-broadband-router-assembly-to-the-us",
+   "ts": 1792441800,
+   "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfed87d649f39eae5/6ad6652767600f4e9e9ea2c3/TP-Link_building_in_France.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "71a28de11a",
    "src": "Ars Technica",
    "lang": "EN",
    "sec": "tech",
-   "title": "Startup taps underwater volcano as energy source in \"proof point\" test",
-   "link": "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
-   "ts": 1792438044,
-   "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg"
+   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+   "ts": 1792441313,
+   "summary": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2214263510-1024x648.jpg"
   },
   {
-   "id": "ba4c6fde36",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-19/nscale-anthropic-in-talks-for-45-billion-cloud-computing-deal",
-   "ts": 1792437846,
-   "summary": "Nscale Ltd., the AI cloud computing firm, is in talks to sell computing power to Anthropic PBC in a deal that could be worth about $45 billion, according to people familiar with the negotiations.",
-   "img": null
-  },
-  {
-   "id": "7a5078efea",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Algar reduz em 60% tempo de configurações técnicas com automação",
-   "link": "https://telesintese.com.br/algar-reduz-em-60-tempo-de-configuracoes-tecnicas-com-automacao/",
-   "ts": 1792437763,
-   "summary": "Empresa integra três ferramentas de IA ao atendimento e à manutenção de redes; solução para técnicos gera economia mensal de R$ 63 mil O post Algar reduz em 60% tempo de configurações técnicas com automação apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-15.54.17.jpeg",
-   "title_en": "Algar reduces technical configuration time by 60% with automation",
-   "excerpt_en": "Company integrates three AI tools into network service and maintenance, generating R$63 thousand in monthly savings."
-  },
-  {
-   "id": "2a1f22b88c",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "AI Firm Nscale Faces Investor Pushback Over IPO Valuation",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/ai-firm-nscale-faces-investor-pushback-on-ipo-valuation-video",
-   "ts": 1792437719,
-   "summary": "Bloomberg's Brody Ford said that issues facing the IPO of AI firm Nscale are 'endemic' to the larger AI data center industry as developers try to source power and labor and contend with potential delays. Bloomberg's Bailey Lipschultz said that the tone has shifted for AI IPOs as more companies slow down on going public before the end of the year. (Source: Bloomberg)",
-   "img": null
-  },
-  {
-   "id": "e37065d0e7",
+   "id": "aaaf393dcb",
    "src": "TechCrunch",
    "lang": "EN",
    "sec": "tech",
-   "title": "Tolan snags $30M for its AI companion that helps users navigate life",
-   "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
-   "ts": 1792436412,
-   "summary": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
+   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+   "ts": 1792440564,
+   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
    "img": null
-  },
-  {
-   "id": "284ebef2b5",
-   "src": "DPL News",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Ericsson prevê redes móveis adaptadas à IA autônoma e à segurança pós-quântica",
-   "link": "https://dplnews.com/ericsson-redes-ia-autonoma-seguranca-pos-quantica/",
-   "ts": 1792436138,
-   "summary": "De acordo com Ericsson, baixa latência, automação de rede e eficiência energética serão prioridades para a infraestrutura de telecomunicações na próxima década.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/Gemini_Generated_Image_brpoi4brpoi4brpo-scaled.jpeg",
-   "title_en": "Ericsson predicts mobile networks adapted to autonomous AI and post-quantum security",
-   "excerpt_en": "Low latency, network automation and energy efficiency will be priorities for telecom infrastructure next decade."
-  },
-  {
-   "id": "71c2d7263c",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
-   "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
-   "ts": 1792435744,
-   "summary": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
-   "img": null
-  },
-  {
-   "id": "e228a7d743",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Ericsson anticipa cambios en las redes móviles por la IA autónoma y computación cuántica",
-   "link": "https://dplnews.com/ericsson-cambios-redes-ia-autonoma-computacion/",
-   "ts": 1792435180,
-   "summary": "La baja latencia, automatización de redes y eficiencia energética serán prioridades para la infraestructura de telecomunicaciones en la próxima década, según Ericsson.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/Gemini_Generated_Image_brpoi4brpoi4brpo-scaled.jpeg",
-   "title_en": "Ericsson anticipates changes in mobile networks from autonomous AI and quantum computing",
-   "excerpt_en": "Low latency, network automation and energy efficiency will be telecommunications priorities for next decade."
   },
   {
    "id": "36c2a79412",
@@ -149,85 +208,6 @@
    "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
    "ts": 1792435047,
    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-   "img": null
-  },
-  {
-   "id": "fbbcdbe57a",
-   "src": "MIT Technology Review",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Making the internet better for AI agents might make it worse for everyone else",
-   "link": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-   "ts": 1792434167,
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules…",
-   "img": null
-  },
-  {
-   "id": "8c549fab97",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Hamilton Lane: AI’s Biggest Returns Have Been Private",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video",
-   "ts": 1792433425,
-   "summary": "Hamilton Lane Executive Co-Chairman Erik Hirsch says much of the wealth created by the AI boom has so far accrued in the private markets, as companies stay private longer and tap increasingly deep pools of capital. With exposure to OpenAI and Anthropic through its venture and growth relationships, Hirsch discusses how investors can access private AI companies through funds, secondaries and co-inve",
-   "img": null
-  },
-  {
-   "id": "9ffffd9349",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Anthropic, Musk Offer Competing Visions for Sharing AI Wealth",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video",
-   "ts": 1792433269,
-   "summary": "Anthropic plans to dedicate 5% of its shares to a public benefit fund, offering its own approach to sharing the potential wealth created by AI as concerns grow about AI-driven labor disruption. Bloomberg’s Mike Shepard discusses how the plan differs from proposals for a government-run fund - and from Elon Musk’s pledge to give every child in America a share of SpaceX - as technology leaders confro",
-   "img": null
-  },
-  {
-   "id": "ebe42a2b25",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "AI assistant startup Town nabs unicorn valuation four months after launch",
-   "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-   "ts": 1792432839,
-   "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-   "img": null
-  },
-  {
-   "id": "cca69b6d42",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nscale’s $30B IPO Ambition Meets Investor Pushback",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-tech-10-19-2026-video",
-   "ts": 1792432747,
-   "summary": "Bloomberg’s Ed Ludlow looks at why Nscale is facing pushback to its $30 billion IPO valuation target, with some investors suggesting $16 to $19 billion instead. Plus, Anthropic plans to put 5% of its shares into a new public benefit fund to address \"the public good,\" and a former OpenAI software engineer charged with placing a recording device in one of the company's offices is set to appear in co",
-   "img": null
-  },
-  {
-   "id": "44497ffc4e",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Telefónica, DT, Orange y Vodafone analizan pujar juntos por espectro D2D en Europa",
-   "link": "https://dplnews.com/telefonica-dt-orange-vodafone-espectro-d2d-europa/",
-   "ts": 1792432174,
-   "summary": "Los cuatro operadores buscan ganar terreno en el mercado, frente a las constelaciones satelitales que avanzan en D2D.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/07/im-genes-ndp-satelites2ghz.png",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone analyze joint bid for D2D spectrum in Europe",
-   "excerpt_en": "Four operators seeking to gain market ground against satellite constellations advancing in direct-to-device services."
-  },
-  {
-   "id": "8a39c26eef",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Germany's Merz Says Russia's Push to Destabilize Europe Is Underestimated",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/merz-russia-s-push-to-destabilize-europe-underestimated-video",
-   "ts": 1792431027,
-   "summary": "German Chancellor Friedrich Merz warned against complacency over the dangers posed by Russia, saying that President Vladimir Putin is seeking to not only defeat Ukraine, but to also undermine democracy in Europe and further integration. “My biggest concern is the underestimated Russian impact on our societies,” Merz said Monday in an exclusive interview with Bloomberg's Francine Lacqua. “Russia is",
    "img": null
   },
   {
@@ -253,19 +233,6 @@
    "img": null
   },
   {
-   "id": "360aa025f3",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Vivo Ventures investe na Inner AI para ampliar acesso de PMEs à IA",
-   "link": "https://telesintese.com.br/vivo-ventures-investe-na-inner-ai-para-ampliar-acesso-de-pmes-a-ia/",
-   "ts": 1792427567,
-   "summary": "Aporte na Inner AI prevê exploração de negócios em conjunto; inclusão da plataforma de agentes no portfólio da Vivo está em análise. O post Vivo Ventures investe na Inner AI para ampliar acesso de PMEs à IA apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/10/Vivo-1024x656.jpg",
-   "title_en": "Vivo Ventures invests in Inner AI to expand SME access to AI",
-   "excerpt_en": "Investment in Inner AI includes joint business exploration; platform inclusion in Vivo portfolio is under analysis."
-  },
-  {
    "id": "5d5c71a73c",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -288,39 +255,17 @@
    "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1971181876.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "dcf0e205ec",
-   "src": "Utility Dive",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "What Google’s virtual power plant in PJM says about the race for electricity",
-   "link": "https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/",
-   "ts": 1792426588,
-   "summary": "Voltus CEO Dana Guernsey compared new “bring your own new capacity” contracts to the power purchase agreements that “revolutionized” utility-scale solar and wind development.",
-   "img": "https://imgproxy.divecdn.com/je2zuSEkYs-JqPA2PdScvEkXgiEdNysBoZoCmyjmZIM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ob21lX0RFUl9tYW5hZ2VtZW50X2FwcC5qcGc=.webp"
-  },
-  {
-   "id": "5fec0844ab",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Power alone won't unlock the next generation of AI data centers",
-   "link": "https://www.datacenterdynamics.com/en/opinions/power-alone-wont-unlock-the-next-generation-of-ai-data-centers/",
-   "ts": 1792425802,
-   "summary": "Energy flexibility must be weighed as a critical consideration",
-   "img": "https://media.datacenterdynamics.com/media/images/Paul-Sheffield-1-1920x1200.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "78cf2188e4",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El principal inquilino de Merlin, la tecnológica CoreWeave, entra en riesgo de impago",
-   "link": "https://cincodias.elpais.com/companias/2026-10-19/el-principal-inquilino-de-merlin-la-tecnologica-coreweave-entra-en-riesgo-de-impago.html",
-   "ts": 1792425655,
-   "summary": "La socimi del Ibex 35 explicó el domingo por la noche a los analistas los detalles de su exposición a la estadounidense, en el ojo del huracán por la IA. Cerca del 90% de las rentas de la inmobiliaria en centros de datos proceden de esta multinacional",
-   "img": "https://imagenes.elpais.com/resizer/v2/FSECU56OMVEHLLUVXLMADQPHBU.png?auth=a44b0ec12d289e113bc0e852c7574ad45740f45a8e1104e71561160d89e998a7",
-   "title_en": "Merlin's main tenant CoreWeave faces payment default risk",
-   "excerpt_en": "REIT explained exposure to US tech company; approximately 90% of real estate data center rents at risk."
+   "id": "8a14072db9",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Operadoras europeias estudam oferta conjunta por espectro de satélite",
+   "link": "https://telesintese.com.br/operadoras-europeias-estudam-oferta-conjunta-por-espectro-de-satelite/",
+   "ts": 1792426196,
+   "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
+   "title_en": "European Operators Study Joint Offering for Satellite Spectrum",
+   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open-access model for D2D with undefined satellite partner."
   },
   {
    "id": "d3f5374110",
@@ -345,15 +290,15 @@
    "img": "https://media.datacenterdynamics.com/media/images/everwind_fuels.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "d88320583f",
-   "src": "TechCrunch",
+   "id": "ecc27986c5",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-   "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-   "ts": 1792424229,
-   "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-   "img": null
+   "sec": "dc",
+   "title": "Google explores data center site in Roanoke County, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/google-explores-data-center-site-in-roanoke-county-virginia/",
+   "ts": 1792424428,
+   "summary": "Evaluates the Wood Haven Technology Park as a site for project",
+   "img": "https://media.datacenterdynamics.com/media/images/Wood_Haven_Technology_Park.2e16d0ba.fill-750x500.png"
   },
   {
    "id": "f4e0baa7b2",
@@ -367,17 +312,85 @@
    "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1365125712.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "46755333d1",
-   "src": "Pipeline Valor",
+   "id": "df653d82d7",
+   "src": "Data Center Knowledge",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
+   "link": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
+   "ts": 1792422590,
+   "summary": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blteaa81fac011f2792/6ad63476af0652e6e94fb9b8/nscale.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "5ba1a2b136",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Arelion sees growing momentum in Baltic expansion",
+   "link": "https://www.lightreading.com/broadband/arelion-sees-growing-momentum-in-baltic-expansion",
+   "ts": 1792422379,
+   "summary": "With multiterabit capacity now live and additional deployments underway, Arelion's Baltic investment is entering a new phase of sustained growth. #pressrelease",
+   "img": null
+  },
+  {
+   "id": "12f1e0e420",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink",
+   "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
+   "ts": 1792419882,
+   "summary": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "4290dff0e3",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Australia passes outdoor mobile coverage mandate",
+   "link": "https://www.lightreading.com/regulatory-politics/australia-passes-outdoor-mobile-coverage-mandate",
+   "ts": 1792419541,
+   "summary": "The recently passed UOMO bill requires Australia's major telecom operators to provide baseline voice and text services across the entire country.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt4cdde68d18d8531d/651ab69e47e8fd2e3e9486d5/australia_map_16x9.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "0212904caa",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
+   "link": "https://www.utilitydive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833341/",
+   "ts": 1792418088,
+   "summary": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
+   "img": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp"
+  },
+  {
+   "id": "4910d2a8f3",
+   "src": "Mobile Time",
    "lang": "PT",
    "sec": "brazil",
-   "title": "Alice levanta US$ 40 milhões em série D com braço do Banco Mundial",
-   "link": "https://pipelinevalor.globo.com/startups/noticia/alice-levanta-us-40-milhoes-em-serie-d-com-braco-do-banco-mundial.ghtml",
-   "ts": 1792419977,
-   "summary": "A healthtech Alice levantou uma série D de US$ 40 milhões liderada pelo IFC, o braço de investimentos privados do Banco Mundial, e agora mira duplicar a receita para R$ 2 bilhões em 2027. O cheque foi acompanhado pelo DEG e pelo FinnFund, braços de instituições de desenvolvimento de Alemanha e Finlândia. Kaszek, ThornTree Capital, Next Billion Ventures e Canary, que já eram investidores na empresa",
-   "img": "https://s2-pipelinevalor.glbimg.com/-J0T-tKqw2Fi6SU_FxBAONA0ECA=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/H/d/fKNoiqRrAidJ4UgQpNew/alice-andre-florence.jpeg",
-   "title_en": "Alice raises $40 million Series D with World Bank investment arm",
-   "excerpt_en": "Healthtech Alice raised Series D led by IFC targeting to double revenue to R$2 billion by 2027."
+   "title": "Telesat aposta em satélites de baixa órbita para backhaul celular",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/telesat-backhaul-leo/",
+   "ts": 1792412091,
+   "summary": "Constelação de 225 satélites LEO começará a ser lançada em meados de 2027 e entrará em serviço em 2028",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat1RDZ-300x169.jpg",
+   "title_en": "Telesat Bets on Low-Orbit Satellites for Cellular Backhaul",
+   "excerpt_en": "Constellation of 225 LEO satellites to launch mid-2027, entering service in 2028."
+  },
+  {
+   "id": "61cb4526db",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "EEUU amenaza a Europa con represalias \"devastadoras\" si se limita el espectro a Starlink",
+   "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5d718e5fdeaeb528b4586.html",
+   "ts": 1792403772,
+   "summary": "Leer",
+   "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
+   "title_en": "US Threatens Europe With Devastating Retaliation if Spectrum Limits Imposed on Starlink",
+   "excerpt_en": ""
   },
   {
    "id": "a51c2b8b3e",
@@ -389,8 +402,8 @@
    "ts": 1792402960,
    "summary": "Los cuatro mayores operadores europeos firman una carta de intenciones con el fin de pujar por espectro en la UE para dar servicios móviles por satélite frente a la expansión de Starlink",
    "img": "https://imagenes.elpais.com/resizer/v2/EYKPENAMRRE45A77OIW6RXY6WM.png?auth=30e8dde6f2738cbad28b8be73c9d540e73682bb1ba7003fedb7b21121144e50d",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone ally to face Elon Musk",
-   "excerpt_en": "Four largest European operators sign letter of intent to bid for EU spectrum for satellite mobile services against Starlink."
+   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone Form Alliance Against Elon Musk",
+   "excerpt_en": "Four major European operators sign letter of intent to bid for EU spectrum for satellite mobile services."
   },
   {
    "id": "2488bd63f2",
@@ -402,8 +415,8 @@
    "ts": 1792400701,
    "summary": "Las cuatro principales operadoras europeas de telecos han firmado una carta de intenciones para competir por las frecuencias satelitales que va a poner Europa en el mercado para hacer frente a Starlink. Leer",
    "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924002563268.jpg",
-   "title_en": "Telefónica signs alliance with Orange, Vodafone and Telekom to compete with Starlink on satellites",
-   "excerpt_en": "Four major European telecom operators signed letter of intent to compete for satellite frequencies against Starlink."
+   "title_en": "Telefónica Signs Alliance With Orange, Vodafone and Telekom to Compete With Starlink in Satellites",
+   "excerpt_en": "Four main European telecoms signed letter of intent competing for satellite frequencies Europe will market."
   },
   {
    "id": "d1515fd161",
