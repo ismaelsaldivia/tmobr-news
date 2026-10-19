@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TMOBR News · Business &amp; Technology</title>
+<meta name="description" content="Curated business, telecom, data center and technology headlines from English, Portuguese and Spanish sources. Every story links to its original publisher.">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 64 64%22%3E%3Crect width=%2264%22 height=%2264%22 fill=%22%23102243%22/%3E%3Ctext x=%2232%22 y=%2244%22 font-family=%22Georgia%22 font-size=%2234%22 font-weight=%22700%22 text-anchor=%22middle%22 fill=%22%23E9CF84%22%3ET%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=Inter:wght@500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#E8CEB6; --paper-2:#DCC1A9; --paper-3:#F1DECB;
+  --navy:#102243; --navy-2:#182F54;
+  --gold:#C9A24E; --gold-lt:#E9CF84; --bronze:#8A6A35;
+  --ink:#1A1817; --ink-2:#4A403A; --muted:#7A6A5E;
+  --claret:#9B2C1F; --teal:#2F5D62; --rule:#1A1817;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:"Source Serif 4",Georgia,serif;font-size:16px;line-height:1.45}
+a{color:inherit;text-decoration:none}
+a:hover h3,h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.mock{background:var(--claret);color:#fff;font:600 11px/1 Inter,sans-serif;letter-spacing:.08em;text-transform:uppercase;text-align:center;padding:7px 10px}
+
+/* masthead */
+.mast{margin-top:18px;background:radial-gradient(ellipse at 50% 40%,#22406f 0%,var(--navy-2) 35%,var(--navy) 75%);border-top:3px solid var(--gold);border-bottom:3px solid var(--gold);color:#fff;position:relative;overflow:hidden}
+.mast svg.stars{position:absolute;inset:0;width:100%;height:100%;opacity:.35}
+.mast .in{position:relative;display:grid;grid-template-columns:1fr auto 1fr;align-items:center;padding:26px 22px}
+.mast .l,.mast .r{font:600 11px/1.5 Inter,sans-serif;letter-spacing:.06em}
+.mast .l b,.mast .r b{display:block;color:var(--gold-lt);letter-spacing:.1em}
+.mast .r{text-align:right}
+.word{text-align:center}
+.word .t{font-family:Cinzel,serif;font-weight:700;font-size:64px;line-height:1;letter-spacing:.06em;background:linear-gradient(180deg,#F6E3A6 0%,#E3C06A 45%,#B98A35 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.word .s{margin-top:8px;font:600 12px/1 Inter,sans-serif;letter-spacing:.42em;color:var(--gold-lt)}
+.strap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;font:500 12px/1.4 Inter,sans-serif;color:var(--ink-2);padding:7px 0;border-bottom:2px solid var(--gold)}
+.strap b{color:var(--ink)}
+nav.sec{display:flex;gap:22px;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid var(--rule)}
+nav.sec a{font:700 11px/1 Inter,sans-serif;letter-spacing:.09em;text-transform:uppercase;color:var(--bronze)}
+nav.sec a:hover{color:var(--ink)}
+
+/* layout */
+.top{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:32px;padding-top:22px}
+.leadgrid{display:grid;grid-template-columns:minmax(0,1.7fr) minmax(0,1fr);gap:24px;border-bottom:1px solid var(--rule);padding-bottom:22px}
+.leadgrid .sidecol{border-left:1px solid rgba(26,24,23,.25);padding-left:22px;display:flex;flex-direction:column;gap:16px}
+.rail{display:flex;flex-direction:column;gap:22px}
+.rail section{border-top:3px solid var(--ink);padding-top:10px}
+.rh{font:700 12px/1 Inter,sans-serif;letter-spacing:.09em;text-transform:uppercase;margin:0 0 12px}
+
+/* cards */
+.card{display:flex;flex-direction:column}
+.card .pic{position:relative;display:block;margin-bottom:10px;overflow:hidden;background:var(--paper-2)}
+.card .pic img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover;filter:saturate(.92) contrast(1.02)}
+.credit{position:absolute;right:6px;bottom:6px;font:500 10px/1 Inter,sans-serif;background:rgba(16,34,67,.78);color:#fff;padding:3px 5px}
+.meta{display:flex;align-items:center;gap:8px;font:600 11px/1 Inter,sans-serif;letter-spacing:.04em;text-transform:uppercase;margin-bottom:6px}
+.src{color:var(--claret)}
+.ago{color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0}
+.lang{display:inline-block;font:700 10px/1 Inter,sans-serif;letter-spacing:.06em;padding:3px 5px;border:1px solid var(--teal);color:var(--teal)}
+.lang.sm{padding:2px 4px;font-size:9px}
+.card h3{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:19px;line-height:1.2;margin:0 0 6px;font-variation-settings:"opsz" 36}
+.card.lead h3{font-weight:800;font-size:40px;line-height:1.08;letter-spacing:-.01em;font-variation-settings:"opsz" 120}
+.card.side h3{font-size:20px}
+.dek{margin:2px 0 6px;color:var(--ink-2);font-size:16px}
+.card.lead .dek{font-size:18px}
+.trnote{font:italic 400 12.5px/1.35 "Source Serif 4",serif;color:var(--muted);margin-bottom:4px}
+.readat{font:600 11.5px/1 Inter,sans-serif;color:var(--navy-2);margin-top:2px}
+.readat:hover{text-decoration:underline}
+
+.section{padding:22px 0 8px;border-bottom:1px solid var(--rule)}
+.section h2{font:700 13px/1 Inter,sans-serif;letter-spacing:.1em;text-transform:uppercase;margin:0 0 16px;display:flex;align-items:center;gap:10px}
+.section h2::before{content:"";width:10px;height:10px;background:var(--claret)}
+.section h2 small{font-weight:500;letter-spacing:.02em;text-transform:none;color:var(--muted)}
+.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:22px 28px}
+.grid3 .card{border-top:1px solid rgba(26,24,23,.25);padding-top:12px}
+
+
+/* markets */
+.mkts{background:linear-gradient(180deg,#0B1428 0%,#070D1B 100%);border-top:3px solid var(--gold) !important;padding:12px 12px 6px;color:#E6EBF5}
+.mkts .rh{display:flex;justify-content:space-between;align-items:baseline;color:var(--gold-lt)}
+.mkts .rh small{font-weight:500;letter-spacing:0;text-transform:none;color:#8C9AB5}
+.mkts .live{display:inline-block;width:7px;height:7px;border-radius:50%;background:#22C55E;margin-right:6px;box-shadow:0 0 0 3px rgba(34,197,94,.18)}
+.mkts .tvbox{min-height:200px}
+.tradingview-widget-copyright{font:500 10.5px/1.4 Inter,sans-serif;padding:6px 2px 4px;color:#8C9AB5}
+.tradingview-widget-copyright a{color:#8C9AB5}
+
+/* weather */
+.wx-now{display:flex;gap:14px;align-items:center}
+.wx-t{font:800 56px/1 Fraunces,serif;color:var(--navy);font-variation-settings:"opsz" 144}
+.wx-d{font:500 13px/1.45 Inter,sans-serif;color:var(--ink-2)}
+.wx-days{display:grid;grid-template-columns:repeat(5,1fr);gap:4px;margin-top:12px}
+.wx-day{background:var(--paper-2);text-align:center;padding:8px 2px 7px;font:600 11px/1.3 Inter,sans-serif}
+.wx-day svg{width:26px;height:26px;display:block;margin:4px auto}
+.wx-bar{height:3px;background:rgba(26,24,23,.12);margin:5px 8px 0}
+.wx-bar i{display:block;height:100%;background:var(--navy-2)}
+.wx-note{font:500 11px/1.4 Inter,sans-serif;color:var(--muted);margin-top:8px}
+
+/* chart of the day */
+.cod{background:var(--navy);color:#fff;padding:16px 16px 14px;border-top:3px solid var(--gold) !important}
+.cod .rh{color:var(--gold-lt)}
+.cod h4{font:800 22px/1.15 Fraunces,serif;margin:0 0 12px}
+.segs{display:grid;grid-template-columns:repeat(3,1fr);gap:6px}
+.segs div{height:58px;border:1.5px solid var(--gold);display:flex;align-items:flex-end;justify-content:center;padding-bottom:6px;font:600 10px/1 Inter,sans-serif;color:var(--gold-lt);letter-spacing:.05em}
+.segs div.on{background:linear-gradient(180deg,#E9CF84,#C9A24E);color:var(--navy)}
+.cod .cap{font:500 12px/1.4 Inter,sans-serif;color:#C8D2E3;margin:8px 0 14px}
+.bar2{margin:6px 0 2px;font:600 11px/1.3 Inter,sans-serif}
+.bar2 .track{height:14px;background:rgba(255,255,255,.12);margin:4px 0 2px;position:relative}
+.bar2 .track i{position:absolute;left:0;top:0;bottom:0;background:var(--gold-lt)}
+.nums{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px;border-top:1px solid rgba(233,207,132,.35);padding-top:12px}
+.num b{display:block;font:800 26px/1 Fraunces,serif;color:var(--gold-lt)}
+.num span{font:500 11.5px/1.35 Inter,sans-serif;color:#DCE3EF}
+.cod .srcl{display:block;margin-top:12px;font:600 11px/1.4 Inter,sans-serif;color:var(--gold-lt)}
+.cod .srcl:hover{text-decoration:underline}
+
+/* wire */
+.wire{list-style:none;margin:0;padding:0}
+.wire li{display:grid;grid-template-columns:62px 1fr;gap:2px 8px;padding:8px 0;border-bottom:1px solid rgba(26,24,23,.18);font-size:14.5px;line-height:1.3}
+.wire .wt{font:600 11px/1.4 Inter,sans-serif;color:var(--claret);grid-row:span 2}
+.wire a:hover{text-decoration:underline}
+.wire .ws{font:500 11px/1.2 Inter,sans-serif;color:var(--muted)}
+
+/* footer */
+footer{padding:26px 0 40px}
+.srclist{font:500 12px/1.6 Inter,sans-serif;color:var(--ink-2);border-top:3px solid var(--ink);padding-top:10px}
+.srclist b{color:var(--ink)}
+.disc{margin-top:16px;font:400 10.5px/1.5 Inter,sans-serif;color:var(--muted);max-width:900px}
+.foot-brand{margin-top:14px;font:600 11px/1 Inter,sans-serif;letter-spacing:.08em;color:var(--bronze);text-transform:uppercase}
+
+@media (max-width:980px){
+  .top{grid-template-columns:1fr}
+  .grid3{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:680px){
+  .wrap{padding:0 16px}
+  .mast .in{grid-template-columns:1fr;gap:10px;text-align:center;padding:20px 12px}
+  .mast .r{text-align:center}
+  .word .t{font-size:40px}
+  .word .s{letter-spacing:.28em;font-size:10.5px}
+  .leadgrid{grid-template-columns:1fr}
+  .leadgrid .sidecol{border-left:0;padding-left:0;border-top:1px solid rgba(26,24,23,.25);padding-top:14px}
+  .card.lead h3{font-size:30px}
+  .grid3{grid-template-columns:1fr}
+  nav.sec{gap:14px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="mast">
+  <svg class="stars" viewBox="0 0 1180 170" preserveAspectRatio="none" aria-hidden="true">
+    <g stroke="#9fb6dd" stroke-width=".7" fill="none"><path d="M40 30 L120 70 L200 40 L260 110 L330 60"/><path d="M820 40 L900 90 L980 50 L1060 120 L1140 70"/><path d="M120 70 L150 140"/><path d="M980 50 L1010 15"/></g>
+    <g fill="#E9CF84"><circle cx="40" cy="30" r="2"/><circle cx="120" cy="70" r="2.4"/><circle cx="200" cy="40" r="1.8"/><circle cx="260" cy="110" r="2"/><circle cx="330" cy="60" r="1.6"/><circle cx="150" cy="140" r="1.6"/><circle cx="820" cy="40" r="1.8"/><circle cx="900" cy="90" r="2.4"/><circle cx="980" cy="50" r="2"/><circle cx="1060" cy="120" r="1.8"/><circle cx="1140" cy="70" r="2"/><circle cx="1010" cy="15" r="1.6"/></g>
+  </svg>
+  <div class="in">
+    <div class="l"><b>MONTEVIDEO</b>Monday, 19 October 2026</div>
+    <div class="word"><div class="t">TMOBR NEWS</div><div class="s">BUSINESS &amp; TECHNOLOGY</div></div>
+    <div class="r"><b>17:00 EDITION</b>Updated daily 07:00 &amp; 17:00 (UYT)</div>
+  </div>
+</header>
+<div class="strap"><span><b>Curated industry headlines.</b> Every story links to its original publisher.</span><span>10 sources · English · Português · Español</span></div>
+<nav class="sec"><a href="#business">Business &amp; Markets</a><a href="#telecom">Telecom</a><a href="#dc">Data Centers &amp; Energy</a><a href="#tech">Technology</a><a href="#brazil">Brazil</a><a href="#latam">Latin America &amp; Iberia</a></nav>
+
+<div class="top">
+  <main>
+    <div class="leadgrid">
+      <div><article class="card lead"><a href="https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1" target="_blank" rel="noopener" class="pic"><img src="https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F564bd1e6-670d-44a2-8c6a-28ee94578395.jpg?source=next-home-page&amp;dpr=2&amp;width=580&amp;fit=scale-down" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: Financial Times</span></a><div class="meta"><span class="src">Financial Times</span><span class="ago" data-ts="1792434714"></span></div><h3><a href="https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1" target="_blank" rel="noopener">French bond sell-off intensifies after riots and looting</a></h3><p class="dek">Authorities introduce curfews and admit police botched oversight of protests</p><a class="readat" href="https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1" target="_blank" rel="noopener">Read at Financial Times ↗</a></article></div>
+      <div class="sidecol"><article class="card side"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792435917"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/merz-warns-europe-it-s-underestimating-russian-threat-video" target="_blank" rel="noopener">Merz Warns Europe That It’s Underestimating the Russian Threat</a></h3><p class="dek">German Chancellor Friedrich Merz warned that Europe has &#x27;underestimated&#x27; the Russia&#x27;s impact on the continent, saying &#x27;Russia is on the way to destabilize the entire political order&#x27; of the region. Merz told…</p><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/merz-warns-europe-it-s-underestimating-russian-threat-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card side"><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792435649"></span></div><h3><a href="https://www.lightreading.com/video-broadcast/us-broadcaster-group-outs-major-progress-toward-affordable-atsc-3-0-converters" target="_blank" rel="noopener">US broadcaster group outs &#x27;major progress&#x27; toward affordable ATSC 3.0 converters</a></h3><p class="dek">Pearl TV, a group led by major US broadcasters, said it&#x27;s seeing progress toward affordable ATSC 3.0 converter boxes as the industry preps for the transition to the next-gen, IP-based broadcast signaling standard.…</p><a class="readat" href="https://www.lightreading.com/video-broadcast/us-broadcaster-group-outs-major-progress-toward-affordable-atsc-3-0-converters" target="_blank" rel="noopener">Read at Light Reading ↗</a></article><article class="card side"><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792435327"></span></div><h3><a href="https://www.lightreading.com/5g/straight-talk-adds-features-to-5g-unlimited-plans" target="_blank" rel="noopener">Straight Talk adds features to 5G unlimited plans</a></h3><p class="dek">Straight Talk, a Verizon-owned MVNO, said it is adding features across its Silver, Gold and Platinum unlimited plans, including more hotspot data, for no added cost. Those customers can bundle Straight Talk&#x27;s FWA…</p><a class="readat" href="https://www.lightreading.com/5g/straight-talk-adds-features-to-5g-unlimited-plans" target="_blank" rel="noopener">Read at Light Reading ↗</a></article></div>
+    </div>
+    <section class="section" id="business"><h2>Business &amp; Markets</h2><div class="grid3"><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792434652"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/t-rowe-s-crypto-etf-outpaces-s-p-video" target="_blank" rel="noopener">T.Rowe&#x27;s Crypto ETF Outpaces S&amp;P</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/t-rowe-s-crypto-etf-outpaces-s-p-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792433425"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video" target="_blank" rel="noopener">Hamilton Lane: AI’s Biggest Returns Have Been Private</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792433327"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/apple-already-developing-higher-end-homeview-video" target="_blank" rel="noopener">Apple Already Developing Higher-End HomeView</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/apple-already-developing-higher-end-homeview-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792433269"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video" target="_blank" rel="noopener">Anthropic, Musk Offer Competing Visions for Sharing AI Wealth</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792432747"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-tech-10-19-2026-video" target="_blank" rel="noopener">Nscale’s $30B IPO Ambition Meets Investor Pushback</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/bloomberg-tech-10-19-2026-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article><article class="card std"><div class="meta"><span class="src">Bloomberg</span><span class="ago" data-ts="1792431027"></span></div><h3><a href="https://www.bloomberg.com/news/videos/2026-10-19/merz-russia-s-push-to-destabilize-europe-underestimated-video" target="_blank" rel="noopener">Germany&#x27;s Merz Says Russia&#x27;s Push to Destabilize Europe Is Underestimated</a></h3><a class="readat" href="https://www.bloomberg.com/news/videos/2026-10-19/merz-russia-s-push-to-destabilize-europe-underestimated-video" target="_blank" rel="noopener">Read at Bloomberg ↗</a></article></div></section>
+    <section class="section" id="telecom"><h2>Telecom</h2><div class="grid3"><article class="card std"><a href="https://www.lightreading.com/satellite/europe-s-big-telcos-explore-joint-satellite-spectrum-bid-to-rival-starlink" target="_blank" rel="noopener" class="pic"><img src="https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1cda0451bb1dcbc4/651695db04fc4c6b40df14e4/M9MAJK.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: Light Reading</span></a><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792425255"></span></div><h3><a href="https://www.lightreading.com/satellite/europe-s-big-telcos-explore-joint-satellite-spectrum-bid-to-rival-starlink" target="_blank" rel="noopener">Europe&#x27;s big telcos explore joint satellite spectrum bid to rival Starlink</a></h3><a class="readat" href="https://www.lightreading.com/satellite/europe-s-big-telcos-explore-joint-satellite-spectrum-bid-to-rival-starlink" target="_blank" rel="noopener">Read at Light Reading ↗</a></article><article class="card std"><a href="https://www.lightreading.com/regulatory-politics/australia-passes-outdoor-mobile-coverage-mandate" target="_blank" rel="noopener" class="pic"><img src="https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt4cdde68d18d8531d/651ab69e47e8fd2e3e9486d5/australia_map_16x9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: Light Reading</span></a><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792419541"></span></div><h3><a href="https://www.lightreading.com/regulatory-politics/australia-passes-outdoor-mobile-coverage-mandate" target="_blank" rel="noopener">Australia passes outdoor mobile coverage mandate</a></h3><a class="readat" href="https://www.lightreading.com/regulatory-politics/australia-passes-outdoor-mobile-coverage-mandate" target="_blank" rel="noopener">Read at Light Reading ↗</a></article><article class="card std"><div class="meta"><span class="src">RCR Wireless</span><span class="ago" data-ts="1792428206"></span></div><h3><a href="https://rcrwireless.com/20261019/networks/wrc-27-direct-to-device-spectrum" target="_blank" rel="noopener">Regulators look to WRC-27 to settle direct-to-device spectrum rules</a></h3><a class="readat" href="https://rcrwireless.com/20261019/networks/wrc-27-direct-to-device-spectrum" target="_blank" rel="noopener">Read at RCR Wireless ↗</a></article><article class="card std"><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792422744"></span></div><h3><a href="https://www.lightreading.com/cable-technology/mediacom-hires-group-vp-of-strategic-insights-and-analytics" target="_blank" rel="noopener">Mediacom hires group VP of strategic insights and analytics</a></h3><a class="readat" href="https://www.lightreading.com/cable-technology/mediacom-hires-group-vp-of-strategic-insights-and-analytics" target="_blank" rel="noopener">Read at Light Reading ↗</a></article><article class="card std"><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792422379"></span></div><h3><a href="https://www.lightreading.com/broadband/arelion-sees-growing-momentum-in-baltic-expansion" target="_blank" rel="noopener">Arelion sees growing momentum in Baltic expansion</a></h3><a class="readat" href="https://www.lightreading.com/broadband/arelion-sees-growing-momentum-in-baltic-expansion" target="_blank" rel="noopener">Read at Light Reading ↗</a></article><article class="card std"><div class="meta"><span class="src">Light Reading</span><span class="ago" data-ts="1792420177"></span></div><h3><a href="https://www.lightreading.com/fttx/at-t-wnba-nba-launch-next-gen-basketball-network" target="_blank" rel="noopener">AT&amp;T, WNBA, NBA launch next-gen basketball network</a></h3><a class="readat" href="https://www.lightreading.com/fttx/at-t-wnba-nba-launch-next-gen-basketball-network" target="_blank" rel="noopener">Read at Light Reading ↗</a></article></div></section>
+    <section class="section" id="dc"><h2>Data Centers &amp; Energy</h2><div class="grid3"><article class="card std"><a href="https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/" target="_blank" rel="noopener" class="pic"><img src="https://media.datacenterdynamics.com/media/images/GettyImages-938838678.2e16d0ba.fill-750x500.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: DatacenterDynamics</span></a><div class="meta"><span class="src">DatacenterDynamics</span><span class="ago" data-ts="1792427552"></span></div><h3><a href="https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/" target="_blank" rel="noopener">Authorities in Lithuania foil arson plot against Starlink satellite gateway station</a></h3><a class="readat" href="https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/" target="_blank" rel="noopener">Read at DatacenterDynamics ↗</a></article><article class="card std"><a href="https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/" target="_blank" rel="noopener" class="pic"><img src="https://media.datacenterdynamics.com/media/images/download_3_bvBSOSz.2e16d0ba.fill-750x500.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: DatacenterDynamics</span></a><div class="meta"><span class="src">DatacenterDynamics</span><span class="ago" data-ts="1792427187"></span></div><h3><a href="https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/" target="_blank" rel="noopener">Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana</a></h3><a class="readat" href="https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/" target="_blank" rel="noopener">Read at DatacenterDynamics ↗</a></article><article class="card std"><div class="meta"><span class="src">DatacenterDynamics</span><span class="ago" data-ts="1792426910"></span></div><h3><a href="https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/" target="_blank" rel="noopener">Canada puts out Advanced Procurement Notice for data center in Ontario</a></h3><a class="readat" href="https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/" target="_blank" rel="noopener">Read at DatacenterDynamics ↗</a></article><article class="card std"><div class="meta"><span class="src">DatacenterDynamics</span><span class="ago" data-ts="1792426784"></span></div><h3><a href="https://www.datacenterdynamics.com/en/news/russian-official-proposes-data-centers-in-disused-coal-mines-to-protect-from-drone-strikes/" target="_blank" rel="noopener">Russian official proposes data centers in disused coal mines to protect from drone strikes</a></h3><a class="readat" href="https://www.datacenterdynamics.com/en/news/russian-official-proposes-data-centers-in-disused-coal-mines-to-protect-from-drone-strikes/" target="_blank" rel="noopener">Read at DatacenterDynamics ↗</a></article><article class="card std"><div class="meta"><span class="src">Utility Dive</span><span class="ago" data-ts="1792426588"></span></div><h3><a href="https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/" target="_blank" rel="noopener">What Google’s virtual power plant in PJM says about the race for electricity</a></h3><a class="readat" href="https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/" target="_blank" rel="noopener">Read at Utility Dive ↗</a></article><article class="card std"><div class="meta"><span class="src">DatacenterDynamics</span><span class="ago" data-ts="1792426209"></span></div><h3><a href="https://www.datacenterdynamics.com/en/news/400mw-data-center-eyed-at-old-navy-cyber-site-in-san-diego-california/" target="_blank" rel="noopener">400MW data center eyed at old Navy cyber site in San Diego, California</a></h3><a class="readat" href="https://www.datacenterdynamics.com/en/news/400mw-data-center-eyed-at-old-navy-cyber-site-in-san-diego-california/" target="_blank" rel="noopener">Read at DatacenterDynamics ↗</a></article></div></section>
+  </main>
+
+  <aside class="rail">
+    <section class="mkts" id="markets">
+      <div class="rh"><span><span class="live"></span>Tech &amp; AI markets</span><small>quotes may be delayed</small></div>
+      <div class="tvbox">
+        <div class="tradingview-widget-container">
+          <div class="tradingview-widget-container__widget"></div>
+          <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">Market data by TradingView</a></div>
+          <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
+          {"colorTheme":"dark","dateRange":"1D","showChart":true,"locale":"en","width":"100%","height":600,"isTransparent":true,"showSymbolLogo":false,"showFloatingTooltip":true,"plotLineColorGrowing":"rgba(34,197,94,1)","plotLineColorFalling":"rgba(239,68,68,1)","gridLineColor":"rgba(140,154,181,0.12)","scaleFontColor":"rgba(140,154,181,1)","belowLineFillColorGrowing":"rgba(34,197,94,0.14)","belowLineFillColorFalling":"rgba(239,68,68,0.14)","belowLineFillColorGrowingBottom":"rgba(34,197,94,0)","belowLineFillColorFallingBottom":"rgba(239,68,68,0)","symbolActiveColor":"rgba(201,162,78,0.18)","tabs":[{"title":"AI & Chips","symbols":[{"s":"NASDAQ:NVDA","d":"Nvidia"},{"s":"NASDAQ:AMD","d":"AMD"},{"s":"NASDAQ:AVGO","d":"Broadcom"},{"s":"NYSE:TSM","d":"TSMC"},{"s":"NASDAQ:ASML","d":"ASML"}],"originalTitle":"AI & Chips"},{"title":"Big Tech","symbols":[{"s":"NASDAQ:MSFT","d":"Microsoft"},{"s":"NASDAQ:GOOGL","d":"Alphabet"},{"s":"NASDAQ:AMZN","d":"Amazon"},{"s":"NASDAQ:META","d":"Meta"},{"s":"NASDAQ:AAPL","d":"Apple"},{"s":"NYSE:ORCL","d":"Oracle"}],"originalTitle":"Big Tech"},{"title":"AI Infra","symbols":[{"s":"NASDAQ:CRWV","d":"CoreWeave"},{"s":"NASDAQ:NBIS","d":"Nebius"},{"s":"NYSE:VRT","d":"Vertiv"},{"s":"NASDAQ:EQIX","d":"Equinix"}],"originalTitle":"AI Infra"},{"title":"Indices","symbols":[{"s":"NASDAQ:NDX","d":"Nasdaq 100"},{"s":"SP:SPX","d":"S&P 500"},{"s":"NASDAQ:SOX","d":"PHLX Semis"}],"originalTitle":"Indices"}]}
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <section id="weather">
+      <div class="rh" id="wx-city">Weather</div>
+      <div class="wx-now"><div class="wx-t" id="wx-t">–</div><div id="wx-ic"></div><div class="wx-d" id="wx-d"></div></div>
+      <div class="wx-days" id="wx-days"></div>
+      <div class="wx-note">Bar shows chance of rain. Location from your browser, if you allow it. Data: Open-Meteo.</div>
+    </section>
+
+
+
+    <section>
+      <div class="rh">Latest wire</div>
+      <ul class="wire"><li><span class="wt" data-ts="1792436412"></span><a href="https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/" target="_blank" rel="noopener">Tolan snags $30M for its AI companion that helps users navigate life</a><span class="ws">TechCrunch</span></li><li><span class="wt" data-ts="1792435961"></span><a href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank" rel="noopener">Sony’s best noise-canceling earbuds are nearly $100 off today only</a><span class="ws">The Verge</span></li><li><span class="wt" data-ts="1792435917"></span><a href="https://www.bloomberg.com/news/videos/2026-10-19/merz-warns-europe-it-s-underestimating-russian-threat-video" target="_blank" rel="noopener">Merz Warns Europe That It’s Underestimating the Russian Threat</a><span class="ws">Bloomberg</span></li><li><span class="wt" data-ts="1792435744"></span><a href="https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/" target="_blank" rel="noopener">Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</a><span class="ws">TechCrunch</span></li><li><span class="wt" data-ts="1792435649"></span><a href="https://www.lightreading.com/video-broadcast/us-broadcaster-group-outs-major-progress-toward-affordable-atsc-3-0-converters" target="_blank" rel="noopener">US broadcaster group outs &#x27;major progress&#x27; toward affordable ATSC 3.0 converters</a><span class="ws">Light Reading</span></li><li><span class="wt" data-ts="1792435496"></span><a href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" target="_blank" rel="noopener">Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</a><span class="ws">The New York Times</span></li><li><span class="wt" data-ts="1792435327"></span><a href="https://www.lightreading.com/5g/straight-talk-adds-features-to-5g-unlimited-plans" target="_blank" rel="noopener">Straight Talk adds features to 5G unlimited plans</a><span class="ws">Light Reading</span></li><li><span class="wt" data-ts="1792435047"></span><a href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/" target="_blank" rel="noopener">Tenstorrent hits $6.2B valuation to scale open-weight AI chips</a><span class="ws">TechCrunch</span></li><li><span class="wt" data-ts="1792434714"></span><a href="https://www.ft.com/content/cc7e577a-db7a-4e12-9a42-443696b98ec5?syn-25a6b1a6=1" target="_blank" rel="noopener">French bond sell-off intensifies after riots and looting</a><span class="ws">Financial Times</span></li><li><span class="wt" data-ts="1792434652"></span><a href="https://www.bloomberg.com/news/videos/2026-10-19/t-rowe-s-crypto-etf-outpaces-s-p-video" target="_blank" rel="noopener">T.Rowe&#x27;s Crypto ETF Outpaces S&amp;P</a><span class="ws">Bloomberg</span></li><li><span class="wt" data-ts="1792434167"></span><a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/" target="_blank" rel="noopener">Making the internet better for AI agents might make it worse for everyone else</a><span class="ws">MIT Technology Review</span></li><li><span class="wt" data-ts="1792433425"></span><a href="https://www.bloomberg.com/news/videos/2026-10-19/hamilton-lane-ai-s-biggest-returns-have-been-private-video" target="_blank" rel="noopener">Hamilton Lane: AI’s Biggest Returns Have Been Private</a><span class="ws">Bloomberg</span></li><li><span class="wt" data-ts="1792433327"></span><a href="https://www.bloomberg.com/news/videos/2026-10-19/apple-already-developing-higher-end-homeview-video" target="_blank" rel="noopener">Apple Already Developing Higher-End HomeView</a><span class="ws">Bloomberg</span></li><li><span class="wt" data-ts="1792433269"></span><a href="https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video" target="_blank" rel="noopener">Anthropic, Musk Offer Competing Visions for Sharing AI Wealth</a><span class="ws">Bloomberg</span></li><li><span class="wt" data-ts="1792432839"></span><a href="https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/" target="_blank" rel="noopener">AI assistant startup Town nabs unicorn valuation four months after launch</a><span class="ws">TechCrunch</span></li></ul>
+    </section>
+  </aside>
+</div>
+
+<div class="wrap" style="padding:0">
+  <section class="section" id="tech"><h2>Technology</h2><div class="grid3"><article class="card std"><a href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank" rel="noopener" class="pic"><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Sony-WF-1000XM6.png?quality=90&amp;#038;strip=all&amp;#038;crop=0,0,100,100" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: The Verge</span></a><div class="meta"><span class="src">The Verge</span><span class="ago" data-ts="1792435961"></span></div><h3><a href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank" rel="noopener">Sony’s best noise-canceling earbuds are nearly $100 off today only</a></h3><a class="readat" href="https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only" target="_blank" rel="noopener">Read at The Verge ↗</a></article><article class="card std"><a href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" target="_blank" rel="noopener" class="pic"><img src="https://static01.nyt.com/images/2026/10/19/multimedia/19biz-openai-suspect-jbhc/19biz-openai-suspect-jbhc-mediumSquareAt3X.jpg" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.parentNode.remove()"><span class="credit">Image: The New York Times</span></a><div class="meta"><span class="src">The New York Times</span><span class="ago" data-ts="1792435496"></span></div><h3><a href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" target="_blank" rel="noopener">Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</a></h3><a class="readat" href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" target="_blank" rel="noopener">Read at The New York Times ↗</a></article><article class="card std"><div class="meta"><span class="src">TechCrunch</span><span class="ago" data-ts="1792436412"></span></div><h3><a href="https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/" target="_blank" rel="noopener">Tolan snags $30M for its AI companion that helps users navigate life</a></h3><a class="readat" href="https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/" target="_blank" rel="noopener">Read at TechCrunch ↗</a></article><article class="card std"><div class="meta"><span class="src">TechCrunch</span><span class="ago" data-ts="1792435744"></span></div><h3><a href="https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/" target="_blank" rel="noopener">Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago</a></h3><a class="readat" href="https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/" target="_blank" rel="noopener">Read at TechCrunch ↗</a></article><article class="card std"><div class="meta"><span class="src">TechCrunch</span><span class="ago" data-ts="1792435047"></span></div><h3><a href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/" target="_blank" rel="noopener">Tenstorrent hits $6.2B valuation to scale open-weight AI chips</a></h3><a class="readat" href="https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/" target="_blank" rel="noopener">Read at TechCrunch ↗</a></article><article class="card std"><div class="meta"><span class="src">MIT Technology Review</span><span class="ago" data-ts="1792434167"></span></div><h3><a href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/" target="_blank" rel="noopener">Making the internet better for AI agents might make it worse for everyone else</a></h3><a class="readat" href="https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/" target="_blank" rel="noopener">Read at MIT Technology Review ↗</a></article></div></section>
+  <section class="section" id="brazil"><h2>Brazil <small>headlines translated from Portuguese</small></h2><div class="grid3"><p class="dek">No stories in this edition.</p></div></section>
+  <section class="section" id="latam"><h2>Latin America &amp; Iberia <small>headlines translated from Spanish</small></h2><div class="grid3"><p class="dek">No stories in this edition.</p></div></section>
+</div>
+
+<footer>
+  <div class="srclist"><b>Sources in this edition:</b> Bloomberg · DatacenterDynamics · Financial Times · Light Reading · MIT Technology Review · RCR Wireless · TechCrunch · The New York Times · The Verge · Utility Dive</div>
+  <p class="disc">TMOBR News is a non-profit, non-commercial aggregator of curated industry news. It shows only headlines, short excerpts and publisher-supplied thumbnails, and every item links to its original source. Headlines from Portuguese and Spanish sources are machine-translated into English for reference only; the original article prevails. All articles, images and trademarks belong to their respective publishers, which are solely responsible for their content. TMOBR News and its owner do not write, edit, endorse or verify third-party content and are not affiliated with the publishers listed. Publishers who prefer not to be included may write to contacto@tmobr.com and will be removed. Weather data by Open-Meteo.com (CC BY 4.0).</p>
+  <div class="foot-brand">TMOBR News · Business &amp; Technology · contacto@tmobr.com</div>
+</footer>
+</div>
+
+<script>
+(function(){
+  var TZ = {"America/Montevideo":["Montevideo",-34.90,-56.19],"America/Sao_Paulo":["São Paulo",-23.55,-46.63],"America/Argentina/Buenos_Aires":["Buenos Aires",-34.60,-58.38],"America/Asuncion":["Asunción",-25.26,-57.58],"America/Santiago":["Santiago",-33.45,-70.67],"America/Lima":["Lima",-12.05,-77.04],"America/Bogota":["Bogotá",4.71,-74.07],"America/Mexico_City":["Mexico City",19.43,-99.13],"America/New_York":["New York",40.71,-74.01],"America/Chicago":["Chicago",41.88,-87.63],"America/Denver":["Denver",39.74,-104.99],"America/Los_Angeles":["Los Angeles",34.05,-118.24],"Europe/London":["London",51.51,-0.13],"Europe/Madrid":["Madrid",40.42,-3.70],"Europe/Lisbon":["Lisbon",38.72,-9.14],"Europe/Paris":["Paris",48.86,2.35],"Europe/Berlin":["Berlin",52.52,13.40],"Asia/Dubai":["Dubai",25.20,55.27],"Asia/Singapore":["Singapore",1.35,103.82],"Asia/Tokyo":["Tokyo",35.68,139.69]};
+  function ic(c){
+    var sun='<circle cx="16" cy="16" r="6" fill="#C9A24E"/>', cloud='<path d="M9 22h14a5 5 0 0 0 0-10 7 7 0 0 0-13 2 4 4 0 0 0-1 8z" fill="#8E96A0" stroke="#4A5566" stroke-width="1"/>';
+    var rain='<g stroke="#182F54" stroke-width="1.6"><path d="M12 25l-1 3"/><path d="M17 25l-1 3"/><path d="M22 25l-1 3"/></g>';
+    var s;
+    if(c===0) s=sun; else if(c<=2) s='<g transform="translate(-4,-4)">'+sun+'</g>'+cloud; else if(c===3||c===45||c===48) s=cloud; else s=cloud+rain;
+    return '<svg viewBox="0 0 32 32" width="40" height="40">'+s+'</svg>';
+  }
+  function desc(c){return c===0?"Clear":c<=2?"Partly cloudy":c===3?"Overcast":(c===45||c===48)?"Fog":c<70?"Rain":c<80?"Snow":c<90?"Showers":"Storm";}
+  function render(d,city){
+    var c=d.current;
+    document.getElementById('wx-city').textContent=city+", now";
+    document.getElementById('wx-t').textContent=Math.round(c.temperature_2m)+"°";
+    document.getElementById('wx-ic').innerHTML=ic(c.weather_code);
+    document.getElementById('wx-d').innerHTML=desc(c.weather_code)+" · feels "+c.apparent_temperature.toFixed(1)+"°<br>High "+d.daily.temperature_2m_max[0].toFixed(1)+"° · low "+d.daily.temperature_2m_min[0].toFixed(1)+"° · rain "+d.daily.precipitation_probability_max[0]+"%<br>Wind "+Math.round(c.wind_speed_10m)+" km/h";
+    var h="",days=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+    for(var i=1;i<=5;i++){var dt=new Date(d.daily.time[i]+"T12:00:00");
+      h+='<div class="wx-day">'+days[dt.getDay()].toUpperCase()+ic(d.daily.weather_code[i]).replace('width="40" height="40"','')+Math.round(d.daily.temperature_2m_max[i])+"°/"+Math.round(d.daily.temperature_2m_min[i])+'°<div class="wx-bar"><i style="width:'+(d.daily.precipitation_probability_max[i]||0)+'%"></i></div></div>';}
+    document.getElementById('wx-days').innerHTML=h;
+  }
+  function load(lat,lon,city){
+    var u="https://api.open-meteo.com/v1/forecast?latitude="+lat+"&longitude="+lon+"&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max&timezone=auto&forecast_days=6";
+    fetch(u).then(function(r){return r.json()}).then(function(d){render(d,city)}).catch(function(){});
+  }
+  var tz="";try{tz=Intl.DateTimeFormat().resolvedOptions().timeZone}catch(e){}
+  var t=TZ[tz]||TZ["America/Montevideo"]; load(t[1],t[2],t[0]);
+  if(navigator.geolocation){try{navigator.geolocation.getCurrentPosition(function(p){load(p.coords.latitude.toFixed(2),p.coords.longitude.toFixed(2),"Your location")},function(){},{timeout:6000,maximumAge:3600000})}catch(e){}}
+})();
+(function(){
+  function rel(t){var m=Math.max(1,Math.round((Date.now()/1000-t)/60));if(m<60)return m+" min ago";var h=Math.round(m/60);if(h<48)return h+" h ago";return Math.round(h/24)+" d ago";}
+  var els=document.querySelectorAll("[data-ts]");for(var i=0;i<els.length;i++){els[i].textContent=rel(+els[i].getAttribute("data-ts"));}
+})();
+</script>
+</body>
+</html>
