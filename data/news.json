@@ -1,35 +1,30 @@
 {
- "updated_utc": "2026-10-19T19:43:42Z",
+ "updated_utc": "2026-10-19T19:45:51Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Amazon's Indiana nuclear deal capacity",
-  "value": "960MW",
+  "title": "Nscale and Anthropic Cloud Computing Deal Size",
+  "value": "$45 billion",
   "total": "",
-  "value_label": "Small modular reactor capacity",
+  "value_label": "Deal value",
   "total_label": "",
-  "id": "5d5c71a73c"
+  "id": "ba4c6fde36"
  },
  "numbers": [
   {
-   "value": "$45 billion",
-   "label": "Nscale-Anthropic computing deal value",
-   "id": "ba4c6fde36"
+   "value": "960MW",
+   "label": "Amazon nuclear power capacity in Indiana",
+   "id": "5d5c71a73c"
   },
   {
    "value": "$1.5 billion",
-   "label": "Tenstorrent funding raised",
+   "label": "Tenstorrent funding round",
    "id": "36c2a79412"
   },
   {
-   "value": "CA$1.5bn",
-   "label": "Canada Ontario data center cost low estimate",
-   "id": "83096992a4"
-  },
-  {
-   "value": "60%",
-   "label": "Algar reduced configuration time",
-   "id": "7a5078efea"
+   "value": "€48.4M",
+   "label": "EU Digital funding for PISCES cable",
+   "id": "d1515fd161"
   }
  ],
  "items": [
@@ -44,7 +39,7 @@
    "summary": "Nvidia ampliará sus alianzas con Mercedes-Benz y Volvo para desarrollar sistemas de conducción autónoma con Inteligencia Artificial y mayores estándares de seguridad.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/mercedes-benz-nvidia.jpeg",
    "title_en": "Nvidia collaborates with Mercedes-Benz and Volvo on safe autonomous driving",
-   "excerpt_en": "Nvidia expanding alliances with Mercedes-Benz and Volvo to develop autonomous driving systems with AI."
+   "excerpt_en": "Nvidia expands alliances with Mercedes-Benz and Volvo for AI autonomous systems with safety standards."
   },
   {
    "id": "039a84854f",
@@ -57,7 +52,7 @@
    "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at the malicious code.",
    "img": null,
    "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users' AI accounts",
-   "excerpt_en": "Hackers accessed OpenCode platform and stole some users' API keys, charging accounts."
+   "excerpt_en": "OpenCode platform breached; hackers stole user API keys and incurred charges on AI accounts."
   },
   {
    "id": "013592636b",
@@ -70,7 +65,7 @@
    "summary": "Can undersea geothermal power help Pacific Rim nations cut down on oil imports?",
    "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Endurance-Energy-rockhopper-drill-1152x648.jpeg",
    "title_en": "Startup taps underwater volcano as energy source in proof point test",
-   "excerpt_en": "Undersea geothermal power could help Pacific Rim nations reduce oil imports."
+   "excerpt_en": "Undersea geothermal power tested to help Pacific Rim nations reduce oil imports."
   },
   {
    "id": "ba4c6fde36",
@@ -83,7 +78,7 @@
    "summary": "Nscale Ltd., the AI cloud computing firm, is in talks to sell computing power to Anthropic PBC in a deal that could be worth about $45 billion, according to people familiar with the negotiations.",
    "img": null,
    "title_en": "Nscale, Anthropic in Talks for $45 Billion Cloud Computing Deal",
-   "excerpt_en": "AI cloud computing firm Nscale in talks to sell computing power to Anthropic in deal worth about $45 billion."
+   "excerpt_en": "AI cloud computing firm Nscale negotiating $45 billion computing power deal with Anthropic."
   },
   {
    "id": "7a5078efea",
@@ -96,7 +91,7 @@
    "summary": "Empresa integra três ferramentas de IA ao atendimento e à manutenção de redes; solução para técnicos gera economia mensal de R$ 63 mil O post Algar reduz em 60% tempo de configurações técnicas com automação apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-19-at-15.54.17.jpeg",
    "title_en": "Algar reduces technical configuration time by 60% with automation",
-   "excerpt_en": "Company integrates three AI tools into network service and maintenance, generating monthly savings of R$63,000."
+   "excerpt_en": "Algar integrates three AI tools for network operations; monthly savings of R$ 63,000 achieved."
   },
   {
    "id": "2a1f22b88c",
@@ -109,7 +104,46 @@
    "summary": "Bloomberg's Brody Ford said that issues facing the IPO of AI firm Nscale are 'endemic' to the larger AI data center industry as developers try to source power and labor and contend with potential delays. Bloomberg's Bailey Lipschultz said that the tone has shifted for AI IPOs as more companies slow down on going public before the end of the year. (Source: Bloomberg)",
    "img": null,
    "title_en": "AI Firm Nscale Faces Investor Pushback Over IPO Valuation",
-   "excerpt_en": "Issues facing Nscale IPO are endemic to larger AI data center industry facing power and labor sourcing challenges."
+   "excerpt_en": "Nscale IPO valuation issues endemic to AI data center industry amid power and labor sourcing challenges."
+  },
+  {
+   "id": "6291de9bb1",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Portugal | Vodafone contestou junto do Governo decisão retirada total de fabricantes de alto risco da rede",
+   "link": "https://dplnews.com/portugal-vodafone-contestou-junto-do-governo-decisao-retirada-total-de-fabricantes-de-alto-risco-da-rede/",
+   "ts": 1792437573,
+   "summary": "Jornal de Negócios – A Vodafone Portugal contestou a retirada da Huawei em toda a sua rede de transporte WDM porque nem todos os componentes que a compõem têm o mesmo nível de risco, disse esta quinta-feira o presidente executivo (CEO), Luís Lopes. O gestor falava num encontro com jornalistas que decorreu na sede da empresa, […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/09/voda.jpg",
+   "title_en": "Vodafone contested removal of high-risk manufacturers from network",
+   "excerpt_en": "Vodafone Portugal contested Huawei removal from WDM transport network citing varied component risk levels."
+  },
+  {
+   "id": "58f4bcc5a4",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Brasil | STF adota rito abreviado em ação sobre exigências da Anatel a ISPs",
+   "link": "https://dplnews.com/brasil-stf-adota-rito-abreviado-em-acao-sobre-exigencias-da-anatel-a-isps/",
+   "ts": 1792437331,
+   "summary": "Teletime – O ministro André Mendonça, do Supremo Tribunal Federal (STF), aplicou o rito abreviado à Ação Direta de Inconstitucionalidade (ADI) 8020, processo por meio do qual provedores de banda larga questionam regras da Anatel sobre certificação de regularidade fiscal e trabalhista para empresas do setor. mais…",
+   "img": "https://dplnews.com/wp-content/uploads/2021/07/dplnews_stf_mc120721.jpg",
+   "title_en": "Supreme Federal Court adopts abbreviated procedure on ISP requirements",
+   "excerpt_en": "Minister André Mendonça applied abbreviated procedure to constitutional action challenging Anatel ISP rules."
+  },
+  {
+   "id": "8e5e25351c",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Brasil | Unifique suspende OPA após questionamento de minoritários",
+   "link": "https://dplnews.com/brasil-unifique-suspende-opa-apos-questionamento-de-minoritarios/",
+   "ts": 1792437232,
+   "summary": "Teletime – A Unifique comunicou ao mercado na noite desta sexta-feira, 16, a suspensão do processo de registro da oferta pública de aquisição de ações (OPA) anunciado pelo acionista controlador da operadora no início de outubro. A razão foram questionamentos de acionistas minoritários quanto ao preço das ações no processo de fechamento de capital. mais…",
+   "img": "https://dplnews.com/wp-content/uploads/2023/04/dplnews_unifique_mc18423.jpeg",
+   "title_en": "Unifique suspends OPA after minority shareholder questioning",
+   "excerpt_en": "Unifique suspended public acquisition offer registration after shareholder objections."
   },
   {
    "id": "965a79aec5",
@@ -121,8 +155,21 @@
    "ts": 1792436964,
    "summary": "Despacho entra em vigor em 12 de novembro e define suspensão de todos os números do titular, inclusive de matriz e filiais. O post Anatel regulamenta MP e detalha bloqueio por chamadas abusivas apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2026/10/Protecao-Contra-Chamadas-Suspeitas.jpg",
-   "title_en": "Anatel regulates MP and details blocking for abusive calls",
-   "excerpt_en": "Dispatch takes effect November 12 and defines suspension of all account numbers including matrix and branches."
+   "title_en": "Anatel regulates measure and details blocking for abusive calls",
+   "excerpt_en": "Dispatch effective November 12 defines suspension of all number holder lines including subsidiaries."
+  },
+  {
+   "id": "284ebef2b5",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Ericsson prevê redes móveis adaptadas à IA autônoma e à segurança pós-quântica",
+   "link": "https://dplnews.com/ericsson-redes-ia-autonoma-seguranca-pos-quantica/",
+   "ts": 1792436138,
+   "summary": "De acordo com Ericsson, baixa latência, automação de rede e eficiência energética serão prioridades para a infraestrutura de telecomunicações na próxima década.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/10/Gemini_Generated_Image_brpoi4brpoi4brpo-scaled.jpeg",
+   "title_en": "Ericsson predicts mobile networks adapted to autonomous AI and post-quantum security",
+   "excerpt_en": "Ericsson expects low latency, network automation and energy efficiency as telecom infrastructure priorities."
   },
   {
    "id": "e228a7d743",
@@ -135,7 +182,7 @@
    "summary": "La baja latencia, automatización de redes y eficiencia energética serán prioridades para la infraestructura de telecomunicaciones en la próxima década, según Ericsson.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/Gemini_Generated_Image_brpoi4brpoi4brpo-scaled.jpeg",
    "title_en": "Ericsson anticipates changes in mobile networks due to autonomous AI and quantum computing",
-   "excerpt_en": "Low latency, network automation and energy efficiency will be telecom infrastructure priorities next decade."
+   "excerpt_en": "Ericsson forecasts low latency, network automation and efficiency as next-decade telecom priorities."
   },
   {
    "id": "36c2a79412",
@@ -148,20 +195,7 @@
    "summary": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
    "img": null,
    "title_en": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-   "excerpt_en": "Nvidia challenger Tenstorrent raised $1.5 billion to remain independent after drawing acquisition interest earlier."
-  },
-  {
-   "id": "9ffffd9349",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Anthropic, Musk Offer Competing Visions for Sharing AI Wealth",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-19/anthropic-and-musk-on-ai-wealth-sharing-video",
-   "ts": 1792433269,
-   "summary": "Anthropic plans to dedicate 5% of its shares to a public benefit fund, offering its own approach to sharing the potential wealth created by AI as concerns grow about AI-driven labor disruption. Bloomberg’s Mike Shepard discusses how the plan differs from proposals for a government-run fund - and from Elon Musk’s pledge to give every child in America a share of SpaceX - as technology leaders confro",
-   "img": null,
-   "title_en": "Anthropic, Musk Offer Competing Visions for Sharing AI Wealth",
-   "excerpt_en": "Anthropic plans to dedicate 5% of shares to public benefit fund addressing AI-driven labor disruption concerns."
+   "excerpt_en": "Nvidia challenger Tenstorrent raised $1.5 billion at $6.2 billion valuation to remain independent."
   },
   {
    "id": "ebe42a2b25",
@@ -174,7 +208,7 @@
    "summary": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
    "img": null,
    "title_en": "AI assistant startup Town nabs unicorn valuation four months after launch",
-   "excerpt_en": "Town announced $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures."
+   "excerpt_en": "AI assistant Town announced $108 million Series B round reaching unicorn valuation."
   },
   {
    "id": "cca69b6d42",
@@ -187,7 +221,7 @@
    "summary": "Bloomberg’s Ed Ludlow looks at why Nscale is facing pushback to its $30 billion IPO valuation target, with some investors suggesting $16 to $19 billion instead. Plus, Anthropic plans to put 5% of its shares into a new public benefit fund to address \"the public good,\" and a former OpenAI software engineer charged with placing a recording device in one of the company's offices is set to appear in co",
    "img": null,
    "title_en": "Nscale's $30B IPO Ambition Meets Investor Pushback",
-   "excerpt_en": "Nscale faces pushback on $30 billion IPO valuation target, with some investors suggesting $16 to $19 billion instead."
+   "excerpt_en": "Nscale faces investor resistance to $30 billion IPO valuation; some suggest $16-19 billion instead."
   },
   {
    "id": "44497ffc4e",
@@ -199,8 +233,8 @@
    "ts": 1792432174,
    "summary": "Los cuatro operadores buscan ganar terreno en el mercado, frente a las constelaciones satelitales que avanzan en D2D.",
    "img": "https://dplnews.com/wp-content/uploads/2026/07/im-genes-ndp-satelites2ghz.png",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone analyze joint spectrum D2D bid in Europe",
-   "excerpt_en": "Four operators seek to gain ground in market against satellite constellations advancing in D2D."
+   "title_en": "Telefónica, DT, Orange and Vodafone analyze joint bid for D2D spectrum in Europe",
+   "excerpt_en": "Four European operators seek joint spectrum bid for satellite D2D to counter Starlink."
   },
   {
    "id": "9af7623112",
@@ -213,7 +247,7 @@
    "summary": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
    "img": null,
    "title_en": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-   "excerpt_en": "Amazon and X-energy inked deal to deploy nuclear power, generating nearly 1 gigawatt of electricity."
+   "excerpt_en": "Amazon and X-energy deploying nuclear power generating nearly 1 gigawatt of electricity."
   },
   {
    "id": "bc29c041ea",
@@ -226,7 +260,7 @@
    "summary": "Spain, U.K. and U.S. regulators map different roads to WRC-27 In sum – what we know: Direct-to-device connectivity has run ahead of the international rulebook. Reusing spectrum allocated solely for terrestrial…",
    "img": null,
    "title_en": "Regulators look to WRC-27 to settle direct-to-device spectrum rules",
-   "excerpt_en": "Spain, UK and US regulators map different roads to WRC-27 for direct-to-device connectivity."
+   "excerpt_en": "Spain, UK and US regulators map different roads to WRC-27 for D2D spectrum allocation."
   },
   {
    "id": "360aa025f3",
@@ -238,21 +272,8 @@
    "ts": 1792427567,
    "summary": "Aporte na Inner AI prevê exploração de negócios em conjunto; inclusão da plataforma de agentes no portfólio da Vivo está em análise. O post Vivo Ventures investe na Inner AI para ampliar acesso de PMEs à IA apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2026/10/Vivo-1024x656.jpg",
-   "title_en": "Vivo Ventures invests in Inner AI to expand SME access to AI",
-   "excerpt_en": "Investment in Inner AI aims to explore joint business and inclusion of agent platform in Vivo portfolio."
-  },
-  {
-   "id": "8d0c70b8c2",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Authorities in Lithuania foil arson plot against Starlink satellite gateway station",
-   "link": "https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/",
-   "ts": 1792427552,
-   "summary": "Comes after recent attacks against Starlink infrastructure in Poland and Bulgaria",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-938838678.2e16d0ba.fill-750x500.jpg",
-   "title_en": "Authorities in Lithuania foil arson plot against Starlink satellite gateway station",
-   "excerpt_en": "Follows recent attacks against Starlink infrastructure in Poland and Bulgaria."
+   "title_en": "Vivo Ventures invests in Inner AI to expand AI access for SMEs",
+   "excerpt_en": "Vivo Ventures invests in Inner AI; platform integration into Vivo portfolio under analysis."
   },
   {
    "id": "5d5c71a73c",
@@ -265,7 +286,7 @@
    "summary": "Second major deal signed by Amazon and X-energy with a regional utility",
    "img": "https://media.datacenterdynamics.com/media/images/download_3_bvBSOSz.2e16d0ba.fill-750x500.jpg",
    "title_en": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
-   "excerpt_en": "Second major deal signed by Amazon and X-energy with regional utility American Electric Power."
+   "excerpt_en": "Second major deal signed by Amazon and X-energy with regional utility for small modular reactors."
   },
   {
    "id": "83096992a4",
@@ -278,7 +299,7 @@
    "summary": "Estimated to cost between CA$1.5bn and $1.85bn",
    "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1971181876.2e16d0ba.fill-750x500.jpg",
    "title_en": "Canada puts out Advanced Procurement Notice for data center in Ontario",
-   "excerpt_en": "Data center project in Ontario estimated to cost between CA$1.5bn and $1.85bn."
+   "excerpt_en": "Proposed Ontario data center estimated to cost between CA$1.5bn and $1.85bn."
   },
   {
    "id": "dcf0e205ec",
@@ -291,7 +312,7 @@
    "summary": "Voltus CEO Dana Guernsey compared new “bring your own new capacity” contracts to the power purchase agreements that “revolutionized” utility-scale solar and wind development.",
    "img": "https://imgproxy.divecdn.com/je2zuSEkYs-JqPA2PdScvEkXgiEdNysBoZoCmyjmZIM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ob21lX0RFUl9tYW5hZ2VtZW50X2FwcC5qcGc=.webp",
    "title_en": "What Google's virtual power plant in PJM says about the race for electricity",
-   "excerpt_en": "New bring-your-own-capacity contracts compared to power purchase agreements revolutionizing solar and wind."
+   "excerpt_en": "New bring-your-own-capacity contracts compared to solar and wind power purchase agreements."
   },
   {
    "id": "594263f91f",
@@ -304,7 +325,7 @@
    "summary": "Manchester Financial Group exploring potential of data center at NAVWAR HQ",
    "img": "https://media.datacenterdynamics.com/media/images/navwar.2e16d0ba.fill-750x500.png",
    "title_en": "400MW data center eyed at old Navy cyber site in San Diego, California",
-   "excerpt_en": "Manchester Financial Group exploring potential data center at NAVWAR headquarters."
+   "excerpt_en": "Manchester Financial Group exploring 400MW data center potential at former NAVWAR headquarters."
   },
   {
    "id": "8a14072db9",
@@ -317,7 +338,7 @@
    "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
    "title_en": "European operators study joint offer for satellite spectrum",
-   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open access model for D2D with satellite partner."
+   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open-access model for D2D spectrum."
   },
   {
    "id": "5fec0844ab",
@@ -346,6 +367,19 @@
    "excerpt_en": "Deutsche Telekom, Orange, Telefónica and Vodafone consider joint bid for mobile satellite spectrum."
   },
   {
+   "id": "ce51bc50f7",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Anthropic named as customer of EverWind's data center project in Nova Scotia",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-named-as-customer-of-everwinds-data-center-project-in-nova-scotia/",
+   "ts": 1792425039,
+   "summary": "Data center is in pre-construction stages",
+   "img": "https://media.datacenterdynamics.com/media/images/everwind_fuels.2e16d0ba.fill-750x500.png",
+   "title_en": "Anthropic named as customer of EverWind's data center project in Nova Scotia",
+   "excerpt_en": "Anthropic confirmed as customer for EverWind's pre-construction Nova Scotia data center project."
+  },
+  {
    "id": "d88320583f",
    "src": "TechCrunch",
    "lang": "EN",
@@ -355,34 +389,8 @@
    "ts": 1792424229,
    "summary": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
    "img": null,
-   "title_en": "Nvidia launches new open models to run agents in enterprise and on PCs",
-   "excerpt_en": "Nvidia leaning into enterprise trend to run own open models in data centers and on-device AI agents."
-  },
-  {
-   "id": "0c51942974",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Reatores nucleares para data centers devem ser realidade no Brasil em 2040, estima ABDC",
-   "link": "https://telesintese.com.br/reatores-nucleares-para-data-centers-devem-ser-realidade-no-brasil-em-2040-estima-abdc/",
-   "ts": 1792423375,
-   "summary": "Renan Alves afirma, presidente da entidade, diz que uso de pequenos reatores nucleares já é tema de debates entre associados, mas aponta custos e regulamentação como desafios à adoção O post Reatores nucleares para data centers devem ser realidade no Brasil em 2040, estima ABDC apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2025/08/celulas-energia-equinix.jpg",
-   "title_en": "Nuclear reactors for data centers should be reality in Brazil by 2040, estimates ABDC",
-   "excerpt_en": "ABDC president says small nuclear reactors already topic of debates among members but highlights costs and regulation."
-  },
-  {
-   "id": "4f1f1a5e3b",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Anatel revisa procedimentos com TSE para garantir zero rating no segundo turno",
-   "link": "https://teletime.com.br/19/10/2026/anatel-tse-zero-rating-segundo-turno/",
-   "ts": 1792423231,
-   "summary": "Em resposto ao STF, Anatel diz que as principais falhas de acesso no primeiro turno ocorreram em função de domínios e subdomínios externos aos sites e aplicativos listados pelo TSE; mapeamento atualizado deve ajudar a corrigir as falhas e preparar as redes móveis para a aplicação do zero rating na janela do segundo turno",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/10/urna-eletronica-eleicao-eleicoies-534x462.webp",
-   "title_en": "Anatel reviews procedures with TSE to guarantee zero rating in second round",
-   "excerpt_en": "Anatel says main access failures in first round occurred due to external domains outside TSE sites."
+   "title_en": "Nvidia launches new open models to run agents in enterprise and PCs",
+   "excerpt_en": "Nvidia releases open models enabling enterprise companies to run private AI agents on-premise."
   },
   {
    "id": "12f1e0e420",
@@ -395,59 +403,7 @@
    "summary": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say they would handle the ground infrastructure while a separate, unannounced satellite partner provides the satellite constellation: The joint initiative",
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK450_EU_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "title_en": "Major European mobile carriers are teaming up for a 'direct' satellite program without Starlink",
-   "excerpt_en": "Four carriers signed letter of intent considering joint bid for spectrum supporting European direct-to-device satellite."
-  },
-  {
-   "id": "fb44242112",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Eurobites: Microsoft unplugs from Nscale data center project in UK",
-   "link": "https://www.lightreading.com/data-centers/eurobites-microsoft-unplugs-from-nscale-data-center-project-in-uk",
-   "ts": 1792410362,
-   "summary": "Also in today's EMEA regional roundup: VEON acquires Rubicon Wireless in Uzbekistan; management shake-up at TIM; Wi-Fi woes plague UK's remote workers.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt43acec648c106daa/677bbd90bc3df4ac19017ada/Close_up_of_the_Microsoft_logo_sign_outside_headquarters.jpeg?width=720&quality=80&disable=upscale",
-   "title_en": "Eurobites: Microsoft unplugs from Nscale data center project in UK",
-   "excerpt_en": "EMEA roundup: Microsoft exits Nscale UK project; VEON acquires Rubicon Wireless in Uzbekistan."
-  },
-  {
-   "id": "a51c2b8b3e",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Telefónica, Deutsche Telekom, Orange y Vodafone se alían para plantar cara a Elon Musk",
-   "link": "https://cincodias.elpais.com/companias/2026-10-19/telefonica-deutsche-telekom-orange-y-vodafone-se-alian-para-plantar-cara-a-elon-musk.html",
-   "ts": 1792402960,
-   "summary": "Los cuatro mayores operadores europeos firman una carta de intenciones con el fin de pujar por espectro en la UE para dar servicios móviles por satélite frente a la expansión de Starlink",
-   "img": "https://imagenes.elpais.com/resizer/v2/EYKPENAMRRE45A77OIW6RXY6WM.png?auth=30e8dde6f2738cbad28b8be73c9d540e73682bb1ba7003fedb7b21121144e50d",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone ally to face Elon Musk",
-   "excerpt_en": "Four major European operators sign letter of intent to bid for spectrum in EU for satellite mobile services."
-  },
-  {
-   "id": "2488bd63f2",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Telefónica firma su alianza con Orange, Vodafone y Telekom para competir con Starlink en satélites",
-   "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5dae1468aebdc3e8b4588.html",
-   "ts": 1792400701,
-   "summary": "Las cuatro principales operadoras europeas de telecos han firmado una carta de intenciones para competir por las frecuencias satelitales que va a poner Europa en el mercado para hacer frente a Starlink. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/19/17924002563268.jpg",
-   "title_en": "Telefónica signs alliance with Orange, Vodafone and Telekom to compete with Starlink in satellites",
-   "excerpt_en": "Four main European telecom operators signed letter of intent to compete for satellite frequencies."
-  },
-  {
-   "id": "a10bc9b51c",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El Santander se alía con Nvidia para desplegar la IA en todo el banco",
-   "link": "https://cincodias.elpais.com/companias/2026-10-19/el-santander-se-alia-con-nvidia-para-desplegar-la-ia-en-todo-el-banco.html",
-   "ts": 1792386000,
-   "summary": "La entidad espera generar 1.000 millones entre ingresos y ahorros gracias a esta tecnología en dos años",
-   "img": "https://imagenes.elpais.com/resizer/v2/BQ353I5I7RHO7PW7FNKDYQ4JH4.jpg?auth=eb87dacee8137b6164dafb8365d32268bb7215f8fd51e95838d849606d028401",
-   "title_en": "Santander allies with Nvidia to deploy AI throughout bank",
-   "excerpt_en": "Entity expects to generate 1 billion between income and savings from technology within two years."
+   "excerpt_en": "Four major European carriers signed letter of intent for joint D2D satellite spectrum bid."
   },
   {
    "id": "d1515fd161",
@@ -460,7 +416,7 @@
    "summary": "PISCES Cable System Ltd Orange Equitix MDM Subsea EU CEF Digital (€48.4M) European Digital Sovereignty In mid-October 2026, French telecommunications operator Orange , global infrastructure investment manager Equitix , and Irish subsea engineering specialist McMahon Design and Management Ltd (MDM) formally launched PISCES Cable System Limited . The dedicated joint-venture entity was established to",
    "img": null,
    "title_en": "Orange, MDM and Equitix Launch Joint Venture to Develop PISCES Cable System",
-   "excerpt_en": "PISCES subsea cable project in Europe with EU CEF Digital funding of €48.4 million."
+   "excerpt_en": "Orange, Equitix and MDM launched subsea cable joint venture with €48.4M EU Digital funding."
   },
   {
    "id": "c82b8eb2cf",
@@ -473,7 +429,7 @@
    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
    "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
    "title_en": "Anthropic gives outside AI watchdog employee-like access",
-   "excerpt_en": "Outside watchdog can publish findings without Anthropic approval."
+   "excerpt_en": "Outside watchdog granted employee-like access to publish findings on Anthropic without prior approval."
   }
  ]
 }
