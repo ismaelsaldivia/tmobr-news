@@ -256,6 +256,7 @@ def main():
                     log("translation rejected (does not match its original)", i, tr.get("o"))
                     continue
                 byid[i]["lang"] = detect_lang(byid[i]["title"] + " " + byid[i]["summary"], byid[i]["lang"])
+                byid[i]["sec"] = "brazil" if byid[i]["lang"] == "PT" else "latam"
                 byid[i]["title_en"] = tr["t"].strip()
                 byid[i]["excerpt_en"] = (tr.get("x") or "").strip()
         pool = [x for x in items if x["id"] in keep and (x["lang"] == "EN" or x.get("title_en"))]
