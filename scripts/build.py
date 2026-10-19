@@ -98,12 +98,12 @@ PROMPT = """You are the editor of TMOBR News, a non-profit aggregator of busines
 Below are today's candidate items, one per line: id | language | section | source | headline | excerpt.
 
 Return ONLY a JSON object with these keys:
-- "keep": array of ids worth publishing. Keep business, markets, telecom, satellites, subsea cables, data centers, energy for data centers, AI, semiconductors, technology policy and corporate deals. Drop lifestyle, culture, sports, crime, celebrity, generic domestic politics, sponsored content, events/webinars and market-session wraps that only list prices. If several items report the same story (in any language), keep only the most informative one.
+- "keep": array of ids worth publishing. Keep business, markets, macroeconomics, central banks, trade, commodities, energy markets, telecom, satellites, subsea cables, data centers, energy for data centers, AI, semiconductors, technology policy and corporate deals. Drop lifestyle, culture, sports, crime, celebrity, generic domestic politics, sponsored content, events/webinars and market-session wraps that only list prices. If several items report the same story (in any language), keep only the most informative one.
 - "en": object mapping EVERY kept PT or ES id to {"o": the first five words of that item's ORIGINAL headline copied exactly, "lang": "PT" or "ES" (the real language of that headline), "t": English headline, "x": English one-sentence excerpt of at most 25 words, or "" if there is no excerpt}. Translate faithfully; do not add facts. Double-check that each translation belongs to its own id.
 - "story": object mapping EVERY kept id to a short lowercase English slug (3 to 6 words) naming the underlying event. Items that report the same event, in any language or from any source, MUST get exactly the same slug.
 - "top": array of 4 kept ids, the most important stories of the day for this audience, most important first. Prefer items with substance (deals, capacity, regulation, financing).
-- "chart": the most striking figure of the day for this audience, or null. Object: {"title": short English headline stating the finding, "value": the number exactly as written in the source text, "total": a second number from the SAME source text it should be compared against, or "", "value_label": short label for value, "total_label": short label for total or "", "id": source item id}. Use only numbers that appear literally in that item's headline or excerpt.
-- "numbers": array of up to 4 other striking figures: {"value": number exactly as written in the source text, "label": English label of at most 10 words, "id": source item id}. Each from a different item. Use only numbers that appear literally in that item's headline or excerpt.
+- "chart": the most striking figure of the day for this audience, taken from an EN (English-language) item, or null. Object: {"title": short English headline stating the finding, "value": the number exactly as written in the source text, "total": a second number from the SAME source text it should be compared against, or "", "value_label": short label for value, "total_label": short label for total or "", "id": source item id}. Use only numbers that appear literally in that item's headline or excerpt.
+- "numbers": array of up to 4 other striking figures, each taken from an EN (English-language) item: {"value": number exactly as written in the source text, "label": English label of at most 10 words, "id": source item id}. Each from a different item. Use only numbers that appear literally in that item's headline or excerpt.
 
 Items:
 """
@@ -274,6 +274,8 @@ def main():
         pool = [x for x in pool if x["id"] in dedup]
         top = [x for x in top if x["id"] in dedup]
         chart = ai.get("chart")
+        if chart and chart.get("id") in byid and byid[chart["id"]]["lang"] != "EN":
+            chart = None
         if chart and not (chart.get("id") in byid and appears(chart.get("value"), byid[chart["id"]])):
             log("chart rejected (figure not found in source)", chart)
             chart = None
@@ -281,7 +283,7 @@ def main():
             chart["total"] = ""
         numbers, used = [], set()
         for n in ai.get("numbers") or []:
-            if n.get("id") in byid and n["id"] not in used and appears(n.get("value"), byid[n["id"]]):
+            if n.get("id") in byid and byid[n["id"]]["lang"] == "EN" and n["id"] not in used and appears(n.get("value"), byid[n["id"]]):
                 numbers.append(n); used.add(n["id"])
             else:
                 log("number rejected", n)
