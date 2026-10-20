@@ -109,12 +109,47 @@ Items:
 """
 
 
+TRANSLATE = """Translate each headline and excerpt below from Portuguese or Spanish into English for TMOBR News. Translate faithfully; do not add facts.
+Return ONLY a JSON object mapping EVERY id to {"o": the first five words of the ORIGINAL headline copied exactly, "t": English headline, "x": English one-sentence excerpt of at most 25 words, or "" if there is no excerpt}.
+
+Items (id | headline | excerpt):
+"""
+
+
+def call_claude(prompt):
+    key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+    body = json.dumps({
+        "model": MODEL, "max_tokens": 12000,
+        "messages": [{"role": "user", "content": prompt}],
+    }).encode()
+    req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
+        "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+    try:
+        r = json.loads(urllib.request.urlopen(req, timeout=240).read())
+        text = "".join(b.get("text", "") for b in r.get("content", []))
+        u = r.get("usage", {})
+        log("claude usage", u.get("input_tokens"), "in /", u.get("output_tokens"), "out")
+        m = re.search(r"\{.*\}", text, re.S)
+        return json.loads(m.group(0))
+    except Exception as ex:
+        log("CLAUDE FAIL", ex)
+        return None
+
+
+def translate_missing(items):
+    if not items:
+        return {}
+    lines = [f'{x["id"]} | {x["title"]} | {x["summary"][:220]}' for x in items]
+    return call_claude(TRANSLATE + "\n".join(lines)) or {}
+
+
 def ask_claude(items):
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     if not key:
         log("NO ANTHROPIC_API_KEY: publishing English items only, no chart")
         return None
     lines = [f'{x["id"]} | {x["lang"]} | {x["sec"]} | {x["src"]} | {x["title"]} | {x["summary"][:220]}' for x in items]
+    return call_claude(PROMPT + "\n".join(lines))
     body = json.dumps({
         "model": MODEL, "max_tokens": 12000,
         "messages": [{"role": "user", "content": PROMPT + "\n".join(lines)}],
@@ -248,7 +283,12 @@ def main():
             t = unicodedata.normalize("NFKD", (t or "").lower())
             t = "".join(c for c in t if not unicodedata.combining(c))
             return re.sub(r"[^\w ]+", " ", t).split()
-        for i, tr in (ai.get("en") or {}).items():
+        en = dict(ai.get("en") or {})
+        missing = [byid[i] for i in keep if byid[i]["lang"] != "EN" and not (isinstance(en.get(i), dict) and en[i].get("t"))]
+        if missing:
+            log("second translation pass for", len(missing), "items")
+            en.update(translate_missing(missing))
+        for i, tr in en.items():
             if i in byid and byid[i]["lang"] != "EN" and isinstance(tr, dict) and tr.get("t"):
                 o = [w for w in words(tr.get("o"))[:4] if len(w) > 2]
                 head = set(words(byid[i]["title"])[:10])
