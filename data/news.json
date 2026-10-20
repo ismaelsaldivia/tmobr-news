@@ -1,9 +1,32 @@
 {
- "updated_utc": "2026-10-20T14:05:18Z",
+ "updated_utc": "2026-10-20T14:07:10Z",
  "edition": "07:00",
- "translated": false,
- "chart": null,
- "numbers": [],
+ "translated": true,
+ "chart": {
+  "title": "AEP nuclear deal for Amazon Indiana facility",
+  "value": "960-MW",
+  "total": "",
+  "value_label": "nuclear capacity",
+  "total_label": "",
+  "id": "0212904caa"
+ },
+ "numbers": [
+  {
+   "value": "$5.7 billion",
+   "label": "Salesforce acquisition of Braze valuation",
+   "id": "f4b808c85a"
+  },
+  {
+   "value": "$4.2 billion",
+   "label": "Annual US GDP impact losing E-Rate program",
+   "id": "7562c790a7"
+  },
+  {
+   "value": "$320 million",
+   "label": "Otter.ai funding from General Catalyst",
+   "id": "697eb620bf"
+  }
+ ],
  "items": [
   {
    "id": "ebdb86e7be",
@@ -26,6 +49,32 @@
    "ts": 1792504330,
    "summary": "How updated fire safety standards and early off-gas detection can improve lithium-ion battery safety, support compliance and prevent thermal runaway",
    "img": "https://media.datacenterdynamics.com/media/images/HON_BA_Li-ion_Tamer_BESS_Fire_Safe.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "f02ef72188",
+   "src": "Pipeline Valor",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "CNP vence disputa por Prudential no Brasil e inclui México no pacote",
+   "link": "https://pipelinevalor.globo.com/negocios/noticia/cnp-vence-disputa-por-prudential-no-brasil-e-inclui-mexico-no-pacote.ghtml",
+   "ts": 1792503885,
+   "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
+   "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
+   "title_en": "CNP Assurances wins Prudential's Brazil and Mexico operations for $4.03 billion",
+   "excerpt_en": "CNP Assurances acquires Prudential Financial's Brazil and Mexico operations for $4.03 billion in cash, subject to closing adjustments."
+  },
+  {
+   "id": "0e71a5ecc6",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Dona da Shopee lança divisão de computação em nuvem e avalia IPO de sua fintech",
+   "link": "https://neofeed.com.br/negocios/dona-da-shopee-lanca-divisao-de-computacao-em-nuvem-e-avalia-ipo-de-sua-fintech/",
+   "ts": 1792503584,
+   "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
+   "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
+   "title_en": "Sea launches cloud computing division and evaluates fintech IPO",
+   "excerpt_en": "Sea, Shopee parent company, launches cloud computing unit and explores fintech IPO to expand beyond e-commerce and gaming."
   },
   {
    "id": "fc2d87d0c2",
@@ -83,17 +132,6 @@
    "img": null
   },
   {
-   "id": "979e928743",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-   "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
-   "ts": 1792501883,
-   "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives failing to appropriately act on concerns they raised, including minors bypassing age-restricted content, and appearing in \"transactional sexual content\" the company could […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951406/STK051_VRG_Illo_N_Barclay_6_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
    "id": "c723746d1e",
    "src": "TechCrunch",
    "lang": "EN",
@@ -103,17 +141,6 @@
    "ts": 1792501644,
    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
    "img": null
-  },
-  {
-   "id": "af3e08fe45",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-   "link": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-action-open-eyes-closed-blink-repair",
-   "ts": 1792501604,
-   "summary": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "8c9c53ded8",
@@ -138,15 +165,26 @@
    "img": null
   },
   {
-   "id": "d266282356",
-   "src": "The Verge",
+   "id": "208dc20e81",
+   "src": "TechCrunch",
    "lang": "EN",
    "sec": "tech",
-   "title": "Wii Sports is back on the Switch 2, and it rules",
-   "link": "https://www.theverge.com/entertainment/1013753/nintendo-switch-sports-resort-review-switch-2",
+   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+   "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
    "ts": 1792501200,
-   "summary": "Wii Sports holds an important place in Nintendo's history. It's the best-selling piece of software the company has ever made, one that permeated culture in surprising ways, and its success helped rejuvenate Nintendo after a period of steady decline. It also kicked off one of the company's most important and unassuming franchises. While subsequent sports […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/NS2_NintendoSwitchSportsResort_scrn_17.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+   "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+   "img": null
+  },
+  {
+   "id": "41cf4f8f1c",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
+   "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
+   "ts": 1792501200,
+   "summary": "The raise comes as venture dollars pile up on the West Coast.",
+   "img": null
   },
   {
    "id": "e7dc20c25b",
@@ -226,17 +264,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt55a630b755453263/6a5518e397c98a13209a9ef7/RF-exterior-view-us-school.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "ab87f9a6ef",
-   "src": "investingLive",
-   "lang": "EN",
-   "sec": "business",
-   "title": "investingLive European news wrap: Rising oil prices keep weighing on risk sentiment",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTXNwNllLdFFoMG1wN2FrYnM1RVFTLUpuRU9WTTVNNUlUSWhobU0xVVBqSWhzSUFxWjJVblBvQ3pCUjRoSWtnUWdhc0xXYklPaG0wODNmWFJtVkFtb0FIRU1sZThSaFBPWUVDVkN4cjhPQl9uYTZmYnVtTTUtcG9FeUxOQ0Y1djZ1NW1WRWJEOWR4eWhEaWFpR1ZWMWpiTkNCQWlvLWFSV2xueFRxdGRjQWFWMGo?oc=5",
-   "ts": 1792496452,
-   "summary": "",
-   "img": null
-  },
-  {
    "id": "c1d098207e",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -246,17 +273,6 @@
    "ts": 1792496160,
    "summary": "Number of banks report issues",
    "img": "https://media.datacenterdynamics.com/media/images/GettyImages-2159351659.52b402db.fill-750x500.jpg"
-  },
-  {
-   "id": "f6fc627aeb",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Data centers transform communities. Here’s how to prove it before breaking ground.",
-   "link": "https://www.datacenterdynamics.com/en/whitepapers/data-centers-transform-communities-heres-how-to-prove-it-before-breaking-ground/",
-   "ts": 1792493837,
-   "summary": "A practical guide to community engagement for data center investors, developers and operators",
-   "img": "https://media.datacenterdynamics.com/media/images/Screenshot_2026-10-20_115133.2e16d0ba.fill-750x500.png"
   },
   {
    "id": "a139fa06f5",
@@ -270,6 +286,28 @@
    "img": "https://media.datacenterdynamics.com/media/images/Claude.2e16d0ba.fill-750x500.jpg"
   },
   {
+   "id": "ecca3fbdf9",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Google Cloud Power Outage Impacts Revolut, Other Online Services",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
+   "ts": 1792492152,
+   "summary": "An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday, with the tech company citing power issues.",
+   "img": null
+  },
+  {
+   "id": "86ea62cdba",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Amazon, Meta AI Wearables Raise Privacy Concerns Over Always-Listening Devices",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/amazon-meta-ai-wearables-raise-privacy-concerns-over-always-listening-devices",
+   "ts": 1792492080,
+   "summary": "AI devices keep running into privacy issues",
+   "img": null
+  },
+  {
    "id": "68c64cabc2",
    "src": "RCR Wireless",
    "lang": "EN",
@@ -281,15 +319,30 @@
    "img": null
   },
   {
-   "id": "f32c16c8ac",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Ericsson CEO champions his silicon over Nvidia chips in RAN",
-   "link": "https://www.lightreading.com/5g/ericsson-ceo-champions-his-silicon-over-nvidia-chips-in-ran",
-   "ts": 1792481400,
-   "summary": "Per Narvinger, Ericsson's new CEO, describes Ericsson's ASICs as an 'extraordinary asset' when asked about interest in Nvidia's GPUs.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1c9b98e5ea49ad5f/67bc5b6e792f5363e7c7674c/Ericsson_head_of_cloud_software_and_services_Per_Narvinger.jpg?width=720&quality=80&disable=upscale"
+   "id": "7772b98b19",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Telefónica, Deutsche Telekom, Orange e Vodafone se juntam por D2D na Europa e querem comprar espectro",
+   "link": "https://teletime.com.br/19/10/2026/telefonica-deutsche-orange-vodafone-d2d/",
+   "ts": 1792459935,
+   "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
+   "title_en": "European telcos form consortium for 2GHz spectrum auction in satellite connectivity bid",
+   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone sign letter of intent for 2GHz spectrum auction participation to launch device-to-device services."
+  },
+  {
+   "id": "933725c3bc",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Telefónica e outras operadoras europeias querem avançar em D2D",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/telefonica-e-telcos-d2d/",
+   "ts": 1792454133,
+   "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
+   "title_en": "Telefónica and other European operators advance device-to-device satellite connectivity",
+   "excerpt_en": "European telcos plan to advance satellite connectivity with fully European structure for device-to-device services."
   },
   {
    "id": "8e44dd8497",
@@ -303,15 +356,15 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfed87d649f39eae5/6ad6652767600f4e9e9ea2c3/TP-Link_building_in_France.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "336f867cbe",
-   "src": "Light Reading",
+   "id": "0212904caa",
+   "src": "Utility Dive",
    "lang": "EN",
-   "sec": "telecom",
-   "title": "US broadcaster group outs 'major progress' toward affordable ATSC 3.0 converters",
-   "link": "https://www.lightreading.com/video-broadcast/us-broadcaster-group-outs-major-progress-toward-affordable-atsc-3-0-converters",
-   "ts": 1792435649,
-   "summary": "Pearl TV, a group led by major US broadcasters, said it's seeing progress toward affordable ATSC 3.0 converter boxes as the industry preps for the transition to the next-gen, IP-based broadcast signaling standard. #pressrelease",
-   "img": null
+   "sec": "dc",
+   "title": "AEP signs 960-MW Indiana nuclear pact with Amazon, X-energy",
+   "link": "https://www.utilitydive.com/news/aep-signs-advanced-960-mw-nuclear-amazon-x-energy/833341/",
+   "ts": 1792418088,
+   "summary": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
+   "img": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp"
   }
  ]
 }
