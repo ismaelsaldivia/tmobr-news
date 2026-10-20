@@ -1,33 +1,46 @@
 {
- "updated_utc": "2026-10-20T14:07:10Z",
+ "updated_utc": "2026-10-20T14:10:59Z",
  "edition": "07:00",
  "translated": true,
  "chart": {
-  "title": "AEP nuclear deal for Amazon Indiana facility",
-  "value": "960-MW",
+  "title": "E-Rate program cuts would cost US economy $4.2 billion annually",
+  "value": "$4.2B",
   "total": "",
-  "value_label": "nuclear capacity",
+  "value_label": "annual GDP impact",
   "total_label": "",
-  "id": "0212904caa"
+  "id": "7562c790a7"
  },
  "numbers": [
   {
    "value": "$5.7 billion",
-   "label": "Salesforce acquisition of Braze valuation",
+   "label": "Salesforce Braze acquisition enterprise value",
    "id": "f4b808c85a"
   },
   {
-   "value": "$4.2 billion",
-   "label": "Annual US GDP impact losing E-Rate program",
-   "id": "7562c790a7"
+   "value": "960-MW",
+   "label": "Amazon X-energy Indiana nuclear power purchase",
+   "id": "0212904caa"
   },
   {
-   "value": "$320 million",
-   "label": "Otter.ai funding from General Catalyst",
-   "id": "697eb620bf"
+   "value": "$115 million",
+   "label": "Reliable Robotics Series D funding round",
+   "id": "54693e4e62"
   }
  ],
  "items": [
+  {
+   "id": "081ffd4360",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Boerse Stuttgart obtiene la licencia para operar su plataforma de activos tokenizados",
+   "link": "https://cincodias.elpais.com/criptoactivos/2026-10-20/boerse-stuttgart-obtiene-la-licencia-para-operar-su-plataforma-de-activos-tokenizados.html",
+   "ts": 1792505004,
+   "summary": "Bancos, brókeres y centros de negociación podrán conectarse a esta infraestructura para liquidar valores, con ‘stablecoins’ o con el euro tokenizado del BCE",
+   "img": "https://imagenes.elpais.com/resizer/v2/NIF7CM3IKZA4PAT73DG2SRLQLY.jpeg?auth=66a272ff0370d18d59edce4011259dfd51874804c895e0588dbc90f74f3f7b6b",
+   "title_en": "Boerse Stuttgart gets license for tokenized asset platform",
+   "excerpt_en": "Banks, brokers and trading centers can connect to infrastructure to settle securities with stablecoins or BCE tokenized euro."
+  },
   {
    "id": "ebdb86e7be",
    "src": "Light Reading",
@@ -40,17 +53,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt927865c771f80f1e/68c6b6c33bea6b0228fbc132/Server_rack_cluster_in_a_data_center.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "f57742980b",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "The ultimate guide to li-ion BESS fire safety standards",
-   "link": "https://www.datacenterdynamics.com/en/whitepapers/the-ultimate-guide-to-li-ion-bess-fire-safety-standards/",
-   "ts": 1792504330,
-   "summary": "How updated fire safety standards and early off-gas detection can improve lithium-ion battery safety, support compliance and prevent thermal runaway",
-   "img": "https://media.datacenterdynamics.com/media/images/HON_BA_Li-ion_Tamer_BESS_Fire_Safe.2e16d0ba.fill-750x500.jpg"
-  },
-  {
    "id": "f02ef72188",
    "src": "Pipeline Valor",
    "lang": "PT",
@@ -60,8 +62,8 @@
    "ts": 1792503885,
    "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
    "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
-   "title_en": "CNP Assurances wins Prudential's Brazil and Mexico operations for $4.03 billion",
-   "excerpt_en": "CNP Assurances acquires Prudential Financial's Brazil and Mexico operations for $4.03 billion in cash, subject to closing adjustments."
+   "title_en": "CNP Assurances wins Prudential Brazil and Mexico sale for $4.03 billion",
+   "excerpt_en": "French insurance group CNP Assurances closed purchase of Prudential Financial's operations in Brazil and Mexico for $4.03 billion in cash."
   },
   {
    "id": "0e71a5ecc6",
@@ -73,8 +75,8 @@
    "ts": 1792503584,
    "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
    "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
-   "title_en": "Sea launches cloud computing division and evaluates fintech IPO",
-   "excerpt_en": "Sea, Shopee parent company, launches cloud computing unit and explores fintech IPO to expand beyond e-commerce and gaming."
+   "title_en": "Sea launches cloud computing division and eyes fintech IPO",
+   "excerpt_en": "Shopee's Singapore parent Sea launches cloud computing unit Sea Cloud and evaluates fintech IPO."
   },
   {
    "id": "fc2d87d0c2",
@@ -99,28 +101,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/LOGO_CBRE.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "bdc00c7d24",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Magnora Data Center acquires 2MW facility in Oslo, Norway",
-   "link": "https://www.datacenterdynamics.com/en/news/magnora-data-center-acquires-2mw-facility-in-oslo-norway/",
-   "ts": 1792502459,
-   "summary": "Company partners with Blix",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-512300726.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "d4dc0c8c83",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "DataVault plans 3MW data center in Auckland, New Zealand",
-   "link": "https://www.datacenterdynamics.com/en/news/datavault-plans-3mw-data-center-in-auckland-new-zealand/",
-   "ts": 1792502324,
-   "summary": "First phase due live next year, 11 carriers signed up",
-   "img": "https://media.datacenterdynamics.com/media/images/datavault_auckland_NZ.2e16d0ba.fill-750x500.png"
-  },
-  {
    "id": "54693e4e62",
    "src": "TechCrunch",
    "lang": "EN",
@@ -140,50 +120,6 @@
    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
    "ts": 1792501644,
    "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-   "img": null
-  },
-  {
-   "id": "8c9c53ded8",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Google Reports Cloud Disruptions in Europe",
-   "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
-   "ts": 1792501452,
-   "summary": "The disruptions began around 7 a.m. in London after what the tech giant called a “power event.”",
-   "img": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "4825cf433d",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Citrini Bets on Life Sciences After Claude AI Drug Study",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/citrini-bets-on-life-sciences-stocks-after-claude-ai-drug-study",
-   "ts": 1792501215,
-   "summary": "Life sciences companies stand to gain from a surge in artificial intelligence fueled drug discovery, says Citrini Research after testing Anthropic PBC’s Claude Science.",
-   "img": null
-  },
-  {
-   "id": "208dc20e81",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-   "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-   "ts": 1792501200,
-   "summary": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-   "img": null
-  },
-  {
-   "id": "41cf4f8f1c",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-   "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-   "ts": 1792501200,
-   "summary": "The raise comes as venture dollars pile up on the West Coast.",
    "img": null
   },
   {
@@ -207,17 +143,6 @@
    "ts": 1792500323,
    "summary": "DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
    "img": null
-  },
-  {
-   "id": "547e90c256",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
-   "link": "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
-   "ts": 1792500093,
-   "summary": "Latest in a tête-à-tête of data center strikes",
-   "img": "https://media.datacenterdynamics.com/media/images/51901801648_1261a6e8b7_c.2e16d0ba.fill-750x500.jpg"
   },
   {
    "id": "9371fb6f84",
@@ -253,6 +178,30 @@
    "img": null
   },
   {
+   "id": "2865665464",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Revolut sufre una caída que impide a sus clientes hacer pagos, transferencias y acceder a sus cuentas",
+   "link": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
+   "ts": 1792498321,
+   "summary": "Un fallo en los servidores en la nube de Google provoca incidencias en otras compañías y bancos",
+   "img": "https://imagenes.elpais.com/resizer/v2/YYF2C5EFLVJ2DNRGU3KRWEDN24.jpg?auth=b96e842eb47cfefb9ac70648f06c084e051e4afbc6531610518777dfb72c1867",
+   "title_en": "Revolut suffers outage blocking payments, transfers and account access",
+   "excerpt_en": "Google Cloud server failure causes incidents at Revolut and other European companies and banks."
+  },
+  {
+   "id": "6d8a3cec26",
+   "src": "MIT Technology Review",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+   "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
+   "ts": 1792498200,
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good news about the nature of neural networks.” With those simple words of…",
+   "img": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196"
+  },
+  {
    "id": "7562c790a7",
    "src": "Light Reading",
    "lang": "EN",
@@ -264,59 +213,37 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt55a630b755453263/6a5518e397c98a13209a9ef7/RF-exterior-view-us-school.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "c1d098207e",
-   "src": "DatacenterDynamics",
+   "id": "506646dbe5",
+   "src": "MIT Technology Review",
    "lang": "EN",
-   "sec": "dc",
-   "title": "Google experiences \"service disruption\" in UK cloud region",
-   "link": "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
-   "ts": 1792496160,
-   "summary": "Number of banks report issues",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-2159351659.52b402db.fill-750x500.jpg"
+   "sec": "tech",
+   "title": "A visit to Samsung’s massive new semiconductor hub",
+   "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+   "ts": 1792486800,
+   "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
+   "img": "https://wp.technologyreview.com/wp-content/uploads/2026/10/map.png?w=840"
   },
   {
-   "id": "a139fa06f5",
-   "src": "DatacenterDynamics",
+   "id": "ca656d75d6",
+   "src": "TechCrunch",
    "lang": "EN",
-   "sec": "dc",
-   "title": "Anthropic and Nscale in talks for second $45bn deal - report",
-   "link": "https://www.datacenterdynamics.com/en/news/anthropic-and-nscale-in-talks-for-second-45bn-deal-report/",
-   "ts": 1792493609,
-   "summary": "Companies previously signed $45bn compute agreement in August 2026",
-   "img": "https://media.datacenterdynamics.com/media/images/Claude.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "ecca3fbdf9",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Google Cloud Power Outage Impacts Revolut, Other Online Services",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
-   "ts": 1792492152,
-   "summary": "An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday, with the tech company citing power issues.",
+   "sec": "tech",
+   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+   "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+   "ts": 1792479660,
+   "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
    "img": null
   },
   {
-   "id": "86ea62cdba",
-   "src": "Bloomberg",
+   "id": "d71bd3427d",
+   "src": "The Verge",
    "lang": "EN",
-   "sec": "business",
-   "title": "Amazon, Meta AI Wearables Raise Privacy Concerns Over Always-Listening Devices",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-10-20/amazon-meta-ai-wearables-raise-privacy-concerns-over-always-listening-devices",
-   "ts": 1792492080,
-   "summary": "AI devices keep running into privacy issues",
-   "img": null
-  },
-  {
-   "id": "68c64cabc2",
-   "src": "RCR Wireless",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "EU MNO NTN JV? Big four seek satellite control in name of sovereignty (Telco Diary)",
-   "link": "https://rcrwireless.com/20261020/opinion/eu-mno-ntn-jv-big-four-seek-satellite-control-in-name-of-sovereignty-telco-diary",
-   "ts": 1792489355,
-   "summary": "From the newsletter (October 19; sign-up or follow if you want it sooner): Deutsche Telekom, Orange, Telefónica and Vodafone want a joint position on mobile satellite spectrum, but can Europe’s…",
-   "img": null
+   "sec": "tech",
+   "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
+   "link": "https://www.theverge.com/tech/1005073/baseus-security-primesentinel-u2-pro-outdoor-3k-dual-camera-tracking-spotlight",
+   "ts": 1792468800,
+   "summary": "Baseus announced a new addition to its lineup of AI-assisted security cameras that's more proactive about discouraging unwanted visitors instead of just recording and alerting you to their presence. The Baseus Security PrimeSentinel U2 Pro Outdoor 3K Dual Camera introduces a motorized spotlight that shines directly on a moving target, even as they're running across […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/baseus1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "7772b98b19",
@@ -328,32 +255,106 @@
    "ts": 1792459935,
    "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
-   "title_en": "European telcos form consortium for 2GHz spectrum auction in satellite connectivity bid",
-   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone sign letter of intent for 2GHz spectrum auction participation to launch device-to-device services."
+   "title_en": "European telcos seek joint D2D satellite spectrum bid",
+   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone signed letter of intent for 2 GHz spectrum auction participation in EU."
   },
   {
-   "id": "933725c3bc",
+   "id": "950e2c1aea",
+   "src": "DPL News",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "DE-CIX avalia expansão para Fortaleza após conectar mais de 80 redes no Brasil",
+   "link": "https://dplnews.com/de-cix-avalia-expansao-para-fortaleza-brasil/",
+   "ts": 1792456658,
+   "summary": "Natália Inácio, do DE-CIX no Brasil, afirma que a IA transforma a latência em um fator de negócios e defende a descentralização da infraestrutura digital.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews-de-cix-brasil-mf141026.jpeg",
+   "title_en": "DE-CIX evaluates Fortaleza expansion after connecting 80+ networks in Brazil",
+   "excerpt_en": "AI transforms latency into business factor, supporting need for decentralized digital infrastructure expansion."
+  },
+  {
+   "id": "34fc3bad16",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Quase quatro anos após fraude bilionária, Americanas sai da recuperação judicial",
+   "link": "https://neofeed.com.br/negocios/quase-quatro-anos-apos-fraude-bilionaria-americanas-sai-da-recuperacao-judicial/",
+   "ts": 1792455118,
+   "summary": "A Americanas saiu oficialmente da recuperação judicial nesta segunda-feira, 19 de outubro. A decisão foi proferida pela 4ª Vara Empresarial do Rio de Janeiro, que encerrou o processo após reconhecer o cumprimento das obrigações previstas no plano aprovado pelos credores. O marco ocorre poucos dias depois de outro desdobramento relevante na história recente da companhia. […] O post Quase quatro ano",
+   "img": "https://neofeed.com.br/wp-content/uploads/2024/02/lojas-americanas-300x169.jpg",
+   "title_en": "Nearly four years after fraud, Americanas exits judicial recovery",
+   "excerpt_en": "Americanas officially exited judicial recovery on Monday, October 19, following court recognition of obligations fulfillment."
+  },
+  {
+   "id": "ef156e8f6b",
    "src": "Mobile Time",
    "lang": "PT",
    "sec": "brazil",
-   "title": "Telefónica e outras operadoras europeias querem avançar em D2D",
-   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/telefonica-e-telcos-d2d/",
-   "ts": 1792454133,
-   "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
-   "title_en": "Telefónica and other European operators advance device-to-device satellite connectivity",
-   "excerpt_en": "European telcos plan to advance satellite connectivity with fully European structure for device-to-device services."
+   "title": "Capdeville deixa comando técnico da TIM na Itália",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/capdeville-tim-italia/",
+   "ts": 1792454543,
+   "summary": "A mudança é a primeira grande reestruturação da operadora desde a confirmação que a Poste Italiane assumiu o controle da empresa em setembro deste ano",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-saida1RDZ-300x169.jpg",
+   "title_en": "Capdeville leaves TIM Italy technical leadership",
+   "excerpt_en": "First major restructuring at telecom operator since Poste Italiane confirmed September control assumption."
   },
   {
-   "id": "8e44dd8497",
+   "id": "4a394815d1",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Altán Redes crece de la mano de Bait y supera a Movistar en ingreso por usuario",
+   "link": "https://dplnews.com/altan-redes-crece-de-la-mano-de-bait-y-supera-a-movistar-en-ingreso-por-usuario/",
+   "ts": 1792454055,
+   "summary": "El CEO Altán Redes, la empresa que opera la Red Compartida en México, tendría un ingreso promedio por usuario (ARPU) superior al de Telefónica México (Movistar), a través de las marcas que utilizan su infraestructura, de acuerdo con estimaciones de especialistas del sector de telecomunicaciones. La diferencia se presenta pese a que ambas compañías operan […]",
+   "img": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_altan-redes_mc21025.png",
+   "title_en": "Altán Redes grows with Bait, surpasses Movistar in ARPU",
+   "excerpt_en": "Altán Redes, which operates Mexico's Shared Network, achieves higher average revenue per user than Telefónica México."
+  },
+  {
+   "id": "5b563e6baf",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Squad.com recebe aporte estratégico do Vivo Ventures",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/squad-com-recebe-aporte/",
+   "ts": 1792448659,
+   "summary": "Investimento sela parceria entre empresas, visando à exploração de novos negócios e à expansão da plataforma de agentes",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-acordoRDZ-300x169.jpg",
+   "title_en": "Squad.com receives strategic investment from Vivo Ventures",
+   "excerpt_en": "Investment seals partnership between companies targeting new business exploration and platform expansion."
+  },
+  {
+   "id": "d3f5374110",
    "src": "Light Reading",
    "lang": "EN",
    "sec": "telecom",
-   "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
-   "link": "https://www.lightreading.com/regulatory-politics/tp-link-taps-key-tronic-to-bring-broadband-router-assembly-to-the-us",
-   "ts": 1792441800,
-   "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfed87d649f39eae5/6ad6652767600f4e9e9ea2c3/TP-Link_building_in_France.jpg?width=720&quality=80&disable=upscale"
+   "title": "Europe's big telcos explore joint satellite spectrum bid to rival Starlink",
+   "link": "https://www.lightreading.com/satellite/europe-s-big-telcos-explore-joint-satellite-spectrum-bid-to-rival-starlink",
+   "ts": 1792425255,
+   "summary": "Deutsche Telekom, Orange, Telefónica and Vodafone consider joint bid for mobile satellite spectrum next year to build European alternative to Starlink.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1cda0451bb1dcbc4/651695db04fc4c6b40df14e4/M9MAJK.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "1cbc8651b5",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Schneider Electric sees record-high Q3 revenue on global data center boom",
+   "link": "https://www.utilitydive.com/news/schneider-electric-data-center-earnings/833358/",
+   "ts": 1792422629,
+   "summary": "North America continues to be the largest source of revenue for the company’s Energy Management segment, but China and East Asia saw a higher organic growth rate this quarter and year-to-date.",
+   "img": "https://imgproxy.divecdn.com/aa4MYP5Rze-q2lfLByGoT8FdIi1ruyPV8xrmpUl1FkM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMTAtMDVfYXRfNC4yOS4zOVBNLnBuZw==.webp"
+  },
+  {
+   "id": "df653d82d7",
+   "src": "Data Center Knowledge",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
+   "link": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
+   "ts": 1792422590,
+   "summary": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blteaa81fac011f2792/6ad63476af0652e6e94fb9b8/nscale.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "0212904caa",
@@ -365,6 +366,39 @@
    "ts": 1792418088,
    "summary": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
    "img": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp"
+  },
+  {
+   "id": "aa58cedf36",
+   "src": "Data Center Knowledge",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Optical PCIe Extends the Reach of AI Rack Design",
+   "link": "https://www.datacenterknowledge.com/ai-data-centers/optical-pcie-extends-the-reach-of-ai-rack-design",
+   "ts": 1792400400,
+   "summary": "Lumentum, Astera Labs, and Corning demoed optical PCIe, which extends reach beyond copper and enables more flexible, disaggregated AI rack designs, though it’s still an early-stage proof of concept.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt5c53b8f1e15a794c/6ad25ad7ceae7b27ec6e4d5a/Close-up_of_data_center_equipment.png?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "5c3260e1ca",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "AI in nuclear operations: The shift from adoption to operating value",
+   "link": "https://www.utilitydive.com/spons/ai-in-nuclear-operations-the-shift-from-adoption-to-operating-value/832752/",
+   "ts": 1792400400,
+   "summary": "Nuclear utility AI results have been mixed across the industry, but there are clear trends among those finding value.",
+   "img": null
+  },
+  {
+   "id": "d1515fd161",
+   "src": "Submarine Networks",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Orange, MDM and Equitix Launch Joint Venture to Develop PISCES Cable System",
+   "link": "https://www.submarinenetworks.com/en/systems/intra-europe/pisces/orange-mdm-and-equitix-launch-joint-venture-to-develop-pisces-cable-system",
+   "ts": 1792381889,
+   "summary": "PISCES Cable System Ltd Orange Equitix MDM Subsea EU CEF Digital (€48.4M) European Digital Sovereignty In mid-October 2026, French telecommunications operator Orange , global infrastructure investment manager Equitix , and Irish subsea engineering specialist McMahon Design and Management Ltd (MDM) formally launched PISCES Cable System Limited . The dedicated joint-venture entity was established to",
+   "img": null
   }
  ]
 }
