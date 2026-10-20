@@ -1,38 +1,75 @@
 {
- "updated_utc": "2026-10-20T13:28:32Z",
+ "updated_utc": "2026-10-20T13:48:59Z",
  "edition": "07:00",
  "translated": true,
  "chart": {
-  "title": "AEP Indiana nuclear facility for Amazon",
+  "title": "Amazon nuclear power purchase agreement capacity",
   "value": "960-MW",
   "total": "",
-  "value_label": "nuclear capacity",
+  "value_label": "Indiana nuclear facility capacity",
   "total_label": "",
   "id": "0212904caa"
  },
  "numbers": [
   {
    "value": "$5.7 billion",
-   "label": "Salesforce Braze acquisition price",
+   "label": "Salesforce acquisition of Braze marketing platform",
    "id": "f4b808c85a"
   },
   {
-   "value": "$4.2 billion",
-   "label": "Annual GDP cost of ending E-Rate",
-   "id": "7562c790a7"
-  },
-  {
    "value": "$115 million",
-   "label": "Reliable Robotics Series D raise",
+   "label": "Reliable Robotics Series D equity funding",
    "id": "54693e4e62"
   },
   {
-   "value": "$2.2B",
-   "label": "Blackwall valuation after funding round",
-   "id": "ca656d75d6"
+   "value": "$4.2 billion",
+   "label": "Annual US GDP loss from eliminating E-Rate program",
+   "id": "7562c790a7"
+  },
+  {
+   "value": "€48.4M",
+   "label": "EU CEF Digital funding for PISCES subsea cable",
+   "id": "d1515fd161"
   }
  ],
  "items": [
+  {
+   "id": "f02ef72188",
+   "src": "Pipeline Valor",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "CNP vence disputa por Prudential no Brasil e inclui México no pacote",
+   "link": "https://pipelinevalor.globo.com/negocios/noticia/cnp-vence-disputa-por-prudential-no-brasil-e-inclui-mexico-no-pacote.ghtml",
+   "ts": 1792503885,
+   "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
+   "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
+   "title_en": "CNP Assurances wins Prudential dispute in Brazil and includes Mexico in package",
+   "excerpt_en": "Prudential Financial sold Brazil and Mexico operations to French CNP Assurances for $4.03 billion."
+  },
+  {
+   "id": "0e71a5ecc6",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Dona da Shopee lança divisão de computação em nuvem e avalia IPO de sua fintech",
+   "link": "https://neofeed.com.br/negocios/dona-da-shopee-lanca-divisao-de-computacao-em-nuvem-e-avalia-ipo-de-sua-fintech/",
+   "ts": 1792503584,
+   "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
+   "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
+   "title_en": "Shopee parent Sea launches cloud computing division and considers fintech IPO",
+   "excerpt_en": "Sea, Shopee's parent holding company, is expanding into cloud computing and evaluating fintech IPO."
+  },
+  {
+   "id": "fc2d87d0c2",
+   "src": "RCR Wireless",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "AI architecture remains unsettled as 6G core timeline compresses",
+   "link": "https://rcrwireless.com/20261020/6g/ai-6g-core",
+   "ts": 1792503071,
+   "summary": "Stephen Douglas, head of strategic thought leadership at Keysight Technologies, said during the recent RCR’s 6G Forum that future 6G technology will be standalone from the beginning with its own…",
+   "img": null
+  },
   {
    "id": "3ea6c8bbf4",
    "src": "DatacenterDynamics",
@@ -43,17 +80,6 @@
    "ts": 1792502657,
    "summary": "Initial purchase price of $610 million",
    "img": "https://media.datacenterdynamics.com/media/images/LOGO_CBRE.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "bdc00c7d24",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Magnora Data Center acquires 2MW facility in Oslo, Norway",
-   "link": "https://www.datacenterdynamics.com/en/news/magnora-data-center-acquires-2mw-facility-in-oslo-norway/",
-   "ts": 1792502459,
-   "summary": "Company partners with Blix",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-512300726.2e16d0ba.fill-750x500.jpg"
   },
   {
    "id": "d4dc0c8c83",
@@ -89,28 +115,6 @@
    "img": null
   },
   {
-   "id": "8c9c53ded8",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Google Reports Cloud Disruptions in Europe",
-   "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
-   "ts": 1792501452,
-   "summary": "The disruptions began around 7 a.m. in London after what the tech giant called a “power event.”",
-   "img": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "e7dc20c25b",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "RBC Weighs Blocking Meta’s AI Agent Muse, CEO McKay Says",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-20/rbc-weighs-blocking-meta-s-ai-agent-muse-ceo-mckay-video",
-   "ts": 1792500763,
-   "summary": "Dave McKay, president and CEO at Royal Bank of Canada, said he’s considering blocking Meta Platform Inc.’s popular artificial intelligence agent Muse from accessing the bank’s customer information. “You have to protect that consumer and then we’re liable for that as an organization,” McKay said on “Bloomberg Surveillance.” (Source: Bloomberg)",
-   "img": null
-  },
-  {
    "id": "0392b49379",
    "src": "Bloomberg",
    "lang": "EN",
@@ -120,41 +124,6 @@
    "ts": 1792500323,
    "summary": "DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
    "img": null
-  },
-  {
-   "id": "547e90c256",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
-   "link": "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
-   "ts": 1792500093,
-   "summary": "Latest in a tête-à-tête of data center strikes",
-   "img": "https://media.datacenterdynamics.com/media/images/51901801648_1261a6e8b7_c.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "9371fb6f84",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Eurobites: EU doubles down on KKR's Netco acquisition",
-   "link": "https://www.lightreading.com/regulatory-politics/eurobites-eu-doubles-down-on-kkr-s-netco-acquisition",
-   "ts": 1792499286,
-   "summary": "Also in today's EMEA regional roundup: Nexfibre vents anger at regulator's merger report; Telefónica and NOS do defense connectivity; Tele2's Q3.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltb28845a2a89fc9bd/65e0c4dfcb4eae040ab7d418/2PPM1HM.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "25503c3380",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El Ibex se queda sin apoyos y pierde los 19.000 puntos",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/20/6ad701bae5fdea41568b4586.html",
-   "ts": 1792498839,
-   "summary": "La prima de riesgo de Francia, las caídas de las tecnológicas y la presión del petróleo crean un escenario complicado de nuevo para los mercados financieros. El varapalo sufrido en Asia da paso a un nuevo freno en Europa que amenaza con borrar los 19.000 puntos del Ibex. Leer",
-   "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
-   "title_en": "Spanish stock market loses 19,000 points amid tech declines and oil pressure",
-   "excerpt_en": "Spain's Ibex index fell below 19,000 points amid weakness in tech stocks and rising oil pressure."
   },
   {
    "id": "09c90f60d5",
@@ -179,32 +148,6 @@
    "img": null
   },
   {
-   "id": "2865665464",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Revolut sufre una caída que impide a sus clientes hacer pagos, transferencias y acceder a sus cuentas",
-   "link": "https://elpais.com/economia/2026-10-20/revolut-sufre-una-caida-que-impide-a-sus-clientes-hacer-pagos-transferencias-y-acceder-a-sus-cuentas.html",
-   "ts": 1792498321,
-   "summary": "Un fallo en los servidores en la nube de Google provoca incidencias en otras compañías y bancos",
-   "img": "https://imagenes.elpais.com/resizer/v2/YYF2C5EFLVJ2DNRGU3KRWEDN24.jpg?auth=b96e842eb47cfefb9ac70648f06c084e051e4afbc6531610518777dfb72c1867",
-   "title_en": "Revolut outage prevents customer payments and account access after Google Cloud failure",
-   "excerpt_en": "Google Cloud server failures caused Revolut service outages, blocking customer payments and transfers."
-  },
-  {
-   "id": "5666b73f77",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Fluke lança sua plataforma de agentes de voz para B2B",
-   "link": "https://www.mobiletime.com.br/noticias/20/10/2026/fluke-agentes-de-voz-b2b/",
-   "ts": 1792498146,
-   "summary": "Lançado na última semana, o serviço de atendimento telefônico com agentes de voz tem quatro planos para empresas. O mais barato custa R$ 200 por mês com 200 minutos mensais",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-callcenter1RDZ-300x169.jpg",
-   "title_en": "Fluke launches voice agent platform for B2B customer service",
-   "excerpt_en": "Fluke launched voice agent service platform for B2B with plans starting at R$ 200 monthly."
-  },
-  {
    "id": "7562c790a7",
    "src": "Light Reading",
    "lang": "EN",
@@ -214,17 +157,6 @@
    "ts": 1792497600,
    "summary": "As the FCC considers ending the E-Rate program, which subsidizes telecom services for schools and libraries, a recent study shows that losing the program would cost the US economy $4.2 billion annually.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt55a630b755453263/6a5518e397c98a13209a9ef7/RF-exterior-view-us-school.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "c1d098207e",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Google experiences \"service disruption\" in UK cloud region",
-   "link": "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
-   "ts": 1792496160,
-   "summary": "Number of banks report issues",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-2159351659.52b402db.fill-750x500.jpg"
   },
   {
    "id": "a139fa06f5",
@@ -238,83 +170,37 @@
    "img": "https://media.datacenterdynamics.com/media/images/Claude.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "01f882d883",
+   "id": "2b8108084e",
    "src": "DatacenterDynamics",
    "lang": "EN",
    "sec": "dc",
-   "title": "Enersense and Betolar Oyj to develop security solutions for substations and data centers across the Baltics",
-   "link": "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
-   "ts": 1792493460,
-   "summary": "Finnish firms will target grid and industrial customers",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-959932976.2e16d0ba.fill-750x500.jpg"
+   "title": "Digital Realty breaks ground on 22MW data center in Ankara, Türkiye",
+   "link": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-22mw-data-center-in-ankara-t%C3%BCrkiye/",
+   "ts": 1792493230,
+   "summary": "Partnering with Turkish investment firm Rönesans",
+   "img": "https://media.datacenterdynamics.com/media/images/digital_realty_turkey_aovPW94.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "ecca3fbdf9",
-   "src": "Bloomberg",
+   "id": "e1930015b6",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "business",
-   "title": "Google Cloud Power Outage Impacts Revolut, Other Online Services",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
-   "ts": 1792492152,
-   "summary": "An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday, with the tech company citing power issues.",
-   "img": null
+   "sec": "dc",
+   "title": "Google-backed Symbiosis Coalition signs 320,000 ton carbon removal deal with agroforestry firm Working Trees",
+   "link": "https://www.datacenterdynamics.com/en/news/google-backed-symbiosis-coalition-signs-320000-ton-carbon-removal-deal-with-agroforestry-firm-working-trees/",
+   "ts": 1792493005,
+   "summary": "Will support the conversion of degraded cattle pastures in Brazil into mixed-species silvopasture systems",
+   "img": "https://media.datacenterdynamics.com/media/images/Working_Trees_Silvopasture.width-2.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "1e145796ee",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Google despliega en Madrid sus primeros robotaxis autónomos Waymo",
-   "link": "https://elpais.com/tecnologia/2026-10-20/google-despliega-en-madrid-sus-primeros-robotaxis-autonomos-waymo.html",
-   "ts": 1792490718,
-   "summary": "Los coches sin conductor empezarán a rodar en los próximos días por las calles de Alcobendas, Getafe y de la capital y se empezarán a comercializar viajes a partir de 2027",
-   "img": "https://imagenes.elpais.com/resizer/v2/BL4EB4FEAJIBRL5GPZUARDON7Q.jpg?auth=91e4cb57306a26b8e5785526cf904de4d4318b8fda630c8c491978c58df7ee04",
-   "title_en": "Google deploys first Waymo autonomous taxis in Madrid",
-   "excerpt_en": "Google deployed Waymo autonomous taxis in Madrid; commercial rides to start in 2027."
-  },
-  {
-   "id": "8f16ac46b9",
-   "src": "Bloomberg",
+   "id": "321ec64407",
+   "src": "Data Center Knowledge",
    "lang": "EN",
-   "sec": "business",
-   "title": "Apple Faces UK Pressure to Open iPhone to Rival Wallets",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-20/apple-faces-uk-pressure-to-open-iphone-to-rival-wallets",
-   "ts": 1792490400,
-   "summary": "Apple Inc.’s control over the iPhone is blocking fintech rivals from competing with its digital wallet, the UK’s antitrust watchdog said proposing to force the Big Tech firm to open up its its contactless technology.",
-   "img": null
-  },
-  {
-   "id": "68c64cabc2",
-   "src": "RCR Wireless",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "EU MNO NTN JV? Big four seek satellite control in name of sovereignty (Telco Diary)",
-   "link": "https://rcrwireless.com/20261020/opinion/eu-mno-ntn-jv-big-four-seek-satellite-control-in-name-of-sovereignty-telco-diary",
-   "ts": 1792489355,
-   "summary": "From the newsletter (October 19; sign-up or follow if you want it sooner): Deutsche Telekom, Orange, Telefónica and Vodafone want a joint position on mobile satellite spectrum, but can Europe’s…",
-   "img": null
-  },
-  {
-   "id": "d84cd8bf30",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Trump envoys to hold fresh Ukraine talks in Norway",
-   "link": "https://www.ft.com/content/581d8a59-b128-4f68-9f34-6c066b36ca5b?syn-25a6b1a6=1",
-   "ts": 1792488688,
-   "summary": "Steve Witkoff and Jared Kushner to meet Volodymyr Zelenskyy and other European leaders on Tuesday",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd03cfa4e-c7df-4a3d-bec5-e9618aaa2f54.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "506646dbe5",
-   "src": "MIT Technology Review",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "A visit to Samsung’s massive new semiconductor hub",
-   "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+   "sec": "dc",
+   "title": "Is Front-of-the-Meter Power the Next Data Center Play?",
+   "link": "https://www.datacenterknowledge.com/energy-power-supply/is-front-of-the-meter-power-the-next-data-center-play-",
    "ts": 1792486800,
-   "summary": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate around the clock, and a fourth is coming online. Construction…",
-   "img": "https://wp.technologyreview.com/wp-content/uploads/2026/10/map.png?w=840"
+   "summary": "Front-of-the-meter power could help data centers ease grid strain, expand capacity, and address growing concerns over energy demand.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt17028a1f85bdcde3/6ad24df0f9076372fef9d077/Development_of_an_electrical_station_with_visible_structures_equipment_fence_and_land_preparation_with_machinery.png?width=720&quality=80&disable=upscale"
   },
   {
    "id": "f32c16c8ac",
@@ -348,8 +234,8 @@
    "ts": 1792459935,
    "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
-   "title_en": "European telecoms form consortium for D2D and satellite spectrum in 2 GHz band",
-   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone signed letter of intent for European satellite consortium."
+   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone join together for D2D in Europe and want to buy spectrum",
+   "excerpt_en": "European telecoms signed letter of intent to form consortium for 2 GHz spectrum auction participation."
   },
   {
    "id": "950e2c1aea",
@@ -361,8 +247,8 @@
    "ts": 1792456658,
    "summary": "Natália Inácio, do DE-CIX no Brasil, afirma que a IA transforma a latência em um fator de negócios e defende a descentralização da infraestrutura digital.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews-de-cix-brasil-mf141026.jpeg",
-   "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting 80+ Brazilian networks",
-   "excerpt_en": "DE-CIX connected over 80 networks in Brazil and evaluates Fortaleza expansion."
+   "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting more than 80 networks in Brazil",
+   "excerpt_en": "DE-CIX Brazil executive states AI transforms latency into business factor, defends digital infrastructure decentralization."
   },
   {
    "id": "933725c3bc",
@@ -374,21 +260,8 @@
    "ts": 1792454133,
    "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
-   "title_en": "Telefónica and other European operators advance D2D with European satellite structure",
-   "excerpt_en": "European operators aim to advance satellite connectivity with fully European infrastructure."
-  },
-  {
-   "id": "ad8f8d68c7",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Vivo Ventures investe na Squad.com para levar soluções de IA a PMEs",
-   "link": "https://teletime.com.br/19/10/2026/vivo-ventures-squad-com/",
-   "ts": 1792442355,
-   "summary": "Aporte do Vivo Ventures, fundo de investimento corporativo da Vivo, na Squad.com, plataforma da Inner AI, abre a possibilidade de a operadora ofertar soluções de inteligência artificial a pequenos e médios negócios; empresas farão turnê pelo Brasil para apresentar o serviço em 2027",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/10/IA-inteligencia-artificial-trabalho-freepik-534x462.webp",
-   "title_en": "Vivo Ventures invests in Squad.com to provide AI solutions to SMEs",
-   "excerpt_en": "Vivo Ventures invested in Squad.com platform to offer AI solutions to small and medium businesses."
+   "title_en": "Telefónica and other European operators want to advance in D2D",
+   "excerpt_en": "Companies explain intent to advance satellite connectivity with completely European structure."
   },
   {
    "id": "8a14072db9",
@@ -401,7 +274,7 @@
    "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
    "title_en": "European operators study joint offer for satellite spectrum",
-   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open-access model for D2D satellite spectrum."
+   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluating open-access model for D2D."
   },
   {
    "id": "d3f5374110",
@@ -413,6 +286,17 @@
    "ts": 1792425255,
    "summary": "Deutsche Telekom, Orange, Telefónica and Vodafone consider joint bid for mobile satellite spectrum next year to build European alternative to Starlink.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1cda0451bb1dcbc4/651695db04fc4c6b40df14e4/M9MAJK.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "df653d82d7",
+   "src": "Data Center Knowledge",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
+   "link": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
+   "ts": 1792422590,
+   "summary": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blteaa81fac011f2792/6ad63476af0652e6e94fb9b8/nscale.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "0212904caa",
