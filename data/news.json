@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-10-20T13:48:59Z",
+ "updated_utc": "2026-10-20T13:51:38Z",
  "edition": "07:00",
  "translated": true,
  "chart": {
-  "title": "Amazon nuclear power purchase agreement capacity",
-  "value": "960-MW",
+  "title": "AEP nuclear deal with Amazon for Indiana power",
+  "value": "960MW",
   "total": "",
-  "value_label": "Indiana nuclear facility capacity",
+  "value_label": "nuclear capacity",
   "total_label": "",
   "id": "0212904caa"
  },
@@ -17,19 +17,19 @@
    "id": "f4b808c85a"
   },
   {
+   "value": "$4.2 billion",
+   "label": "annual GDP cost of eliminating E-Rate program",
+   "id": "7562c790a7"
+  },
+  {
    "value": "$115 million",
    "label": "Reliable Robotics Series D equity funding",
    "id": "54693e4e62"
   },
   {
-   "value": "$4.2 billion",
-   "label": "Annual US GDP loss from eliminating E-Rate program",
-   "id": "7562c790a7"
-  },
-  {
-   "value": "€48.4M",
-   "label": "EU CEF Digital funding for PISCES subsea cable",
-   "id": "d1515fd161"
+   "value": "$610 million",
+   "label": "CBRE initial purchase price for Onnec data center",
+   "id": "3ea6c8bbf4"
   }
  ],
  "items": [
@@ -43,8 +43,8 @@
    "ts": 1792503885,
    "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
    "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
-   "title_en": "CNP Assurances wins Prudential dispute in Brazil and includes Mexico in package",
-   "excerpt_en": "Prudential Financial sold Brazil and Mexico operations to French CNP Assurances for $4.03 billion."
+   "title_en": "CNP wins Prudential dispute in Brazil and includes Mexico in package",
+   "excerpt_en": "Prudential Financial sold operations in Brazil and Mexico to French group CNP Assurances for $4.03 billion in cash."
   },
   {
    "id": "0e71a5ecc6",
@@ -56,8 +56,8 @@
    "ts": 1792503584,
    "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
    "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
-   "title_en": "Shopee parent Sea launches cloud computing division and considers fintech IPO",
-   "excerpt_en": "Sea, Shopee's parent holding company, is expanding into cloud computing and evaluating fintech IPO."
+   "title_en": "Shopee's parent launches cloud computing division and evaluates fintech IPO",
+   "excerpt_en": "Sea Limited launches Sea Cloud computing unit and evaluates IPO for its fintech operations."
   },
   {
    "id": "fc2d87d0c2",
@@ -192,17 +192,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/Working_Trees_Silvopasture.width-2.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "321ec64407",
-   "src": "Data Center Knowledge",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Is Front-of-the-Meter Power the Next Data Center Play?",
-   "link": "https://www.datacenterknowledge.com/energy-power-supply/is-front-of-the-meter-power-the-next-data-center-play-",
-   "ts": 1792486800,
-   "summary": "Front-of-the-meter power could help data centers ease grid strain, expand capacity, and address growing concerns over energy demand.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt17028a1f85bdcde3/6ad24df0f9076372fef9d077/Development_of_an_electrical_station_with_visible_structures_equipment_fence_and_land_preparation_with_machinery.png?width=720&quality=80&disable=upscale"
-  },
-  {
    "id": "f32c16c8ac",
    "src": "Light Reading",
    "lang": "EN",
@@ -214,17 +203,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1c9b98e5ea49ad5f/67bc5b6e792f5363e7c7674c/Ericsson_head_of_cloud_software_and_services_Per_Narvinger.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "ca656d75d6",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-   "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-   "ts": 1792479660,
-   "summary": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-   "img": null
-  },
-  {
    "id": "7772b98b19",
    "src": "Teletime",
    "lang": "PT",
@@ -234,8 +212,8 @@
    "ts": 1792459935,
    "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone join together for D2D in Europe and want to buy spectrum",
-   "excerpt_en": "European telecoms signed letter of intent to form consortium for 2 GHz spectrum auction participation."
+   "title_en": "European telcos band together for D2D satellite spectrum in EU auction",
+   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone signed letter of intent for European D2D satellite consortium."
   },
   {
    "id": "950e2c1aea",
@@ -247,34 +225,47 @@
    "ts": 1792456658,
    "summary": "Natália Inácio, do DE-CIX no Brasil, afirma que a IA transforma a latência em um fator de negócios e defende a descentralização da infraestrutura digital.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews-de-cix-brasil-mf141026.jpeg",
-   "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting more than 80 networks in Brazil",
-   "excerpt_en": "DE-CIX Brazil executive states AI transforms latency into business factor, defends digital infrastructure decentralization."
+   "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting over 80 networks in Brazil",
+   "excerpt_en": "DE-CIX Brazil executive says AI transforms latency into business factor and defends infrastructure decentralization."
   },
   {
-   "id": "933725c3bc",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Telefónica e outras operadoras europeias querem avançar em D2D",
-   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/telefonica-e-telcos-d2d/",
-   "ts": 1792454133,
-   "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
-   "title_en": "Telefónica and other European operators want to advance in D2D",
-   "excerpt_en": "Companies explain intent to advance satellite connectivity with completely European structure."
+   "id": "93756dc4f3",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Axelera llega a México con chips especializados en IA",
+   "link": "https://dplnews.com/axelera-llega-mexico-chips-especializados-ia/",
+   "ts": 1792454689,
+   "summary": "La propuesta de Axelera AI busca derribar el cuello de botella que frena la adopción real de la IA.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/10/MANUEL-AXELERA-DPL-AGC-2026.jpeg",
+   "title_en": "Axelera arrives in Mexico with AI-specialized chips",
+   "excerpt_en": "Axelera AI brought specialized chips to Mexico to overcome AI adoption bottleneck."
   },
   {
-   "id": "8a14072db9",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Operadoras europeias estudam oferta conjunta por espectro de satélite",
-   "link": "https://telesintese.com.br/operadoras-europeias-estudam-oferta-conjunta-por-espectro-de-satelite/",
-   "ts": 1792426196,
-   "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
-   "title_en": "European operators study joint offer for satellite spectrum",
-   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluating open-access model for D2D."
+   "id": "19c43fb507",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Aprueban exención de tasas para impulsar el internet satelital en las zonas rurales de El Salvador",
+   "link": "https://dplnews.com/aprueban-exencion-de-tasas-para-impulsar-el-internet-satelital-en-las-zonas-rurales-de-el-salvador/",
+   "ts": 1792454629,
+   "summary": "Contrapunto La aprobación de una reforma a la normativa especial para facilitar el acceso a internet satelital busca ampliar la cobertura de conectividad en las comunidades rurales y sectores aislados de El Salvador, donde las limitaciones de infraestructura continúan representando un desafío para el acceso a los servicios digitales. De acuerdo con la información publicada […]",
+   "img": "https://dplnews.com/wp-content/uploads/2025/04/Enacom.webp",
+   "title_en": "El Salvador approves tax exemption to promote satellite internet in rural areas",
+   "excerpt_en": "El Salvador approved reform to special regulations to facilitate satellite internet access in rural communities."
+  },
+  {
+   "id": "4a394815d1",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Altán Redes crece de la mano de Bait y supera a Movistar en ingreso por usuario",
+   "link": "https://dplnews.com/altan-redes-crece-de-la-mano-de-bait-y-supera-a-movistar-en-ingreso-por-usuario/",
+   "ts": 1792454055,
+   "summary": "El CEO Altán Redes, la empresa que opera la Red Compartida en México, tendría un ingreso promedio por usuario (ARPU) superior al de Telefónica México (Movistar), a través de las marcas que utilizan su infraestructura, de acuerdo con estimaciones de especialistas del sector de telecomunicaciones. La diferencia se presenta pese a que ambas compañías operan […]",
+   "img": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_altan-redes_mc21025.png",
+   "title_en": "Altán Redes grows with Bait and surpasses Movistar in user revenue",
+   "excerpt_en": "Altán Redes, operator of Mexico's Shared Network, achieved higher ARPU than Telefónica Mexico."
   },
   {
    "id": "d3f5374110",
