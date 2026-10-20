@@ -119,18 +119,23 @@ Items (id | headline | excerpt):
 def call_claude(prompt):
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     body = json.dumps({
-        "model": MODEL, "max_tokens": 12000,
-        "messages": [{"role": "user", "content": prompt}],
+        "model": MODEL, "max_tokens": 16000,
+        "tools": [{"name": "submit", "description": "Return the requested JSON object.",
+                   "input_schema": {"type": "object", "additionalProperties": True}}],
+        "tool_choice": {"type": "tool", "name": "submit"},
+        "messages": [{"role": "user", "content": prompt.replace("Return ONLY a JSON object", "Call the submit tool with a JSON object")}],
     }).encode()
     req = urllib.request.Request("https://api.anthropic.com/v1/messages", data=body, headers={
         "x-api-key": key, "anthropic-version": "2023-06-01", "content-type": "application/json"})
     try:
         r = json.loads(urllib.request.urlopen(req, timeout=240).read())
-        text = "".join(b.get("text", "") for b in r.get("content", []))
         u = r.get("usage", {})
-        log("claude usage", u.get("input_tokens"), "in /", u.get("output_tokens"), "out")
-        m = re.search(r"\{.*\}", text, re.S)
-        return json.loads(m.group(0))
+        log("claude usage", u.get("input_tokens"), "in /", u.get("output_tokens"), "out", r.get("stop_reason"))
+        for blk in r.get("content", []):
+            if blk.get("type") == "tool_use" and isinstance(blk.get("input"), dict):
+                return blk["input"]
+        log("CLAUDE FAIL no tool output")
+        return None
     except Exception as ex:
         log("CLAUDE FAIL", ex)
         return None
