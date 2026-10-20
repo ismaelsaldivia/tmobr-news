@@ -1,38 +1,44 @@
 {
- "updated_utc": "2026-10-20T13:53:36Z",
+ "updated_utc": "2026-10-20T14:01:31Z",
  "edition": "07:00",
  "translated": true,
  "chart": {
-  "title": "Amazon nuclear power purchase in Indiana",
+  "title": "AEP Amazon nuclear power purchase capacity",
   "value": "960MW",
   "total": "",
-  "value_label": "Amazon nuclear capacity",
+  "value_label": "capacity",
   "total_label": "",
   "id": "0212904caa"
  },
  "numbers": [
   {
    "value": "$5.7 billion",
-   "label": "Salesforce acquisition of Braze",
+   "label": "Salesforce acquires Braze",
    "id": "f4b808c85a"
   },
   {
    "value": "$4.2 billion",
-   "label": "Annual US GDP impact of eliminating E-Rate",
+   "label": "E-Rate elimination annual GDP cost",
    "id": "7562c790a7"
   },
   {
-   "value": "$610 million",
-   "label": "CBRE purchase price for Onnec",
-   "id": "3ea6c8bbf4"
-  },
-  {
-   "value": "320,000 ton",
-   "label": "Symbiosis carbon removal deal size",
-   "id": "e1930015b6"
+   "value": "$115 million",
+   "label": "Reliable Robotics Series D raise",
+   "id": "54693e4e62"
   }
  ],
  "items": [
+  {
+   "id": "ebdb86e7be",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Another data center IPO fizzles as investor appetite wanes",
+   "link": "https://www.lightreading.com/finance/another-data-center-ipo-fizzes-as-investor-appetite-wanes",
+   "ts": 1792504781,
+   "summary": "South Korean data center firm Elice's IPO disappointment is the latest sign the AI boom may have peaked.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt927865c771f80f1e/68c6b6c33bea6b0228fbc132/Server_rack_cluster_in_a_data_center.jpg?width=720&quality=80&disable=upscale"
+  },
   {
    "id": "f02ef72188",
    "src": "Pipeline Valor",
@@ -43,8 +49,8 @@
    "ts": 1792503885,
    "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
    "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
-   "title_en": "CNP wins Prudential dispute in Brazil and Mexico",
-   "excerpt_en": "Prudential Financial sold its Brazil and Mexico operations to French CNP Assurances for $4.03 billion."
+   "title_en": "CNP Assurances wins Prudential Brazil and Mexico operations for $4.03 billion",
+   "excerpt_en": "French CNP Assurances acquired Prudential Financial's Brazil and Mexico operations for $4.03 billion in cash."
   },
   {
    "id": "0e71a5ecc6",
@@ -56,19 +62,8 @@
    "ts": 1792503584,
    "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
    "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
-   "title_en": "Shopee owner launches cloud computing division and evaluates fintech IPO",
-   "excerpt_en": "Sea launches cloud computing unit Sea Cloud and evaluates IPO of fintech operations."
-  },
-  {
-   "id": "fc2d87d0c2",
-   "src": "RCR Wireless",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "AI architecture remains unsettled as 6G core timeline compresses",
-   "link": "https://rcrwireless.com/20261020/6g/ai-6g-core",
-   "ts": 1792503071,
-   "summary": "Stephen Douglas, head of strategic thought leadership at Keysight Technologies, said during the recent RCR’s 6G Forum that future 6G technology will be standalone from the beginning with its own…",
-   "img": null
+   "title_en": "Sea Limited launches cloud computing division and evaluates fintech IPO",
+   "excerpt_en": "Shopee's parent company Sea is expanding with a new cloud computing unit called Sea Cloud and evaluating fintech IPO."
   },
   {
    "id": "3ea6c8bbf4",
@@ -104,6 +99,28 @@
    "img": null
   },
   {
+   "id": "8c9c53ded8",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Google Reports Cloud Disruptions in Europe",
+   "link": "https://www.nytimes.com/2026/10/20/technology/google-cloud-down-outage-europe.html",
+   "ts": 1792501452,
+   "summary": "The disruptions began around 7 a.m. in London after what the tech giant called a “power event.”",
+   "img": "https://static01.nyt.com/images/2026/10/20/multimedia/20xp-cloudoutage-mpgb/20xp-cloudoutage-mpgb-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "e7dc20c25b",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "RBC Weighs Blocking Meta’s AI Agent Muse, CEO McKay Says",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-20/rbc-weighs-blocking-meta-s-ai-agent-muse-ceo-mckay-video",
+   "ts": 1792500763,
+   "summary": "Dave McKay, president and CEO at Royal Bank of Canada, said he’s considering blocking Meta Platform Inc.’s popular artificial intelligence agent Muse from accessing the bank’s customer information. “You have to protect that consumer and then we’re liable for that as an organization,” McKay said on “Bloomberg Surveillance.” (Source: Bloomberg)",
+   "img": null
+  },
+  {
    "id": "0392b49379",
    "src": "Bloomberg",
    "lang": "EN",
@@ -113,6 +130,28 @@
    "ts": 1792500323,
    "summary": "DeepSeek is opening up the software it uses to run its artificial intelligence models at scale, potentially making its technology cheaper and easier for businesses to run.",
    "img": null
+  },
+  {
+   "id": "547e90c256",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
+   "link": "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
+   "ts": 1792500093,
+   "summary": "Latest in a tête-à-tête of data center strikes",
+   "img": "https://media.datacenterdynamics.com/media/images/51901801648_1261a6e8b7_c.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "9371fb6f84",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Eurobites: EU doubles down on KKR's Netco acquisition",
+   "link": "https://www.lightreading.com/regulatory-politics/eurobites-eu-doubles-down-on-kkr-s-netco-acquisition",
+   "ts": 1792499286,
+   "summary": "Also in today's EMEA regional roundup: Nexfibre vents anger at regulator's merger report; Telefónica and NOS do defense connectivity; Tele2's Q3.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltb28845a2a89fc9bd/65e0c4dfcb4eae040ab7d418/2PPM1HM.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "09c90f60d5",
@@ -181,17 +220,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/digital_realty_turkey_aovPW94.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "e1930015b6",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Google-backed Symbiosis Coalition signs 320,000 ton carbon removal deal with agroforestry firm Working Trees",
-   "link": "https://www.datacenterdynamics.com/en/news/google-backed-symbiosis-coalition-signs-320000-ton-carbon-removal-deal-with-agroforestry-firm-working-trees/",
-   "ts": 1792493005,
-   "summary": "Will support the conversion of degraded cattle pastures in Brazil into mixed-species silvopasture systems",
-   "img": "https://media.datacenterdynamics.com/media/images/Working_Trees_Silvopasture.width-2.2e16d0ba.fill-750x500.png"
-  },
-  {
    "id": "ecca3fbdf9",
    "src": "Bloomberg",
    "lang": "EN",
@@ -214,6 +242,17 @@
    "img": null
   },
   {
+   "id": "321ec64407",
+   "src": "Data Center Knowledge",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Is Front-of-the-Meter Power the Next Data Center Play?",
+   "link": "https://www.datacenterknowledge.com/energy-power-supply/is-front-of-the-meter-power-the-next-data-center-play-",
+   "ts": 1792486800,
+   "summary": "Front-of-the-meter power could help data centers ease grid strain, expand capacity, and address growing concerns over energy demand.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt17028a1f85bdcde3/6ad24df0f9076372fef9d077/Development_of_an_electrical_station_with_visible_structures_equipment_fence_and_land_preparation_with_machinery.png?width=720&quality=80&disable=upscale"
+  },
+  {
    "id": "f32c16c8ac",
    "src": "Light Reading",
    "lang": "EN",
@@ -225,6 +264,17 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1c9b98e5ea49ad5f/67bc5b6e792f5363e7c7674c/Ericsson_head_of_cloud_software_and_services_Per_Narvinger.jpg?width=720&quality=80&disable=upscale"
   },
   {
+   "id": "5d41728672",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "South Korean data centre builder tumbles 32% on trading debut",
+   "link": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+   "ts": 1792479801,
+   "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d3db0a6-7db6-45ef-bc81-f8152c7f9550.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
    "id": "7772b98b19",
    "src": "Teletime",
    "lang": "PT",
@@ -234,47 +284,8 @@
    "ts": 1792459935,
    "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
-   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone join for D2D in Europe and want spectrum",
-   "excerpt_en": "European telcos signed letter of intent for consortium to bid on 2 GHz spectrum."
-  },
-  {
-   "id": "950e2c1aea",
-   "src": "DPL News",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "DE-CIX avalia expansão para Fortaleza após conectar mais de 80 redes no Brasil",
-   "link": "https://dplnews.com/de-cix-avalia-expansao-para-fortaleza-brasil/",
-   "ts": 1792456658,
-   "summary": "Natália Inácio, do DE-CIX no Brasil, afirma que a IA transforma a latência em um fator de negócios e defende a descentralização da infraestrutura digital.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews-de-cix-brasil-mf141026.jpeg",
-   "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting over 80 networks in Brazil",
-   "excerpt_en": "DE-CIX connected over 80 networks in Brazil and evaluates expansion to Fortaleza."
-  },
-  {
-   "id": "93756dc4f3",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Axelera llega a México con chips especializados en IA",
-   "link": "https://dplnews.com/axelera-llega-mexico-chips-especializados-ia/",
-   "ts": 1792454689,
-   "summary": "La propuesta de Axelera AI busca derribar el cuello de botella que frena la adopción real de la IA.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/MANUEL-AXELERA-DPL-AGC-2026.jpeg",
-   "title_en": "Axelera arrives in Mexico with AI specialized chips",
-   "excerpt_en": "Axelera AI reached Mexico with specialized chips to address AI adoption bottleneck."
-  },
-  {
-   "id": "19c43fb507",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Aprueban exención de tasas para impulsar el internet satelital en las zonas rurales de El Salvador",
-   "link": "https://dplnews.com/aprueban-exencion-de-tasas-para-impulsar-el-internet-satelital-en-las-zonas-rurales-de-el-salvador/",
-   "ts": 1792454629,
-   "summary": "Contrapunto La aprobación de una reforma a la normativa especial para facilitar el acceso a internet satelital busca ampliar la cobertura de conectividad en las comunidades rurales y sectores aislados de El Salvador, donde las limitaciones de infraestructura continúan representando un desafío para el acceso a los servicios digitales. De acuerdo con la información publicada […]",
-   "img": "https://dplnews.com/wp-content/uploads/2025/04/Enacom.webp",
-   "title_en": "El Salvador approves fee exemption to boost satellite internet in rural zones",
-   "excerpt_en": "El Salvador approved regulatory reform to facilitate satellite internet access in rural communities."
+   "title_en": "European operators partner for device-to-device satellite spectrum in EU",
+   "excerpt_en": "Four major European telcos signed letter of intent to acquire 2 GHz spectrum for D2D offerings."
   },
   {
    "id": "933725c3bc",
@@ -286,21 +297,19 @@
    "ts": 1792454133,
    "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
-   "title_en": "Telefónica and other European operators want to advance in D2D",
-   "excerpt_en": "Companies aim to advance satellite connection with completely European structure."
+   "title_en": "European telcos seek joint satellite spectrum acquisition for device-to-device",
+   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom pursue joint satellite spectrum for European D2D connectivity alternative."
   },
   {
-   "id": "8a14072db9",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Operadoras europeias estudam oferta conjunta por espectro de satélite",
-   "link": "https://telesintese.com.br/operadoras-europeias-estudam-oferta-conjunta-por-espectro-de-satelite/",
-   "ts": 1792426196,
-   "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
-   "title_en": "European operators study joint offer for satellite spectrum",
-   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open access model for D2D."
+   "id": "dcf0e205ec",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "What Google’s virtual power plant in PJM says about the race for electricity",
+   "link": "https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/",
+   "ts": 1792426588,
+   "summary": "Voltus CEO Dana Guernsey compared new “bring your own new capacity” contracts to the power purchase agreements that “revolutionized” utility-scale solar and wind development.",
+   "img": "https://imgproxy.divecdn.com/je2zuSEkYs-JqPA2PdScvEkXgiEdNysBoZoCmyjmZIM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ob21lX0RFUl9tYW5hZ2VtZW50X2FwcC5qcGc=.webp"
   },
   {
    "id": "d3f5374110",
@@ -323,17 +332,6 @@
    "ts": 1792418088,
    "summary": "If the project is developed, Amazon would purchase the power under a long-term contract that covers the cost of the facility and its operations, the companies said.",
    "img": "https://imgproxy.divecdn.com/6XGE9RqYyTTqaRNSe4GcWngFpE1sWFnbVjqyncQfASw/g:nowe:0:0/c:1952:1103/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc1MzkxOTM4LmpwZw==.webp"
-  },
-  {
-   "id": "d1515fd161",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Orange, MDM and Equitix Launch Joint Venture to Develop PISCES Cable System",
-   "link": "https://www.submarinenetworks.com/en/systems/intra-europe/pisces/orange-mdm-and-equitix-launch-joint-venture-to-develop-pisces-cable-system",
-   "ts": 1792381889,
-   "summary": "PISCES Cable System Ltd Orange Equitix MDM Subsea EU CEF Digital (€48.4M) European Digital Sovereignty In mid-October 2026, French telecommunications operator Orange , global infrastructure investment manager Equitix , and Irish subsea engineering specialist McMahon Design and Management Ltd (MDM) formally launched PISCES Cable System Limited . The dedicated joint-venture entity was established to",
-   "img": null
   }
  ]
 }
