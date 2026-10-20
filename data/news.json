@@ -1,35 +1,35 @@
 {
- "updated_utc": "2026-10-20T13:51:38Z",
+ "updated_utc": "2026-10-20T13:53:36Z",
  "edition": "07:00",
  "translated": true,
  "chart": {
-  "title": "AEP nuclear deal with Amazon for Indiana power",
+  "title": "Amazon nuclear power purchase in Indiana",
   "value": "960MW",
   "total": "",
-  "value_label": "nuclear capacity",
+  "value_label": "Amazon nuclear capacity",
   "total_label": "",
   "id": "0212904caa"
  },
  "numbers": [
   {
    "value": "$5.7 billion",
-   "label": "Salesforce acquisition of Braze marketing platform",
+   "label": "Salesforce acquisition of Braze",
    "id": "f4b808c85a"
   },
   {
    "value": "$4.2 billion",
-   "label": "annual GDP cost of eliminating E-Rate program",
+   "label": "Annual US GDP impact of eliminating E-Rate",
    "id": "7562c790a7"
   },
   {
-   "value": "$115 million",
-   "label": "Reliable Robotics Series D equity funding",
-   "id": "54693e4e62"
+   "value": "$610 million",
+   "label": "CBRE purchase price for Onnec",
+   "id": "3ea6c8bbf4"
   },
   {
-   "value": "$610 million",
-   "label": "CBRE initial purchase price for Onnec data center",
-   "id": "3ea6c8bbf4"
+   "value": "320,000 ton",
+   "label": "Symbiosis carbon removal deal size",
+   "id": "e1930015b6"
   }
  ],
  "items": [
@@ -43,8 +43,8 @@
    "ts": 1792503885,
    "summary": "A Prudential Financial fechou a venda das suas operações no Brasil e no México para o grupo francês CNP Assurances. A americana informa preço total de US$ 4,03 bilhões em dinheiro, sujeito a ajustes de fechamento. A conclusão está prevista para o segundo semestre de 2027, após aprovação de órgãos reguladores. A aquisição do pacote de operações, um lance em patamar elevado - enquanto outros propone",
    "img": "https://s2-pipelinevalor.glbimg.com/Yhlwjn6eXwyWojVZdjehHEkJezQ=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/i/j/lw4OvrTX6wQzStBL37RQ/whatsapp-image-2026-07-22-at-19.32.02.jpeg",
-   "title_en": "CNP wins Prudential dispute in Brazil and includes Mexico in package",
-   "excerpt_en": "Prudential Financial sold operations in Brazil and Mexico to French group CNP Assurances for $4.03 billion in cash."
+   "title_en": "CNP wins Prudential dispute in Brazil and Mexico",
+   "excerpt_en": "Prudential Financial sold its Brazil and Mexico operations to French CNP Assurances for $4.03 billion."
   },
   {
    "id": "0e71a5ecc6",
@@ -56,8 +56,8 @@
    "ts": 1792503584,
    "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno […] O post Dona da Shopee lança divisão de computação em nuvem e avalia I",
    "img": "https://neofeed.com.br/wp-content/uploads/2022/09/shopee-2-1-300x169.jpg",
-   "title_en": "Shopee's parent launches cloud computing division and evaluates fintech IPO",
-   "excerpt_en": "Sea Limited launches Sea Cloud computing unit and evaluates IPO for its fintech operations."
+   "title_en": "Shopee owner launches cloud computing division and evaluates fintech IPO",
+   "excerpt_en": "Sea launches cloud computing unit Sea Cloud and evaluates IPO of fintech operations."
   },
   {
    "id": "fc2d87d0c2",
@@ -80,17 +80,6 @@
    "ts": 1792502657,
    "summary": "Initial purchase price of $610 million",
    "img": "https://media.datacenterdynamics.com/media/images/LOGO_CBRE.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "d4dc0c8c83",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "DataVault plans 3MW data center in Auckland, New Zealand",
-   "link": "https://www.datacenterdynamics.com/en/news/datavault-plans-3mw-data-center-in-auckland-new-zealand/",
-   "ts": 1792502324,
-   "summary": "First phase due live next year, 11 carriers signed up",
-   "img": "https://media.datacenterdynamics.com/media/images/datavault_auckland_NZ.2e16d0ba.fill-750x500.png"
   },
   {
    "id": "54693e4e62",
@@ -159,6 +148,17 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt55a630b755453263/6a5518e397c98a13209a9ef7/RF-exterior-view-us-school.jpg?width=720&quality=80&disable=upscale"
   },
   {
+   "id": "c1d098207e",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Google experiences \"service disruption\" in UK cloud region",
+   "link": "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
+   "ts": 1792496160,
+   "summary": "Number of banks report issues",
+   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-2159351659.52b402db.fill-750x500.jpg"
+  },
+  {
    "id": "a139fa06f5",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -192,6 +192,28 @@
    "img": "https://media.datacenterdynamics.com/media/images/Working_Trees_Silvopasture.width-2.2e16d0ba.fill-750x500.png"
   },
   {
+   "id": "ecca3fbdf9",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Google Cloud Power Outage Impacts Revolut, Other Online Services",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
+   "ts": 1792492152,
+   "summary": "An outage at Google Cloud knocked out online services including digital bank Revolut Ltd. for several hours through Tuesday, with the tech company citing power issues.",
+   "img": null
+  },
+  {
+   "id": "68c64cabc2",
+   "src": "RCR Wireless",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "EU MNO NTN JV? Big four seek satellite control in name of sovereignty (Telco Diary)",
+   "link": "https://rcrwireless.com/20261020/opinion/eu-mno-ntn-jv-big-four-seek-satellite-control-in-name-of-sovereignty-telco-diary",
+   "ts": 1792489355,
+   "summary": "From the newsletter (October 19; sign-up or follow if you want it sooner): Deutsche Telekom, Orange, Telefónica and Vodafone want a joint position on mobile satellite spectrum, but can Europe’s…",
+   "img": null
+  },
+  {
    "id": "f32c16c8ac",
    "src": "Light Reading",
    "lang": "EN",
@@ -212,8 +234,8 @@
    "ts": 1792459935,
    "summary": "Teles europeias assinaram uma carta de intenções visando à formação de um consórcio para participação no leilão da faixa de 2 GHz na União Europeia; operadoras planejam lançar ofertas D2D utilizando o espectro, com um parceiro satelital ainda a ser escolhido",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/satelite-satelite-espaco-orbita-freepik-534x462.webp",
-   "title_en": "European telcos band together for D2D satellite spectrum in EU auction",
-   "excerpt_en": "Telefónica, Deutsche Telekom, Orange and Vodafone signed letter of intent for European D2D satellite consortium."
+   "title_en": "Telefónica, Deutsche Telekom, Orange and Vodafone join for D2D in Europe and want spectrum",
+   "excerpt_en": "European telcos signed letter of intent for consortium to bid on 2 GHz spectrum."
   },
   {
    "id": "950e2c1aea",
@@ -226,7 +248,7 @@
    "summary": "Natália Inácio, do DE-CIX no Brasil, afirma que a IA transforma a latência em um fator de negócios e defende a descentralização da infraestrutura digital.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews-de-cix-brasil-mf141026.jpeg",
    "title_en": "DE-CIX evaluates expansion to Fortaleza after connecting over 80 networks in Brazil",
-   "excerpt_en": "DE-CIX Brazil executive says AI transforms latency into business factor and defends infrastructure decentralization."
+   "excerpt_en": "DE-CIX connected over 80 networks in Brazil and evaluates expansion to Fortaleza."
   },
   {
    "id": "93756dc4f3",
@@ -238,8 +260,8 @@
    "ts": 1792454689,
    "summary": "La propuesta de Axelera AI busca derribar el cuello de botella que frena la adopción real de la IA.",
    "img": "https://dplnews.com/wp-content/uploads/2026/10/MANUEL-AXELERA-DPL-AGC-2026.jpeg",
-   "title_en": "Axelera arrives in Mexico with AI-specialized chips",
-   "excerpt_en": "Axelera AI brought specialized chips to Mexico to overcome AI adoption bottleneck."
+   "title_en": "Axelera arrives in Mexico with AI specialized chips",
+   "excerpt_en": "Axelera AI reached Mexico with specialized chips to address AI adoption bottleneck."
   },
   {
    "id": "19c43fb507",
@@ -251,21 +273,34 @@
    "ts": 1792454629,
    "summary": "Contrapunto La aprobación de una reforma a la normativa especial para facilitar el acceso a internet satelital busca ampliar la cobertura de conectividad en las comunidades rurales y sectores aislados de El Salvador, donde las limitaciones de infraestructura continúan representando un desafío para el acceso a los servicios digitales. De acuerdo con la información publicada […]",
    "img": "https://dplnews.com/wp-content/uploads/2025/04/Enacom.webp",
-   "title_en": "El Salvador approves tax exemption to promote satellite internet in rural areas",
-   "excerpt_en": "El Salvador approved reform to special regulations to facilitate satellite internet access in rural communities."
+   "title_en": "El Salvador approves fee exemption to boost satellite internet in rural zones",
+   "excerpt_en": "El Salvador approved regulatory reform to facilitate satellite internet access in rural communities."
   },
   {
-   "id": "4a394815d1",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Altán Redes crece de la mano de Bait y supera a Movistar en ingreso por usuario",
-   "link": "https://dplnews.com/altan-redes-crece-de-la-mano-de-bait-y-supera-a-movistar-en-ingreso-por-usuario/",
-   "ts": 1792454055,
-   "summary": "El CEO Altán Redes, la empresa que opera la Red Compartida en México, tendría un ingreso promedio por usuario (ARPU) superior al de Telefónica México (Movistar), a través de las marcas que utilizan su infraestructura, de acuerdo con estimaciones de especialistas del sector de telecomunicaciones. La diferencia se presenta pese a que ambas compañías operan […]",
-   "img": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_altan-redes_mc21025.png",
-   "title_en": "Altán Redes grows with Bait and surpasses Movistar in user revenue",
-   "excerpt_en": "Altán Redes, operator of Mexico's Shared Network, achieved higher ARPU than Telefónica Mexico."
+   "id": "933725c3bc",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Telefónica e outras operadoras europeias querem avançar em D2D",
+   "link": "https://www.mobiletime.com.br/noticias/19/10/2026/telefonica-e-telcos-d2d/",
+   "ts": 1792454133,
+   "summary": "Em carta de intenção, as companhias explicam que desejam avançar para a conexão satelital com uma estrutura completamente europeia",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat2RDZ-300x169.jpg",
+   "title_en": "Telefónica and other European operators want to advance in D2D",
+   "excerpt_en": "Companies aim to advance satellite connection with completely European structure."
+  },
+  {
+   "id": "8a14072db9",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Operadoras europeias estudam oferta conjunta por espectro de satélite",
+   "link": "https://telesintese.com.br/operadoras-europeias-estudam-oferta-conjunta-por-espectro-de-satelite/",
+   "ts": 1792426196,
+   "summary": "Telefónica, Vodafone, Orange e Deutsche Telekom avaliam modelo de acesso aberto para D2D, com parceiro satelital ainda a definir. O post Operadoras europeias estudam oferta conjunta por espectro de satélite apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2025/08/satelite.jpg",
+   "title_en": "European operators study joint offer for satellite spectrum",
+   "excerpt_en": "Telefónica, Vodafone, Orange and Deutsche Telekom evaluate open access model for D2D."
   },
   {
    "id": "d3f5374110",
@@ -277,17 +312,6 @@
    "ts": 1792425255,
    "summary": "Deutsche Telekom, Orange, Telefónica and Vodafone consider joint bid for mobile satellite spectrum next year to build European alternative to Starlink.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1cda0451bb1dcbc4/651695db04fc4c6b40df14e4/M9MAJK.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "df653d82d7",
-   "src": "Data Center Knowledge",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Nscale Loses Microsoft Deal as Power Delays Threaten AI",
-   "link": "https://www.datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays",
-   "ts": 1792422590,
-   "summary": "The cancellation highlights the financial risks developers face when grid connections fall behind project schedules and customers cannot wait for capacity.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blteaa81fac011f2792/6ad63476af0652e6e94fb9b8/nscale.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "0212904caa",
