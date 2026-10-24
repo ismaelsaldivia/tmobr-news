@@ -319,6 +319,8 @@ def main():
         pool = [x for x in pool if x["id"] in dedup]
         top = [x for x in top if x["id"] in dedup]
         chart = ai.get("chart")
+        if not isinstance(chart, dict):
+            chart = None
         if chart and chart.get("id") in byid and byid[chart["id"]]["lang"] != "EN":
             chart = None
         if chart and not (chart.get("id") in byid and appears(chart.get("value"), byid[chart["id"]])):
@@ -328,7 +330,7 @@ def main():
             chart["total"] = ""
         numbers, used = [], set()
         for n in ai.get("numbers") or []:
-            if n.get("id") in byid and byid[n["id"]]["lang"] == "EN" and n["id"] not in used and appears(n.get("value"), byid[n["id"]]):
+            if isinstance(n, dict) and n.get("id") in byid and byid[n["id"]]["lang"] == "EN" and n["id"] not in used and appears(n.get("value"), byid[n["id"]]):
                 numbers.append(n); used.add(n["id"])
             else:
                 log("number rejected", n)
