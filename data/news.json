@@ -1,31 +1,121 @@
 {
- "updated_utc": "2026-10-25T13:46:23Z",
- "edition": "07:00",
+ "updated_utc": "2026-10-25T21:54:07Z",
+ "edition": "17:00",
  "translated": true,
  "chart": null,
  "numbers": [
   {
-   "value": "$4bn",
-   "label": "Audi US plant investment",
-   "id": "1d8bc21935"
+   "value": "$40 billion",
+   "label": "SpaceX debt deal for AI chips",
+   "id": "9d81fbefc4"
   },
   {
-   "value": "$50 billion",
-   "label": "SoftBank Malaysia tech investment",
-   "id": "fddd419677"
+   "value": "$6 billion",
+   "label": "Bon Secours Surgery Partners acquisition",
+   "id": "c282f44e09"
   },
   {
-   "value": "$1.3 billion",
-   "label": "Dongshan Hong Kong IPO raise",
+   "value": "HK$9.9 billion",
+   "label": "Dongshan PCB maker Hong Kong IPO",
    "id": "2c89807d39"
   },
   {
    "value": "$6.1m",
-   "label": "SpaceXAI permit violation fine",
+   "label": "SpaceXAI Mississippi data center permit fine",
    "id": "6d31ae299e"
   }
  ],
  "items": [
+  {
+   "id": "698f2055e6",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Pedro Pasquín, jefe de Lazard en España, se suma al 'boom' del capital riesgo",
+   "link": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/10/25/6adb87a9468aebbc2c8b45a1.html",
+   "ts": 1792964402,
+   "summary": "Ya hay más de 1.500 entidades y fondos de 'private equity' registrados en la CNMV, por el aluvión de grandes fortunas hacia el sector. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927714565645.jpg",
+   "title_en": "Lazard Spain head joins private equity boom",
+   "excerpt_en": "Over 1,500 private equity entities registered in Spain as wealthy investors flock to sector."
+  },
+  {
+   "id": "62c46c58d0",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Serbia’s ex-president Vučić concedes defeat to Student List in parliamentary poll",
+   "link": "https://www.ft.com/content/546f21f5-22d3-4696-8371-7bef8c0410b3?syn-25a6b1a6=1",
+   "ts": 1792964061,
+   "summary": "Election loss marks a dramatic fall from power for strongman nationalist leader as near-record turnout buoys grassroots party",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8c45639-926f-44f5-a324-39895d504cc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "9d81fbefc4",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Musk Says SpaceX Closed $40 Billion Debt Deal, Blasts Neoclouds",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+   "ts": 1792963359,
+   "summary": "Elon Musk said SpaceX has closed a $40 billion debt deal to pay for the chips it needs to fuel its artificial intelligence ambitions.",
+   "img": null
+  },
+  {
+   "id": "c282f44e09",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Bon Secours nears $6bn takeover of Bain-backed Surgery Partners",
+   "link": "https://www.ft.com/content/e7b82fe0-db51-49cf-bad4-2168a905652b?syn-25a6b1a6=1",
+   "ts": 1792954597,
+   "summary": "US hospital chain is the latest not-for-profit healthcare provider to seek a large deal",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F31ba0b05-bf04-4eef-b91b-2c91c1fb6207.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "8d8501d28b",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Venezuelan opposition leader Machado returns from exile",
+   "link": "https://www.ft.com/content/f691e41e-dd01-4ac0-ade7-5f7ca23d6135",
+   "ts": 1792949828,
+   "summary": "Nobel laureate’s arrival poses a challenge to the country’s Trump-backed interim government",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F584cf15e-ca4a-4e22-a588-58c2148e8c9a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "3048cb98f2",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Major Ukraine Retailer Says Russian Hits Destroyed Its Chain",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-25/major-ukraine-retailer-says-russian-strikes-destroyed-its-chain",
+   "ts": 1792945034,
+   "summary": "Epicentr, a major Ukrainian home improvement retailer, said its business had been “destroyed” by a rapid-fire succession of Russian airstrikes on its distribution centers, with the latest ones coming over the weekend.",
+   "img": null
+  },
+  {
+   "id": "769b978e58",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Marco Rubio still owes Europe answers about America’s intentions",
+   "link": "https://www.ft.com/content/899bc060-3f17-4ed9-bea7-710c467d92fd",
+   "ts": 1792944005,
+   "summary": "The US secretary of state’s recent speech in Athens evoked a shared destiny but offered no vision of a common future",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d93b153-7fc4-4bd1-b3e3-52c91818b9d1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "a9582b88e6",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+   "ts": 1792936801,
+   "summary": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
+   "img": null
+  },
   {
    "id": "554d6031e8",
    "src": "Bloomberg",
@@ -38,26 +128,26 @@
    "img": null
   },
   {
-   "id": "1ab968429c",
+   "id": "dcbb97295e",
    "src": "Bloomberg",
    "lang": "EN",
    "sec": "business",
-   "title": "Markets Look to Big Tech for AI Payoff",
-   "link": "https://www.bloomberg.com/news/videos/2026-10-25/markets-look-to-big-tech-for-ai-payoff-video",
-   "ts": 1792930228,
-   "summary": "On Bloomberg This Weekend, MetLife Investment Management Chief Market Strategist Drew Matus examines how AI investment is driving markets, corporate spending and parts of the US economy as investors look to Big Tech earnings for evidence that the spending will pay off. Speaking with hosts David Gura and Christina Ruffini, Matus discusses risks from rising technology investment and what markets nee",
+   "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+   "ts": 1792929844,
+   "summary": "Europe has fallen behind the US in the race to build the biggest AI models, constrained by smaller capital markets and a fragmented business environment. France-based Mistral is betting it can compete differently using open-source models to offer companies lower costs, more control over their data and greater technological sovereignty. (Source: Bloomberg)",
    "img": null
   },
   {
-   "id": "5fc9df9c3b",
-   "src": "Bloomberg",
+   "id": "99c99157c7",
+   "src": "The Verge",
    "lang": "EN",
-   "sec": "business",
-   "title": "JPMorgan’s Private Bank Using AI to Make Advisers More Efficient",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/jpmorgan-s-private-bank-using-ai-to-make-advisers-more-efficient",
-   "ts": 1792928917,
-   "summary": "JPMorgan Chase & Co.’s private bank is using artificial intelligence to onboard clients, for investment research and other tasks in an effort to increase productivity among its wealth advisers, according to its Europe, Middle East and Africa head, Pablo Garnica.",
-   "img": null
+   "sec": "tech",
+   "title": "Google’s AI search changes upended online publishing",
+   "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+   "ts": 1792929600,
+   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The digital publishing industry has relied on […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "faa8be8028",
@@ -69,8 +159,8 @@
    "ts": 1792928901,
    "summary": "El mandatario estadounidense hizo el anuncio este sábado y el gigante alemán confirmó que estará ubicada en el estado de Georgia",
    "img": "https://imagenes.elpais.com/resizer/v2/AYEU3XGJUFNTHJWTRUSMUFQ6A4.jpg?auth=03bbc7beaddd08410b33cb472082bafb41789738c3805e3fc4ede64f79e76f03",
-   "title_en": "Audi to open first US factory to avoid Trump tariff losses",
-   "excerpt_en": "German auto giant confirms factory in Georgia after Trump tariff announcement."
+   "title_en": "Audi will open its first US factory to dodge Trump tariff losses",
+   "excerpt_en": "German automaker to build plant in Georgia to avoid tariffs announced by Trump."
   },
   {
    "id": "250d4425de",
@@ -82,8 +172,8 @@
    "ts": 1792927203,
    "summary": "A poucas horas da definição de quem será eleito presidente da República e em uma disputa extremamente acirrada, a constatação é que a agenda econômica não foi tratada com a seriedade que deveria nem por Luiz Inácio Lula da Silva (PT) e nem por Flávio Bolsonaro (PL) nesta campanha. A avaliação é do cientista político […] O post “Reforma do STF já está precificada, seja quem for o vencedor”, diz cie",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/10/Rafael-Cortez-Tendencias-Consultoria-300x169.jpg",
-   "title_en": "\"Supreme Court reform already priced in,\" political scientist says",
-   "excerpt_en": "Expert notes economic agenda not treated with seriousness in Brazil election."
+   "title_en": "Supreme Court reform already priced in regardless of election winner, says political scientist",
+   "excerpt_en": "Analyst Rafael Cortez notes economic agenda lacked seriousness from both candidates."
   },
   {
    "id": "b69e2ff276",
@@ -97,35 +187,13 @@
    "img": "https://media.datacenterdynamics.com/media/images/Corey_Hannahs_Headshot.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "2c89807d39",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Chinese Manufacturer Dongshan Raises $1.3 Billion in HK Listing",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/chinese-manufacturer-dongshan-raises-1-3-billion-in-hk-listing",
-   "ts": 1792924239,
-   "summary": "Suzhou Dongshan Precision Manufacturing Co. a printed circuit board maker, raised about HK$9.9 billion ($1.3 billion) in Hong Kong’s biggest listing in nearly two months, which hit a volatile market for companies related to the artificial intelligence build out.",
-   "img": null
-  },
-  {
-   "id": "82052bbcc5",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "AI Provides ‘Zero Payoff’ to S&P 493 Outside Tech, Apollo Economist Says",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/ai-provides-zero-payoff-to-s-p-493-outside-tech-apollo-economist-says",
-   "ts": 1792920516,
-   "summary": "Despite the significant investments ploughed into artificial intelligence it has provided “zero payoff” to corporate America outside of technology, according to Apollo Global Management Inc. Chief Economist Torsten Slok.",
-   "img": null
-  },
-  {
    "id": "aaae882ab1",
    "src": "The New York Times",
    "lang": "EN",
    "sec": "tech",
    "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "ts": 1792920515,
+   "ts": 1792920516,
    "summary": "The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
    "img": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg"
   },
@@ -139,30 +207,21 @@
    "ts": 1792918800,
    "summary": "Nestas eleições de 2026, os dois candidatos do segundo turno faltaram aos debates do primeiro turno e não apresentaram planos. Olham apenas para o passado, e não nos oferecem uma esperança de prosperidade. Os partidos políticos viraram negócios, com receita garantida pelo fundo partidário e pelas emendas ao orçamento. Prestam contas à Justiça Eleitoral, mas quase nada à sociedade. Brasília está en",
    "img": "https://s2-pipelinevalor.glbimg.com/diWhhOuFuEl8oglL_aPXh0-y32o=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2022/0/2/KMb9KcRneDd6Iy8HGUnw/fersen-lambranho-1200x675.jpg",
-   "title_en": "Whoever wins Brazil's presidency faces mandatory \"essential agenda\"",
-   "excerpt_en": "Election candidates lack substantive plans and debate proposals."
+   "title_en": "Brazil needs mandatory agenda regardless of election winner",
+   "excerpt_en": "Two runoff candidates skipped first-round debates and presented no prosperity plans."
   },
   {
-   "id": "fddd419677",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "SoftBank’s Son Plans $50 Billion Malaysia Tech Outlay, PM Says",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-25/softbank-s-son-plans-50-billion-malaysia-tech-outlay-pm-says",
-   "ts": 1792914148,
-   "summary": "Masayoshi Son of SoftBank Group Corp. chose locations in Malaysia for $50 billion in technology investments, the country’s prime minister said, an outlay that would accelerate the billionaire’s global bet on AI infrastructure.",
-   "img": null
-  },
-  {
-   "id": "a3c42316e5",
-   "src": "investingLive",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Market playbook: What if US CPI comes in hot but stocks refuse to fall?",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkctWnIyNGtmRm9vUTVnd3llRDk2T0w4TUw5cS0xamllbGU3R2RFR3gycC0ydWI3WnprZndzVy1WTGkzbGQ5MFQyQTlEdkRKUWxFV2cwVURhalBwWGlpVXUxSkh0ZWRoYjktRXpXXzR1UzFPa3JkQ29JTEhubmViUjBacEo4NlNZSmZyanZsS0l2c0w2MzNoaW42X08zcFdUNjBrcEEtbnFadw?oc=5",
-   "ts": 1792910687,
-   "summary": "",
-   "img": null
+   "id": "a836dec28d",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
+   "link": "https://elpais.com/economia/vivienda/2026-10-25/valeria-racu-todos-los-gobiernos-han-promovido-el-rentismo.html",
+   "ts": 1792903500,
+   "summary": "La portavoz de la Confederación de Sindicatos de Inquilinas llama a la participación en la huelga del 11-N: “Hay que parar el país porque no podemos más”",
+   "img": "https://imagenes.elpais.com/resizer/v2/JNEVQK4XURCDNB23AQMTKFYHQU.jpg?auth=eb2ada60c0f6130ec51d291f7d03c82dda4e408ace9e6f959f4daffc574b895d",
+   "title_en": "Tenant union spokesperson calls for November 11 strike to halt rentism promotion",
+   "excerpt_en": "Rents drive housing crisis; all governments have promoted financial exploitation of housing."
   },
   {
    "id": "f004fe47f4",
@@ -174,8 +233,8 @@
    "ts": 1792902600,
    "summary": "El desplome de CoreWeave arrastra a los semiconductores a su peor racha desde 2008 y pone en duda la sostenibilidad del sector que ha impulsado la bonanza bursátil de los últimos años. La demanda aguanta, pero eleva la incertidumbre sobre los beneficios futuros",
    "img": "https://imagenes.elpais.com/resizer/v2/YSWPUATOIGUBTPVVEXQ2C3QSFQ.jpg?auth=16571644e643c09f78f57f4a7409f62262fc050796e83f6c1ef486f72df9b390",
-   "title_en": "Tech stocks fall as CoreWeave collapse reopens AI costs debate",
-   "excerpt_en": "CoreWeave's collapse hurts semiconductors worst since 2008; sustainability questioned."
+   "title_en": "Tech stocks fall, AI cost debate reopens as semiconductors hit worst streak since 2008",
+   "excerpt_en": "CoreWeave collapse drags sector; sustainability questions emerge despite steady demand."
   },
   {
    "id": "d8bde55558",
@@ -187,8 +246,8 @@
    "ts": 1792902600,
    "summary": "La socimi cae el 30% desde los máximos de junio. Conserva más de un 80% de recomendaciones de compra y los analistas consideran excesivo el castigo sufrido",
    "img": "https://imagenes.elpais.com/resizer/v2/FLPLD5XJZFF7HGXLIPVCA26Z6Y.jpg?auth=50cba2e0b1c304a098483ebee08eca68ff5e4b9b0c552812ef20c65ab98ccbeb",
-   "title_en": "Merlin deflates as data center expectations shift",
-   "excerpt_en": "Real estate SOCIMI drops 30% from June highs despite analyst buying recommendations."
+   "title_en": "Merlin REIT falls 30% from June highs amid data center expectation shift",
+   "excerpt_en": "Real estate investment trust maintains 80% buy recommendations despite punishment."
   },
   {
    "id": "e56eb4b6dc",
@@ -200,21 +259,21 @@
    "ts": 1792902600,
    "summary": "El estratega jefe de mercados de la gestora gala cree que Lagarde dará el jueves una primera señal frente a la tensión en la deuda soberana y muestra su confianza en la economía española",
    "img": "https://imagenes.elpais.com/resizer/v2/ROAY5KN77BGRDOAEM4JCBCL6UE.jpg?auth=6b770d15d499dc9ae23233c711a3af174c4cdfbe1b162b5e70b4d97b7a91480d",
-   "title_en": "ECB could halt balance sheet reduction, delay rate hikes over France tensions",
-   "excerpt_en": "Natixis strategist expects first ECB signal Thursday on sovereign debt tension."
+   "title_en": "ECB could halt balance sheet reduction amid French debt tensions, says Natixis strategist",
+   "excerpt_en": "Chief market strategist expects Lagarde signal Thursday on sovereign debt situation."
   },
   {
    "id": "3240e3370e",
    "src": "Pipeline Valor",
    "lang": "PT",
    "sec": "brazil",
-   "title": "No cabo de guerra entre Braskem e credores, um cheque de US$ 650 mi",
+   "title": "No cabo de guerra entre Braskem e credores, um cheque de R$ 750 mi",
    "link": "https://pipelinevalor.globo.com/negocios/noticia/no-cabo-de-guerra-entre-braskem-e-credores-um-cheque-de-us-650-mi.ghtml",
    "ts": 1792893620,
    "summary": "A petroquímica Braskem informou neste sábado que as propostas apresentadas pela empresa e pelos credores foram rejeitadas por ambas as partes e, portanto, ainda sem acordo para o plano de recuperação extrajudicial. As negociações continuam, com prazo prorrogado até 30 de outubro. A companhia apresentou a proposta na sexta-feira e, já neste sábado, recebeu a contraproposta de investidores e os mate",
    "img": "https://s2-pipelinevalor.glbimg.com/h4H8J3xedS5uwDoQrNwyuCUQyao=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2025/I/Q/gCot7USqqkbLQH4iIH6Q/foto26emp-101-brasken-b1.jpg",
-   "title_en": "In tug-of-war between Braskem and creditors, $650m check emerges",
-   "excerpt_en": "Braskem petrochemical reports rejection of restructuring proposals by both parties."
+   "title_en": "Braskem seeks accord with creditors on 750 million real restructuring plan",
+   "excerpt_en": "Both company and creditor proposals rejected; continuing negotiations for extrajudicial recovery."
   },
   {
    "id": "9355f9f279",
@@ -225,28 +284,6 @@
    "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
    "ts": 1792874794,
    "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
-   "img": null
-  },
-  {
-   "id": "770c71828f",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Will AI expose the rickety infrastructure of the internet?",
-   "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-   "ts": 1792872933,
-   "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
-   "img": null
-  },
-  {
-   "id": "b0af889ad0",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "ts": 1792868400,
-   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
    "img": null
   },
   {
@@ -261,54 +298,17 @@
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
-   "id": "a453aefad6",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Pistas para invertir ahora con un euro bajo presión",
-   "link": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html",
-   "ts": 1792864096,
-   "summary": "Una moneda débil favorece a empresas europeas con exposición a EEUU y bonos soberanos del país. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927771580269.jpg",
-   "title_en": "Investment hints with weak euro pressuring currency",
-   "excerpt_en": "Weak euro favors European companies with US exposure and sovereign bonds."
-  },
-  {
-   "id": "5514d6b6e2",
+   "id": "47ea73dd16",
    "src": "Cinco Días",
    "lang": "ES",
    "sec": "latam",
-   "title": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
-   "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
-   "ts": 1792863678,
-   "summary": "Un salario neto de 1.500 euros equivale hoy al poder de compra que tenían los 1.000 euros hace 20 años. Quienes perciben esta renta relatan dificultades para llegar a fin de mes",
-   "img": "https://imagenes.elpais.com/resizer/v2/IHHS26D5Z5DAROXNV5MVOZ6KXU.jpg?auth=083884b73057fd8e02aa31345034343a910ea84711577784963c92d50194e896",
-   "title_en": "New 'milquini' earn 1,500 euros monthly, struggle to meet basic needs",
-   "excerpt_en": "Modern wage-earners face purchasing power equal to 1,000 euros from two decades ago."
-  },
-  {
-   "id": "2272aa9fc1",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html",
-   "ts": 1792862732,
-   "summary": "La vivienda en la capital catalana vuelve a crecer a doble dígito, impulsada por el distrito de Sants-Montjuïc, que pasa a convertirse en la zona que más se eleva, seguida de Nou Barris y Sant Andreu. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928626976290.jpg",
-   "title_en": "Barcelona property prices surge 11% despite sales slowdown",
-   "excerpt_en": "Housing in Catalan capital grows double-digit, led by Sants-Montjuïc district."
-  },
-  {
-   "id": "5bc2bc3d4d",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-   "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-   "ts": 1792859400,
-   "summary": "Instacart might sell itself to a larger competitor.",
-   "img": null
+   "title": "“Es la inflación, estúpido”: Estados Unidos se sume en el descontento pese al crecimiento económico",
+   "link": "https://elpais.com/economia/negocios/2026-10-24/es-la-inflacion-estupido-estados-unidos-se-sume-en-el-descontento-pese-al-crecimiento-economico.html",
+   "ts": 1792855800,
+   "summary": "La caótica política arancelaria y la guerra contra Irán han disparado los precios y golpeado el poder adquisitivo de las familias agrandando la desigualdad. Pese a todo, es una de las economías que más crecerá este año y el próximo gracias a la IA",
+   "img": "https://imagenes.elpais.com/resizer/v2/N3BLKK3MWJAMRAJE3RQE44ZBUQ.jpg?auth=b9aabd039a8cc32bfecd288aa8f3b3b6543414479496dcd9dcdd60521d5f2be3",
+   "title_en": "US inflation drives discontent despite economic growth, tariff and Iran war impact",
+   "excerpt_en": "Chaotic tariff policy and Iran war lift prices, hitting purchasing power and inequality."
   },
   {
    "id": "ce308277c0",
@@ -331,21 +331,8 @@
    "ts": 1792842340,
    "summary": "O vencedor da disputa presidencial encontrará velhos e novos desafios na infraestrutura no primeiro ano de mandato. Em rodovias, saneamento e aeroportos, será preciso atrair investidores a projetos com menor viabilidade econômica, após parte dos mais disputados já ter ido a leilão. Nas ferrovias e nos portos, a tarefa será destravar a agenda. No setor […] O post Na infraestrutura, uma carteira bil",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/10/infraestrutura-leiloes-300x169.jpg",
-   "title_en": "Infrastructure: billion-dollar project portfolio awaits Brazil's next president",
-   "excerpt_en": "New president faces old and new infrastructure challenges in highways, sanitation, airports."
-  },
-  {
-   "id": "7d004a19ce",
-   "src": "NeoFeed",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "O poder dos seguidores: redes sociais viram o principal campo de batalha da eleição",
-   "link": "https://neofeed.com.br/insiders/o-poder-dos-seguidores-redes-sociais-viram-o-principal-campo-de-batalha-da-eleicao/",
-   "ts": 1792842048,
-   "summary": "Após o primeiro turno das eleições 2026, as redes sociais alcançaram um novo patamar como fonte de informação política. No levantamento divulgado pela Quaest na quarta-feira, 21 de outubro, as redes abriram dez pontos percentuais de vantagem sobre a televisão na preferência do brasileiro em consumo de informação. Na pergunta “Como você se informa sobre […] O post O poder dos seguidores: redes soci",
-   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/redes-sociais-eleicoes-2026-300x169.jpg",
-   "title_en": "Power of followers: social networks become Brazil's main election battleground",
-   "excerpt_en": "Social media emerged as key political information source in 2026 election."
+   "title_en": "Infrastructure: billion-dollar project portfolio awaits new Brazilian president",
+   "excerpt_en": "Roads, sanitation, airports need investment attraction despite lower viability projects."
   },
   {
    "id": "6d31ae299e",
@@ -357,28 +344,6 @@
    "ts": 1792836021,
    "summary": "Elon Musk's firm will also be back in court over problematic gas turbines",
    "img": "https://media.datacenterdynamics.com/media/images/xAI_memphis.original.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "634be7b517",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "UK Publishes Landmark White Paper Overhauling Undersea Cable and Pipeline Security Laws",
-   "link": "https://www.submarinenetworks.com/en/nv/insights/uk-publishes-landmark-white-paper-overhauling-undersea-cable-and-pipeline-security-laws",
-   "ts": 1792832743,
-   "summary": "Critical Undersea Infrastructure White Paper (CP 1683) Maritime Sabotage & Penalties Security & Resilience On October 22, 2026, the UK Government published a comprehensive legislative White Paper and statutory consultation, Critical Undersea Infrastructure Security and Resilience: Proposals for modernising the UK's legislation (Command Paper CP 1683 ). Jointly presented by the Department for Scien",
-   "img": null
-  },
-  {
-   "id": "80728f68db",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "EU Charges KKR with Providing Misleading Information in €22B Telecom Italia NetCo Deal",
-   "link": "https://www.submarinenetworks.com/en/nv/insights/eu-charges-kkr-with-providing-misleading-information-in-%E2%82%AC22b-telecom-italia-netco-deal",
-   "ts": 1792831860,
-   "summary": "Antitrust Enforcement European Commission KKR & Co. Telecom Italia (TIM) EU Merger Regulation On October 19, 2026, the European Commission formally issued a Statement of Objections to global investment firm KKR & Co. Inc. , alleging the private equity group submitted incorrect or misleading information during the 2024 merger review of its €22 billion acquisition of NetCo (the fixed-line access net",
-   "img": null
   }
  ]
 }
