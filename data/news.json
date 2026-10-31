@@ -1,29 +1,29 @@
 {
- "updated_utc": "2026-10-31T15:25:21Z",
+ "updated_utc": "2026-10-31T22:36:14Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "OpenAI slashes funding target as AI spending concerns mount",
-  "value": "$10 billion",
+  "title": "Binance loses $6.3 billion in largest crypto heist",
+  "value": "$6.3 billion",
   "total": "",
-  "value_label": "funding cut",
+  "value_label": "crypto stolen",
   "total_label": "",
-  "id": "113d0ac688"
+  "id": "501269b999"
  },
  "numbers": [
   {
-   "value": "$6.3 billion",
-   "label": "Binance hack theft amount",
-   "id": "501269b999"
+   "value": "90%",
+   "label": "of Binance stolen assets replenished by CEO",
+   "id": "7d968577e0"
   },
   {
-   "value": "$30 billion",
-   "label": "Baseten target valuation",
-   "id": "5e5403d863"
+   "value": "$10 billion",
+   "label": "OpenAI cuts from funding target",
+   "id": "113d0ac688"
   },
   {
-   "value": "35 percent",
-   "label": "Equinix bookings growth",
+   "value": "$533m",
+   "label": "Equinix record annualized gross bookings",
    "id": "d461db5ac5"
   }
  ],
@@ -35,9 +35,81 @@
    "sec": "tech",
    "title": "How Binance’s $6.3 Billion Hack Went Down",
    "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
-   "ts": 1793456974,
+   "ts": 1793485188,
    "summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
-   "img": "https://static01.nyt.com/images/2026/10/30/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg"
+   "img": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "89c6cb6d29",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "ts": 1793482860,
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "img": null
+  },
+  {
+   "id": "bc398a80a0",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "ts": 1793481423,
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "img": null
+  },
+  {
+   "id": "4662d8ba19",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Así es la fórmula de éxito de las cuentas de inversión en Europa",
+   "link": "https://www.expansion.com/mercados/2026/10/31/asi-formula-exito-cuentas-inversion-europa.html",
+   "ts": 1793474071,
+   "summary": "Europa busca transformar a sus ahorradores en inversores con cuentas que combinan incentivos fiscales y condiciones muy distintas. Los modelos más populares tienen pocas restricciones y son flexibles. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934740696324.jpg",
+   "title_en": "How investment account formula succeeds in Europe",
+   "excerpt_en": "Europe seeks to transform savers into investors with accounts combining tax incentives and flexible conditions with few restrictions."
+  },
+  {
+   "id": "3a31928831",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
+   "link": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html",
+   "ts": 1793474055,
+   "summary": "El desfase entre la oferta y la demanda de vivienda en los últimos años se eleva hasta cerca de un millón de inmuebles, según algunos cálculos, lo que dispara los precios de compra y alquiler en el mercado inmobiliario. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934740480321.jpg",
+   "title_en": "What's failing in housing and how to fix it",
+   "excerpt_en": "Housing supply-demand gap reaches nearly one million units, driving up property purchase and rental prices across the market."
+  },
+  {
+   "id": "344dcf7974",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "ts": 1793463175,
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "img": null
+  },
+  {
+   "id": "9eacd790f0",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Las alternativas al tren lanzan nuevas ofertas a pasajeros para paliar el déficit a Andalucía tras el accidente de Urda",
+   "link": "https://elpais.com/economia/2026-10-31/las-alternativas-al-tren-lanzan-nuevas-ofertas-a-pasajeros-para-paliar-el-deficit-a-andalucia-tras-el-accidente-de-urda.html",
+   "ts": 1793460749,
+   "summary": "Las empresas de autobuses y las compañías de alquiler de coches amplían sus recursos para atender la demanda bloqueada por el siniestro ferroviario",
+   "img": "https://imagenes.elpais.com/resizer/v2/TGMPPANQEJHGZCCJ5GWNM2FSMQ.jpg?auth=c8aae00dde904c83dc8dd8d56f147097d64a053156cd03a05e06cd96e7ab2e03",
+   "title_en": "Alternative transport operators launch new offers to passengers",
+   "excerpt_en": "Bus companies and car rental firms expand resources to meet demand blocked by Urda train accident."
   },
   {
    "id": "6fae7d7e43",
@@ -51,17 +123,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28148ebf-75f7-42b7-a37e-83a7f80efe78.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "d01b296f31",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Iran warns it will retaliate without ‘geographical limitations’ if attacked",
-   "link": "https://www.ft.com/content/77370477-62df-4499-9ab6-4063d3e361bd?syn-25a6b1a6=1",
-   "ts": 1793453909,
-   "summary": "Ayatollah Khamenei tells military commanders response will be ‘immediate’ as Qatari mediators seek to avert a feared US-Israeli bombing campaign",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F52baab06-101d-46d2-a4a5-704069d34fc2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
    "id": "3f4c38880d",
    "src": "Cinco Días",
    "lang": "ES",
@@ -71,8 +132,8 @@
    "ts": 1793452713,
    "summary": "Bruselas estrena un recargo fijo por producto para frenar la llegada de artículos inseguros y financiar los controles aduaneros",
    "img": "https://imagenes.elpais.com/resizer/v2/YGE77DQIJJIA3JVOFZ6IE7QYOE.jpg?auth=93c6265709a43a5320877aafcd0d7ea59dd1ba6c1bf8c1cf7a436152238a5aa1",
-   "title_en": "Keys to the new 2 euro fee for Shein, Temu, and AliExpress",
-   "excerpt_en": "Brussels implements fixed surcharge per product to stop unsafe items and finance customs controls."
+   "title_en": "Keys to new 2-euro tax on Shein, Temu, AliExpress",
+   "excerpt_en": "Brussels introduces fixed surcharge per product to prevent unsafe items and finance customs controls on non-EU online purchases."
   },
   {
    "id": "b36d2dd649",
@@ -85,7 +146,7 @@
    "summary": "La operadora británica, controlada al 50% por el grupo español y Liberty Global, estudia un recorte que podría afectar a una cuarta parte de su plantilla para reducir costes y aliviar una deuda de unos 25.600 millones de euros. Presentará el próximo martes sus objetivos de ahorro",
    "img": "https://imagenes.elpais.com/resizer/v2/KHHMX4OBLJBGZJE2LVUHYYS7XU.jpg?auth=b1790d8e40fbe0f107df11f6087ae2cf29e0743e174ec20476a8df04faff4945",
    "title_en": "Virgin Media O2 prepares up to 4,000 layoffs in UK",
-   "excerpt_en": "British operator controlled 50% by Telefónica studies cuts affecting quarter of workforce to reduce costs."
+   "excerpt_en": "British operator controlled 50% by Telefónica and Liberty Global plans cuts affecting quarter of staff to reduce debt."
   },
   {
    "id": "bcd9f1fd42",
@@ -121,17 +182,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fafce0244-f465-4a85-9b2a-38a2c26df7c5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "862d5b6284",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "SoftBank-Backed OPay Halts IPO to Respond to Regulatory Inquiry",
-   "link": "https://www.bloomberg.com/news/articles/2026-10-31/softbank-backed-opay-halts-ipo-to-respond-to-regulatory-inquiry",
-   "ts": 1793436496,
-   "summary": "OPay Ltd., a Nigeria-focused payments platform, halted an initial public offering on the New York Stock Exchange that was supposed to start trading on Friday, citing a regulatory inquiry.",
-   "img": null
-  },
-  {
    "id": "e25a546008",
    "src": "Bloomberg",
    "lang": "EN",
@@ -143,6 +193,19 @@
    "img": null
   },
   {
+   "id": "620b521d3c",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "De las tecnológicas del LZB a las operadoras de trenes: cuáles son las empresas presentes en el accidente de Urda",
+   "link": "https://elpais.com/economia/2026-10-31/de-las-tecnologicas-del-lzb-a-las-operadoras-de-trenes-cuales-son-las-empresas-presentes-en-el-accidente-de-urda.html",
+   "ts": 1793421901,
+   "summary": "Thales e Hitachi Rail están junto a Adif, Renfe e Iryo en el centro de la conversación tras el siniestro",
+   "img": "https://imagenes.elpais.com/resizer/v2/JCYQB2L3KNAQXLD4XH2DQX4TGU.jpg?auth=87484a32eda2bf1455668a1d675899cf6022806df521c1cea480f842d0992ab1",
+   "title_en": "Which companies are central to Urda train accident",
+   "excerpt_en": "Thales and Hitachi Rail alongside Adif, Renfe and Iryo are at center of conversation following the incident."
+  },
+  {
    "id": "113d0ac688",
    "src": "Bloomberg",
    "lang": "EN",
@@ -152,6 +215,28 @@
    "ts": 1793419240,
    "summary": "OpenAI has cut its fundraising target by $10 billion as an AI stock selloff and rival Anthropic PBC’s impending public listing complicate its efforts to secure investor commitments, the Financial Times reported.",
    "img": null
+  },
+  {
+   "id": "6336aff37e",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "ts": 1793409605,
+   "summary": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+   "img": null
+  },
+  {
+   "id": "2c53a06342",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
+   "link": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
+   "ts": 1793405108,
+   "summary": "ChatGPT maker is now seeking about $20bn at a $1.25tn valuation as it tempers its ambitions",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb0a4f7a-a03d-4737-ba5d-3eb711685c42.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
    "id": "a2e2af5d8b",
@@ -174,8 +259,8 @@
    "ts": 1793402742,
    "summary": "Participação feminina nos cargos de liderança da operadora chegou em 36,3% em 2025; no ano passado, mulheres representaram 52,6% das novas contratações da companhia",
    "img": "https://teletime.com.br/wp-content/uploads/2026/10/vice-presidente-juridica-e-corporate-affairs-da-TIM-Luciene-Pandolfo-534x462.webp",
-   "title_en": "TIM receives award for female participation in board",
-   "excerpt_en": "Female participation in operator leadership roles reached 36.3% in 2025; women represented 52.6% of new hires last year."
+   "title_en": "TIM receives award for female board participation",
+   "excerpt_en": "Female participation in leadership positions reached 36.3% in 2025; women represented 52.6% of new hires last year."
   },
   {
    "id": "d32a73c825",
@@ -198,8 +283,8 @@
    "ts": 1793402190,
    "summary": "A Chilli Beans, maior rede de óculos escuros da América Latina, entrou com pedido de recuperação extrajudicial. A companhia, fundada em 1997 por Caito Maia, protocolou o documento nesta sexta-feira, 30 de outubro, para tentar sanar a dívida de R$ 340 milhões. O acordo anunciado foi alinhado com os principais credores da companhia. O plano […] O post Com dívidas de R$ 340 milhões, Chilli Beans entr",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/08/chilli-beans-loja-300x169.jpg",
-   "title_en": "With R$340 million in debts, Chilli Beans files for extrajudicial recovery",
-   "excerpt_en": "Chilli Beans, largest sunglasses chain in Latin America, filed extrajudicial recovery request Friday October 30."
+   "title_en": "Chilli Beans files for extrajudicial recovery with R$ 340 million debt",
+   "excerpt_en": "Latin America's largest eyewear chain filed extrajudicial recovery request Friday to manage R$ 340 million in debt."
   },
   {
    "id": "a3c3c69a42",
@@ -211,56 +296,30 @@
    "ts": 1793401752,
    "summary": "A Oncoclínicas já tem termos de adesão de 61,6% dos credores, que somam R$ 3,5 bilhões em dívidas, o que lhe garante quórum para aprovação de seu plano de recuperação extrajudicial. Excluindo os créditos entre companhias do grupo, as dívidas totais a serem reestruturadas somam R$ 5,7 bilhões. O CEO Carlos Gil disse ao Pipeline que, desde a sexta-feira passada, quando a nova minuta do plano foi pro",
    "img": "https://s2-pipelinevalor.glbimg.com/_Le7t9XSgpR6LCcP_4SPgsY1JkI=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/1/W/XeZxwIQAqK2gkyAkMeCA/080426oncoclinicas6.jpg",
-   "title_en": "Oncoclínicas has 61.6% creditor adhesion for restructuring plan",
-   "excerpt_en": "Oncoclínicas already has adhesion terms from 61.6% of creditors totaling R$3.5 billion in debts."
+   "title_en": "Oncoclínicas secures 61.6% creditor adhesion for restructuring plan",
+   "excerpt_en": "Oncoclínicas gained 61.6% creditor adhesion totaling R$ 3.5 billion debt, ensuring quorum for extrajudicial recovery approval."
   },
   {
-   "id": "ecfd4f99c9",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Top da Autopass chega a 140 mil usuários fazendo recarga de bilhete digital em SP",
-   "link": "https://www.mobiletime.com.br/noticias/30/10/2026/top-autopass-recarga-sp/",
-   "ts": 1793399244,
-   "summary": "Para Bruno Berezin, CEO da Autopass, o resultado aparece com a tecnologia como parte da evolução da experiência de pagamento",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-pay3RDZ-300x169.jpg",
-   "title_en": "Autopass reaches 140,000 users doing digital ticket top-ups in SP",
-   "excerpt_en": "For Autopass CEO Bruno Berezin, result appears with technology as part of payment experience evolution."
-  },
-  {
-   "id": "6198118eee",
-   "src": "TechCrunch",
+   "id": "3d3c4a6c0d",
+   "src": "Bloomberg",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-   "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-   "ts": 1793397274,
-   "summary": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+   "sec": "business",
+   "title": "NYSE Owner Plans Hyperliquid Perpetuals Market in US",
+   "link": "https://www.bloomberg.com/news/videos/2026-10-30/nyse-owner-plans-hyperliquid-perpetuals-market-in-us-video",
+   "ts": 1793400548,
+   "summary": "Intercontinental Exchange joined forces with one of the market operators behind offshore crypto-trading platform Hyperliquid as it seeks to bring perpetual futures products into US regulated markets. ICE and Trade.xyz are planning a new market for trading perpetual futures contracts, with its own clearing, know-your-customer and anti-money laundering systems. Jeff Sprecher, Intercontinental Exchan",
    "img": null
   },
   {
-   "id": "60ba719a05",
-   "src": "TechCrunch",
+   "id": "f42c96e64b",
+   "src": "Bloomberg",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-   "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-   "ts": 1793397123,
-   "summary": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+   "sec": "business",
+   "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
+   "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+   "ts": 1793397360,
+   "summary": "S&P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s balance sheet stemming from elevated spending tied to artificial intelligence.",
    "img": null
-  },
-  {
-   "id": "10be4ebde9",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Smart edge lídera receita da MediaTek com 58% do total no terceiro trimestre",
-   "link": "https://www.mobiletime.com.br/noticias/30/10/2026/smart-edge-mediatek-3t26/",
-   "ts": 1793396963,
-   "summary": "A unidade de negócios de plataformas inteligentes de borda ficou à frente de mobile phones e de chips de gerenciamento de energia para data centers, revela a empresa",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-balanco4RDZ-300x169.jpg",
-   "title_en": "Smart edge leads MediaTek revenue with 58% of total in third quarter",
-   "excerpt_en": "Intelligent edge platforms business unit ahead of mobile phones and power management chips for data centers."
   },
   {
    "id": "a8cf993747",
@@ -272,93 +331,34 @@
    "ts": 1793395680,
    "summary": "Abrint prevê aumento da carga tributária com nova alíquota CBS, pressão sobre preços da banda larga e redução de investimentos em infraestrutura digital. O post Abrint pede revisão da CBS de 11,3% e alerta para impacto sobre provedores apareceu primeiro em TeleSíntese .",
    "img": "https://telesintese.com.br/wp-content/uploads/2026/08/Dinheiro.jpg",
-   "title_en": "Abrint requests revision of 11.3% CBS and alerts impact on providers",
-   "excerpt_en": "Abrint foresees increased tax burden with new CBS rate, pressure on broadband prices and reduced infrastructure investment."
+   "title_en": "Abrint requests CBS review of 11.3% and warns of provider impact",
+   "excerpt_en": "Abrint predicts tax burden increase with new CBS rate, pressure on broadband prices and reduced digital infrastructure investment."
   },
   {
-   "id": "f1f6194d20",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Cracks are emerging in the AI spending boom",
-   "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-   "ts": 1793395060,
-   "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-   "img": null
+   "id": "c79b322ada",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Telefónica capta 166 milhões de chamadas spam na Espanha desde março",
+   "link": "https://www.mobiletime.com.br/noticias/30/10/2026/telefonica-llamadas-spam/",
+   "ts": 1793395273,
+   "summary": "O llamadas spam se tornou o serviço mais rápido em adoção entre as marcas da Telefónica, informa a companhia",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-conteudosemfioRDZ-300x169.jpg",
+   "title_en": "Telefónica captures 166 million spam calls in Spain since March",
+   "excerpt_en": "Spam call service became fastest adoption service among Telefónica brands, company reports."
   },
   {
-   "id": "731d515b3d",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Binance’s $6.3 Billion Hack Is Just the Start of a Risky New Era",
-   "link": "https://www.nytimes.com/2026/10/30/technology/binance-hack-ai-north-korea.html",
-   "ts": 1793395057,
-   "summary": "The largest cyber heist in history came as attackers increasingly use artificial intelligence and other advanced techniques to steal crypto and quickly launder the funds.",
-   "img": "https://static01.nyt.com/images/2026/10/30/multimedia/30biz-binance-lzht/30biz-binance-lzht-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "191fe5199a",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "México lanza un mapa para consultar y comparar la cobertura móvil",
-   "link": "https://dplnews.com/mexico-lanza-un-mapa-para-consultar-y-comparar-la-cobertura-movil/",
-   "ts": 1793391049,
-   "summary": "La Comisión Reguladora de Telecomunicaciones (CRT) de México presentó el Mapa de Conectividad en México, una plataforma digital de datos abiertos que permite consultar y comparar la cobertura de telefonía móvil por localidad o municipio, así como conocer información sobre la calidad del servicio. Disponible en el sitio oficial del organismo, la herramienta también permite […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/IMGL5521.jpg",
-   "title_en": "Mexico launches map to consult and compare mobile coverage",
-   "excerpt_en": "CRT of Mexico presented Digital Connectivity Map, open data platform to consult and compare mobile coverage."
-  },
-  {
-   "id": "d2b0cbca66",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Binance cubrirá con fondos propios las pérdidas tras hackeo por 6,300 mdd",
-   "link": "https://dplnews.com/binance-cubrira-con-fondos-propios-las-perdidas-tras-hackeo-por-6300-mdd/",
-   "ts": 1793390259,
-   "summary": "Binance estimó en 6,300 millones de dólares el impacto total de un incidente de seguridad que afectó a una billetera propia de la plataforma y permitió realizar transacciones de retiro no autorizadas. La investigación inicial apuntó a una posible computadora comprometida, aunque el co-CEO de Binance, Richard Teng, informó posteriormente que se identificaron otros puntos […]",
-   "img": "https://dplnews.com/wp-content/uploads/2023/03/dplnews_binance-cripto_dn140323.jpeg",
-   "title_en": "Binance will cover losses from $6.3 billion hack with own funds",
-   "excerpt_en": "Binance estimated $6.3 billion total impact from security incident affecting own wallet and unauthorized withdrawals."
-  },
-  {
-   "id": "cb9e83c453",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Brasil busca cerrar sus brechas digitales con un plan de conectividad significativa",
-   "link": "https://dplnews.com/brasil-plan-conectividad-significativa/",
-   "ts": 1793384997,
-   "summary": "El acceso a Internet ya no basta para cerrar las brechas digitales. La Anatel propone cuatro ejes para que más brasileños aprovechen la conectividad significativa y para impulsar la sostenibilidad del sector.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnews_conectividad_significativa_vc-scaled.jpeg",
-   "title_en": "Brazil seeks to close digital gaps with significant connectivity plan",
-   "excerpt_en": "Internet access alone insufficient to close digital gaps; Anatel proposes four axes for significant connectivity."
-  },
-  {
-   "id": "c4dbacf8aa",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Google’s satellite AI server transmits its first response to Earth",
-   "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-   "ts": 1793384498,
-   "summary": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space: Blue marble below Data streams in […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/project-suncatcher-google.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "e178253760",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Clip compra empresa de software Pulpos",
-   "link": "https://dplnews.com/clip-compra-software-pulpos/",
-   "ts": 1793383263,
-   "summary": "Clip adquirió Pulpos, un software de gestión en la nube impulsado por inteligencia artificial, para ayudar a más negocios en México a integrar su operación, simplificar la administración y tomar mejores decisiones.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/10/dplnewsPulposClip_rp30102026-scaled.jpg",
-   "title_en": "Clip buys software company Pulpos",
-   "excerpt_en": "Clip acquired Pulpos cloud management software powered by AI to help more Mexican businesses integrate operations."
+   "id": "e0688e04c6",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Credores viram sócios na Raízen e abrem caminho para fim de maior recuperação extrajudicial do Brasil",
+   "link": "https://neofeed.com.br/negocios/credores-viram-socios-na-raizen-e-abrem-caminho-para-fim-de-maior-recuperacao-extrajudicial-do-brasil/",
+   "ts": 1793394521,
+   "summary": "A maior recuperação extrajudicial do Brasil está perto do fim. Em assembleia realizada na sexta-feira, 30 de outubro, a Raízen, que buscava solução para um passivo de R$ 65 bilhões, finalmente chegou a um acordo com os credores. Agora, eles passam a ser sócios, com cerca de 80% de participação da empresa de energia. Com […] O post Credores viram sócios na Raízen e abrem caminho para fim de maior r",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/raizen-300x169.jpeg",
+   "title_en": "Creditors become partners at Raízen, opening path to end major recovery",
+   "excerpt_en": "Brazil's largest extrajudicial recovery nears end as Raízen reaches agreement with creditors on R$ 65 billion restructuring."
   },
   {
    "id": "d461db5ac5",
@@ -372,48 +372,37 @@
    "img": "https://media.datacenterdynamics.com/media/images/Equinix_SV11.a531b29d.fill-750x500.jpg"
   },
   {
-   "id": "5f038e0eab",
-   "src": "RCR Wireless",
+   "id": "a1eeeb7182",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "telecom",
-   "title": "América Móvil expects Televisa-AT&T deal to open door to pay TV",
-   "link": "https://rcrwireless.com/20261030/5g/america-movil-televida-pay-tv",
-   "ts": 1793368159,
-   "summary": "America Movil’s chief executive officer Daniel Hajj said the company does not yet know what Televisa’s strategy will be once the transaction is completed but noted that Televisa will be…",
-   "img": null
+   "sec": "dc",
+   "title": "Beyond the grid",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/beyond-the-grid/",
+   "ts": 1793378735,
+   "summary": "Building the power system for AI in the Americas",
+   "img": "https://media.datacenterdynamics.com/media/images/Beyond_the_Grid_AMER_Data_Center_W.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "c52286fa06",
+   "id": "db57dadfca",
    "src": "Light Reading",
    "lang": "EN",
    "sec": "telecom",
-   "title": "AT&T and Verizon normalize layoffs as 8,000 jobs go in a quarter",
-   "link": "https://www.lightreading.com/ai-machine-learning/at-t-and-verizon-normalize-layoffs-as-8-000-jobs-go-in-a-quarter",
-   "ts": 1793349000,
-   "summary": "Together, AT&T and Verizon now employ fewer people than AT&T alone did in 2020, but cuts so far seem to have had little to do with AI.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt775f6abf68f20993/6980baeb40bae8799045df31/Dan_Schulman.jpg?width=720&quality=80&disable=upscale"
+   "title": "UK mmWave vendor CBNG collapses after losing Verizon deal",
+   "link": "https://www.lightreading.com/fixed-wireless-access/uk-mmwave-vendor-cbng-collapses-after-losing-verizon-deal",
+   "ts": 1793371641,
+   "summary": "Cambridge, UK-based CBNG has gone into administration, affecting about 75 jobs, in the wake of Verizon's decision to not use its millimeter wave product for 5G fixed wireless access.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt42c1a1921b7b48a9/698108267ee83b132b3b5d1f/sound_waves_technology_abstract_spectrum_paul-campbell-X4vxq0jK_gQ-unsplash.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "91173f3dd1",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Beneath the Surface: Assessing the U.S.-China Strategic Clash Over Trans-Pacific Subsea Cables",
-   "link": "https://www.submarinenetworks.com/en/nv/insights/beneath-the-surface",
-   "ts": 1793347416,
-   "summary": "Beneth the Surface Geopolitical Competition Geopolitical Bifurcation Sabotage Supply-Chain Bottlenecks The security of trans-Pacific undersea cables has emerged as a central flashpoint in U.S.-China geopolitical competition. A recent report commissioned by the U.S.-China Economic and Security Review Commission (USCC)—titled \" China’s Gray Zone Threats to Trans-Pacific Undersea Cables \" —provides a",
-   "img": null
-  },
-  {
-   "id": "2d21d856f1",
+   "id": "6d5082a414",
    "src": "Light Reading",
    "lang": "EN",
    "sec": "telecom",
-   "title": "Can Jio's stock market debut reset India's telecom pricing?",
-   "link": "https://www.lightreading.com/finance/can-jio-s-stock-market-debut-reset-india-s-telecom-pricing-",
-   "ts": 1793340000,
-   "summary": "Jio's IPO raises questions about whether it will prioritize higher ARPU or preserve the low-cost data strategy behind its growth.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt9a0f192d1a0489e5/692dcaf94017478f463aa91d/HT9354.jpg?width=720&quality=80&disable=upscale"
+   "title": "Eurobites: VMO2 nears Openreach deal to expand fiber coverage – report",
+   "link": "https://www.lightreading.com/fttx/eurobites-vmo2-nears-openreach-deal-to-expand-fiber-coverage-report",
+   "ts": 1793365931,
+   "summary": "Also in today's EMEA regional roundup: Proximus' patchy Q3; Orange hooks up with Mistral AI; Google under fire in Finland.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt377a4b341431c415/67f7d70639bc7583d329fcc2/O2_Telefonica_logo_on_smartphone_screen_hold_in_hand_and_Virgin_Media_logo_on_blurred_background.jpeg?width=720&quality=80&disable=upscale"
   }
  ]
 }
