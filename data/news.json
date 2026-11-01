@@ -1,17 +1,174 @@
 {
- "updated_utc": "2026-11-01T16:08:36Z",
+ "updated_utc": "2026-11-01T22:55:23Z",
  "edition": "17:00",
  "translated": true,
- "chart": {
-  "title": "Binance recovers 90% of stolen $6.3 billion in record heist",
-  "value": "90 percent",
-  "total": "$6.3 billion",
-  "value_label": "stolen assets replenished",
-  "total_label": "total stolen in crypto heist",
-  "id": "7d968577e0"
- },
+ "chart": null,
  "numbers": [],
  "items": [
+  {
+   "id": "f2b1b9b486",
+   "src": "investingLive",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Australia’s AI investment ambitions hit by another data centre setback",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0RmMG9xZEtMMzRjUHAxRUUwRmVvVW5ybTZyd1VaTkVqWW1GXzB2cmZRZXE5TloyQ2duVm1lQXV3Rkd5OE1IQzZIREJkVWs1akstOEpET015Vk5ReWd2WlNBZEJTZkd4dFJhRUl4MGxnM1o5bzJFU2g1T1FaeHhvOUViTjR0OXA2RUFib0ZuZVJUTmJjYkkyZXdxR2tEdWFnV2pxMg?oc=5",
+   "ts": 1793571441,
+   "summary": "",
+   "img": null
+  },
+  {
+   "id": "2316f1b642",
+   "src": "investingLive",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Australia’s factory PMI stuck at 49.6 as new orders drop at fastest pace since 2024",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVmt3ZFhTLUFBVDNkaU5BM2wzcGJkRmg1eXI3WXR2OUtuTGhaV3plVUFHWHVIYzlhTjlCUlcweTNrV0hnTGw0S2daNHNKM041aGlmWE40WDhsUFZZb1hjOVh1aWU5bDFqS29YdG1VQl9ON09Wb1RmQ0ZiVzZhOUFDSXl2WnlOUXYzVXQxWUlNQ3pFQWxoS2gzSnhNRHdldjZuV3p4UmloTlR0WTNNTEZ1RC13anJiZw?oc=5",
+   "ts": 1793570900,
+   "summary": "",
+   "img": null
+  },
+  {
+   "id": "33c086ca14",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+   "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "ts": 1793570123,
+   "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+   "img": null
+  },
+  {
+   "id": "eb99a42f86",
+   "src": "investingLive",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Trump says US and Canada have ‘concept’ of a deal, two days before midterms",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUFIOU1ZNkM2dDV1UG1YTDQ5ZmlRWTZDSU1wUTBhRl84em1xSWFkODRiTHRYVUw1ZHdYZEJRaDMzeHdSZUUxaFd0VTk1djFHcVFWM2dGYTVmTmgzdzM1NlhHWEVjMVFkUjhYNzBaZTFKVVJnOEpiWlozczdSd19ydTlXWDRxVWd4clF3QUZkVHVGOHVBejBOU3Z4V0ZmWjRtLVhKRC1WMA?oc=5",
+   "ts": 1793569164,
+   "summary": "",
+   "img": null
+  },
+  {
+   "id": "3e09c3ad55",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Quiet ambition e a sucessão que os herdeiros não querem seguir",
+   "link": "https://neofeed.com.br/insiders/quiet-ambition-e-o-bastao-que-os-herdeiros-nao-querem-pegar/",
+   "ts": 1793568159,
+   "summary": "Passei anos ouvindo empresários me perguntarem onde investir. Ultimamente, ouço uma pergunta mais difícil do que qualquer tese de alocação: e se ninguém quiser assumir a gestão do patrimônio e dos negócios da família? A geração que construiu grandes fortunas no Brasil nos anos 1990 e 2000 partiu do pressuposto de que, um dia, os […] O post Quiet ambition e a sucessão que os herdeiros não querem se",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/sucessao-cadeira-vazia-300x169.jpg",
+   "title_en": "Quiet ambition and succession that heirs don't want to follow",
+   "excerpt_en": "Business owners increasingly ask where to invest; harder question now: who manages family wealth and business?"
+  },
+  {
+   "id": "b15e45d0bb",
+   "src": "investingLive",
+   "lang": "EN",
+   "sec": "business",
+   "title": "China’s factory and services PMI gauges both drop below 50 as fourth quarter starts on a weak note",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVzVWdGVpWmh6bV9QTXY4R0I3R19Maktpa1lfdWRKVTlOTUJqNmkyLWtlVmlOTXVlQXJTemh4WjVVbnZRYkFScFVaR0wzMFZVNm5VSjdTZkZCMnhPVlBlVGtaSkFFMVZnQzhiZy0yd0xJd1J3S0kyYzdJamxJSlUwd2JUWlRlQjQ1MGVLbHpXUmdUVmpOLU9OZ2MxQlRReHVkUzlMdzdfX2tSaDJHVHJLOEJBX2otcGZ2SWlkb2JjcG5mMTQxVEFqNU5B?oc=5",
+   "ts": 1793566813,
+   "summary": "",
+   "img": null
+  },
+  {
+   "id": "2cff19d851",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Inside Indonesia’s Wash-Trade Scheme",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-01/inside-indonesia-s-wash-trade-scheme-video",
+   "ts": 1793566260,
+   "summary": "Stock wash-trading schemes have put Indonesia at risk of an MSCI downgrade. How did this happen, and what are regulators doing about it? (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "ef5f7dba2c",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Ebro apunta a 40.000 coches en 2027 y negocia más financiación",
+   "link": "https://www.expansion.com/catalunya/2026/11/01/ebro-apunta-40-000-coches-2027-negocia-financiacion.html",
+   "ts": 1793563886,
+   "summary": "La firma redefine sus gastos debido a las inversiones en la Zona Franca e iniciará la producción del s400, el Jaecoo 5 y el s700 en su línea de soldadura durante el primer trimestre del año entrante. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935638787431.jpg",
+   "title_en": "Ebro targets 40,000 cars in 2027, negotiates more financing",
+   "excerpt_en": "Firm redefines spending due to Zona Franca investments; initiates S400, Jaecoo 5, S700 production first quarter next year."
+  },
+  {
+   "id": "1e8812b73e",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Entra en vigor la nueva tasa europea de dos euros a los pequeños envíos",
+   "link": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html",
+   "ts": 1793561633,
+   "summary": "El impuesto se dedicará a financiar las aduanas que se han visto casi colapsadas. Se reciben casi 6.000 millones de paquetes al año. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935616261315.jpg",
+   "title_en": "New two-euro European tax on small shipments takes effect",
+   "excerpt_en": "Tax finances customs infrastructure handling nearly 6 billion packages annually."
+  },
+  {
+   "id": "401ada48a2",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Los usuarios de Binance retiran más de 3.600 millones de la plataforma tras el robo",
+   "link": "https://www.expansion.com/economia/financial-times/2026/11/01/usuarios-binance-retiran-3-600-millones-plataforma-robo.html",
+   "ts": 1793558389,
+   "summary": "Los usuarios de Binance retiraron 3.640 millones de dólares de la mayor plataforma de intercambio de criptomonedas del mundo, la cual reanudó sus servicios el domingo tras sufrir un robo récord de 6.300 millones de dólares. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935583835274.jpg",
+   "title_en": "Binance users withdraw $3.64 billion after platform hack",
+   "excerpt_en": "Users withdrew funds after platform suffered record $6.3 billion theft; services resumed Sunday."
+  },
+  {
+   "id": "87db6c5893",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them",
+   "link": "https://www.nytimes.com/2026/10/28/technology/silicon-valley-bugs-ai.html",
+   "ts": 1793553560,
+   "summary": "A.I. has uncovered a horde of software flaws, which engineers are racing to fix before they can be exploited and abused by hackers.",
+   "img": "https://static01.nyt.com/images/2026/10/29/business/00ai-bugs/00ai-bugs-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "d30e77c3d8",
+   "src": "investingLive",
+   "lang": "EN",
+   "sec": "business",
+   "title": "What protects Japan’s economy? And what does it mean for the yen?",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSFZoX1p3bzdNQnFHajBhajJqQlEzN1dGdDJOYzktX2tBNTNSMmYxODEzUjN5UktYd3hoNEFVUDFrQjF2WllwY2sxYXl5QW5pdUtjZ0YzQ0RKOXhmazczejNTdjgxeEVFN3F0TlQ5YTczT1Jvb2oxcjg1X1lDbXM1WjE1T3FUUkFDZTJnNnFlOHRYODJhT0ZDUmxNTnFodFZZY2c?oc=5",
+   "ts": 1793551819,
+   "summary": "",
+   "img": null
+  },
+  {
+   "id": "66d53076d9",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Binance resumes withdrawals following $6.3 billion breach",
+   "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "ts": 1793550010,
+   "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+   "img": null
+  },
+  {
+   "id": "9e1f7b95fb",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "O negócio que une Mercedes e Vaticano há quase um século",
+   "link": "https://neofeed.com.br/finde/o-negocio-que-une-mercedes-e-vaticano-ha-quase-um-seculo/",
+   "ts": 1793546566,
+   "summary": "Roma – A quilometragem é baixa e não dá para acelerar. A placa (SCV 1 — Stato della Città del Vaticano) é única e o assento principal tem passageiro exclusivo. Ao ser tirado de circulação, vira peça de museu. Ao longo dos anos, cada detalhe foi pensado para que o papamóvel (la papamobile, palavra feminina, […] O post O negócio que une Mercedes e Vaticano há quase um século apareceu primeiro em Neo",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/papamovel-leao-xiv-vatican-media-300x169.jpg",
+   "title_en": "The business uniting Mercedes and Vatican for nearly a century",
+   "excerpt_en": "Low mileage, unique plates, exclusive passenger; retired vehicles become museum pieces."
+  },
   {
    "id": "f926992e49",
    "src": "DatacenterDynamics",
@@ -22,17 +179,6 @@
    "ts": 1793545231,
    "summary": "And why you should start thinking about quantum computing as an element of the broader data center ecosystem",
    "img": "https://media.datacenterdynamics.com/media/images/Yuval_Boger_QuEra.11bd4acb.fill-750x500.jpg"
-  },
-  {
-   "id": "85b56b3c34",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Junk debt rout sparks ‘bloodbath’ for credit investors",
-   "link": "https://www.ft.com/content/fdc9a85d-d2c4-465f-99ca-609d68b6d443?syn-25a6b1a6=1",
-   "ts": 1793544895,
-   "summary": "Aggressive tactics to shift assets beyond reach of creditors have added fuel to sell-off",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa3004436-de9c-48af-8563-f512ac743375.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
    "id": "d47dca6755",
@@ -46,17 +192,28 @@
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK428_CRYPTO_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
-   "id": "aae06d2dd7",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "La OPEP+ decide mantener congelada su oferta de petróleo en diciembre",
-   "link": "https://www.expansion.com/empresas/energia/2026/11/01/opep-decide-mantener-congelada-oferta-petroleo-diciembre.html",
-   "ts": 1793539789,
-   "summary": "La alianza OPEP+, liderada por Arabia Saudí y Rusia, decidió este domingo mantener sin cambios el nivel de su oferta de crudo en diciembre, por tercer mes consecutivo. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935397776384.jpg",
-   "title_en": "OPEC+ maintains frozen oil supply in December",
-   "excerpt_en": "Saudi-led OPEC+ alliance keeps crude supply unchanged for third consecutive month in December."
+   "id": "c0f8e37d43",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+   "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "ts": 1793541600,
+   "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+   "img": null
+  },
+  {
+   "id": "2478acb7e2",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Muito além dos 42 quilômetros da Maratona de Nova York",
+   "link": "https://neofeed.com.br/finde/muito-alem-dos-42-quilometros-da-maratona-de-nova-york/",
+   "ts": 1793538786,
+   "summary": "Nova York — Neste domingo, 1º de novembro, cerca de 60 mil corredores participarão da TCS New York City Marathon, a maratona de Nova York. O evento atrai às ruas aproximadamente 2 milhões de torcedores, faça frio ou faça calor. Em meio aos atletas, alguns chamam a atenção. Vestidos com camisetas amarelo-limão, os integrantes da Achilles […] O post Muito além dos 42 quilômetros da Maratona de Nova ",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/FrancescoandNev-nyc-marathon-300x169.jpg",
+   "title_en": "Well beyond 42 kilometers of New York Marathon",
+   "excerpt_en": "Around 60,000 runners participate; event attracts approximately 2 million spectators."
   },
   {
    "id": "cd3bd1b497",
@@ -70,17 +227,6 @@
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
-   "id": "8d5289f0b4",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Weil Gotshal: what happens now at the troubled Wall St law firm?",
-   "link": "https://www.ft.com/content/8332fa3f-2a4a-41ca-8836-44d41d32fe8a?syn-25a6b1a6=1",
-   "ts": 1793534401,
-   "summary": "The New York legal powerhouse is shutting down after 95 years in business after an exodus of top talent",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd99b8c3-67f8-40ec-b7fc-a6f2775e92c3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
    "id": "9a8fb88337",
    "src": "Expansión",
    "lang": "ES",
@@ -90,8 +236,8 @@
    "ts": 1793533524,
    "summary": "El fundador y primer accionista de Inditex, Amancio Ortega, ingresará este año un total de 3.234 millones de euros en concepto de dividendos de la compañía cuando cobre este lunes, 2 de noviembre, 1.617 millones de euros por la última retribución del ejercicio que abonará la firma gallega a sus accionistas. Leer",
    "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935335134949.jpg",
-   "title_en": "Amancio Ortega to receive €1.617 billion in Inditex dividends this Monday",
-   "excerpt_en": "Inditex founder Ortega will receive €1.617 billion in dividends on November 2, totaling €3.234 billion for the year."
+   "title_en": "Amancio Ortega to collect 1.617 billion euros in Inditex dividends",
+   "excerpt_en": "Founder and principal shareholder receives half of 3.234 billion euros in annual dividends Monday."
   },
   {
    "id": "a2fcd3fbe6",
@@ -103,21 +249,8 @@
    "ts": 1793532791,
    "summary": "Una mayoría de expertos (52%) considera que el repunte de la inflación que está registrando la economía española \"es el inicio de una fase de inflación estructuralmente más alta, que se mantendrá durante un tiempo y que el BCE tendrá dificultades en resolver\". Leer",
    "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
-   "title_en": "PwC experts forecast Spain's economic growth to slow to 2.4% this year",
-   "excerpt_en": "52% of experts believe Spain's inflation rebound signals structurally higher inflation lasting extended period."
-  },
-  {
-   "id": "08c6d8691a",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Empiezan a salir al mercado los 100 millones de barriles de petróleo prometidos por el G7",
-   "link": "https://www.expansion.com/empresas/energia/2026/11/01/empiezan-salir-mercado-100-millones-barriles-petroleo-prometidos-g7.html",
-   "ts": 1793531282,
-   "summary": "Los 100 millones de barriles de petróleo y diésel de las reservas estratégicas que los países del G7 se han comprometido a sacar al mercado en cuatro meses empiezan a fluir este domingo, acompañados de volumen adicional prometido por otros países europeos para dar más fluidez y estabilidad al mercado. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/01/17935312593908.jpg",
-   "title_en": "G7's 100 million barrels of strategic oil reserves begin hitting market",
-   "excerpt_en": "G7-committed 100 million barrels of strategic petroleum begin flowing to market Sunday alongside additional volume."
+   "title_en": "PwC experts expect Spanish economy growth to slow to 2.4% this year",
+   "excerpt_en": "Majority of experts predict higher structural inflation phase persisting for extended period."
   },
   {
    "id": "4e2fd7538b",
@@ -140,8 +273,8 @@
    "ts": 1793523601,
    "summary": "O Brasil evoluiu muito em conectividade. Em 2025, 90,5% dos brasileiros com dez anos ou mais já utilizavam a internet, cerca de 170 milhões de pessoas. A infraestrutura também evoluiu: a cobertura 4G já alcança praticamente toda a população brasileira. Ao mesmo tempo, o Gov.br tornou-se uma das maiores plataformas digitais de governo do mundo. São conquistas importantes, mas que colocam o país dia",
    "img": "https://s2-pipelinevalor.glbimg.com/Z6EY9oTgVJQpKPsOCHdC7vzDx38=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2022/i/a/Wr1iQLTJO3Aa8z1rFPAw/280422chiristiangebara16.jpg",
-   "title_en": "Brazil's digital leap",
-   "excerpt_en": "In 2025, 90.5% of Brazilians aged 10+ use internet; 4G coverage reaches nearly nationwide."
+   "title_en": "Brazil's digital leap forward",
+   "excerpt_en": "2025: 90.5% Brazilians over ten use internet, approximately 170 million people; 4G coverage reaches nearly everywhere."
   },
   {
    "id": "ccdbfcf7e7",
@@ -153,32 +286,21 @@
    "ts": 1793508000,
    "summary": "Combinarán en Warhound ingeniería genética y tecnología de defensa para crear unidades caninas militares",
    "img": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153",
-   "title_en": "Palmer Luckey and Ben Lamm: billionaire geeks behind Warhound military dogs",
-   "excerpt_en": "Engineers combine genetic engineering and defense technology in Warhound military canine units."
+   "title_en": "Palmer Luckey and Ben Lamm, billionaire tech founders behind military war dogs",
+   "excerpt_en": "Warhound combines genetic engineering and defense technology to create military canine units."
   },
   {
-   "id": "844726eeae",
+   "id": "800837175b",
    "src": "Cinco Días",
    "lang": "ES",
    "sec": "latam",
-   "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
-   "link": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
+   "title": "Zamora se pone en pie de guerra por la construcción de un macrocentro de datos: “Es una manera de echarnos”",
+   "link": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
    "ts": 1793507401,
-   "summary": "El candidato a la presidencia del BCE ha construido una credibilidad intachable a base de trabajo, discreción y una habilidad natural para granjearse aliados en el mundo económico",
-   "img": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb",
-   "title_en": "De Cos, Balance and Consensus for Volatile Times",
-   "excerpt_en": "The ECB presidency candidate has built impeccable credibility through work, discretion, and skill forging economic allies."
-  },
-  {
-   "id": "1fe4326766",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-   "ts": 1793504898,
-   "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
-   "img": null
+   "summary": "El proyecto, ubicado en la localidad de Monfarracinos y orientado a la inteligencia artificial, generará más calor, más ruido y un elevado consumo energético, según un investigador del CSIC",
+   "img": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4",
+   "title_en": "Zamora city fights AI data center construction project in Monfarracinos",
+   "excerpt_en": "Project for artificial intelligence generates excess heat, noise, high energy consumption."
   },
   {
    "id": "a8e3b1a57c",
@@ -192,37 +314,15 @@
    "img": null
   },
   {
-   "id": "89c6cb6d29",
-   "src": "TechCrunch",
+   "id": "501269b999",
+   "src": "The New York Times",
    "lang": "EN",
    "sec": "tech",
-   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-   "ts": 1793482860,
-   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "img": null
-  },
-  {
-   "id": "bc398a80a0",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "ts": 1793481423,
-   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-   "img": null
-  },
-  {
-   "id": "7d968577e0",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
-   "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
-   "ts": 1793472032,
-   "summary": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is covering the stolen funds directly, and the remaining 10 percent consists of \"less […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK428_CRYPTO_3_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+   "title": "How Binance’s $6.3 Billion Hack Went Down",
+   "link": "https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html",
+   "ts": 1793485189,
+   "summary": "A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.",
+   "img": "https://static01.nyt.com/images/2026/11/01/business/00biz-binance-ticktock/00biz-binance-ticktock-mediumSquareAt3X.jpg"
   },
   {
    "id": "bcd9f1fd42",
