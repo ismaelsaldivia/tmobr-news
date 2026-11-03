@@ -1,12 +1,12 @@
 {
- "updated_utc": "2026-11-02T19:36:59Z",
+ "updated_utc": "2026-11-03T01:40:58Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Marvell-Lumentum merger: one of tech's largest deals ever",
+  "title": "Marvell acquires Lumentum for record semiconductor merger",
   "value": "$115 billion",
   "total": "",
-  "value_label": "acquisition price",
+  "value_label": "deal value",
   "total_label": "",
   "id": "eb28027b11"
  },
@@ -17,65 +17,263 @@
    "id": "c5ba1d6d3e"
   },
   {
-   "value": "1,000 megawatts",
-   "label": "OpenAI Grid Protectors power freed during crises",
-   "id": "16194c055a"
+   "value": "$900 billion",
+   "label": "Anthropic AI spending commitments",
+   "id": "2e15f3ca81"
   },
   {
-   "value": "800VDC",
-   "label": "Envision first ultra-high voltage data center",
-   "id": "506685f570"
-  },
-  {
-   "value": "$115 billion",
-   "label": "Marvell-Lumentum all-stock deal value",
-   "id": "654d300021"
+   "value": "154%",
+   "label": "Apple inventory surge",
+   "id": "bea1e62ccf"
   }
  ],
  "items": [
   {
-   "id": "f0d1149023",
-   "src": "TechCrunch",
+   "id": "b81876b33b",
+   "src": "Financial Times",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Web host Squarespace lays off 19% of its employees",
-   "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-   "ts": 1793647559,
-   "summary": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-   "img": null
+   "sec": "business",
+   "title": "Apple warns ‘unprecedented’ memory chip costs will hit margins",
+   "link": "https://www.ft.com/content/f6ad8c32-cacb-48ad-ad85-a9a7edac3f16?syn-25a6b1a6=1",
+   "ts": 1793668657,
+   "summary": "Hardware giant predicts robust sales in the holiday season but services outlook disappoints",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b448a1f-9641-4400-adbb-c7ce75c4591c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "8402594bed",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-   "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-   "ts": 1793647157,
-   "summary": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-   "img": null
-  },
-  {
-   "id": "2d2f3c476c",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-   "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-   "ts": 1793646709,
-   "summary": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-   "img": null
-  },
-  {
-   "id": "1207972789",
+   "id": "56b6611933",
    "src": "Bloomberg",
    "lang": "EN",
    "sec": "business",
-   "title": "Qatalyst Notches Its Biggest Deal With Rare Buyside M&A Role",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/qatalyst-notches-its-biggest-deal-with-rare-buyside-m-a-role",
-   "ts": 1793646555,
-   "summary": "Qatalyst Partners, the boutique investment bank serving the tech industry, has just landed its biggest-ever deal after diverting from its normal focus on selling companies.",
+   "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
+   "ts": 1793668120,
+   "summary": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
    "img": null
+  },
+  {
+   "id": "bd936fe1d4",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+   "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+   "ts": 1793666152,
+   "summary": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price tag on his passion.",
+   "img": null
+  },
+  {
+   "id": "465fb4032e",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El temor a la deuda presiona al alza el coste de capital de la banca",
+   "link": "https://www.expansion.com/empresas/banca/2026/11/03/temor-deuda-presiona-alza-coste-capital-banca.html",
+   "ts": 1793665984,
+   "summary": "Leer",
+   "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
+   "title_en": "Fear of debt drives up banking capital costs",
+   "excerpt_en": "Banks face rising cost of capital pressured by debt concerns."
+  },
+  {
+   "id": "77e2ef7f18",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Disney Plans Thousands of Layoffs, Targeting 20% Cost Savings",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/disney-eyes-thousands-of-layoffs-with-managers-asked-to-cut-20",
+   "ts": 1793665225,
+   "summary": "Walt Disney Co. is moving toward thousands of job cuts with the entertainment giant asking some managers to target 20% in annual cost savings, according to people familiar with the matter.",
+   "img": null
+  },
+  {
+   "id": "7e322648ee",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Santander recibe 620 millones de AXA por su pleito en Reino Unido",
+   "link": "https://www.expansion.com/empresas/banca/2026/11/03/santander-recibe-620-millones-axa-pleito-reino-unido.html",
+   "ts": 1793665084,
+   "summary": "El fondo de comercio del grupo aumenta a 18.900 millones, tras sumar 5.553 millones por Webster y 777 millones por TSB ante los beneficios económicos futuros. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17936650658680.png",
+   "title_en": "Santander receives 620 million euros from AXA over UK lawsuit",
+   "excerpt_en": "Settlement increases goodwill to 18.9 billion euros with future economic benefits."
+  },
+  {
+   "id": "259fcca353",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Oracle Is Near $10 Billion Share Sale at 11% Discount",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-03/oracle-is-said-to-near-10-billion-share-sale-at-11-discount",
+   "ts": 1793664999,
+   "summary": "Oracle Corp. is poised to price the sale of $10 billion in shares at an 11% discount, according to people familiar with the matter, after the company’s stock price was dinged in a choppy session to start the week.",
+   "img": null
+  },
+  {
+   "id": "1212340b46",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+   "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+   "ts": 1793664891,
+   "summary": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
+   "img": null
+  },
+  {
+   "id": "34ddbb0cc9",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "PwC cerrará el año con el fichaje de más de 1.300 profesionales",
+   "link": "https://www.expansion.com/empresas/2026/11/03/pwc-cerrara-ano-fichaje-1-300-profesionales.html",
+   "ts": 1793664826,
+   "summary": "La nueva promoción combinará 889 jóvenes recién titulados y 479 profesionales con experiencia previa. Además, las áreas de Auditoría y Consultoría lideran las contrataciones. Leer",
+   "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
+   "title_en": "PwC closes year with hiring of over 1,300 professionals",
+   "excerpt_en": "New cohort combines 889 recent graduates and 479 experienced professionals."
+  },
+  {
+   "id": "50f09fb33c",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "ING busca atraer grandes fortunas internacionales a España",
+   "link": "https://www.expansion.com/empresas/banca/2026/11/03/ing-busca-atraer-grandes-fortunas-internacionales-espana.html",
+   "ts": 1793664790,
+   "summary": "El grupo confía en España como el mercado con mayor potencial de crecimiento en gestión patrimonial de todos en los que está presente, donde acaba de estrenar su oferta especializada. Leer",
+   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17936647885625.jpg",
+   "title_en": "ING seeks to attract wealthy international customers to Spain",
+   "excerpt_en": "ING targets Spain as highest-growth market for wealth management services."
+  },
+  {
+   "id": "8a28304c5b",
+   "src": "Expansión",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Naturgy, Nortegas y MRG abren sus redes a socios",
+   "link": "https://www.expansion.com/empresas/energia/2026/11/03/naturgy-nortegas-mrg-abren-redes-socios.html",
+   "ts": 1793664765,
+   "summary": "Los dueños de la red gasista en España, entre ellos CPPIB, USS, ATP, Gingko Tree y PGGM, reabren la veda de operaciones corporativas del sector, algo que llevan tiempo esperando. Leer",
+   "img": "http://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-expansion&amp;ci=es-widgetueditorial&amp;si=https://www.expansion.com/rss/portada.xml",
+   "title_en": "Naturgy, Nortegas and MRG open gas networks to partners",
+   "excerpt_en": "Spanish gas network owners reopen corporate operations spree after long wait."
+  },
+  {
+   "id": "7d4af86f90",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Apple’s Profit Grows 12% Despite Component Price Worries",
+   "link": "https://www.nytimes.com/2026/11/02/technology/apple-earnings.html",
+   "ts": 1793662910,
+   "summary": "The company said iPhone sales remained strong, but warned that the cost of memory chips for its devices was going up.",
+   "img": "https://static01.nyt.com/images/2026/11/02/multimedia/APPLE-EARNINGS-1-fjml/APPLE-EARNINGS-1-fjml-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "bea1e62ccf",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Apple’s inventory surges 154% as memory chip costs climb",
+   "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+   "ts": 1793660697,
+   "summary": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
+   "img": null
+  },
+  {
+   "id": "dbb4104820",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
+   "link": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
+   "ts": 1793660307,
+   "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2de2a1a8-6cf8-4859-a895-bdfd7361bc51.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "c1ab6153b6",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Apple logra ingresos récord apoyada en la fortaleza del iPhone y presume de su remuneración a los accionistas",
+   "link": "https://elpais.com/economia/2026-11-02/apple-eleva-sus-ingresos-un-12-y-presume-de-su-remuneracion-a-los-accionistas.html",
+   "ts": 1793657493,
+   "summary": "La compañía eleva el volumen de negocio un 12% en el cuarto trimestre y supera los 479.000 millones en el conjunto del año. El nuevo CEO destaca que la empresa ha cerrado el mejor ejercicio de su historia",
+   "img": "https://imagenes.elpais.com/resizer/v2/CIAC7GMAPFL27CHOJSGX6KXXPI.jpg?auth=bf37ac38f4aa426e6ca4f11161792da201342855860a3da15ae0636355b12544",
+   "title_en": "Apple achieves record revenue supported by iPhone strength",
+   "excerpt_en": "Company raises revenue 12% in Q4, exceeds 479 billion annually."
+  },
+  {
+   "id": "94a22c1a50",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Brightspeed swaps CEOs as it reportedly nears bankruptcy",
+   "link": "https://www.lightreading.com/broadband/brightspeed-swaps-ceos-as-it-reportedly-nears-bankruptcy",
+   "ts": 1793656200,
+   "summary": "Shawn O'Donnell has succeeded Michel Combes as CEO of Brightspeed amid a report that the company is on the cusp of bankruptcy. Combes, who was acting CEO, will remain as chairman. New Street Research views Verizon as a logical buyer of Brightspeed.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt71a62c6afef314a0/654a6f1e4e08c0040733ccee/broken_piggy_bank.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "c0fb60c327",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Apple’s Tightening Margins Overshadow Upbeat Holiday Forecast",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates",
+   "ts": 1793655474,
+   "summary": "Apple Inc. delivered a mixed outlook to investors in its first quarterly report under Chief Executive Officer John Ternus, with narrower profit margins overshadowing an upbeat sales forecast.",
+   "img": null
+  },
+  {
+   "id": "68ae911f57",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Palantir’s Outlook Signals a Slowdown in AI-Fueled Sales Growth",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-02/palantir-boosts-2026-revenue-outlook-on-strong-commercial-sales",
+   "ts": 1793654177,
+   "summary": "Palantir Technologies Inc., the AI-powered data and analytics platform that counts the US military among its chief customers, issued a quarterly outlook that pointed to a potential slowdown in sales growth.",
+   "img": null
+  },
+  {
+   "id": "4efa48b923",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "A Bolsa não dorme mais? Como a negociação de ações fora do pregão está mudando Wall Street",
+   "link": "https://neofeed.com.br/wealth-management/a-bolsa-nao-dorme-mais-como-a-negociacao-de-acoes-fora-do-pregao-esta-mudando-wall-street/",
+   "ts": 1793650985,
+   "summary": "Nova York – Enquanto Wall Street dorme, uma parcela crescente dos investidores continua comprando e vendendo ações americanas. Em agosto de 2026, o volume médio diário de ações negociadas entre 20 horas e 4 horas nos Estados Unidos cresceu 359% em relação ao mesmo período de 2025, alcançando 144,6 milhões de papéis. O valor financeiro […] O post A Bolsa não dorme mais? Como a negociação de ações f",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/Trader-contemplativo-sobre-Manhattan-a-noite-300x169.jpg",
+   "title_en": "Does the stock exchange never sleep anymore? How off-market trading is changing Wall Street",
+   "excerpt_en": "Average daily volume surged August 2026 for after-hours US stock trading."
+  },
+  {
+   "id": "4addc6f084",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "OPINIÃO: As reservas internacionais não podem virar cheque especial para baixar juros",
+   "link": "https://neofeed.com.br/insiders/opiniao-as-reservas-internacionais-nao-podem-virar-cheque-especial-para-baixar-juros/",
+   "ts": 1793650335,
+   "summary": "Reservas internacionais são o seguro externo do país. Usá-las para suavizar episódios de estresse é legítimo, especialmente quando decorrem de choques externos, e não de erros de política econômica. Transformá-las no cheque especial de uma aposta monetária exige conhecer seus custos e limites. Em “Eu Acuso”, artigo publicado em setembro e que voltou a tomar […] O post OPINIÃO: As reservas internac",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/dolar-queimando-300x169.jpg",
+   "title_en": "Opinion: International reserves cannot become overdraft to lower interest rates",
+   "excerpt_en": "Using reserves risks transforming external insurance into policy error check."
+  },
+  {
+   "id": "3d15f21ee0",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+   "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+   "ts": 1793649832,
+   "summary": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the vehicle on both highways and city streets using its built-in GPS navigation. While driving in town, […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/DI26_000461430.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "ea7171d6e2",
@@ -87,19 +285,8 @@
    "ts": 1793646420,
    "summary": "Passada a eleição, o mercado cobra ajuste fiscal, a imprensa descreve um presidente pouco disposto a fazê-lo, e nesse vácuo grassa a ideia mais sedutora de todas: a de sair do buraco sem cortar nada. A versão mais recente desse tipo de ideia tem autor ilustre e, por algumas horas, pareceu ter as portas do Planalto abertas.",
    "img": null,
-   "title_en": "Interest rates by decree: tears on a schedule",
-   "excerpt_en": "After elections, market demands fiscal adjustment amid debate over achieving goals without budget cuts."
-  },
-  {
-   "id": "8501e7fca7",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Ford promises not to sell your driving habits to data brokers",
-   "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
-   "ts": 1793646346,
-   "summary": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers without authorization. As part of its new promise, Ford says it will strive to protect […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/26_FRD_BRO_70973_Connectivity_Package_15.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+   "title_en": "Opinion. Interest rates by decree. Tears on installment",
+   "excerpt_en": "Post-election fiscal adjustment pressure emerges amid debate on spending cuts."
   },
   {
    "id": "c5ba1d6d3e",
@@ -119,7 +306,7 @@
    "sec": "tech",
    "title": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
    "link": "https://www.nytimes.com/2026/11/02/technology/marvell-lumentum-115-billion-merger-ai.html",
-   "ts": 1793645283,
+   "ts": 1793645284,
    "summary": "Marvell and Lumentum said they were combining, in a major bet on a technology, known as optical networking, that is increasingly being used in A.I. data centers.",
    "img": "https://static01.nyt.com/images/2026/11/02/multimedia/02biz-marvell-zmhv/02biz-marvell-zmhv-mediumSquareAt3X.jpg"
   },
@@ -133,30 +320,8 @@
    "ts": 1793644529,
    "summary": "A disputa entre Estados Unidos e China pela hegemonia tecnológica da inteligência artificial (IA) ainda não tem um vencedor claro. É o que afirma a economista chinesa Keyu Jin, com longa vivência nos EUA e bagagem para dissecar essa disputa e seu impacto na tecnologia global. “EUA e China possuem abordagens diferentes para IA, com […] O post Na corrida da IA, os EUA inovam e a China escala. Mas há",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/10/Keyu-Jin-c-Divulgacao-300x169.jpg",
-   "title_en": "In AI race, US innovates and China scales with third competition open",
-   "excerpt_en": "Chinese economist Keyu Jin analyzes US-China AI hegemony dispute without clear winner as third competition remains contested."
-  },
-  {
-   "id": "9518925605",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Coming in 2027: Apple’s $1,000 home robot for FaceTime and switching on lights",
-   "link": "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
-   "ts": 1793644341,
-   "summary": "Apple robot backed by CEO John Ternus may have hefty price tag and limited uses.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Apple-CEO-John-Ternus-1152x648.jpg"
-  },
-  {
-   "id": "778dbacaae",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Claude’s new rules against game cloning won’t stop the AI copying boom",
-   "link": "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
-   "ts": 1793642731,
-   "summary": "The tsunami of imitators is way bigger than any one model maker can stem.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-1180626096-1152x648.jpg"
+   "title_en": "In AI race, US innovates and China scales. But third contest remains open",
+   "excerpt_en": "US-China AI hegemony dispute lacks clear winner yet."
   },
   {
    "id": "16194c055a",
@@ -168,52 +333,6 @@
    "ts": 1793642490,
    "summary": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts of power during extreme weather or emergencies, enough to power air conditioners in around 700,000 homes. The announcement comes as opposition to […]",
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_A.png?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "b82f6980b1",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Supermarkets Across Europe Report Suspected Freezer Hack",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-02/supermarkets-across-europe-report-suspected-freezer-hack-video",
-   "ts": 1793642487,
-   "summary": "Supermarkets across Europe were hit by suspected cyberattacks that caused sudden changes in the temperatures of their fridges and freezers, weeks after a similar issue in France. Charlotte Hughes-Morgan explains. (Source: Bloomberg)",
-   "img": null
-  },
-  {
-   "id": "8e9ac2c3f4",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Claro Colombia invierte más de 5 mdd para conectar el Vichada a través de la selva",
-   "link": "https://dplnews.com/claro-colombia-invierte-mas-de-5-mdd-para-conectar-el-vichada-a-traves-de-la-selva/",
-   "ts": 1793642312,
-   "summary": "Con una inversión de 19,000 millones de pesos colombianos, el operador desplegó 11 enlaces de microondas y una red de fibra óptica para fortalecer los servicios de Internet móvil en Vichada y beneficiar a más de 50,000 personas.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_torre-telo_sd021126.png",
-   "title_en": "Claro Colombia invests over $5 million to connect Vichada through rainforest with microwave links",
-   "excerpt_en": "Operator deployed 11 microwave links and fiber optic network to strengthen mobile internet services for over 50,000 people."
-  },
-  {
-   "id": "506685f570",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Envision claims to be running the world's first 800VDC data center in Ulanqab, China",
-   "link": "https://www.datacenterdynamics.com/en/news/envision-claims-to-be-running-the-worlds-first-800vdc-data-center-in-ulanqab-china/",
-   "ts": 1793639880,
-   "summary": "Firm has envisioned a high-powered future and brought it to life",
-   "img": "https://media.datacenterdynamics.com/media/images/Envision_energy.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "2122a3d533",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "DeepSeek Boosts AI Agent Offering With New Creator Mode",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
-   "ts": 1793639789,
-   "summary": "DeepSeek has unveiled a new option to quickly create custom plugins that help users to tackle a range of complex tasks, the latest move by the Chinese lab to bolster its AI agent offerings.",
-   "img": null
   },
   {
    "id": "c61c5a12fe",
@@ -249,43 +368,6 @@
    "img": "https://imgproxy.divecdn.com/yHJhvwNg0V8456KT8A7Ql4IWq_IIZEL3op2sP_o_ErQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UcmFuc21pc3Npb25fQ2FsaWZvcm5pYS5qcGc=.webp"
   },
   {
-   "id": "422cd4f794",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Megaoperación IA: Marvell acuerda compra de Lumentum por 115,000 mdd",
-   "link": "https://dplnews.com/megaoperacion-ia-marvell-acuerda-compra-de-lumentum-por-115000-mdd/",
-   "ts": 1793638151,
-   "summary": "Marvell Technology anunció un acuerdo definitivo para adquirir Lumentum en una operación de 115,000 millones de dólares. El cierre de la operación está previsto para la primera mitad de 2028, por la necesidad de aprobaciones internas y regulatorias correspondientes. Punto de inflexión “La industria de la infraestructura de Inteligencia Artificial se encuentra en un punto […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/Acuerdo-tecnologico-entre-Marvell-y-Lumentum.png",
-   "title_en": "AI mega-deal: Marvell agrees to acquire Lumentum for $115 billion",
-   "excerpt_en": "Marvell Technology announced definitive agreement to acquire Lumentum in $115 billion operation, closing expected first half 2028."
-  },
-  {
-   "id": "3ccc2bdd38",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Ericsson convierte las redes 5G en sistemas de detección y seguimiento de drones",
-   "link": "https://dplnews.com/ericsson-convierte-las-redes-5g-en-sistemas-de-deteccion-y-seguimiento-de-drones/",
-   "ts": 1793638150,
-   "summary": "Ericsson presentó su Sistema de Detección y Comunicación Integradas (ISAC), una solución que permite utilizar las redes móviles 5G para detectar y rastrear drones y otros objetos voladores de baja altura, incluso cuando no están conectados a la red. La tecnología incorpora capacidades de detección a la infraestructura móvil existente mediante radios 5G, Inteligencia Artificial, […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/Drone-Ericsson.png",
-   "title_en": "Ericsson converts 5G networks into integrated detection and communication systems for drone tracking",
-   "excerpt_en": "Ericsson presented ISAC system enabling 5G mobile networks to detect and track drones and low-altitude flying objects."
-  },
-  {
-   "id": "7a04c8f405",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "SpaceX in talks to buy EchoStar's Boost Mobile - report",
-   "link": "https://www.datacenterdynamics.com/en/news/spacex-in-talks-to-buy-echostars-boost-mobile-report/",
-   "ts": 1793637436,
-   "summary": "Or explore a network access deal",
-   "img": "https://media.datacenterdynamics.com/media/images/512px-Boost_Mobile_Store_-_Pittsbu.5acd3da5.fill-750x500.jpg"
-  },
-  {
    "id": "09f0c1b33b",
    "src": "Light Reading",
    "lang": "EN",
@@ -308,39 +390,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdde0966e-6a27-44e2-bf72-847e7216bd01.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "bd58ec6f96",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "European supermarket freezers overheat in fresh cyber attack",
-   "link": "https://www.ft.com/content/2526056c-c616-4116-94b1-ac278da21cca?syn-25a6b1a6=1",
-   "ts": 1793636435,
-   "summary": "Freezer temperatures surge to as high as 55C in dozens of stores across Sweden, Belgium, Ireland and Estonia",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F02455eba-dcdb-49d0-be25-77b343a6986d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "de2568a4c5",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Rostelecom in talks with Norilsk Nickel for underground data centers amid drone attacks",
-   "link": "https://www.datacenterdynamics.com/en/news/rostelecom-in-talks-with-norilsk-nickel-for-underground-data-centers-amid-drone-attacks/",
-   "ts": 1793635845,
-   "summary": "As Ukraine hits data centers, Russia considers bunker facilities",
-   "img": "https://media.datacenterdynamics.com/media/images/Rostelecom_HQ.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "fc673c98ea",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Marvell strikes $115B deal for Lumentum",
-   "link": "https://www.lightreading.com/ai-machine-learning/marvell-strikes-115b-deal-for-lumentum",
-   "ts": 1793634968,
-   "summary": "Marvell is acquiring Lumentum in an all-stock deal valued at $115 billion, representing $1,132 per share of Lumentum common stock. #pressrelease",
-   "img": null
-  },
-  {
    "id": "dff7fc3a53",
    "src": "Light Reading",
    "lang": "EN",
@@ -352,6 +401,39 @@
    "img": null
   },
   {
+   "id": "0c7faf5ec5",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Google eyes 1,000 acres for 1.2GW data center in Goochland County, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/google-eyes-1000-acres-for-12gw-data-center-in-goochland-county-virginia/",
+   "ts": 1793632800,
+   "summary": "Would be developed in the West Creek Business Park",
+   "img": "https://media.datacenterdynamics.com/media/images/Google_Cloud.b09a7cd8.fill-750x500.jpg"
+  },
+  {
+   "id": "5e3eda7977",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "OpenAI CEO Sam Altman meets with Samsung execs as memory chip shortage deepens",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-ceo-sam-altman-meets-with-samsung-execs-as-memory-chip-shortage-deepens/",
+   "ts": 1793632584,
+   "summary": "Follows comments made by Altman on a podcast about underutilization of DRAM in desktop computers",
+   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1170913764.f629fdbf.fill-750x500.jpg"
+  },
+  {
+   "id": "f269c5a805",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "HKT pulls out of US under FCC pressure – report",
+   "link": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
+   "ts": 1793632166,
+   "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt7ed34e4059cd01c2/652d4165490becd3ca1035ab/ruslan-bardash-WMSvsWzhM0g-unsplash.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
    "id": "2e3e75b139",
    "src": "NeoFeed",
    "lang": "PT",
@@ -361,8 +443,8 @@
    "ts": 1793632135,
    "summary": "Faz tempo que os ataques cibernéticos vêm deixando as empresas em alerta, sobretudo, por conta do avanço da inteligência artificial que permite encontrar brechas com mais facilidade. Mas, se antes eles se concentravam em roubos de senhas, dados e criptomoedas como o recente caso bilionário da Binance, agora estão causando danos nas cadeias de suprimentos […] O post Nem a geladeira está salva: hack",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/11/Hacker-supermercado-300x169.jpg",
-   "title_en": "Not even refrigerators are safe: hackers invade systems and attack supermarkets in Europe",
-   "excerpt_en": "Cyber attacks targeting supermarket freezer systems across Europe exploit AI-enabled vulnerability discovery capabilities."
+   "title_en": "Not even the refrigerator is safe: hackers invade systems and attack supermarkets",
+   "excerpt_en": "Cyberattacks with AI capabilities enable easier vulnerability discovery."
   },
   {
    "id": "c78f58c88d",
@@ -376,17 +458,15 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfed2c896a0c76b29/652c1ee1490bec308f10344c/Comcast_truck_wtih_Comcast_logo_on_hood.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "b47972f83a",
-   "src": "Expansión",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El petróleo cae un 8% por los avances en las negociaciones con Irán para acabar con la guerra",
-   "link": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html",
-   "ts": 1793631541,
-   "summary": "El barril toca mínimos intradía por debajo de los 104 dólares después de que el ayatolá Jameneí haya dado luz verde al gobierno iraní para iniciar negociaciones que podrían poner fin al conflicto. Leer",
-   "img": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936315344368.jpg",
-   "title_en": "Oil falls 8% as Iran signals willingness to negotiate peace with United States",
-   "excerpt_en": "Supreme leader authorized government to seek solution to conflict; barrel touched intraday lows below $104 after negotiations signal."
+   "id": "3a956cd4c3",
+   "src": "RCR Wireless",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "What will an AI crash look like? (Analyst Angle)",
+   "link": "https://rcrwireless.com/20261102/analyst-angle/what-will-an-ai-crash-look-like-analyst-angle",
+   "ts": 1793631317,
+   "summary": "The AI infrastructure boom could end in a crash resembling telecoms’ late-1990s fibre bust, leaving investors nursing huge losses but potentially handing utilities and infrastructure funds cheap assets to power…",
+   "img": null
   },
   {
    "id": "f4021c6388",
@@ -398,43 +478,8 @@
    "ts": 1793624917,
    "summary": "A Boa Safra ainda será, por muito tempo, uma empresa de sementes de soja. Mas o plano da companhia é fazer com que esse negócio deixe de responder quase sozinho pela “colheita” dos resultados. Depois de alcançar uma participação de aproximadamente 10% no mercado brasileiro de sementes de soja, a empresa passou a mirar uma […] O post Boa Safra quer “colher” metade do resultado em outras culturas ap",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/10/felipe-marques-boa-safra-cfo-300x169.jpeg",
-   "title_en": "Boa Safra wants to harvest half of results from other crops",
-   "excerpt_en": "Seed company plans to reduce dependence on soybean business and diversify crop portfolio after strong market share growth."
-  },
-  {
-   "id": "d74b74e8cc",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Marvell to Acquire Lumentum in Historic $115 Billion Tech Deal",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings",
-   "ts": 1793621711,
-   "summary": "Marvell Technology Inc. agreed to buy Lumentum Holdings Inc. at an enterprise value of $115 billion, clinching one of the largest technology deals in history in a push to capitalize on runaway data center spending.",
-   "img": null
-  },
-  {
-   "id": "7dee1d20dc",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Binance reanuda las retiradas de fondos tras el histórico robo y los clientes sacan 4.700 millones de dólares",
-   "link": "https://cincodias.elpais.com/criptoactivos/2026-11-02/binance-reanuda-las-retiradas-de-fondos-tras-el-historico-robo-y-los-clientes-sacan-4700-millones-de-dolares.html",
-   "ts": 1793620161,
-   "summary": "La plataforma asegura haber cubierto el 95% de las pérdidas derivadas del hackeo de 6.300 millones de dólares",
-   "img": "https://imagenes.elpais.com/resizer/v2/AYBMVDQ5FDTVBSRHZY3P6WNWSE.jpg?auth=f2c2b8f8bf63b1133b95b94e1ccea425fa594ec4d4ec015a592d5cd8041d712e",
-   "title_en": "Binance resumes fund withdrawals after historic theft as customers withdraw $4.7 billion",
-   "excerpt_en": "Platform claims to have covered 95% of losses from $6.3 billion hack; customers withdrawing funds post-security breach."
-  },
-  {
-   "id": "f351ad5824",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Supermarkets in Belgium, Ireland, Sweden, Finland Hit by Suspected Freezer Hack",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-02/belgian-swedish-supermarkets-report-new-suspected-freezer-hack",
-   "ts": 1793613158,
-   "summary": "Supermarkets across Europe were hit by suspected cyberattacks that resulted in sudden changes in the temperatures of their fridges and freezers on Monday, echoing a more widespread problem in France last month.",
-   "img": null
+   "title_en": "Boa Safra wants to 'harvest' half of results in other crops",
+   "excerpt_en": "Seed company plans to reduce soybean dependence for earnings growth."
   }
  ]
 }
