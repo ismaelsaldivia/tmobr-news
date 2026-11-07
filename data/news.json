@@ -1,54 +1,120 @@
 {
- "updated_utc": "2026-11-07T15:47:13Z",
+ "updated_utc": "2026-11-07T22:50:04Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "OpenAI funding raises valuation to $1.25 trillion",
+  "title": "OpenAI reaches $1.25 trillion valuation on $11 billion new funding",
   "value": "$1.25 trillion",
-  "total": "$11 billion",
-  "value_label": "company valuation",
-  "total_label": "new funding raised",
+  "total": "",
+  "value_label": "OpenAI valuation",
+  "total_label": "",
   "id": "314bd08978"
  },
  "numbers": [
   {
-   "value": "15.4 GW",
-   "label": "Duke Energy large-load data center pipeline",
-   "id": "cb09fcfaf6"
+   "value": "$11 billion",
+   "label": "OpenAI new funding raised",
+   "id": "314bd08978"
+  },
+  {
+   "value": "6GW",
+   "label": "SpaceX AI Arizona data center capacity",
+   "id": "f137171360"
   },
   {
    "value": "$44 billion",
-   "label": "DTE Energy five-year utility investment plan",
+   "label": "DTE Energy five-year investment plan",
    "id": "acd1a5a944"
   },
   {
-   "value": "$200 billion",
-   "label": "Estimated cost for Musk's terrestrial network",
-   "id": "8e6f918d93"
+   "value": "€20.5 billion",
+   "label": "Deutsche Telekom US segment Q3 revenue",
+   "id": "eaeda5a4ce"
   }
  ],
  "items": [
   {
-   "id": "63307c236c",
+   "id": "fcb6b8382a",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Nueve de cada 10 CISOs en México gestionan el riesgo de IA sin recursos suficientes",
+   "link": "https://dplnews.com/nueve-de-cada-10-cisos-en-mexico-gestionan-el-riesgo-de-ia-sin-recursos-suficientes/",
+   "ts": 1794087791,
+   "summary": "La Inteligencia Artificial se convirtió en una prioridad para las empresas mexicanas, pero su adopción avanza más rápido que los recursos para protegerla. Nueve de cada 10 CISOs en México gestionan sus riesgos sin contar con recursos proporcionales, advirtió Proofpoint. Así lo revela la segunda edición del estudio The Voice of the CISO 2026, presentado […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews-Luis-Isselin-proofpoint-jb071026-scaled.png",
+   "title_en": "Nine out of 10 Mexican CISOs manage AI risk without sufficient resources",
+   "excerpt_en": "Mexican security leaders struggle with AI risk management as adoption outpaces available protective resources."
+  },
+  {
+   "id": "2c5f811f4e",
    "src": "Financial Times",
    "lang": "EN",
    "sec": "business",
-   "title": "Berkshire Hathaway ploughs $9.6bn into share buybacks",
-   "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
-   "ts": 1794064723,
-   "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc762b778-0f78-41d0-becd-91040019cf69.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+   "link": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+   "ts": 1794087665,
+   "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ed6c0f3-c692-4ded-bbe5-a309ff2020c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "055e03fe8f",
-   "src": "The Verge",
+   "id": "8afca77617",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "CoreWeave Asks Texas Governor-Elect for Data Center Cooperation",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/coreweave-asks-texas-governor-elect-for-data-center-cooperation",
+   "ts": 1794083590,
+   "summary": "CoreWeave Inc. sent a letter to Texas Governor-elect Gina Hinojosa seeking to work with her incoming administration on present and future data center projects in the state.",
+   "img": null
+  },
+  {
+   "id": "0a06fd38d8",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "La IA empresarial de Zoho Analytics 7.0 entiende el negocio sin costo adicional",
+   "link": "https://dplnews.com/la-ia-empresarial-de-zoho-analytics-7-0-entiende-el-negocio-sin-costo-adicional/",
+   "ts": 1794083096,
+   "summary": "Zoho lanzó Analytics 7.0, una nueva versión de su plataforma de inteligencia empresarial que incorpora siete agentes de Inteligencia Artificial para analizar datos, generar código, crear presentaciones y ayudar a las empresas a tomar decisiones con mayor contexto y control. La Inteligencia Artificial ya llegó a las empresas, el siguiente nivel es lograr que entienda […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews-zoho-analytics-7-jb071126.png",
+   "title_en": "Zoho Analytics 7.0 brings AI-driven business intelligence without additional cost",
+   "excerpt_en": "Platform incorporates seven AI agents for data analysis, code generation, presentation creation and business support."
+  },
+  {
+   "id": "0ce9c34b8f",
+   "src": "Pipeline Valor",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "CSN fecha com chineses em cimentos e pede antecipação aos bancos",
+   "link": "https://pipelinevalor.globo.com/negocios/noticia/csn-fecha-com-chineses-em-cimentos-e-pede-antecipacao-aos-bancos.ghtml",
+   "ts": 1794081036,
+   "summary": "A CSN assinou neste sábado a venda da subsidiária de cimentos para a chinesa Huaxin, apurou o Pipeline. A previsão é que o anúncio formal pelas partes seja feito no domingo. As companhias vinham negociando com exclusividade desde o dia 30 de outubro e o prazo se encerraria no início da próxima semana. A Huaxin avaliou a CSN Cimentos em R$ 12,7 bilhões (ações e dívida), acima do enterprise value of",
+   "img": "https://s2-pipelinevalor.glbimg.com/2gSMl-v61_Uz2-k3_KPN-7vVVQ0=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2021/H/3/1RlS5gQBifUTJOPNbEuQ/cimento-csn-1024x683.jpg",
+   "title_en": "CSN closes cement subsidiary sale to Chinese Huaxin",
+   "excerpt_en": "CSN signed sale of cement subsidiary to Chinese firm Huaxin; formal announcement expected Sunday."
+  },
+  {
+   "id": "eff9c0ae99",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "AI Backlash Spreads Across Europe With Data Center Protests",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
+   "ts": 1794075619,
+   "summary": "Protests against data centers continued across Europe on Saturday as citizens took to the streets to voice their concerns about the impact on society and the environment.",
+   "img": null
+  },
+  {
+   "id": "805dafe9e9",
+   "src": "TechCrunch",
    "lang": "EN",
    "sec": "tech",
-   "title": "AI broke the cybersecurity world. What’s next?",
-   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-   "ts": 1794063600,
-   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+   "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+   "ts": 1794072247,
+   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+   "img": null
   },
   {
    "id": "3105ae181a",
@@ -73,19 +139,6 @@
    "img": null
   },
   {
-   "id": "c44572dc88",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "IA, la quinta revolución industrial",
-   "link": "https://dplnews.com/ia-la-quinta-revolucion-industrial/",
-   "ts": 1794055085,
-   "summary": "Quiero comenzar con una escena de una película que, todavía hoy, resulta extraordinariamente poderosa. En 2001: odisea del espacio, Stanley Kubrick nos muestra un grupo de primates frente a un misterioso monolito. Uno de ellos descubre un hueso. Primero lo observa. Después lo utiliza como herramienta. Y en ese momento ocurre algo extraordinario: el hueso […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/05/dplnews-Vicente-Roqueni-Lopez-jb180526.png",
-   "title_en": "AI, the fifth industrial revolution",
-   "excerpt_en": "Essay exploring AI as a transformative industrial revolution using Stanley Kubrick's 2001: A Space Odyssey as reference."
-  },
-  {
    "id": "07ef7bb458",
    "src": "Cinco Días",
    "lang": "ES",
@@ -95,8 +148,8 @@
    "ts": 1794054861,
    "summary": "El grupo que preside Florentino Pérez desmiente la información de Bloomberg sobre la opa contra su filial alemana y la salida a bolsa de Turner",
    "img": "https://imagenes.elpais.com/resizer/v2/KQYUHFRW5JOOFEJ2KTKQKIFSCY.jpg?auth=582c1d319210b0f6f62ad4919088560c9d8a555886c8e1b2c5f5e3aff69b8239",
-   "title_en": "ACS denies it is studying takeover bid for German subsidiary Hochtief",
-   "excerpt_en": "Grupo Florentino Pérez desmiente reportes de Bloomberg sobre potencial OPA y salida a bolsa de filial alemana."
+   "title_en": "ACS denies studying takeover bid for German subsidiary Hochtief",
+   "excerpt_en": "Company led by Florentino Pérez denies Bloomberg report about planned acquisition and spin-off."
   },
   {
    "id": "8879475e62",
@@ -108,19 +161,6 @@
    "ts": 1794054600,
    "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "509de0fa39",
-   "src": "NeoFeed",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Elizabeth Holmes, da Theranos, troca o figurino, mas mantém o roteiro",
-   "link": "https://neofeed.com.br/finde/elizabeth-holmes-da-theranos-troca-o-figurino-mas-mantem-o-roteiro/",
-   "ts": 1794054569,
-   "summary": "Nova York — Mesmo encarcerada por orquestrar uma das fraudes mais espetaculares do Vale do Silício, aos 42 anos, Elizabeth Holmes, fundadora da Theranos, não suporta ficar longe dos holofotes. Condenada a 11 anos e três meses de prisão em 2022, Elizabeth convidou dois cineastas para registrar sua vida durante os 34 dias que antecederam […] O post Elizabeth Holmes, da Theranos, troca o figurino, ma",
-   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/elizabeth-holmes-documentario-You-Can-See-Everything-themoviedb-4-300x169.jpg",
-   "title_en": "Elizabeth Holmes, Theranos founder, changes appearance but keeps same script",
-   "excerpt_en": "Even imprisoned for orchestrating one of Silicon Valley's biggest frauds, Holmes cannot stay away from the spotlight at age 42."
   },
   {
    "id": "a17c8438c5",
@@ -145,26 +185,43 @@
    "img": null
   },
   {
-   "id": "d8797cd104",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
-   "ts": 1794040766,
-   "summary": "SoftBank Group Corp. and ABB Ltd. are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
-   "img": null
+   "id": "04da4f318b",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Los votantes de EE UU dieron un palo a la IA. La Bolsa tardó en entenderlo",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-07/los-votantes-de-ee-uu-dieron-un-palo-a-la-ia-la-bolsa-tardo-en-entenderlo.html",
+   "ts": 1794026400,
+   "summary": "El freno a los centros de datos irrumpe en el programa de los demócratas. Elon Musk se mudó a Texas pero le llegó la marea azul. La culpa de que reviente una burbuja es más de quien la hincha que de quien la pincha",
+   "img": "https://imagenes.elpais.com/resizer/v2/CQW7EBP24RDR3CU7O6XSHM4MWY.jpg?auth=0f05bf179f07597b79b92eacd06bad6c9297cb5520f78f705b05c0b1dd05904b",
+   "title_en": "US voters dealt blow to AI; stock market slow to understand impact",
+   "excerpt_en": "Data center expansion removed from Democratic agenda; Elon Musk faced resistance in Texas despite moving there."
   },
   {
-   "id": "48ae0d68c3",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Sequoia shutting down its Scouts program marks the end of an era",
-   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-   "ts": 1794027714,
-   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-   "img": null
+   "id": "a53186ca47",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El cambio de rumbo político en EE UU pone a prueba el ‘rally’ de Wall Street y abre paso a nuevos ganadores",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/el-cambio-de-rumbo-politico-en-ee-uu-pone-a-prueba-el-rally-de-wall-street-y-abre-paso-a-nuevos-ganadores.html",
+   "ts": 1794025801,
+   "summary": "El final de ciclo del trumpismo coincide con un sector tecnológico que ya mostraba signos de agotamiento",
+   "img": "https://imagenes.elpais.com/resizer/v2/KKTF3XDEJBM65IKWD7EJFQC3VM.jpg?auth=f32b2c066e24052d153d8bef73491856e1deb1823940535cc8377ac87f9a66ac",
+   "title_en": "US political shift tests Wall Street rally, opens door to new winners",
+   "excerpt_en": "Technology sector shows signs of exhaustion as Trump era ends and investment rotation accelerates."
+  },
+  {
+   "id": "4296fc4380",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Francia, Brasil y la IA: cómo los algoritmos y la especulación amplifican las caídas del mercado",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-07/francia-brasil-y-la-ia-como-los-algoritmos-y-la-especulacion-amplifican-las-caidas-del-mercado.html",
+   "ts": 1794025801,
+   "summary": "El papel de los fondos con estrategias sistemáticas y de los fondos de cobertura está detrás de la fuerte corrección de esta semana",
+   "img": "https://imagenes.elpais.com/resizer/v2/RNG7DGCSNFJOXFKVEOCIOL66DM.jpg?auth=03347e43ebfce7328e7a5e6f985e6358af30e3a19351ce9e977038a300ca0cd2",
+   "title_en": "France, Brazil and AI: how algorithms and speculation amplify market declines",
+   "excerpt_en": "Systematic fund strategies and hedge funds drive strong market corrections across multiple regions."
   },
   {
    "id": "a556ec6077",
@@ -188,7 +245,7 @@
    "summary": "Segundo Fraser McCartney-Smith, senior partnerships executive da escuderia, um dos diferenciais da equipe é o AI Pit Wall Agent que ajuda nas decisões estratégicas durante as corridas",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/max-verstappen-mexico-gp-f1-2026-240x300.webp",
    "title_en": "Red Bull uses data, cloud and AI agents to stay strong in F1",
-   "excerpt_en": "AI Pit Wall Agent helps Formula 1 team with strategic decisions during races, according to senior partnerships executive."
+   "excerpt_en": "F1 team leverages AI Pit Wall Agent for strategic decision-making during races."
   },
   {
    "id": "36231604b2",
@@ -211,8 +268,8 @@
    "ts": 1794015155,
    "summary": "Na edição desta semana, os avanços nas pautas de compartilhamento de postes, orçamento e Fust, reforma tributária, exigências de biometria e combate a fraudes, flexibilização da jornada de trabalho, regulamentação de streaming e muito mais",
    "img": "https://teletime.com.br/wp-content/uploads/2026/07/Copia-de-Design-sem-nome-2-534x462.webp",
-   "title_en": "Congress advances priority agenda items",
-   "excerpt_en": "Session includes progress on pole sharing, budget, Fust, tax reform, biometrics requirements, and fraud combating."
+   "title_en": "Congress advances on priority agendas",
+   "excerpt_en": "Weekly roundup covers pole-sharing, budget, telecommunications fund, tax reform, biometric requirements and labor flexibility."
   },
   {
    "id": "3baf7005f3",
@@ -225,7 +282,7 @@
    "summary": "Em conversa durante o Movecomm 2026, o presidente da Qualcomm LatAm aborda ainda as iniciativas em satélites, data centers, setor automotivo, impacto da crise das memórias e futuro da companhia para 2029",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/GALERIA-MARCOS-MESQUITA-–-MOVECOMM-2026-0115-300x200.jpg",
    "title_en": "Qualcomm's IoT revenue in Latin America doubles year-over-year",
-   "excerpt_en": "Company president discusses satellites, data centers, automotive sector, memory crisis impact during Movecomm 2026."
+   "excerpt_en": "LatAm president discusses satellite initiatives, data centers, automotive sector and 2029 outlook."
   },
   {
    "id": "94d8ab74e4",
@@ -237,8 +294,8 @@
    "ts": 1794009109,
    "summary": "O objetivo é cruzar dados de clima, imagens de câmeras com Inteligência Artificial e estatísticas em tempo real para que o operador tome uma medida antes que incidentes ocorram",
    "img": "https://teletime.com.br/wp-content/uploads/2020/09/Maximiliano-Martinhao-534x462.jpg",
-   "title_en": "Impact of predictive intelligence and edge computing on Brazilian roads",
-   "excerpt_en": "Using climate data, camera images with AI and real-time statistics for proactive incident prevention on highways."
+   "title_en": "Predictive intelligence and edge computing transform Brazilian highways",
+   "excerpt_en": "Initiative combines climate data, camera images with AI and real-time statistics for proactive incident prevention."
   },
   {
    "id": "6813d62fd9",
@@ -261,21 +318,8 @@
    "ts": 1794008303,
    "summary": "Igor Gushiken falou de \"mudança radical\" desde que empresa adotou tecnologia no desenvolvimento de software",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.00.30-300x200.jpeg",
-   "title_en": "AI generates gains in high-value activities at QuintoAndar",
-   "excerpt_en": "Company experienced radical transformation since adopting AI in software development, according to executive."
-  },
-  {
-   "id": "bac300b3e1",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Alphabet declara participación de 548 mdd en Qualcomm",
-   "link": "https://dplnews.com/alphabet-participacion-qualcomm/",
-   "ts": 1794007997,
-   "summary": "La participación de Alphabet en Qualcomm coincide con los planes del fabricante de chips para generar 15,000 mdd en ingresos por Centros de Datos hacia 2029 y ampliar su negocio de procesadores de IA.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsGoogleQualcomm_rp06112026.png",
-   "title_en": "Alphabet discloses $548 million stake in Qualcomm",
-   "excerpt_en": "Investment aligns with Qualcomm's plan to generate $15 billion in data center revenue by 2029."
+   "title_en": "AI drives high-value gains at QuintoAndar",
+   "excerpt_en": "Company reports transformative change since adopting AI in software development activities."
   },
   {
    "id": "314bd08978",
@@ -289,54 +333,26 @@
    "img": null
   },
   {
-   "id": "85ab175ae3",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Industria TIC de Argentina pide revisar los nuevos requisitos de ciberseguridad para telecomunicaciones",
-   "link": "https://dplnews.com/industria-tic-de-argentina-pide-revisar-los-nuevos-requisitos-de-ciberseguridad-para-telecomunicaciones/",
-   "ts": 1794004121,
-   "summary": "ATVC solicitó establecer una instancia de diálogo y consulta con participación de los operadores.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/05/dplnews_mercosur_ciberseguridad_vc.jpg",
-   "title_en": "Argentine ICT industry asks to review new cybersecurity requirements for telecoms",
-   "excerpt_en": "ATVC requests dialogue and consultation instance with participation from operators."
-  },
-  {
-   "id": "5c482e0bd5",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Telmex eleva 16% su EBITDA con impulso de Internet, pero sigue en pérdidas",
-   "link": "https://dplnews.com/telmex-eleva-16-su-ebitda-con-impulso-de-internet-pero-sigue-en-perdidas/",
-   "ts": 1794001759,
-   "summary": "El Economista eléfonos de México (Telmex) elevó 16% su flujo operativo (EBITDA) durante el tercer trimestre de 2026, impulsado por el crecimiento de Internet, mayores ingresos corporativos y una reducción de costos. Si bien la empresa consiguió mejorar su rentabilidad, las obligaciones laborales y financieras todavía impiden que esa recuperación se traduzca en ganancias netas. […]",
-   "img": "https://dplnews.com/wp-content/uploads/2022/05/dplnews_telmex_mc30522.jpeg",
-   "title_en": "Telmex raises EBITDA 16% with internet push, but remains in losses",
-   "excerpt_en": "Third quarter EBITDA growth driven by internet expansion, higher corporate revenue and cost reduction."
-  },
-  {
-   "id": "e48a3a0434",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Incode lanza TrustGraph en México para combatir el fraude digital",
-   "link": "https://dplnews.com/incode-lanza-trustgraph-en-mexico-para-combatir-el-fraude-digital/",
-   "ts": 1794001506,
-   "summary": "El Economista La automatización de los ataques digitales plantea nuevos desafíos para bancos, fintechs y plataformas de comercio electrónico. Los agentes de inteligencia artificial (IA) pueden probar sistemas de registro de manera continua, modificar datos después de un rechazo y trasladar sus intentos a distintas organizaciones, lo que dificulta identificar patrones de fraude entre instituciones.",
-   "img": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_scam-signal-fraude-telefonico_mc311025.jpg",
-   "title_en": "Incode launches TrustGraph in Mexico to combat digital fraud",
-   "excerpt_en": "AI-powered solution addresses automated digital attacks facing banks, fintechs and e-commerce platforms."
-  },
-  {
-   "id": "b20401b110",
+   "id": "5e8dffb0e5",
    "src": "Ars Technica",
    "lang": "EN",
    "sec": "tech",
-   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-   "ts": 1793995530,
-   "summary": "6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg"
+   "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+   "link": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+   "ts": 1794004897,
+   "summary": "Iran threatened to attack subsea cables if US escalates military strikes again.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Iranian-oil-tanker-and-flag-1152x648.jpg"
+  },
+  {
+   "id": "a5eef3cf57",
+   "src": "Ars Technica",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "ts": 1793998601,
+   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-blockchain-1152x648.jpg"
   },
   {
    "id": "80f363de4e",
@@ -372,17 +388,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/SpaceXAI_arizona.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "ead671d258",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "After the midterms, is the AI industry in for a rough two years?",
-   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-   "ts": 1793985832,
-   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-   "img": null
-  },
-  {
    "id": "510c04ed7b",
    "src": "Data Center Knowledge",
    "lang": "EN",
@@ -392,28 +397,6 @@
    "ts": 1793985206,
    "summary": "Lumai is testing optical AI servers in a UK lab to see whether shifting inference prefill off GPUs can ease data center power constraints.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/bltd3a6256e59188db9/6aee0bc96c3a3d4459aa7aab/Extreme_Close-up_of_illuminated_servers.png?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "d089bfba24",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Cable One warns of Chapter 11 possibility if financing falters",
-   "link": "https://www.lightreading.com/cable-technology/cable-one-warns-of-chapter-11-possibility-if-financing-falters",
-   "ts": 1793982782,
-   "summary": "With its Mega Broadband deal still in limbo, Cable One disclosed it might be necessary to file for bankruptcy if it's unable to clinch a new financing deal and manage near-term debt.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt16500bd8dab90668/695800376eb3d1bc665e841a/2XGD2G3.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "5336d0f063",
-   "src": "Utility Dive",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
-   "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
-   "ts": 1793981436,
-   "summary": "“It's too soon to tell exactly” how the results of the midterm elections will impact Oncor, said CEO Allen Nye. “We continue to believe that both parties want a strong and growing Texas.”",
-   "img": "https://imgproxy.divecdn.com/kNgFGia4MxL4zkfJxRkLEQ_QhI2A6wVTTpF9bY8k6Yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdGFyZ2F0ZV9BYmlsZW5lLmpwZw==.webp"
   },
   {
    "id": "6079681972",
@@ -427,26 +410,15 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt941977fef34f9d5d/664d1626e0559120230728ee/Ericsson_5G_factory_floor_in_North_Texas.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "88eda8215a",
+   "id": "6bc828ac22",
    "src": "DatacenterDynamics",
    "lang": "EN",
    "sec": "dc",
-   "title": "Two days of anti-data center protests planned across Europe",
-   "link": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
-   "ts": 1793979180,
-   "summary": "Stop Dirty Data Centres 'days of action' follow anti-data center midterms in the US",
-   "img": "https://media.datacenterdynamics.com/media/images/Stop_Dirty_Data_Centres.a24cfbae.fill-750x500.png"
-  },
-  {
-   "id": "2e98216335",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
-   "link": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
-   "ts": 1793979101,
-   "summary": "Further spooking investors in a wobbly market",
-   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1008861200_W2iZ5OC.2e16d0ba.fill-750x500.jpg"
+   "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+   "link": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/",
+   "ts": 1793977980,
+   "summary": "Protesting water use, AI, and ties to Israel",
+   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1890243590.1cfefaf7.fill-750x500.jpg"
   },
   {
    "id": "eaeda5a4ce",
@@ -460,26 +432,15 @@
    "img": null
   },
   {
-   "id": "fbeeef8ab3",
-   "src": "Bloomberg",
+   "id": "acd1a5a944",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "business",
-   "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 on AI Trade Worries",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
-   "ts": 1793969986,
-   "summary": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.",
-   "img": null
-  },
-  {
-   "id": "43ae092b14",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Eurobites: Ukraine's Kyivstar cracks on in Q3",
-   "link": "https://www.lightreading.com/operations/eurobites-ukraine-s-kyivstar-cracks-on-in-q3",
-   "ts": 1793963561,
-   "summary": "Also in today's EMEA regional roundup: Vodafone trials 5G SA in Ireland; Cellnex cuts costs, grows revenue; captain of cable sabotage ship jailed in Finland.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt34cfae4e44976196/656dc19fe8eab6040a3bbd62/kyivstar_source_IgorGolovnovAlamy_Stock_Photo.jpg?width=720&quality=80&disable=upscale"
+   "sec": "dc",
+   "title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+   "link": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+   "ts": 1793976638,
+   "summary": "An almost $10bn increase",
+   "img": "https://media.datacenterdynamics.com/media/images/352722388_1340724169861979_8684039.2e16d0ba.fill-750x500.png"
   }
  ]
 }
