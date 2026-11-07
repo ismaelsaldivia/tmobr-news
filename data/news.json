@@ -1,38 +1,256 @@
 {
- "updated_utc": "2026-11-06T23:46:24Z",
+ "updated_utc": "2026-11-07T15:47:13Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Nasdaq 100 records worst day since 2020 as AI selloff spreads",
-  "value": "6.36%",
-  "total": "",
-  "value_label": "Nasdaq 100 plunge",
-  "total_label": "",
-  "id": "8dc8c228ec"
+  "title": "OpenAI funding raises valuation to $1.25 trillion",
+  "value": "$1.25 trillion",
+  "total": "$11 billion",
+  "value_label": "company valuation",
+  "total_label": "new funding raised",
+  "id": "314bd08978"
  },
  "numbers": [
   {
-   "value": "$1.25 trillion",
-   "label": "OpenAI valuation at $11B funding close",
-   "id": "a40797809b"
+   "value": "15.4 GW",
+   "label": "Duke Energy large-load data center pipeline",
+   "id": "cb09fcfaf6"
   },
   {
-   "value": "$25 billion",
-   "label": "Brookfield capital raised Q3 for infrastructure",
-   "id": "16f3ce7fe8"
+   "value": "$44 billion",
+   "label": "DTE Energy five-year utility investment plan",
+   "id": "acd1a5a944"
   },
   {
-   "value": "165,000",
-   "label": "US jobs added in October",
-   "id": "68d9ad3862"
-  },
-  {
-   "value": "6 GW",
-   "label": "SpaceXAI Arizona data center planned capacity",
-   "id": "f137171360"
+   "value": "$200 billion",
+   "label": "Estimated cost for Musk's terrestrial network",
+   "id": "8e6f918d93"
   }
  ],
  "items": [
+  {
+   "id": "63307c236c",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Berkshire Hathaway ploughs $9.6bn into share buybacks",
+   "link": "https://www.ft.com/content/1f153350-2377-4e48-a073-0539376eab4c?syn-25a6b1a6=1",
+   "ts": 1794064723,
+   "summary": "Insurance slowdown drags on performance, with quarterly operating income falling by 5.8 per cent year-on-year",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc762b778-0f78-41d0-becd-91040019cf69.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "055e03fe8f",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "ts": 1794063600,
+   "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed talking to Alex because he’s so direct, and you’re going to hear him say […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_110726.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "3105ae181a",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+   "ts": 1794061800,
+   "summary": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic PBC at a time when Americans are increasingly uneasy over the rapidly developing technology.",
+   "img": null
+  },
+  {
+   "id": "31212707ca",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "AI Trade Faces a Post-Election Reality Check",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-07/ai-trade-faces-a-post-election-reality-check-video",
+   "ts": 1794055800,
+   "summary": "On Bloomberg This Weekend, Yorkville Ives & Co. partner Dan Ives and Bloomberg US equities reporter Natalia Kniazhevich examine the sharp post-election technology selloff, as investors weigh political resistance to data centers, AI spending and the outlook for Anthropic's IPO. They tell hosts David Gura and Christina Ruffini that the election could slow the AI buildout and reshape winners and lose",
+   "img": null
+  },
+  {
+   "id": "c44572dc88",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "IA, la quinta revolución industrial",
+   "link": "https://dplnews.com/ia-la-quinta-revolucion-industrial/",
+   "ts": 1794055085,
+   "summary": "Quiero comenzar con una escena de una película que, todavía hoy, resulta extraordinariamente poderosa. En 2001: odisea del espacio, Stanley Kubrick nos muestra un grupo de primates frente a un misterioso monolito. Uno de ellos descubre un hueso. Primero lo observa. Después lo utiliza como herramienta. Y en ese momento ocurre algo extraordinario: el hueso […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/05/dplnews-Vicente-Roqueni-Lopez-jb180526.png",
+   "title_en": "AI, the fifth industrial revolution",
+   "excerpt_en": "Essay exploring AI as a transformative industrial revolution using Stanley Kubrick's 2001: A Space Odyssey as reference."
+  },
+  {
+   "id": "07ef7bb458",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "ACS asegura que no estudia una opa por su filial alemana Hochtief",
+   "link": "https://cincodias.elpais.com/companias/2026-11-07/acs-asegura-que-no-estudia-una-opa-por-su-filial-alemana-hochtief.html",
+   "ts": 1794054861,
+   "summary": "El grupo que preside Florentino Pérez desmiente la información de Bloomberg sobre la opa contra su filial alemana y la salida a bolsa de Turner",
+   "img": "https://imagenes.elpais.com/resizer/v2/KQYUHFRW5JOOFEJ2KTKQKIFSCY.jpg?auth=582c1d319210b0f6f62ad4919088560c9d8a555886c8e1b2c5f5e3aff69b8239",
+   "title_en": "ACS denies it is studying takeover bid for German subsidiary Hochtief",
+   "excerpt_en": "Grupo Florentino Pérez desmiente reportes de Bloomberg sobre potencial OPA y salida a bolsa de filial alemana."
+  },
+  {
+   "id": "8879475e62",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "ts": 1794054600,
+   "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2280291125.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "509de0fa39",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Elizabeth Holmes, da Theranos, troca o figurino, mas mantém o roteiro",
+   "link": "https://neofeed.com.br/finde/elizabeth-holmes-da-theranos-troca-o-figurino-mas-mantem-o-roteiro/",
+   "ts": 1794054569,
+   "summary": "Nova York — Mesmo encarcerada por orquestrar uma das fraudes mais espetaculares do Vale do Silício, aos 42 anos, Elizabeth Holmes, fundadora da Theranos, não suporta ficar longe dos holofotes. Condenada a 11 anos e três meses de prisão em 2022, Elizabeth convidou dois cineastas para registrar sua vida durante os 34 dias que antecederam […] O post Elizabeth Holmes, da Theranos, troca o figurino, ma",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/elizabeth-holmes-documentario-You-Can-See-Everything-themoviedb-4-300x169.jpg",
+   "title_en": "Elizabeth Holmes, Theranos founder, changes appearance but keeps same script",
+   "excerpt_en": "Even imprisoned for orchestrating one of Silicon Valley's biggest frauds, Holmes cannot stay away from the spotlight at age 42."
+  },
+  {
+   "id": "a17c8438c5",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Meloni Blames Pro-Russia Hackers for Cyberattack on Minister",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/meloni-blames-pro-russian-hackers-for-attack-on-foreign-minister",
+   "ts": 1794050694,
+   "summary": "Italian Prime Minister Giorgia Meloni blamed pro-Russian hackers for a cyberattack on her foreign minister, after a rise in hybrid disruptions from entities aligned with Vladimir Putin’s government.",
+   "img": null
+  },
+  {
+   "id": "b698742f91",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Russia’s Rosstat Struggles to Restore Systems After Major Cyberattack",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/russia-s-rosstat-struggles-to-restore-systems-after-major-cyberattack",
+   "ts": 1794041554,
+   "summary": "Major Russian economic reports will be delayed through at least Nov. 13 following a recent major hack on the statistics agency Rosstat.",
+   "img": null
+  },
+  {
+   "id": "d8797cd104",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+   "ts": 1794040766,
+   "summary": "SoftBank Group Corp. and ABB Ltd. are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
+   "img": null
+  },
+  {
+   "id": "48ae0d68c3",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Sequoia shutting down its Scouts program marks the end of an era",
+   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "ts": 1794027714,
+   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+   "img": null
+  },
+  {
+   "id": "a556ec6077",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+   "ts": 1794025003,
+   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
+   "img": null
+  },
+  {
+   "id": "76358518f0",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Red Bull usa dados, nuvem e agentes de IA para se manter forte na F1",
+   "link": "https://www.mobiletime.com.br/noticias/07/11/2026/red-bull-dados-agente-ia/",
+   "ts": 1794020819,
+   "summary": "Segundo Fraser McCartney-Smith, senior partnerships executive da escuderia, um dos diferenciais da equipe é o AI Pit Wall Agent que ajuda nas decisões estratégicas durante as corridas",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/max-verstappen-mexico-gp-f1-2026-240x300.webp",
+   "title_en": "Red Bull uses data, cloud and AI agents to stay strong in F1",
+   "excerpt_en": "AI Pit Wall Agent helps Formula 1 team with strategic decisions during races, according to senior partnerships executive."
+  },
+  {
+   "id": "36231604b2",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "ts": 1794015628,
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "img": null
+  },
+  {
+   "id": "637f481f49",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Congresso avança em pautas prioritárias",
+   "link": "https://teletime.com.br/06/11/2026/congresso-avanca-em-pautas-prioritarias/",
+   "ts": 1794015155,
+   "summary": "Na edição desta semana, os avanços nas pautas de compartilhamento de postes, orçamento e Fust, reforma tributária, exigências de biometria e combate a fraudes, flexibilização da jornada de trabalho, regulamentação de streaming e muito mais",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/07/Copia-de-Design-sem-nome-2-534x462.webp",
+   "title_en": "Congress advances priority agenda items",
+   "excerpt_en": "Session includes progress on pole sharing, budget, Fust, tax reform, biometrics requirements, and fraud combating."
+  },
+  {
+   "id": "3baf7005f3",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Receita de IoT da Qualcomm na America Latina dobra ano a ano, revela Tonisi",
+   "link": "https://www.mobiletime.com.br/noticias/06/11/2026/receita-iot-qualcomm/",
+   "ts": 1794010219,
+   "summary": "Em conversa durante o Movecomm 2026, o presidente da Qualcomm LatAm aborda ainda as iniciativas em satélites, data centers, setor automotivo, impacto da crise das memórias e futuro da companhia para 2029",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/GALERIA-MARCOS-MESQUITA-–-MOVECOMM-2026-0115-300x200.jpg",
+   "title_en": "Qualcomm's IoT revenue in Latin America doubles year-over-year",
+   "excerpt_en": "Company president discusses satellites, data centers, automotive sector, memory crisis impact during Movecomm 2026."
+  },
+  {
+   "id": "94d8ab74e4",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Impacto da inteligência preditiva e do Edge Computing nas rodovias brasileiras",
+   "link": "https://teletime.com.br/06/11/2026/impacto-da-inteligencia-preditiva-e-do-edge-computing-nas-rodovias-brasileiras/",
+   "ts": 1794009109,
+   "summary": "O objetivo é cruzar dados de clima, imagens de câmeras com Inteligência Artificial e estatísticas em tempo real para que o operador tome uma medida antes que incidentes ocorram",
+   "img": "https://teletime.com.br/wp-content/uploads/2020/09/Maximiliano-Martinhao-534x462.jpg",
+   "title_en": "Impact of predictive intelligence and edge computing on Brazilian roads",
+   "excerpt_en": "Using climate data, camera images with AI and real-time statistics for proactive incident prevention on highways."
+  },
+  {
+   "id": "6813d62fd9",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "ts": 1794008778,
+   "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
   {
    "id": "bcd8a9935f",
    "src": "Mobile Time",
@@ -44,7 +262,7 @@
    "summary": "Igor Gushiken falou de \"mudança radical\" desde que empresa adotou tecnologia no desenvolvimento de software",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-18.00.30-300x200.jpeg",
    "title_en": "AI generates gains in high-value activities at QuintoAndar",
-   "excerpt_en": "Company executive described AI adoption in software development as \"radical change.\""
+   "excerpt_en": "Company experienced radical transformation since adopting AI in software development, according to executive."
   },
   {
    "id": "bac300b3e1",
@@ -56,67 +274,8 @@
    "ts": 1794007997,
    "summary": "La participación de Alphabet en Qualcomm coincide con los planes del fabricante de chips para generar 15,000 mdd en ingresos por Centros de Datos hacia 2029 y ampliar su negocio de procesadores de IA.",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsGoogleQualcomm_rp06112026.png",
-   "title_en": "Alphabet declares $548M stake in Qualcomm",
-   "excerpt_en": "Alphabet's Qualcomm stake aligns with chipmaker's plan to generate $15 billion in data center revenue by 2029."
-  },
-  {
-   "id": "0d4b31631a",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Próxima etapa do combate à pirataria passa por produtos legais e competitivos",
-   "link": "https://teletime.com.br/06/11/2026/proxima-etapa-do-combate-a-pirataria-passa-por-produtos-legais-que-sejam-competitivos-com-oferta-clandestina/",
-   "ts": 1794007778,
-   "summary": "Enquanto o combate por bloqueio administrativo de endereços IP dos serviços pirata avança, a solução definitiva parece ser tornar o produto legalizado mais vantajoso para o usuário",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/05/DSC_7675-Foto-Kraw-Penas-534x462.webp",
-   "title_en": "Next stage of piracy fight requires competitive legal products",
-   "excerpt_en": "IP blocking advances but legitimate offerings must outcompete illegal services."
-  },
-  {
-   "id": "811ed23a7d",
-   "src": "Convergência Digital",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Lula quer data centers produzindo energia própria. Governo promete regulamentar o Redata daqui a duas semanas",
-   "link": "https://convergenciadigital.com.br/governo/lula-quer-data-centers-produzindo-energia-propria-governo-promete-regulamentar-o-redata-daqui-a-duas-semanas/",
-   "ts": 1794006980,
-   "summary": "\"Estamos praticamente finalizados com os termos da regulamentação ...quando Lula voltar vamos anunciar a regulamentação\", disse a ministra da Casa Civil, Miriam Belchior.",
-   "img": null,
-   "title_en": "Lula wants data centers producing their own energy",
-   "excerpt_en": "Government promises to regulate Redata within two weeks, says Civil House Minister."
-  },
-  {
-   "id": "e6ecd46e33",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Neocloud Groq Aims to Double Value to $8 Billion Amid AI Selloff",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/neocloud-groq-aims-to-double-value-to-8-billion-amid-ai-selloff",
-   "ts": 1794006825,
-   "summary": "A top executive at data center operator Groq has kicked off an audacious bid to double its valuation in about three months while slamming rivals in the space for being too reliant on debt markets.",
-   "img": null
-  },
-  {
-   "id": "1bc7ba2a28",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-   "ts": 1794006044,
-   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "217ffdb699",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
-   "link": "https://www.ft.com/content/391bb785-0247-4c39-b53b-35007187d603?syn-25a6b1a6=1",
-   "ts": 1794005631,
-   "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb9a6dc5c-b18f-4c9f-88a7-7d19051d5618.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "title_en": "Alphabet discloses $548 million stake in Qualcomm",
+   "excerpt_en": "Investment aligns with Qualcomm's plan to generate $15 billion in data center revenue by 2029."
   },
   {
    "id": "314bd08978",
@@ -130,28 +289,6 @@
    "img": null
   },
   {
-   "id": "38d6d7fd28",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Starlink Mobile: All the news on SpaceX’s major mobile carrier ambitions",
-   "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-   "ts": 1794005143,
-   "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKB355_SPACEX_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "56cbff382d",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "AI Selloff Exposes Data Center Boom Risks",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/ai-selloff-exposes-data-center-boom-risks-video",
-   "ts": 1794004778,
-   "summary": "The selloff in AI stocks is adding new uncertainty to the massive buildout of data centers across the US. Jolienne Halisky, CFO of AIB Data Centers, says financing for new projects could become more expensive and take longer as lenders reassess risk, while permitting, power and chip availability remain constraints. She joins Bloomberg Businessweek Daily to discuss her company's plans for its first",
-   "img": null
-  },
-  {
    "id": "85ab175ae3",
    "src": "DPL News",
    "lang": "ES",
@@ -161,82 +298,8 @@
    "ts": 1794004121,
    "summary": "ATVC solicitó establecer una instancia de diálogo y consulta con participación de los operadores.",
    "img": "https://dplnews.com/wp-content/uploads/2026/05/dplnews_mercosur_ciberseguridad_vc.jpg",
-   "title_en": "Argentina's ICT industry challenges new cybersecurity requirements for telecom",
-   "excerpt_en": "ATVC requested dialogue with telecom operators on new cybersecurity standards."
-  },
-  {
-   "id": "443f11d729",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Anatel promete 'pegar' provedores com oferta ilegal de audiovisual",
-   "link": "https://teletime.com.br/06/11/2026/anatel-promete-pegar-provedores-com-oferta-ilegal-de-audiovisual/",
-   "ts": 1794003666,
-   "summary": "Combate à distribuição ilegal de conteúdos audiovisuais tem movimentado Anatel como uma das frentes de enfrentamento à clandestinidade na agência. Associação Brasileira de Televisão por Assinatura (ABTA) também está envolvida no esforço, e ISPs já começaram a ser notificados",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-06T190518.569-534x462.webp",
-   "title_en": "Anatel pledges to crack down on illegal audiovisual providers",
-   "excerpt_en": "Regulator targeting illegal audiovisual distribution as part of anti-piracy enforcement."
-  },
-  {
-   "id": "68d9ad3862",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US economy outstrips forecasts to add 165,000 jobs in October",
-   "link": "https://www.ft.com/content/f84c722c-99a9-4628-84dc-c42a192cb35c?syn-25a6b1a6=1",
-   "ts": 1794003373,
-   "summary": "Hiring rebound reinforces expectations Federal Reserve will raise interest rates",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7e07bd53-3e24-426e-8418-ec9d7211903d.png?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "6589c80124",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Costa Rica | Contraloría rechaza apelación contra adjudicación de partidas para red 5G del ICE",
-   "link": "https://dplnews.com/costa-rica-contraloria-rechaza-apelacion-contra-adjudicacion-de-partidas-para-red-5g-del-ice/",
-   "ts": 1794002503,
-   "summary": "CR Hoy La Contraloría General declaró sin lugar un recurso de apelación contra la adjudicación que realizó el Instituto Costarricense de Electricidad (ICE) para implementar la red de transporte de datos de su sistema 5G. El ICE adjudicó las partidas 4, 5 y 6 de la licitación a IT Servicios de Infocomunicación S. A., representante […]",
-   "img": "https://dplnews.com/wp-content/uploads/2024/08/dplnews_5g_mc17824-scaled.jpeg",
-   "title_en": "Costa Rica comptroller rejects appeal against ICE 5G network award",
-   "excerpt_en": "Authority upholds adjudication for national electricity institute's 5G transport network."
-  },
-  {
-   "id": "635687761b",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US stocks stage tepid recovery after $3.2tn rout fuelled by AI fears",
-   "link": "https://www.ft.com/content/088ed252-ea9c-4b61-b2d1-37295fd0f7c2?syn-25a6b1a6=1",
-   "ts": 1794002456,
-   "summary": "Magnitude of rebound was feeble compared with historic recoveries from severe sell-offs",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fee4b4ad2-8780-4e4a-85a6-cbbe5fa51f76.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "7ba1a53b2b",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Um terço dos novos clientes do Mercantil abre conta pelo WhatsApp",
-   "link": "https://www.mobiletime.com.br/noticias/06/11/2026/conta-mercantil-whatsapp/",
-   "ts": 1794002107,
-   "summary": "Ferramenta viabilizou a abertura de mais de 100 mil contas desde 2025 e contribuiu para reduzir o tempo médio de espera nas agências de 53 para 24 minutos",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/Banco-Mercantil_Beatriz-Lanjoni-300x200.jpg",
-   "title_en": "One-third of Mercantil Bank's new customers open accounts via WhatsApp",
-   "excerpt_en": "Tool enabled 100,000 account openings since 2025; reduced branch wait time to 24 minutes."
-  },
-  {
-   "id": "84bc6d8aeb",
-   "src": "NeoFeed",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Curto-circuito no setor de gás: ANP muda regra, trava R$ 12 bilhões e disputa pode parar na Justiça",
-   "link": "https://neofeed.com.br/negocios/curto-circuito-no-setor-de-gas-anp-muda-regra-trava-r-12-bilhoes-e-disputa-pode-parar-na-justica/",
-   "ts": 1794001992,
-   "summary": "Brasília – Cercada de resistências das maiores transportadoras do mercado, a revisão tarifária no transporte de gás natural em curso pela Agência Nacional de Petróleo (ANP) corre o risco de parar na Justiça antes mesmo de ser concluída. E ameaça ainda mais investimentos bilionários nos gasodutos brasileiros. A agência reguladora deve concluir, na segunda-feira, 9 […] O post Curto-circuito no setor",
-   "img": "https://neofeed.com.br/wp-content/uploads/2026/08/Gasoduto-c-Agencia-Brasil-300x168.jpg",
-   "title_en": "Gas sector short-circuit: ANP rule change freezes R$12 billion",
-   "excerpt_en": "Natural gas transport tariff review risks court battle amid major carrier resistance."
+   "title_en": "Argentine ICT industry asks to review new cybersecurity requirements for telecoms",
+   "excerpt_en": "ATVC requests dialogue and consultation instance with participation from operators."
   },
   {
    "id": "5c482e0bd5",
@@ -248,8 +311,8 @@
    "ts": 1794001759,
    "summary": "El Economista eléfonos de México (Telmex) elevó 16% su flujo operativo (EBITDA) durante el tercer trimestre de 2026, impulsado por el crecimiento de Internet, mayores ingresos corporativos y una reducción de costos. Si bien la empresa consiguió mejorar su rentabilidad, las obligaciones laborales y financieras todavía impiden que esa recuperación se traduzca en ganancias netas. […]",
    "img": "https://dplnews.com/wp-content/uploads/2022/05/dplnews_telmex_mc30522.jpeg",
-   "title_en": "Telmex raises EBITDA 16% with internet-driven growth",
-   "excerpt_en": "Telefónica Mexico's operational flow surged on internet growth and corporate income gains."
+   "title_en": "Telmex raises EBITDA 16% with internet push, but remains in losses",
+   "excerpt_en": "Third quarter EBITDA growth driven by internet expansion, higher corporate revenue and cost reduction."
   },
   {
    "id": "e48a3a0434",
@@ -262,77 +325,7 @@
    "summary": "El Economista La automatización de los ataques digitales plantea nuevos desafíos para bancos, fintechs y plataformas de comercio electrónico. Los agentes de inteligencia artificial (IA) pueden probar sistemas de registro de manera continua, modificar datos después de un rechazo y trasladar sus intentos a distintas organizaciones, lo que dificulta identificar patrones de fraude entre instituciones.",
    "img": "https://dplnews.com/wp-content/uploads/2025/10/dplnews_scam-signal-fraude-telefonico_mc311025.jpg",
    "title_en": "Incode launches TrustGraph in Mexico to combat digital fraud",
-   "excerpt_en": "AI automation tool addresses growing digital attack challenges for banks and fintech platforms."
-  },
-  {
-   "id": "a7bd1ef3d5",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Big Take: The New AI Trade Is FOGO",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-06/big-take-the-new-ai-trade-is-fogo-video",
-   "ts": 1794001323,
-   "summary": "Wall Street’s AI rout sent US and then Asian markets tumbling, raising fresh questions about the sustainability of the global AI boom and where the next opportunities lie. (Source: Bloomberg)",
-   "img": null
-  },
-  {
-   "id": "f24ff62a18",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "La compra de AT&T por Televisa pone en vilo el negocio móvil con Megacable",
-   "link": "https://dplnews.com/la-compra-de-att-por-televisa-pone-en-vilo-el-negocio-movil-con-megacable/",
-   "ts": 1794001273,
-   "summary": "Expansión La compra de AT&T México por parte de Televisa no solo reconfigurará el mapa de las telecomunicaciones en el país, sino también abre una interrogante sobre el futuro de los acuerdos mayoristas que la telefónica estadounidense mantiene con varios Operadores Móviles Virtuales (OMV), empresas que dependen de su infraestructura para ofrecer servicios móviles sin […]",
-   "img": "https://dplnews.com/wp-content/uploads/2021/07/dplnews_megacable_mc140721.jpeg",
-   "title_en": "AT&T acquisition by Televisa jeopardizes mobile business with Megacable",
-   "excerpt_en": "Televisa's purchase reconfigures Mexican telecom landscape and wholesale agreement futures."
-  },
-  {
-   "id": "2cf5c65fa9",
-   "src": "Convergência Digital",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "As fragilidades dos provedores de Internet frente ao risco do PHP2Shell",
-   "link": "https://convergenciadigital.com.br/opiniao/as-fragilidades-dos-provedores-de-internet-frente-ao-risco-do-php2shell/",
-   "ts": 1793999639,
-   "summary": "Por Fabio Vianna Coelho (*) - Passados os temores de uma pane global da web, os riscos permanecem. No país, um ponto sensível são os provedores regionais que, em sua maioria absoluta, não têm como dispor de equipes de segurança de dados.",
-   "img": null,
-   "title_en": "Regional internet providers vulnerable to PHP2Shell risks",
-   "excerpt_en": "Small providers lack resources for cybersecurity teams amid persistent web security threats."
-  },
-  {
-   "id": "6800a6c7d0",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Anthropic to press ahead with IPO targeting $1.5tn valuation",
-   "link": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452?syn-25a6b1a6=1",
-   "ts": 1793998809,
-   "summary": "Claude maker intends to list before Thanksgiving despite brutal tech rout",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75de8a82-8e75-43c3-a4a2-76d844741bc0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "a40797809b",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-   "ts": 1793998721,
-   "summary": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as the information is not public. The remainder of the round, which could increase to as much as $20 billion in total, is e",
-   "img": null
-  },
-  {
-   "id": "a5eef3cf57",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "ts": 1793998601,
-   "summary": "Company said a \"multifront cyberattack\" included AI agents and an on-path data snatch.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/chainalysis-1152x648.png"
+   "excerpt_en": "AI-powered solution addresses automated digital attacks facing banks, fintechs and e-commerce platforms."
   },
   {
    "id": "b20401b110",
@@ -346,28 +339,6 @@
    "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2303158972-1152x648.jpg"
   },
   {
-   "id": "c0641eb0de",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "All the latest updates on AI data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "ts": 1793995342,
-   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "be862286ae",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Lame-duck Congress might actually do something: speed up energy projects",
-   "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-   "ts": 1793990550,
-   "summary": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed up polluting projects and limit oversight of new data centers. With data centers demanding […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268857_cutting_red_tape_to_build_more_powerlines__CVirginia-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
    "id": "80f363de4e",
    "src": "Light Reading",
    "lang": "EN",
@@ -379,6 +350,17 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt69ac0ad8f465ea58/662ba641eabbb833e71f057c/Charter_Spectrum_truck.jpg?width=720&quality=80&disable=upscale"
   },
   {
+   "id": "cb09fcfaf6",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
+   "link": "https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/",
+   "ts": 1793988000,
+   "summary": "The company’s large-load pipeline of 15.4 GW has remained virtually unchanged since the first quarter of 2026 as it pursues a $103 billion spending plan heavily focused on new natural gas generation.",
+   "img": "https://imgproxy.divecdn.com/-crZlDqKrnnyA8L7jgAn6RM71SdwKMfksWl3c0qBK_M/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EdWtlX0FzaGV2aWxsZV9Db21iaW5lZF9DeWNsZV9TdGF0aW9uLmpwZw==.webp"
+  },
+  {
    "id": "f137171360",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -388,6 +370,17 @@
    "ts": 1793986474,
    "summary": "Construction work could start in March 2027",
    "img": "https://media.datacenterdynamics.com/media/images/SpaceXAI_arizona.2e16d0ba.fill-750x500.png"
+  },
+  {
+   "id": "ead671d258",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "After the midterms, is the AI industry in for a rough two years?",
+   "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+   "ts": 1793985832,
+   "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+   "img": null
   },
   {
    "id": "510c04ed7b",
@@ -410,6 +403,17 @@
    "ts": 1793982782,
    "summary": "With its Mega Broadband deal still in limbo, Cable One disclosed it might be necessary to file for bankruptcy if it's unable to clinch a new financing deal and manage near-term debt.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt16500bd8dab90668/695800376eb3d1bc665e841a/2XGD2G3.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "5336d0f063",
+   "src": "Utility Dive",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Sempra expects 20% increase to Oncor’s spending plan, driven by load growth",
+   "link": "https://www.utilitydive.com/news/sempra-expects-20-increase-oncors-capex-plan-load-growth/874010/",
+   "ts": 1793981436,
+   "summary": "“It's too soon to tell exactly” how the results of the midterm elections will impact Oncor, said CEO Allen Nye. “We continue to believe that both parties want a strong and growing Texas.”",
+   "img": "https://imgproxy.divecdn.com/kNgFGia4MxL4zkfJxRkLEQ_QhI2A6wVTTpF9bY8k6Yg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TdGFyZ2F0ZV9BYmlsZW5lLmpwZw==.webp"
   },
   {
    "id": "6079681972",
@@ -445,28 +449,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1008861200_W2iZ5OC.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "c60666a4d9",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Why Ireland’s data centers need a new approach to energy resilience",
-   "link": "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/",
-   "ts": 1793979045,
-   "summary": "And why recovery is the central challenge to navigate",
-   "img": "https://media.datacenterdynamics.com/media/images/Lee_Todd_1.1f7b3e6d.fill-750x500.jpg"
-  },
-  {
-   "id": "35d39188d0",
-   "src": "Utility Dive",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Data centers don’t need special treatment to get power faster",
-   "link": "https://www.utilitydive.com/news/data-centers-grid-flexibility-tariffs-ercot-spp-pjm/833678/",
-   "ts": 1793978832,
-   "summary": "Projects that make their demand more predictable, controllable and financially secure should have a clearer path to service, writes Seyed Madaeni, CEO and co-founder of Verse.",
-   "img": "https://imgproxy.divecdn.com/-KYPtfPU1rvep9Hd-TDs9jNWgFfxxyHu8Fvb2EM9SFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjkyMDU1MTk2LmpwZw==.webp"
-  },
-  {
    "id": "eaeda5a4ce",
    "src": "RCR Wireless",
    "lang": "EN",
@@ -478,15 +460,15 @@
    "img": null
   },
   {
-   "id": "bdefc7b309",
-   "src": "Light Reading",
+   "id": "fbeeef8ab3",
+   "src": "Bloomberg",
    "lang": "EN",
-   "sec": "telecom",
-   "title": "The Buildout: Surf cuts ribbons in Delaware County, Indiana",
-   "link": "https://www.lightreading.com/broadband/the-buildout-surf-cuts-ribbons-in-delaware-county-indiana",
-   "ts": 1793970000,
-   "summary": "This week in broadband builds: Surf Internet marks progress in Indiana; TDS upgrades Bend, Oregon; Fidium Fiber expands in Milbridge, Maine; iGo gets USDA grant in Dickenson County, Virginia – and more.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt7166575a8d453ecb/6a0ef66690a5c101eb66cdef/RF-fiber-construction-FOR-BUILDOUT.jpg?width=720&quality=80&disable=upscale"
+   "sec": "business",
+   "title": "S&P 500 Posts Biggest Weekly Drop Since 2025 on AI Trade Worries",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-06/ai-stocks-rebound-as-investors-weigh-whether-selloff-is-over",
+   "ts": 1793969986,
+   "summary": "US stocks logged their biggest weekly loss since April 2025 on concerns over the artificial intelligence trade after Democrats swept the US midterm elections.",
+   "img": null
   },
   {
    "id": "43ae092b14",
