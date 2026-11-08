@@ -1,28 +1,85 @@
 {
- "updated_utc": "2026-11-08T16:05:08Z",
+ "updated_utc": "2026-11-08T22:57:40Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Anthropic power generation deal largest single AI purchase",
+  "title": "Anthropic power deal for AI data centers",
   "value": "$3.4 billion",
   "total": "",
-  "value_label": "Deal value",
+  "value_label": "deal value",
   "total_label": "",
   "id": "b911ef86f5"
  },
  "numbers": [
   {
-   "value": "17.5%",
-   "label": "WTI oil price recent slide",
-   "id": "31b7b7d79c"
+   "value": "1.54 million daily users",
+   "label": "DeepSeek AI agent platform adoption",
+   "id": "934985cf01"
   },
   {
-   "value": "$6.3 billion",
-   "label": "Binance cryptocurrency hack loss",
-   "id": "805dafe9e9"
+   "value": "$2.7bn",
+   "label": "Apple tax savings via Singapore",
+   "id": "dddc4e49b8"
   }
  ],
  "items": [
+  {
+   "id": "5f59b4b02e",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Nvidia’s Huang admits to affair after allegations of relationship with Chinese spy",
+   "link": "https://www.ft.com/content/1397e2f4-d7f5-4cbb-a4d9-04ecf661d1aa?syn-25a6b1a6=1",
+   "ts": 1794177062,
+   "summary": "Silicon Valley chipmaker opens investigation into chief executive as he confirms extramarital relationship in message to employees",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87bc817f-b1d1-467e-92bd-8a10c0cefa2b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "2cce53a3f3",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Maple Bear “volta para casa” e adquire escola no Canadá",
+   "link": "https://neofeed.com.br/negocios/maple-bear-volta-para-casa-e-adquire-escola-no-canada/",
+   "ts": 1794166855,
+   "summary": "Controlada pela família Zaher e integrante do Seb Education, a escola de ensino bilíngue Maple Bear acaba de realizar uma M&A no Canadá, seu país de origem. A companhia concluiu a aquisição da Pretty River Academy, localizada na província de Ontário, e que passará a se chamar Maple Bear Academy. Com o acordo, a rede […] O post Maple Bear “volta para casa” e adquire escola no Canadá apareceu primei",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/thamila-zaher-maple-bear-300x169.jpeg",
+   "title_en": "Maple Bear returns home and acquires school in Canada",
+   "excerpt_en": "Brazilian bilingual school Maple Bear completes acquisition of Pretty River Academy, its country of origin."
+  },
+  {
+   "id": "53044e44b3",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Apple is racing to make Siri more agentic",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "ts": 1794165499,
+   "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly short timeline, the company has no illusions that it's […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "783c72d052",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Democrats vow to impeach Trump officials and investigate Republican donors",
+   "link": "https://www.ft.com/content/111fefdb-0f85-4f8f-854f-86a5f81aceec?syn-25a6b1a6=1",
+   "ts": 1794161424,
+   "summary": "Pete Hegseth, Elon Musk and Venezuelan oil deals are early targets for Congressional probes by incoming lawmakers",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe5d2199f-53e4-4bda-97fe-8111d67a3533.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "934985cf01",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+   "ts": 1794160903,
+   "summary": "DeepSeek, the Chinese AI disruptor, released striking adoption numbers for its AI agent infrastructure as it continues to challenge Anthropic PBC and OpenAI with an entire swath of applications built around open-source AI technologies.",
+   "img": null
+  },
   {
    "id": "34520e7f74",
    "src": "Bloomberg",
@@ -46,6 +103,17 @@
    "img": null
   },
   {
+   "id": "9111aaff77",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Sequoia’s new chiefs sweep away last remnants of Botha era",
+   "link": "https://www.ft.com/content/abf66424-1738-4c1b-9d6b-a868be30b474?syn-25a6b1a6=1",
+   "ts": 1794146400,
+   "summary": "Closures of London office and permanent capital fund mark latest efforts to streamline Silicon Valley VC firm",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd86d7b88-cf27-4e89-81cd-23795c965cc1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
    "id": "c4aa836acd",
    "src": "Bloomberg",
    "lang": "EN",
@@ -55,6 +123,19 @@
    "ts": 1794142373,
    "summary": "On Bloomberg This Weekend, Bloomberg News Markets producer Anthony Stephens says Asian investors are assessing the fallout from the AI selloff as hedge funds cut exposure and uncertainty grows over US data-center policy. Speaking with hosts David Gura and Christina Ruffini, Stephens explains why the timing of AI infrastructure investment could determine the next winners and losers across technolog",
    "img": null
+  },
+  {
+   "id": "19ce88619e",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "A centenária São Silvestre recorre à inteligência artificial para preparar seus corredores",
+   "link": "https://neofeed.com.br/finde/a-centenaria-sao-silvestre-recorre-a-inteligencia-artificial-para-preparar-seus-corredores/",
+   "ts": 1794140089,
+   "summary": "A centenária São Silvestre decidiu entrar na era da inteligência artificial. Na edição de número 101, no dia 31 de dezembro deste ano, a corrida de rua mais tradicional do Brasil oferece, pela primeira vez, um aplicativo com treinos orientados por IA. A cada ano, cerca de 50 mil atletas encaram os 15 quilômetros da […] O post A centenária São Silvestre recorre à inteligência artificial para prepar",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/Sao-Silvestre-Zyla-300x169.jpg",
+   "title_en": "Centennial São Silvestre uses AI to prepare runners",
+   "excerpt_en": "Traditional Brazilian street race launches AI app for first time at 101st edition on December 31."
   },
   {
    "id": "b911ef86f5",
@@ -88,30 +169,8 @@
    "ts": 1794117088,
    "summary": "Uma das coisas que mais chamaram minha atenção no congresso IAPP Privacy. Security. Risk. + AI Governance Global 2026 – promovido pela International Association of Privacy Professionals (IAPP) e patrocinado por empresas de tecnologia como Salesforce e Microsoft, em Seattle em outubro – foi perceber como a discussão sobre governança de inteligência artificial (IA) mudou de patamar. “Políticas corpo",
    "img": "https://s2-pipelinevalor.glbimg.com/ZjOqobJHq29HzBdFNUF-cLEpwYA=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/R/y/xbj0cXR5O58am4BpbUBA/henrique-fabretti-moraes-e-socio-do-cescon-barrieu-e-country-leader-da-iapp-no-brasil.jpg",
-   "title_en": "Who answers when AI fails?",
-   "excerpt_en": "Questions about responsibility and accountability when artificial intelligence systems malfunction or cause harm."
-  },
-  {
-   "id": "9c1a60497a",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Crypto industry braces for reckoning over Trump ties",
-   "link": "https://www.ft.com/content/f1b98a61-4103-447c-bb9a-3dccc0819f61?syn-25a6b1a6=1",
-   "ts": 1794114019,
-   "summary": "Democrats have vowed to start investigation into president’s family after sweeping victory in midterms",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F53f93d26-bdc0-4d77-be3f-6f65afbdfaab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "cb3c79feda",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Is Europe getting serious about ending tech dependence?",
-   "link": "https://www.ft.com/content/bd763f67-4c23-4e55-8fbf-3ca0ed520175?syn-25a6b1a6=1",
-   "ts": 1794114019,
-   "summary": "Brussels is moving in the right direction but could push national governments further",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd04d7288-8277-4bd8-8f30-533f9de3497c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "title_en": "Who is responsible when AI fails?",
+   "excerpt_en": "Article examines liability and governance issues in AI deployment from IAPP Privacy conference."
   },
   {
    "id": "dddc4e49b8",
@@ -134,8 +193,8 @@
    "ts": 1794113101,
    "summary": "Los ciberataques revelan cómo desestabilizar a una sociedad sin armas convencionales y la vulnerabilidad de unas cadenas de suministro cada vez más digitalizadas",
    "img": "https://imagenes.elpais.com/resizer/v2/32EEZHPOI5BITPNMLWKTUGKNFM.JPG?auth=19e0d24ac08a54b438e7f90dcfbd4577cdd607eed0b4b44d1db390e5f47e52c5",
-   "title_en": "Supermarket cybersecurity strategies: network segmentation and access encryption",
-   "excerpt_en": "Cyberattacks reveal how digital supply chain vulnerabilities can destabilize society without conventional weapons."
+   "title_en": "Supermarket security recipes to prevent hacks: segment networks and encrypt access methods",
+   "excerpt_en": "Cyber attacks reveal vulnerabilities in increasingly digitalized supply chains; segment networks and encryption critical."
   },
   {
    "id": "6cab959fab",
@@ -147,8 +206,8 @@
    "ts": 1794112201,
    "summary": "La inteligencia artificial dispara la frecuencia, rapidez y efectividad de los incidentes digitales, que cada vez suponen un riesgo mayor para las infraestructuras críticas",
    "img": "https://imagenes.elpais.com/resizer/v2/3YZBSJ2Z7RAPRJA67INFPT32RI.jpg?auth=98f56eaa480c4f33ba50810586b1ee4047260672efb4b11ef1f9a554a1206f51",
-   "title_en": "Cyberattacks now impact daily life from refrigerators to water and electricity",
-   "excerpt_en": "AI increases frequency, speed and effectiveness of cyberattacks threatening critical infrastructure."
+   "title_en": "From refrigerator to tap water to electricity: cyber attacks now impact daily life",
+   "excerpt_en": "AI accelerates frequency and effectiveness of digital incidents posing increasing risk to critical infrastructure."
   },
   {
    "id": "a1d78b250d",
@@ -160,19 +219,8 @@
    "ts": 1794101940,
    "summary": "O New York Times está perto de fechar a compra do Letterboxd, uma rede social dedicada ao cinema, por cerca de US$ 330 milhões. A notícia saiu no próprio jornal, que citou fontes próximas às negociações.",
    "img": null,
-   "title_en": "New York Times close to buying Letterboxd film social network for $330 million",
-   "excerpt_en": "NYT near closing Letterboxd acquisition, dedicated social network for film enthusiasts."
-  },
-  {
-   "id": "ed263cbbe1",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-   "ts": 1794089242,
-   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
-   "img": null
+   "title_en": "New York Times near purchase of Letterboxd film social network",
+   "excerpt_en": "New York Times nears closure of approximately $330 million acquisition of film-focused social platform Letterboxd."
   },
   {
    "id": "fcb6b8382a",
@@ -184,19 +232,21 @@
    "ts": 1794087791,
    "summary": "La Inteligencia Artificial se convirtió en una prioridad para las empresas mexicanas, pero su adopción avanza más rápido que los recursos para protegerla. Nueve de cada 10 CISOs en México gestionan sus riesgos sin contar con recursos proporcionales, advirtió Proofpoint. Así lo revela la segunda edición del estudio The Voice of the CISO 2026, presentado […]",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews-Luis-Isselin-proofpoint-jb071026-scaled.png",
-   "title_en": "Nine in ten Mexican CISOs manage AI risk without sufficient resources",
-   "excerpt_en": "Mexican security chiefs manage AI risks faster than they can allocate protection resources for it."
+   "title_en": "Nine of ten Mexican CISOs manage AI risk without sufficient resources",
+   "excerpt_en": "Mexican security leaders managing AI risks lack adequate resources as adoption outpaces security infrastructure development."
   },
   {
-   "id": "69c75581d5",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-   "ts": 1794086228,
-   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-   "img": null
+   "id": "0a06fd38d8",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "La IA empresarial de Zoho Analytics 7.0 entiende el negocio sin costo adicional",
+   "link": "https://dplnews.com/la-ia-empresarial-de-zoho-analytics-7-0-entiende-el-negocio-sin-costo-adicional/",
+   "ts": 1794083096,
+   "summary": "Zoho lanzó Analytics 7.0, una nueva versión de su plataforma de inteligencia empresarial que incorpora siete agentes de Inteligencia Artificial para analizar datos, generar código, crear presentaciones y ayudar a las empresas a tomar decisiones con mayor contexto y control. La Inteligencia Artificial ya llegó a las empresas, el siguiente nivel es lograr que entienda […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews-zoho-analytics-7-jb071126.png",
+   "title_en": "Zoho Analytics 7.0 business AI understands business at no added cost",
+   "excerpt_en": "Zoho launches Analytics 7.0 with seven AI agents for data analysis, code generation, and business presentations."
   },
   {
    "id": "0ce9c34b8f",
@@ -208,63 +258,21 @@
    "ts": 1794081036,
    "summary": "A CSN assinou neste sábado a venda da subsidiária de cimentos para a chinesa Huaxin, apurou o Pipeline. A previsão é que o anúncio formal pelas partes seja feito no domingo. As companhias vinham negociando com exclusividade desde o dia 30 de outubro e o prazo se encerraria no início da próxima semana. A Huaxin avaliou a CSN Cimentos em R$ 12,7 bilhões (ações e dívida), acima do enterprise value of",
    "img": "https://s2-pipelinevalor.glbimg.com/2gSMl-v61_Uz2-k3_KPN-7vVVQ0=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2021/H/3/1RlS5gQBifUTJOPNbEuQ/cimento-csn-1024x683.jpg",
-   "title_en": "CSN closes cement subsidiary sale to Chinese company Huaxin",
-   "excerpt_en": "CSN signed sale of cement subsidiary to Chinese firm Huaxin on Saturday, with formal announcement expected Sunday."
+   "title_en": "CSN closes cement deal with Chinese Huaxin",
+   "excerpt_en": "CSN sells cement subsidiary to Chinese Huaxin Cement, agreement signed Saturday with formal announcement Sunday."
   },
   {
-   "id": "eff9c0ae99",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "AI Backlash Spreads Across Europe With Data Center Protests",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-backlash-spreads-across-europe-with-data-center-protests",
-   "ts": 1794075619,
-   "summary": "Protests against data centers continued across Europe on Saturday as citizens took to the streets to voice their concerns about the impact on society and the environment.",
-   "img": null
-  },
-  {
-   "id": "805dafe9e9",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
-   "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
-   "ts": 1794072247,
-   "summary": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
-   "img": null
-  },
-  {
-   "id": "73be1ddc7f",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-   "ts": 1794066225,
-   "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "48ae0d68c3",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Sequoia shutting down its Scouts program marks the end of an era",
-   "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-   "ts": 1794027714,
-   "summary": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-   "img": null
-  },
-  {
-   "id": "a556ec6077",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-   "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-   "ts": 1794025003,
-   "summary": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.",
-   "img": null
+   "id": "509de0fa39",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Elizabeth Holmes, da Theranos, troca o figurino, mas mantém o roteiro",
+   "link": "https://neofeed.com.br/finde/elizabeth-holmes-da-theranos-troca-o-figurino-mas-mantem-o-roteiro/",
+   "ts": 1794054569,
+   "summary": "Nova York — Mesmo encarcerada por orquestrar uma das fraudes mais espetaculares do Vale do Silício, aos 42 anos, Elizabeth Holmes, fundadora da Theranos, não suporta ficar longe dos holofotes. Condenada a 11 anos e três meses de prisão em 2022, Elizabeth convidou dois cineastas para registrar sua vida durante os 34 dias que antecederam […] O post Elizabeth Holmes, da Theranos, troca o figurino, ma",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/10/elizabeth-holmes-documentario-You-Can-See-Everything-themoviedb-4-300x169.jpg",
+   "title_en": "Elizabeth Holmes from Theranos changes wardrobe, keeps script",
+   "excerpt_en": "Imprisoned Theranos founder continues seeking spotlight despite 11-year-3-month sentence for orchestrating Silicon Valley fraud."
   }
  ]
 }
