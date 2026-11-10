@@ -1,58 +1,184 @@
 {
- "updated_utc": "2026-11-09T19:56:12Z",
+ "updated_utc": "2026-11-10T02:18:34Z",
  "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Enterprise AI spending surges to $177 billion",
-  "value": "$177 billion",
-  "total": "$33 billion",
-  "value_label": "2026 enterprise AI spending",
-  "total_label": "2025 enterprise AI spending",
-  "id": "ad4603005c"
+  "title": "Anthropic targets $69.3 billion in IPO proceeds",
+  "value": "$69.3 billion",
+  "total": "",
+  "value_label": "IPO target",
+  "total_label": "",
+  "id": "6e66d0729c"
  },
  "numbers": [
   {
-   "value": "$3 billion",
-   "label": "Nominal AI hardware startup valuation after 8 months",
-   "id": "c237a70ffb"
+   "value": "$301 million",
+   "label": "Chinese chipmakers HK IPO",
+   "id": "a7e236f059"
   },
   {
-   "value": "80%",
-   "label": "Enterprise AI usage driven by agents",
-   "id": "ad4603005c"
-  },
-  {
-   "value": "$3.4 billion",
-   "label": "Value of natural gas turbines Anthropic purchased",
-   "id": "ea1cff7571"
+   "value": "$12B",
+   "label": "Fervo geothermal orders",
+   "id": "4f9c8174d8"
   }
  ],
  "items": [
   {
-   "id": "2a010b5765",
-   "src": "DPL News",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Eletronet anuncia novo data center em São Paulo, com investimento de R$ 25 milhões",
-   "link": "https://dplnews.com/eletronet-anuncia-novo-data-center-em-sao-paulo-com-investimento-de-r-25-milhoes/",
-   "ts": 1794254018,
-   "summary": "Nomeado ELET1, o Data Center terá capacidade para cerca de 90 racks e potência de 0,5 MW, podendo ser expandida para 1 MW, e atenderá à evolução das demandas do mercado por infraestrutura digital",
-   "img": "https://dplnews.com/wp-content/uploads/2026/07/dplnews_eletronet_mc160726.jpg",
-   "title_en": "Eletronet announces new data center in São Paulo with R$ 25 million investment",
-   "excerpt_en": "New ELET1 data center will have 90 racks and 0.5 MW power, expandable to 1 MW."
+   "id": "6e66d0729c",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Anthropic Seeks to Raise $69.3 Billion Via Its IPO, Reuters Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
+   "ts": 1794274990,
+   "summary": "Anthropic PBC is ‌aiming to raise ​as ​much as $69.3 billion ⁠through its initial public offering, Reuters said, citing a copy of a filing.",
+   "img": null
   },
   {
-   "id": "be28016dec",
+   "id": "54fe62bc94",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "TIM alcança receita líquida de R$ 7 bi, mas lucro líquido tem queda de 8% no 3T26",
+   "link": "https://www.mobiletime.com.br/noticias/09/11/2026/tim-receita-liquida-3t26/",
+   "ts": 1794271993,
+   "summary": "Lucro foi impactado por ajuste de R$ 207 milhões no preço de aquisição da I-System, além de outras despesas",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-balanco2RDZ-300x169.jpg",
+   "title_en": "TIM reaches R$7 billion net revenue, but net profit down 8% in Q3 2026",
+   "excerpt_en": "TIM's profit was impacted by a R$207 million adjustment in the acquisition price of I-System."
+  },
+  {
+   "id": "103624bc5d",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Comisión Europea señala incumplimiento de TikTok a normas digitales",
+   "link": "https://dplnews.com/comision-europea-incumplimiento-tiktok/",
+   "ts": 1794271756,
+   "summary": "La Comisión Europea (CE) constató, de forma preliminar, que la sección Para tí de TikTok incumple el Reglamento de Servicios Digitales debido al efecto perjudicial de las espirales de contenido. El feed muestra a los usuarios un flujo continuo de videos personalizados, incluso cuando están relacionados con problemas de salud mental e imagen corporal. Cuanto […]",
+   "img": "https://dplnews.com/wp-content/uploads/2024/04/dplnews_tiktok_vr230424.jpg",
+   "title_en": "European Commission finds TikTok non-compliance with digital services rules",
+   "excerpt_en": "EC preliminarily found TikTok's For You section violates Digital Services Regulation due to harmful content spirals."
+  },
+  {
+   "id": "e59464b549",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Trump says FBI is ‘looking into’ Nvidia’s Jensen Huang",
+   "link": "https://www.ft.com/content/cbabf2da-2079-4b69-88e3-0ba84cf8d6fd?syn-25a6b1a6=1",
+   "ts": 1794270956,
+   "summary": "US company has been rocked by allegations its chief executive had an affair with a Chinese spy",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F27033f05-66ef-4f75-b47b-b9be670bb573.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "57af6f6832",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Brasil TecPar cresce receita em 22% no terceiro trimestre; lucro cai 99%",
+   "link": "https://teletime.com.br/09/11/2026/brasil-tecpar-balanco-terceiro-tri/",
+   "ts": 1794270832,
+   "summary": "Brasil TecPar publicou resultados financeiros e operacionais do terceiro trimestre de 2026 que indicaram um salto de 22% nas receitas do grupo, para R$ 534,7 milhões entre julho e setembro. Já o lucro líquido do grupo no período recuou quase 99% e ficou em R$ 132 mil, impactado por fatores como maiores despesas financeiras. Em nove meses, empresa acumula prejuízo",
+   "img": "https://teletime.com.br/wp-content/uploads/2023/12/Brasil-Tecpar-534x462.png",
+   "title_en": "Brasil TecPar revenue grows 22% in Q3, but profit drops 99%",
+   "excerpt_en": "Revenue jumped to R$534.7 million July-September, but net profit collapsed as company faced losses."
+  },
+  {
+   "id": "6ae7c46a46",
+   "src": "Pipeline Valor",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Braskem estende negociação com bondholders até 11 de novembro",
+   "link": "https://pipelinevalor.globo.com/negocios/noticia/braskem-estende-negociacao-com-bondholders-ate-11-de-novembro.ghtml",
+   "ts": 1794268823,
+   "summary": "Ainda sem acordo com os bondholders sobre os termos do plano de recuperação extrajudicial, a Braskem deu prazo até 11 de novembro para os credores, do mercado doméstico e externo, apresentarem propostas para reestruturar a dívida da companhia, apurou o Pipeline. A empresa vinha concentrando as negociações com os bondholders, que detém US$ 7 bilhões do total da dívida de US$ 11 bilhões que deve ser",
+   "img": "https://s2-pipelinevalor.glbimg.com/IkH6fYxudRcw6TFD-1sECEk8g3o=/i.s3.glbimg.com/v1/AUTH_b3309463db95468aa275bd532137e960/internal_photos/bs/2026/R/d/FumwexRfCGFbAYl8RNvQ/braskem-idesa.avif",
+   "title_en": "Braskem extends creditor negotiations to November 11",
+   "excerpt_en": "Without bondholder agreement on restructuring terms, Braskem set November 11 deadline for domestic and external creditors."
+  },
+  {
+   "id": "6ffde35bf5",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Nvidia Intervened in US Megaspeed Chip Smuggling Probe",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-intervened-in-us-megaspeed-chip-smuggling-probe-video",
+   "ts": 1794268754,
+   "summary": "Nvidia's general counsel intervened in a US government probe of suspected smuggling of AI chips by Megaspeed International. Bloomberg's Lynn Doan and Annabelle Droulers explain what we know. (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "285987eab7",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "What could China get from Jensen Huang?",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+   "ts": 1794268318,
+   "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI companies in recent years, with about […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "66bcab7ef2",
+   "src": "Brazil Journal",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "B3 mexe na diretoria e cria “escritório de transformação”",
+   "link": "https://braziljournal.com/b3-mexe-na-diretoria-e-cria-escritorio-de-transformacao",
+   "ts": 1794267960,
+   "summary": "Quatro meses depois de assumir como CEO, Christian Egan está fazendo uma das maiores mudanças na diretoria estatutária da B3 – numa tentativa de tornar a companhia mais ágil e competitiva num mercado de concorrência crescente. Rodrigo Freire , que foi colega de Egan na Tivio – uma gestora controlada pelo Bradesco – vai ocupar o novo cargo de “vice-presidente de estratégia e novos negócios” a parti",
+   "img": "https://codex-braziljournal.codexcdn.net/assets/asmbX7nHHhwON07Yv.jpg",
+   "title_en": "B3 reshuffles board and creates 'transformation office'",
+   "excerpt_en": "Four months after becoming CEO, Christian Egan makes major statutory board changes to make the company more agile."
+  },
+  {
+   "id": "b537be7a8e",
    "src": "TeleSíntese",
    "lang": "PT",
    "sec": "brazil",
-   "title": "TIM fecha parceria com UOL para comercialização de publicidade baseada em dados",
-   "link": "https://telesintese.com.br/tim-fecha-parceria-com-uol-para-comercializacao-de-publicidade-baseada-em-dados/",
-   "ts": 1794253872,
-   "summary": "UOL passa a ser o maior parceiro comercial do TIM Ads, plataforma com mais de 34 milhões de usuários que autorizaram o uso de seus dados para publicidade. O post TIM fecha parceria com UOL para comercialização de publicidade baseada em dados apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/11/Publicidade-digital-e-analise-conectada.jpg-1.jpeg",
-   "title_en": "TIM partners with UOL for data-based advertising commercialization",
-   "excerpt_en": "UOL becomes largest commercial partner of TIM Ads platform with 34 million users."
+   "title": "Desenvolve SP e Möbius lançam fundo de R$ 70 milhões para provedores e data centers",
+   "link": "https://telesintese.com.br/desenvolve-sp-e-mobius-lancam-fundo-de-r-70-milhoes-para-provedores-e-data-centers/",
+   "ts": 1794267725,
+   "summary": "FIDC terá R$ 50 milhões da agência paulista e R$ 20 milhões da gestora para recebíveis, equipamentos e operações de consolidação. O post Desenvolve SP e Möbius lançam fundo de R$ 70 milhões para provedores e data centers apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2021/05/cifrao-dolara-dinheiro-ouro-credito-freepik-digital-money-inform.jpg",
+   "title_en": "Develop SP and Möbius launch R$70 million fund for providers and data centers",
+   "excerpt_en": "FIDC will have R$50 million from São Paulo agency and R$20 million from manager for receivables and equipment."
+  },
+  {
+   "id": "a7e236f059",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "China Chipmakers to Debut in HK in Test of Tech Stock Demand",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/china-chipmakers-to-debut-in-hk-in-test-of-tech-stock-demand",
+   "ts": 1794266731,
+   "summary": "Chip suppliers Suzhou Denglin Technology Co. and Jiangsu Xinde Semiconductor Technology Co. are set to begin trading in Hong Kong on Tuesday after raising a combined $301 million in their initial public offerings, entering the market at a time of extreme volatility especially for technology stocks.",
+   "img": null
+  },
+  {
+   "id": "628ef634a2",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Comcast Job Cuts to Begin With Hundreds Let Go in Pennsylvania",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/comcast-job-cuts-to-begin-with-hundreds-let-go-in-pennsylvania",
+   "ts": 1794266568,
+   "summary": "Comcast Corp. is planning to cut more than 1,000 jobs in the company’s connectivity and platforms divisions as it prepares to separate the declining units from its faster-growing media and entertainment division.",
+   "img": null
+  },
+  {
+   "id": "fdcf92fc85",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Congreso de Guatemala aprueba ley de ciberseguridad con plazos de respuesta ante ataques",
+   "link": "https://dplnews.com/congreso-guatemala-aprueba-ley-ciberseguridad/",
+   "ts": 1794266368,
+   "summary": "El Congreso dio luz verde a un decreto que prevé la conformación de nuevas entidades organizativas como el Consejo Nacional de Ciberseguridad.",
+   "img": "https://dplnews.com/wp-content/uploads/2021/10/dplnews_ciberseguridad_vc_131021.jpg",
+   "title_en": "Guatemala Congress approves cybersecurity law with attack response deadlines",
+   "excerpt_en": "Congress approved decree providing for new organizational entities like National Cybersecurity Council."
   },
   {
    "id": "8578580503",
@@ -61,24 +187,105 @@
    "sec": "latam",
    "title": "Anthropic lanza nuevas versiones de sus modelos más potentes Mythos y Fable en su camino hacia la salida a Bolsa",
    "link": "https://cincodias.elpais.com/companias/2026-11-09/anthropic-lanza-nuevas-versiones-de-sus-modelos-mas-potentes-mythos-y-fable-en-su-camino-hacia-la-salida-a-bolsa.html",
-   "ts": 1794253672,
+   "ts": 1794265152,
    "summary": "El gigante de la IA señala que estos modelos generan resultados un 30% más rápidos que sus predecesores y ofrecen mejoras en codificación, razonamiento y visión artificial",
    "img": "https://imagenes.elpais.com/resizer/v2/JQVYUCU3H5IBFEVDA5ZJZLW2AQ.jpg?auth=fb24926db0a2f4e4129ba8ed25c7f83afb4b4c2093ed948750ff03b5cfedd6f2",
-   "title_en": "Anthropic launches new Mythos and Fable AI models versions",
-   "excerpt_en": "New models are 30% faster than predecessors with improvements in coding and vision."
+   "title_en": "Anthropic launches new Mythos and Fable model versions ahead of IPO",
+   "excerpt_en": "New models generate results 30% faster than predecessors with improvements in coding, reasoning and vision."
   },
   {
-   "id": "d83b6db81a",
-   "src": "Convergência Digital",
+   "id": "50500d5a7e",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Equinix inaugura sexto Centro de Datos en Singapur con inversión de 290 mdd",
+   "link": "https://dplnews.com/equinix-sexto-centro-datos-singapur/",
+   "ts": 1794264496,
+   "summary": "La nueva instalación de Equinix incorpora enfriamiento líquido, energía renovable y tecnologías para atender cargas de trabajo de IA de alta densidad.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_singapur_equinix_vc_SG6-Exterior-scaled.jpg",
+   "title_en": "Equinix inaugurates sixth data center in Singapore with $290 million investment",
+   "excerpt_en": "New facility incorporates liquid cooling, renewable energy and technologies for high-density AI workloads."
+  },
+  {
+   "id": "0960982a73",
+   "src": "Brazil Journal",
    "lang": "PT",
    "sec": "brazil",
-   "title": "Governo investe R$ 46,3 milhões para fomentar mini data centers em todo o país",
-   "link": "https://convergenciadigital.com.br/governo/governo-investe-r-463-milhoes-para-fomentar-mini-data-centers-em-todo-o-pais/",
-   "ts": 1794252997,
-   "summary": "Iniciativa do Ministério das Comunicações, financiada pelo Funttel, e Batizado de Prisma, usa a IA para tornar data centers mais eficientes.",
-   "img": null,
-   "title_en": "Government invests R$ 46.3 million to foster mini data centers nationwide",
-   "excerpt_en": "Prisma initiative uses AI to make data centers more efficient."
+   "title": "Magalu começa a surfar a crise das Casas Bahia",
+   "link": "https://braziljournal.com/magalu-comeca-a-surfar-a-crise-das-casas-bahia",
+   "ts": 1794264120,
+   "summary": "O Magazine Luiza reportou um terceiro trimestre com números ainda pressionados, mas divulgou dados que mostram que está conseguindo surfar a crise de seu principal concorrente – ganhando share e acelerando de forma significativa o crescimento da receita. Junto com o resultado do tri, a companhia da família Trajano reportou dados relativos ao mês de outubro, que mostram um crescimento de 16% nas lo",
+   "img": "https://codex-braziljournal.codexcdn.net/assets/asorigZuMSalEiDH1.jpg",
+   "title_en": "Magazine Luiza begins surfing Casas Bahia crisis",
+   "excerpt_en": "Magalu reported Q3 results still pressured but showing it's gaining share and accelerating amid competitor crisis."
+  },
+  {
+   "id": "96b972e102",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Morgan Stanley Wealth Mgmt. Head on Vinyl Equity Deal",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/morgan-stanley-wealth-mgmt-head-on-vinyl-equity-deal-video",
+   "ts": 1794263506,
+   "summary": "Morgan Stanley is acquiring fintech company Vinyl Equity to add its digital, cloud-based transfer-agent technology to the firm’s workplace business. Jed Finn, Morgan Stanley’s Head of Wealth Management, said transfer agents maintain the official record of stock ownership, and argued that bringing the function in-house will reduce reliance on outside providers during companies’ transition from priv",
+   "img": null
+  },
+  {
+   "id": "8bba87f9b8",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Ross Gerber Sees 75% Chance Huang Remains Nvidia CEO",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-09/ross-gerber-sees-75-chance-huang-remains-nvidia-ceo-video",
+   "ts": 1794262076,
+   "summary": "Ross Gerber, co-founder, president and CEO of Gerber Kawasaki Wealth and Investment Management, reacts to the investigation into Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+   "img": null
+  },
+  {
+   "id": "07adec79b3",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "JBS adquire Flora por US$ 542 milhões e entra no mercado de cuidados pessoais",
+   "link": "https://neofeed.com.br/negocios/jbs-adquire-flora-por-us-542-milhoes-e-entra-no-mercado-de-cuidados-pessoais/",
+   "ts": 1794259371,
+   "summary": "Maior produtora global de proteínas, a JBS está agregando beleza e cuidados pessoais ao seu cardápio de produtos, como parte da estratégia de investir em produtos de valor agregado. A companhia anunciou, na segunda-feira, 9 de novembro, a aquisição da Flora, empresa do Grupo J&F, acionista controlador da JBS, dona das marcas Francis, Neutrox e […] O post JBS adquire Flora por US$ 542 milhões e ent",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/flora-300x169.jpg",
+   "title_en": "JBS acquires Flora for $542 million, enters personal care market",
+   "excerpt_en": "World's largest protein producer JBS is adding beauty and personal care to its product portfolio."
+  },
+  {
+   "id": "4f9c8174d8",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Fervo now has $12B in orders for its geothermal power tech",
+   "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "ts": 1794257734,
+   "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+   "img": null
+  },
+  {
+   "id": "39befa3379",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "ts": 1794254946,
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+   "img": null
+  },
+  {
+   "id": "5d72d36b6c",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shakes",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
+   "ts": 1794253799,
+   "summary": "Marvell Technology Inc.’s plan to double down on AI through a blockbuster $115 billion acquisition of Lumentum Holdings Inc. is getting a lukewarm early verdict from investment experts who bet on deals.",
+   "img": null
   },
   {
    "id": "3ec2e27891",
@@ -101,69 +308,8 @@
    "ts": 1794252885,
    "summary": "La Contraloría pidió a Conatel evaluar la extinción de la licencia 5G de Nubicom por falta de acreditación de inversiones y obligaciones de despliegue.",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_nubicom_licencia_5g_contraloria_paraguay-scaled.jpg",
-   "title_en": "Paraguay's Controller recommends evaluating termination of Nubicom's 5G license",
-   "excerpt_en": "Authority cites lack of investment accreditation and deployment obligations."
-  },
-  {
-   "id": "929643dfc4",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "D2D das teles regionais começará com dois gateways terrestres",
-   "link": "https://www.mobiletime.com.br/noticias/09/11/2026/d2d-regionais-teleportos/",
-   "ts": 1794252782,
-   "summary": "Teleportos funcionarão como a BBU, enquanto satélites da AST farão o papel da unidade de rádio no espaço. Infraestrutura será compartilhada entre Brisanet, iez! telecom e Unifique",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-sat1RDZ-300x169.jpg",
-   "title_en": "Regional telcos' D2D will begin with two ground gateways",
-   "excerpt_en": "Infrastructure shared between Brisanet, iez! telecom and Unifique via AST satellites."
-  },
-  {
-   "id": "01e96cb5a7",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Rodovias impulsionam crescimento da TIM no mercado corporativo",
-   "link": "https://telesintese.com.br/rodovias-impulsionam-crescimento-da-tim-no-mercado-corporativo/",
-   "ts": 1794252514,
-   "summary": "Contratos com concessionárias combinam cobertura para usuários e operação das estradas, com projetos que integram redes 4G e 5G. O post Rodovias impulsionam crescimento da TIM no mercado corporativo apareceu primeiro em TeleSíntese .",
-   "img": null,
-   "title_en": "Highways drive TIM's growth in corporate market",
-   "excerpt_en": "Contracts with concessionaires combine coverage and road operation integration."
-  },
-  {
-   "id": "0ee09fb35f",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Rakuten e AST SpaceMobile criam joint venture de D2D no Japão",
-   "link": "https://teletime.com.br/09/11/2026/rakuten-ast-empresa-satelites/",
-   "ts": 1794252488,
-   "summary": "O grupo japonês de tecnologia Rakuten e a empresa norte-americana de comunicações por satélite AST SpaceMobile anunciaram acordo para criar uma companhia voltada à implantação de uma rede de conexão direta entre satélites e celulares no Japão. Batizada de Rakuten AST, a nova empresa poderá receber até 148 bilhões de ienes (cerca de US$ 1 bilhão) em recursos do governo japonês",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/06/ast-spacemobile-534x462.webp",
-   "title_en": "Rakuten and AST SpaceMobile create D2D joint venture in Japan",
-   "excerpt_en": "Agreement aims to deploy direct satellite-to-device connection network."
-  },
-  {
-   "id": "76ce0ab14b",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US stocks rebound after AI rout",
-   "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
-   "ts": 1794252297,
-   "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcbf18af7-8a0f-409c-baa7-1e43314001ee.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "2b128ff095",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-   "ts": 1794252291,
-   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
-   "img": null
+   "title_en": "Paraguay comptroller recommends evaluating extinction of Nubicom 5G license",
+   "excerpt_en": "Comptroller asked Conatel to evaluate terminating Nubicom's 5G license due to failed investment and deployment obligations."
   },
   {
    "id": "c237a70ffb",
@@ -177,63 +323,15 @@
    "img": null
   },
   {
-   "id": "59dd423e24",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "CPQD vai desenvolver plataforma de data center com R$ 46 milhões do Funttel",
-   "link": "https://teletime.com.br/09/11/2026/cpqd-funttel-data-center/",
-   "ts": 1794251872,
-   "summary": "Executado pelo CPQD, projeto Prisma busca desenvolver plataforma de IA para gerenciamento de processamento de dados em data centers, de modo a tornar as infraestruturas mais eficientes, seguros e sustentáveis; iniciativa terá duração de 36 meses e também inclui pesquisa na área de data centers de borda",
-   "img": "https://teletime.com.br/wp-content/uploads/2025/12/data-center-centro-dados-servidor-freepik-534x462.webp",
-   "title_en": "CPQD will develop data center platform with R$ 46 million from Funttel",
-   "excerpt_en": "Prisma project develops AI platform for data center management efficiency."
-  },
-  {
-   "id": "c7079df5a7",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Anthropic Unveils New Fable, Mythos AI Models Ahead of IPO",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-09/anthropic-unveils-new-fable-mythos-ai-models-ahead-of-ipo",
-   "ts": 1794250820,
-   "summary": "Anthropic PBC has unveiled new versions of its powerful Mythos and Fable artificial intelligence models, an effort to bolster the company’s position as a leader in AI development on the eve of its long-awaited Wall Street debut.",
-   "img": null
-  },
-  {
-   "id": "f1eea0a278",
+   "id": "4a7141713a",
    "src": "The Verge",
    "lang": "EN",
    "sec": "tech",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "ts": 1794250800,
-   "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "ad4603005c",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Menlo: Agents Now Drive 80% of Enterprise AI Usage",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-09/menlo-agents-now-drive-80-of-enterprise-ai-usage-video",
-   "ts": 1794250482,
-   "summary": "Enterprise AI spending has surged to $177 billion, up from $33 billion in 2025, according to Menlo Ventures’ latest State of Enterprise AI report. Partner Deedy Das says AI agents now account for 80% of usage, as businesses move beyond chatbots toward systems capable of completing complex tasks autonomously. He also discusses the dominance of Anthropic and OpenAI in enterprise API spending. He joi",
-   "img": null
-  },
-  {
-   "id": "1720332947",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Rakuten y AST SpaceMobile crean empresa para desplegar D2D en Japón",
-   "link": "https://dplnews.com/rakuten-ast-spacemobile-empresa-d2d-japon/",
-   "ts": 1794250263,
-   "summary": "Se prevé que la red satelital de la empresa conjunta de AST y Rakuten inicie sus operaciones a nivel nacional hacia finales de marzo de 2029.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/RAKUTEN-AST-DPL-AGC-2026.png",
-   "title_en": "Rakuten and AST SpaceMobile create company to deploy D2D in Japan",
-   "excerpt_en": "Satellite network expected to begin operations nationwide by late March 2029."
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "ts": 1794251398,
+   "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"start a new song, set […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/logicpro.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "c464017879",
@@ -247,50 +345,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/bltc59c7bba3b133273/6af216c191f0973e4be4f501/TPU_8tx_TPU_8i_Max_product_art.png?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "5dfaeb3291",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nvidia CEO Affair Draws Washington Scrutiny",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-09/bloomberg-tech-11-09-2026-video",
-   "ts": 1794250137,
-   "summary": "Bloomberg’s Carol Massar goes all in on Nvidia's investigation into CEO Jensen Huang after his affair with an alleged Chinese spy, and how the scandal is becoming a Washington national security issue putting the US-China battle over AI chips back in the spotlight. Plus, Menlo Ventures is out with a new report on the state of enterprise AI. (Source: Bloomberg)",
-   "img": null
-  },
-  {
-   "id": "4ca936de86",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nvidia CEO Probe Prompts Investor Questions, Scrutiny",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-probe-prompts-investor-questions-scrutiny-video",
-   "ts": 1794250087,
-   "summary": "Shares of Nvidia slumped after Chief Executive Officer Jensen Huang admitted to having an extramarital affair with Alice Huang, a woman identified as a suspected Chinese spy. Wall Street experts react on Bloomberg Television. (Source: Bloomberg)",
-   "img": null
-  },
-  {
-   "id": "6d5898c96f",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy",
-   "link": "https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html",
-   "ts": 1794249475,
-   "summary": "Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.",
-   "img": "https://static01.nyt.com/images/2026/11/08/multimedia/08biz-jensen-bqpz/08biz-jensen-bqpz-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "20ff528b54",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-   "ts": 1794247792,
-   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
-   "img": null
-  },
-  {
    "id": "4380b5f792",
    "src": "Data Center Knowledge",
    "lang": "EN",
@@ -302,15 +356,17 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blta346bf42e7c04f70/6af20ecc4e0148d0f89953fd/NVIDIA_Holds_Berlin_GTC.png?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "d62391b78a",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "How the world became too reliant on Jensen Huang",
-   "link": "https://www.ft.com/content/509596ae-e981-4a31-80ec-d016ca01aa3b?syn-25a6b1a6=1",
-   "ts": 1794246721,
-   "summary": "The chief executive’s travails are a reminder that a single point of failure is never a good thing for a big company",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ea90ed5-c3b7-4f62-be0f-bb73b4caf8b1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "id": "63f372717d",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
+   "link": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html",
+   "ts": 1794246792,
+   "summary": "Pekín califica de “calumnias” las informaciones sobre el espionaje de la empresaria y rechaza que actuara a sueldo de sus servicios de inteligencia",
+   "img": "https://www.youtube.com/watch?v=_yDHO2OAiPc",
+   "title_en": "Alice Huang, the Chinese spy with mysterious past who reached Nvidia's CEO",
+   "excerpt_en": "Beijing calls information about the businesswoman's espionage \"slander\" and denies she worked for intelligence services."
   },
   {
    "id": "9d26ca1db5",
@@ -335,17 +391,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1b0aeaaa55083861/690cb59a3053734634fdb57a/Optimum_branded_HQ_at_dusk.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "8f7d319fb9",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Can Jensen Huang survive as Nvidia’s CEO after spy scandal?",
-   "link": "https://www.ft.com/content/0b20d24a-580a-41df-a5f3-7f7dba4f552f?syn-25a6b1a6=1",
-   "ts": 1794243772,
-   "summary": "Chipmaker’s co-founder has no obvious successor as leader of world’s second-largest company",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F55142dcb-9b7a-426f-a2bf-ac7e5760ed21.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
    "id": "a3018db91e",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -357,15 +402,15 @@
    "img": "https://media.datacenterdynamics.com/media/images/mavria-campus-green-hills-1600.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "ea1cff7571",
-   "src": "TechCrunch",
+   "id": "8660bf2e31",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-   "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-   "ts": 1794243414,
-   "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
-   "img": null
+   "sec": "dc",
+   "title": "Akamai predicts revenue to exceed $7bn in 2028, driven by cloud infrastructure services growth",
+   "link": "https://www.datacenterdynamics.com/en/news/akamai-predicts-revenue-to-exceed-7bn-in-2028-driven-by-cloud-infrastructure-services-growth/",
+   "ts": 1794240736,
+   "summary": "Company posted $1.122bn for Q3 2026",
+   "img": "https://media.datacenterdynamics.com/media/images/akamai-image.2e16d0ba.fill-750x500.jpg"
   },
   {
    "id": "9092cc3c59",
@@ -379,17 +424,6 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt8a4eef8686ebb885/68d29fa042ae2225eb9e98f1/Yago_Tenorio_Verizon_CTO.png?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "9d4186dcfd",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
-   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
-   "ts": 1794240094,
-   "summary": "Also behind project to develop Kurri Kurri smelter into data center",
-   "img": "https://media.datacenterdynamics.com/media/images/45_Donnybrook_Road_in_Mickleham.2e16d0ba.fill-750x500.png"
-  },
-  {
    "id": "a8ea0302ac",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -399,6 +433,17 @@
    "ts": 1794239115,
    "summary": "Data center expansions have long been represented in gigawatts, but measurements of terabits-second and microseconds are now entering the constraint conversation",
    "img": "https://media.datacenterdynamics.com/media/images/Geri-Headshot.536d7aba.fill-750x500.jpg"
+  },
+  {
+   "id": "3bc1337c98",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "DT builds out AI factory but still undecided on EU Gigafactory bid",
+   "link": "https://www.lightreading.com/ai-machine-learning/dt-builds-out-ai-factory-but-still-undecided-on-eu-gigafactory-bid",
+   "ts": 1794237039,
+   "summary": "DT expands its AI compute capacity in Munich’s Tucherpark as the initial site is now 'sold out,' but it has yet to make a decision about EU Gigafactory bid.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltd0c47377b71dded7/669ed9d31170a65fe1755dc1/Deutsche_Telekom_Logo_on_DT_s_headquarters_in_Bonn_Germany.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "46d3031cd1",
@@ -412,15 +457,39 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt41a49a95076ab138/6aee18f425b8d12d55a7c566/AST_Rocket_image_cropped.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "ce0ffddf82",
+   "id": "719c2933f6",
+   "src": "RCR Wireless",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "American Tower says satellites still need terrestrial infrastructure",
+   "link": "https://rcrwireless.com/20261109/network-infrastructure/towers/american-tower-satellites",
+   "ts": 1794230665,
+   "summary": "Steve Vondran, chief executive officer of American Tower, recently told investors that the company views satellite and terrestrial wireless infrastructure as complementary rather than competing infrastructure models In sum –…",
+   "img": null
+  },
+  {
+   "id": "7d5189bef8",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El francés Crédit Agricole propone una fusión con el italiano BPM y da un paso más para crear un gigante europeo",
+   "link": "https://cincodias.elpais.com/companias/2026-11-09/el-frances-credit-agricole-propone-una-fusion-con-el-italiano-bpm-y-da-un-paso-mas-para-crear-un-gigante-europeo.html",
+   "ts": 1794228666,
+   "summary": "El movimiento deja fuera de juego a Unicredit, que ya intentó una opa sobre la entidad",
+   "img": "https://imagenes.elpais.com/resizer/v2/7KHEZ2F4YMBRPE64DKNCCTBI2E.jpg?auth=8f3ae0b8e7dcf07beea36fcfdadb7091445463f4702836803e45d4e41c2991ff",
+   "title_en": "French Crédit Agricole proposes merger with Italian BPM, outflanking Unicredit",
+   "excerpt_en": "Move leaves Unicredit sidelined in bid to create European banking giant."
+  },
+  {
+   "id": "7963a10358",
    "src": "Light Reading",
    "lang": "EN",
    "sec": "telecom",
-   "title": "Rakuten and AST form D2D joint venture in Japan",
-   "link": "https://www.lightreading.com/satellite/rakuten-and-ast-form-d2d-joint-venture-in-japan",
-   "ts": 1794226455,
-   "summary": "Backed by $1 billion from Japan government, Rakuten and AST set up a satellite direct-to-device JV as a group of Japanese companies including NTT announce they're exploring plans for a new satellite mega-constellation.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt1d09e049c801706f/65202e2e5733a587b0e71c3a/Inside_the_entrance_of_Rakuten_global_headquarters.jpg?width=720&quality=80&disable=upscale"
+   "title": "Jio eyes global telcos with managed services model",
+   "link": "https://www.lightreading.com/oss-bss-cx/jio-eyes-global-telcos-with-managed-services-model",
+   "ts": 1794219962,
+   "summary": "Jio plans to take its UBR and OSS/BSS platforms overseas through selective partnerships in both developed and emerging markets.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt80da2d04241a7447/650c50ebf5c3380ef8d7aa70/Person_holding_smartphone_with_logo_of_Indian_telecommunications_company_Reliance_Jio_on_screen_in_front_of_website.jpeg?width=720&quality=80&disable=upscale"
   }
  ]
 }
