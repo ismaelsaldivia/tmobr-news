@@ -2,8 +2,8 @@ name: Update TMOBR News
 
 on:
   schedule:
-    - cron: "23 9 * * *"    # 06:23 Montevideo (GitHub suele demorar; listo cerca de las 07:00)
-    - cron: "23 19 * * *"   # 16:23 Montevideo (listo cerca de las 17:00)
+    - cron: "23 3 * * *"    # 00:23 Montevideo (GitHub demora ~6 h; sale cerca de las 07:00)
+    - cron: "23 13 * * *"   # 10:23 Montevideo (GitHub demora ~6 h; sale cerca de las 17:00)
   workflow_dispatch:
 
 permissions:
