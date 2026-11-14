@@ -1,10 +1,268 @@
 {
- "updated_utc": "2026-11-14T00:23:25Z",
- "edition": "17:00",
+ "updated_utc": "2026-11-14T12:06:59Z",
+ "edition": "07:00",
  "translated": true,
  "chart": null,
- "numbers": [],
+ "numbers": [
+  {
+   "value": "€623 million",
+   "label": "EU investment Central Asia digital connectivity",
+   "id": "d0803f5aa7"
+  },
+  {
+   "value": "£90 million",
+   "label": "UK investment Royal Navy subsea defense",
+   "id": "dc5dbf49ec"
+  }
+ ],
  "items": [
+  {
+   "id": "567fa29889",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+   "ts": 1794657600,
+   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "c12f98e809",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Circuit Breaker: como a IA, os criptoativos e a internacionalização vão definir o futuro do mercado financeiro",
+   "link": "https://neofeed.com.br/videos/circuit-breaker/circuit-breaker-como-a-ia-os-criptoativos-e-a-internacionalizacao-vao-definir-o-futuro-do-mercado-financeiro/",
+   "ts": 1794656810,
+   "summary": "Depois de revisitar as transformações que mudaram o mercado financeiro brasileiro nos últimos 25 anos, Circuit Breaker chega ao quinto e último episódio com um olhar para o futuro. A produção da NeoFeed Produções mostra como a inteligência artificial, os ativos digitais e uma nova geração de investidores devem redesenhar a indústria financeira nas próximas […] O post Circuit Breaker: como a IA, os",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-17.25.30-1-300x169.jpeg",
+   "title_en": "Circuit Breaker: How AI, crypto and internationalization will shape the future of the Brazilian financial market",
+   "excerpt_en": "NeoFeed production explores how AI, cryptocurrencies, and internationalization will define the future of Brazilian financial markets."
+  },
+  {
+   "id": "aa98b86cc3",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+   "ts": 1794654055,
+   "summary": "Company targets two projects outside Vizag",
+   "img": "https://media.datacenterdynamics.com/media/images/airtrunk_vizag.2e16d0ba.fill-750x500.png"
+  },
+  {
+   "id": "c9e9cd33b8",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
+   "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
+   "ts": 1794654009,
+   "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F588eb53b-ffff-4521-ad2f-c97a300af154.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "a09803ba11",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Passengers face widespread disruption after US air traffic control outage",
+   "link": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
+   "ts": 1794651543,
+   "summary": "Thousands of flights set to be delayed or cancelled over the weekend",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F650897e8-6bd4-4833-954d-f9c57fb04072.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "d0803f5aa7",
+   "src": "Submarine Networks",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "European Commission Mobilized up to €623 million for Digital Connectivity with Central Asia",
+   "link": "https://www.submarinenetworks.com/en/nv/insights/european-commission-mobilized-up-to-%E2%82%AC623-million-for-digital-connectivity-with-central-asia",
+   "ts": 1794648500,
+   "summary": "EU Global Gateway €623M Digital Package Middle Corridor SkyRoad & Trusted 5G Eurasia Connectivity On November 9, 2026, the European Commission mobilized up to €623 million in blended public-private investment and technical assistance to build secure, trusted digital links connecting the European Union with Central Asia via Moldova, the Black Sea region, Türkiye, and the South Caucasus. Unveiled at",
+   "img": null
+  },
+  {
+   "id": "f44a769410",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "US flights resume after \"telecommunications outage\" causes nationwide ground stop, new tech rollout blamed",
+   "link": "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+   "ts": 1794647220,
+   "summary": "Routers \"overloaded with data\"",
+   "img": "https://media.datacenterdynamics.com/media/images/main-landing-gear-1456716.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "4015bc7784",
+   "src": "Submarine Networks",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "EXA Infrastructure Selects IT International Telecom for Marine Installation of EXA Meridian",
+   "link": "https://www.submarinenetworks.com/en/systems/trans-atlantic/meridian/exa-infrastructure-selects-it-international-telecom-for-marine-installation-of-exa-meridian",
+   "ts": 1794647198,
+   "summary": "EXA Infrastructure IT International Telecom EXA Meridian Marine Installation Transatlantic Subsea Cable The strategic partnership between EXA Infrastructure and IT International Telecom Inc. (IT) for the deployment of EXA Meridian pairs one of the largest transatlantic terrestrial and subsea digital infrastructure platforms with one of North America’s foremost independent marine installation contr",
+   "img": null
+  },
+  {
+   "id": "e51ed4176f",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Humain raises $667m for AI buildout in Saudi Arabia",
+   "link": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+   "ts": 1794639648,
+   "summary": "Funding secured alongside the National Infrastructure Fund",
+   "img": "https://media.datacenterdynamics.com/media/images/Infra-new.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "0e89ea75ca",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+   "ts": 1794632442,
+   "summary": "Part of Tokyo city initiative to find uses for data center heat",
+   "img": "https://media.datacenterdynamics.com/media/images/NTT_docomo_shrimp_farm_-_Tokyo_Gov.2e16d0ba.fill-750x500.png"
+  },
+  {
+   "id": "8d97e7c648",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "The Nvidia board’s artificial independence",
+   "link": "https://www.ft.com/content/e141a5ea-5aa4-491b-88a4-369cfc67693a",
+   "ts": 1794632437,
+   "summary": "Bored of governance",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b1975cf-6725-489f-9e16-bb27433f4e67.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "7be772ee60",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "La perfección de Jensen Huang y Nvidia se evaporó en 40 días",
+   "link": "https://elpais.com/economia/2026-11-14/la-perfeccion-de-jensen-huang-y-nvidia-se-evaporo-en-40-dias.html",
+   "ts": 1794631500,
+   "summary": "El gurú de la IA deja la compañía por sus relaciones sentimentales un mes después de llevar a la empresa a la mayor capitalización de la historia de una firma, con una remuneración al accionista inédita y a las puertas de un récord de ingresos",
+   "img": "https://imagenes.elpais.com/resizer/v2/N7ZIWI3KA5JYRBYFZVGCIHKFKY.jpg?auth=ee6f6236fef6c2391d1d95105f2bfe2be62f1702fbc1cc5ae49b976e732bbb79",
+   "title_en": "Jensen Huang's and Nvidia's perfection evaporated in 40 days",
+   "excerpt_en": "Nvidia CEO Jensen Huang left the company due to extramarital affairs a month after reaching record market capitalization."
+  },
+  {
+   "id": "26c62a5239",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "La oportunidad inesperada para la Bolsa europea ante el pinchazo en Wall Street",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/la-oportunidad-inesperada-para-la-bolsa-europea-ante-el-pinchazo-en-wall-street.html",
+   "ts": 1794630601,
+   "summary": "La corrección de las grandes tecnológicas y las dudas sobre la rentabilidad de la IA impulsan un cambio de percepción entre los grandes inversores, que empiezan a mirar de nuevo hacia el Viejo Continente",
+   "img": "https://imagenes.elpais.com/resizer/v2/2JODTNGRANARPBSPRNUENCON2Y.jpg?auth=9e07ce41a3563c68e30c8480fb9ff7c5d84327275dfd6befd008d343294e5cf7",
+   "title_en": "The unexpected opportunity for European stock market amid Wall Street stumble",
+   "excerpt_en": "Correction in large tech stocks and AI profitability doubts drive investors to reconsider European equities."
+  },
+  {
+   "id": "0e8a0a35fc",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Solaria, presa de la volatilidad y las dudas sobre la IA y los centros de datos",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/solaria-presa-de-la-volatilidad-y-las-dudas-sobre-la-ia-y-los-centros-de-datos.html",
+   "ts": 1794630601,
+   "summary": "El mercado aguarda concreción regulatoria sobre las infraestructuras para la inteligencia artificial y el día del inversor del próximo jueves",
+   "img": "https://imagenes.elpais.com/resizer/v2/KRY2B2KPF5GIFMWAQK3AR7VVD4.jpg?auth=6c50640250c5acce44092c4a44daf22066f86c8aa1ca781c681a5861f95c89d0",
+   "title_en": "Solaria trapped by volatility and doubts about AI and data centers",
+   "excerpt_en": "Market awaits regulatory clarity on AI infrastructure while Solaria stock faces increased volatility."
+  },
+  {
+   "id": "c59c18b7bb",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El fulgor de Nvidia se oscurece sin su rey Midas: así es el tortuoso camino que le espera a la empresa clave para la IA",
+   "link": "https://elpais.com/economia/negocios/2026-11-14/el-fulgor-de-nvidia-se-oscurece-sin-su-rey-midas.html",
+   "ts": 1794630600,
+   "summary": "La salida de Jensen Huang, envuelto en un escándalo de infidelidades y un supuesto espionaje, abre un futuro incierto en el fabricante de chips y tendrá consecuencias en toda la industria de la inteligencia artificial",
+   "img": "https://imagenes.elpais.com/resizer/v2/XTR5BQGRYRLCFAKQIK2FHGPPRI.jpg?auth=b98f0ff90d25ec60a2e961c2f1382f2665dd2eeb99b18429652923a168188ca7",
+   "title_en": "Nvidia's brilliance darkens without its king Midas: the tortuous path ahead",
+   "excerpt_en": "Huang's departure amid an infidelity scandal and alleged espionage opens an uncertain future for the chip giant."
+  },
+  {
+   "id": "1ff2d9e323",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+   "ts": 1794621184,
+   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "08053b1f9e",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Nu llega a 143 millones de clientes en el tercer trimestre",
+   "link": "https://dplnews.com/nu-143-millones-de-clientes/",
+   "ts": 1794618513,
+   "summary": "El banco Nu obtuvo una utilidad neta récord de 1,100 millones de dólares en el tercer trimestre de 2026.",
+   "img": "https://dplnews.com/wp-content/uploads/2024/02/dplnewsNuMexicoCredito_rp13022024-scaled.jpg",
+   "title_en": "Nu reaches 143 million customers in third quarter",
+   "excerpt_en": "Nu Bank achieved record net income of $1.1 billion in Q3 2026."
+  },
+  {
+   "id": "46f76adf16",
+   "src": "Ars Technica",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+   "link": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+   "ts": 1794617353,
+   "summary": "One way or another, the company will get some more data on Saturday.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2305018954-1024x648.jpg"
+  },
+  {
+   "id": "deb268454a",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Europa busca prohibir diseños engañosos y suscripciones trampa en plataformas digitales",
+   "link": "https://dplnews.com/europa-disenos-enganosos-plataformas/",
+   "ts": 1794617190,
+   "summary": "La propuesta de Ley de Equidad Digital busca regular las prácticas de las plataformas digitales, limitar diseños engañosos y facilitar la cancelación de suscripciones.",
+   "img": "https://dplnews.com/wp-content/uploads/2021/11/dplnews_union-europea-digital_mc111121.jpeg",
+   "title_en": "Europe seeks to ban deceptive designs and dark patterns in digital platforms",
+   "excerpt_en": "Digital Equity Law proposal aims to regulate platform practices and facilitate subscription cancellation."
+  },
+  {
+   "id": "8f959b59e5",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "White House Urges Easing Liability to Encourage AI Disclosure",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-14/white-house-urges-easing-liability-to-encourage-ai-disclosure",
+   "ts": 1794616474,
+   "summary": "At a White House meeting on Thursday, officials from President Donald Trump’s artificial intelligence task force recommended that agencies ease their cyber liability policies in an effort to incentivize AI companies to report critical incidents.",
+   "img": null
+  },
+  {
+   "id": "552732b3a7",
+   "src": "DPL News",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Marinha e Motorola Solutions vão testar rede Mesh para comunicação com navios e drones",
+   "link": "https://dplnews.com/marinha-motorola-solutions-testar-rede-mesh/",
+   "ts": 1794616033,
+   "summary": "A Marinha do Brasil e a Motorola Solutions assinaram um memorando de entendimento para desenvolver requisitos e avaliar uma rede sem fio Mesh/MANET voltada às operações navais e à comunicação com veículos não tripulados. A parceria prevê uma prova de conceito em ambiente marítimo, com testes esperados durante o exercício ARAMUSS-2027. O acordo tem vigência […]",
+   "img": "https://dplnews.com/wp-content/uploads/2024/06/dplnews-marinha-brasil_mf4624.webp",
+   "title_en": "Brazilian Navy and Motorola Solutions to test Mesh network for ships and drones",
+   "excerpt_en": "Navy and Motorola signed MOU to develop wireless Mesh network for naval operations and unmanned vehicles."
+  },
   {
    "id": "664d29515e",
    "src": "DPL News",
@@ -15,43 +273,8 @@
    "ts": 1794615628,
    "summary": "La Marina de Brasil y Motorola evaluarán una red Mesh para conectar buques y vehículos no tripulados durante la ARAMUSS-2027.",
    "img": "https://dplnews.com/wp-content/uploads/2021/07/dplnews_motorolasolutions-CommandCentral_mc20721.jpeg",
-   "title_en": "Brazil's Navy and Motorola Solutions test Mesh network for ships and drones",
-   "excerpt_en": "Brazil's Navy and Motorola will evaluate a Mesh network to connect ships and unmanned vehicles during ARAMUSS-2027."
-  },
-  {
-   "id": "74b55e8c26",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Fed’s Jefferson Says Inflation Will Determine Rate Decisions",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-jefferson-says-inflation-will-determine-rate-decisions",
-   "ts": 1794614400,
-   "summary": "Federal Reserve Vice Chair Philip Jefferson said inflation has become the most important measure for policymakers as they consider additional interest-rate hikes.",
-   "img": null
-  },
-  {
-   "id": "9896210f0d",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
-   "link": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
-   "ts": 1794613166,
-   "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb0a78d5d-baf8-4590-8af4-4f5e345b474d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "1124bf1663",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Amar Babu asumirá dirección de Motorola y del negocio móvil de Lenovo",
-   "link": "https://dplnews.com/amar-babu-asumira-direccion-motorola-lenovo/",
-   "ts": 1794613071,
-   "summary": "El actual presidente de Lenovo Asia Pacífico asumirá el cargo el 1 de enero de 2027, con el objetivo de impulsar el segmento premium y fortalecer la presencia de Motorola.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/image-9.jpeg",
-   "title_en": "Amar Babu to lead Motorola and Lenovo's mobile business",
-   "excerpt_en": "Lenovo Asia Pacific president assumes role January 1, 2027 to strengthen premium segment and Motorola presence."
+   "title_en": "Brazilian Navy and Motorola Solutions will test Mesh network for ships and drones",
+   "excerpt_en": "Navy and Motorola will evaluate Mesh network during ARAMUSS-2027 for naval connectivity."
   },
   {
    "id": "07955b37d5",
@@ -82,46 +305,9 @@
    "sec": "tech",
    "title": "Why Anthropic’s Dario Amodei Has Angered OpenAI and Other A.I. Peers",
    "link": "https://www.nytimes.com/2026/11/13/technology/anthropic-dario-amodei-ai-openai.html",
-   "ts": 1794612010,
+   "ts": 1794612011,
    "summary": "Dario Amodei, the company’s chief executive, publicly frets about the dangers of artificial intelligence and has made enemies of his peers along the way.",
    "img": "https://static01.nyt.com/images/2026/09/03/business/00anthropic-knives-out/00anthropic-knives-out-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "38a1d373ac",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Más de un tercio de clientes obtuvo su primera tarjeta de crédito con Stori",
-   "link": "https://dplnews.com/clientes-stori-primera-tarjeta-credito/",
-   "ts": 1794611959,
-   "summary": "La sofipo mexicana Stori amplía su ecosistema financiero con depósitos y pagos sin contacto.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsMarisaHurtadoMakedonskyPRLeadStori_rp13112026-scaled.jpg",
-   "title_en": "Over one-third of customers obtained first credit card with Stori",
-   "excerpt_en": "Mexican fintech Stori expands financial ecosystem with deposits and contactless payments."
-  },
-  {
-   "id": "a3eec27e07",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "FAA orders third nationwide ground stop in its history",
-   "link": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-   "ts": 1794611858,
-   "summary": "Rare nationwide ground stop could go on for awhile as FAA troubleshoots.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/air-traffic-1000x648.jpg"
-  },
-  {
-   "id": "6a8184cb09",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El tope de espectro de la CRT abre la puerta a Televisa para adquirir frecuencias y pone límites a AT&T, Axtel y Telcel",
-   "link": "https://dplnews.com/el-tope-de-espectro-de-la-crt-abre-la-puerta-a-televisa-para-adquirir-frecuencias-y-pone-limites-a-att-axtel-y-telcel/",
-   "ts": 1794611661,
-   "summary": "Expansión La nueva regla de la Comisión Reguladora de Telecomunicaciones (CRT) para repartir espectro radioeléctrico podría cambiar el mapa de participantes en el mercado de infraestructura de telecomunicaciones. El límite de acumulación de 20% que estableció para su primera licitación dejaría fuera a AT&T y Axtel, colocaría a Telcel en el umbral y abriría espacio […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_espectro_radioelectrico_vc-scaled.jpg",
-   "title_en": "Mexico's spectrum cap opens door for Televisa, limits AT&T Axtel and Telcel",
-   "excerpt_en": "New telecom regulator rule for radio spectrum distribution could reshape Mexico's telecom infrastructure participants."
   },
   {
    "id": "026e0c2332",
@@ -133,30 +319,21 @@
    "ts": 1794611481,
    "summary": "A instabilidade global em serviços da Microsoft entre a última quinta-feira, 12, e esta sexta-feira, 13, é a maior interrupção em serviços de Internet registrada em 2026 até o momento, bem como nos últimos doze meses. É o que apontou análise da Ookla, dona da plataforma Downdetector.",
    "img": "https://teletime.com.br/wp-content/uploads/2020/09/microsoft-cuts-more-jobs-its-money-making-machine-might-be-impacted-too-530563-2-534x462.jpg",
-   "title_en": "Microsoft outage is largest internet disruption in 2026, says Ookla",
-   "excerpt_en": "Global Microsoft service instability between November 12-13 is largest internet disruption recorded in 2026 and past 12 months."
+   "title_en": "Microsoft outage is the largest internet disruption in 2026",
+   "excerpt_en": "Microsoft service instability from November 12-13 was largest internet outage recorded in 2026 so far."
   },
   {
-   "id": "db9fc4de75",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Modine Shares Gain Most in Six Years After Samsung Buyout Talks",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/modine-shares-gain-most-in-six-years-after-samsung-buyout-talks",
-   "ts": 1794611031,
-   "summary": "Modine Manufacturing Co. logged its biggest single-day gain since 2020 after Bloomberg News reported the maker of cooling systems for data centers was in talks to be acquired by Samsung Electronics Co.",
-   "img": null
-  },
-  {
-   "id": "78f89cc1c9",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US aviation regulator grounds all departing flights",
-   "link": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
-   "ts": 1794610826,
-   "summary": "Airports across the country ordered by Federal Aviation Administration to halt all take-offs",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F741e2378-1f87-42ec-ad78-8d0b9cdae260.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "id": "d4cbe115a2",
+   "src": "Mobile Time",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Anatel suspende ferramenta antispam da TIM",
+   "link": "https://www.mobiletime.com.br/noticias/13/11/2026/anatel-antispam-tim/",
+   "ts": 1794610835,
+   "summary": "Para voltar com o serviço, operadora deverá realizar as adequações necessárias para cumprir as regras estabelecidas pela agência reguladora",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-bots3RDZ-300x200.jpg",
+   "title_en": "Anatel suspends TIM anti-spam tool",
+   "excerpt_en": "Telecom regulator suspends TIM's anti-spam mechanism citing non-compliance with transparency rules."
   },
   {
    "id": "ec577d4c46",
@@ -176,7 +353,7 @@
    "sec": "tech",
    "title": "Microsoft’s Global Outage and Fixes: What We Know",
    "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "ts": 1794609039,
+   "ts": 1794609040,
    "summary": "The company described “encouraging” progress on efforts to overcome a second day of disruptions to its email, messaging and other services.",
    "img": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
   },
@@ -190,8 +367,8 @@
    "ts": 1794608785,
    "summary": "Brisanet deve realizar o pagamento dos juros sobre capital próprio até 30 de junho de 2027, em data ainda a ser definida pela diretoria; operadora informou que benefício levará em conta a posição acionária do dia 29 de dezembro deste ano",
    "img": "https://teletime.com.br/wp-content/uploads/2026/05/Brisanet-sede-divulgacao-534x462.webp",
-   "title_en": "Brisanet announces R$28.5 million in interest on capital",
-   "excerpt_en": "Brisanet to pay interest on capital until June 30, 2027 based on shareholder position from November 29."
+   "title_en": "Brisanet announces R$28.5 million in interest on equity",
+   "excerpt_en": "Brisanet will pay interest on equity by June 30, 2027, based on shareholder position."
   },
   {
    "id": "1a71f6c949",
@@ -203,8 +380,8 @@
    "ts": 1794608776,
    "summary": "Depois de uma falha global nos servidores da Microsoft impactar governos e empresas em todo o mundo desde as primeiras horas desta sexta-feira, 13 de novembro, uma outra “pane” promete provocar novas turbulências. A Administração Federal de Aviação dos Estados Unidos (FAA, na sigla em inglês) anunciou no fim da tarde que suspendeu todas as […] O post Decolagem negada: falha de comunicação provoca ",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/11/American-Airlines-aeroporto-da-Pensilvania-300x169.jpg",
-   "title_en": "Flight ground stop: communication failure causes US aviation outage",
-   "excerpt_en": "Microsoft global server failure and FAA communication issue ground all departing flights in United States."
+   "title_en": "Takeoff denied: communication failure causes US air outage",
+   "excerpt_en": "Microsoft server failures followed by FAA air traffic control outage disrupted US aviation on November 13."
   },
   {
    "id": "1222ac0224",
@@ -216,106 +393,8 @@
    "ts": 1794608606,
    "summary": "Apesar de uma alta de 18% no faturamento operacional líquido, impulsionado pela chegada de novos clientes, a Telebras registrou prejuízo de R$ 30,3 milhões no terceiro trimestre. Dados foram apresentados pela estatal em balanço financeiro divulgado na noite desta sexta-feira, 13",
    "img": "https://teletime.com.br/wp-content/uploads/2022/05/Antena_Telebras-534x462.jpg",
-   "title_en": "Telebras expands revenue but posts R$30 million loss in Q3",
-   "excerpt_en": "Telebras achieved 18% increase in net operating revenue but posted R$30.3 million loss in third quarter."
-  },
-  {
-   "id": "c5d31a7d36",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Vero tem prejuízo de R$ 3,7 milhões com queda na receita e na base",
-   "link": "https://teletime.com.br/13/11/2026/vero-prejuizo-terceiro-trimestre-2026/",
-   "ts": 1794607472,
-   "summary": "Vero registrou queda de 3,3% na receita e de 5,6% na base de banda larga no terceiro trimestre, na comparação com o mesmo período do ano passado. Por outro lado, provedor conseguiu elevar o ARPU e reduzir o churn de Internet fixa no período, além de ampliar a carteira de telefonia móvel para 420 mil clientes",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/02/Vero-fachada-Bauru-534x462.webp",
-   "title_en": "Vero posts R$3.7 million loss with revenue and customer base decline",
-   "excerpt_en": "Vero reported 3.3% revenue decline and 5.6% broadband base drop year-over-year in Q3."
-  },
-  {
-   "id": "0c34c8f338",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
-   "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
-   "ts": 1794606278,
-   "summary": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
-   "img": null
-  },
-  {
-   "id": "1ff2d9e323",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "FAA ground stop shuts down flights nationwide",
-   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-   "ts": 1794605905,
-   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after 5PM ET that, \"There has been a temporary telecommunications outage - out of […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2284677563.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
-   "id": "394ad08623",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Millicom compra Entel Perú por 1,714 mdd",
-   "link": "https://dplnews.com/millicom-compra-entel-peru-por-1714-mdd/",
-   "ts": 1794605590,
-   "summary": "El acuerdo amplía la presencia de Millicom en América Latina. La compañía espera que contribuya positivamente al flujo de caja libre de capital.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/Millicom-Entel.jpeg",
-   "title_en": "Millicom acquires Entel Peru for $1.714 billion",
-   "excerpt_en": "Agreement expands Millicom's presence in Latin America and expected to positively contribute to free capital flow."
-  },
-  {
-   "id": "6d4387f3c1",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Efectivo perdió 14% de market share en 10 años en México: STP",
-   "link": "https://dplnews.com/efectivo-perdio-market-share-mexico-stp/",
-   "ts": 1794605590,
-   "summary": "Los pagos digitales casi se triplicaron en una década, aunque el efectivo sigue dominando las transacciones.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsJoseMariaBilbaoHeadPaymentsSTP_rp12112026-scaled.jpg",
-   "title_en": "Cash lost 14% market share in 10 years in Mexico: STP",
-   "excerpt_en": "Digital payments nearly tripled in decade although cash still dominates transactions in Mexico."
-  },
-  {
-   "id": "9c97ae0ec3",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Anatel suspende solução antispam da TIM",
-   "link": "https://teletime.com.br/13/11/2026/anatel-suspende-antispam-da-tim/",
-   "ts": 1794605465,
-   "summary": "Anatel anunciou suspensão do mecanismo antispam da TIM após constatar um descumprimento de regras de transparência e a falta de canais adequados para contestações. Também foi identificado na ferramenta o bloqueio indevido pela TIM de serviços essenciais. Ferramenta só poderá voltar a operar após a adequação às exigências da Anatel",
-   "img": "https://teletime.com.br/wp-content/uploads/2023/07/vista-lateral-do-homem-usando-smartphone-534x462.jpg",
-   "title_en": "Anatel suspends TIM's anti-spam solution",
-   "excerpt_en": "Regulatory agency suspended TIM's anti-spam mechanism for non-compliance with transparency rules."
-  },
-  {
-   "id": "c479f2841d",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "ts": 1794604847,
-   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg"
-  },
-  {
-   "id": "4b57722449",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "App da XP ganha monitoramento de investimentos em tempo real",
-   "link": "https://www.mobiletime.com.br/noticias/13/11/2026/xp-incrementa-ferramenta/",
-   "ts": 1794604607,
-   "summary": "Clientes podem definir metas e detalhar vida financeira; aplicação também é sincronizada para assessoria",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-calculadora2RDZ-300x169.jpg",
-   "title_en": "XP app gains real-time investment monitoring",
-   "excerpt_en": "Customers can set goals and detail financial life; application synchronized for advisory services."
+   "title_en": "Telebras expands revenue but has R$30 million loss in Q3",
+   "excerpt_en": "Telebras reported 18% revenue increase but R$30.3 million net loss in third quarter."
   },
   {
    "id": "24932498aa",
@@ -338,19 +417,8 @@
    "ts": 1794585310,
    "summary": "Os acordos preveem capacidade computacional em nuvem por três a cinco anos com aquisição de GPUs para atender demanda de IA de órgãos do governo e privados.",
    "img": null,
-   "title_en": "Brazilian AI agentic startup signs R$270 million contracts with AWS and Oracle",
-   "excerpt_en": "Agreements provide cloud computing capacity for three to five years with GPU acquisitions for government and private AI demand."
-  },
-  {
-   "id": "b7392e4e12",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
-   "link": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
-   "ts": 1794582117,
-   "summary": "First 300MW due live in 2027, ready for others to build on",
-   "img": "https://media.datacenterdynamics.com/media/images/powerbridge.2e16d0ba.fill-750x500.png"
+   "title_en": "Brazilian agentic AI startup signs R$270 million contracts with AWS and Oracle",
+   "excerpt_en": "AI startup secured cloud computing capacity agreements with AWS and Oracle for three to five years."
   },
   {
    "id": "6242891a2e",
@@ -364,59 +432,15 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltd5097e4e6b9386ff/68271ea3d3c9ee7861dc1546/Singtel_Brand_03_May_2025.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "2225d2572d",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Jensen Huang Is Out at Nvidia",
-   "link": "https://www.nytimes.com/2026/11/12/podcasts/hardfork-jensen-huang-resigns.html",
-   "ts": 1794524838,
-   "summary": "In a shocking turn of events, Nvidia’s co-founder resigns amid multiple scandals.",
-   "img": "https://static01.nyt.com/images/2026/11/12/podcasts/12hardfork-jensen-resign/12hardfork-jensen-resign-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "ee4ff44921",
-   "src": "Data Center Knowledge",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Huang Resigns: Nvidia's AI Infrastructure Roadmap in Question",
-   "link": "https://www.datacenterknowledge.com/data-center-chips/huang-resigns-nvidia-s-ai-infrastructure-roadmap-in-question",
-   "ts": 1794518745,
-   "summary": "The departure of Jensen Huang without a clear long-term successor could mean turmoil at the data center economy bellwether, analysts say.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt35a609df92b3e9c5/6af63157b9f13775d9325ba1/Nvidia_company_brand_logo.png?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "765decbdf0",
-   "src": "Light Reading",
+   "id": "dc5dbf49ec",
+   "src": "Submarine Networks",
    "lang": "EN",
    "sec": "telecom",
-   "title": "SpaceX's bid for Grain's lowband spectrum takes a step forward",
-   "link": "https://www.lightreading.com/5g/spacex-s-bid-for-grain-s-lowband-spectrum-takes-a-step-forward",
-   "ts": 1794517200,
-   "summary": "The FCC has cleared SpaceX's application for Grain Management's 800MHz lowband spectrum, a key piece for its Starlink Mobile ambitions. Detractors have until December 8 to oppose it.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltcdcadbcd98a5eeb8/69372b6f23c56b16ed7e3c82/starlink_on_a_mobile_phone.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "feaa0f65de",
-   "src": "Utility Dive",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
-   "link": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
-   "ts": 1794507933,
-   "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 consumption, EIA said.",
-   "img": "https://imgproxy.divecdn.com/UUCREs9YO8vHZYESd1yTG-MaZo89Cj6_a_ZuPGmTopw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MYW5jYXN0ZXJfQ2FsaWZvcm5pYV9zb2xhcl9hcnJheXMuanBn.webp"
-  },
-  {
-   "id": "f927accb10",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Jensen Huang out as Nvidia CEO as telecom makes big bets on AI",
-   "link": "https://www.lightreading.com/ai-machine-learning/jensen-huang-out-as-nvidia-ceo-as-telecom-makes-big-bets-on-ai",
-   "ts": 1794501900,
-   "summary": "Jensen Huang resigned as Nvidia CEO amid an affair with an alleged Chinese spy. His abrupt exit sent shockwaves across the AI industry and could bring uncertainty to telecom players becoming reliant on Nvidia to power AI edge infrastructure.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blta63bdf9349c0bfe5/66d05849fb8c2c85d0f72031/Nvidia_CEO_Jensen_Huang_on_stage_at_event.jpeg?width=720&quality=80&disable=upscale"
+   "title": "UK Announces £90 million Investment for Royal Navy to Protect Undersea Cables",
+   "link": "https://www.submarinenetworks.com/en/nv/insights/uk-announces-%C2%A390-million-investment-for-royal-navy-to-protect-undersea-cables",
+   "ts": 1794558923,
+   "summary": "Atlantic Net Atlantic Bastion Royal Navy Ocean Infinity Solutions Subsea Cable Security The United Kingdom Ministry of Defence (MOD) will strengthen its defenses against Russian undersea threats in the North Atlantic following a new £90 million ($121 million) investment in autonomous drones, subsea sensors, and artificial intelligence systems for the Royal Navy. Announced at the International Sea ",
+   "img": null
   }
  ]
 }
