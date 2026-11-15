@@ -1,26 +1,245 @@
 {
- "updated_utc": "2026-11-14T18:47:32Z",
- "edition": "17:00",
+ "updated_utc": "2026-11-15T11:14:47Z",
+ "edition": "07:00",
  "translated": true,
- "chart": null,
+ "chart": {
+  "title": "Meta fined €805 million for Android photo access violation",
+  "value": "€805 million",
+  "total": "$887 million",
+  "value_label": "EU fine",
+  "total_label": "US dollar equivalent",
+  "id": "dd6c643866"
+ },
  "numbers": [
   {
    "value": "1.8GW",
-   "label": "AirTrunk data center capacity planned in India",
+   "label": "data center capacity target AirTrunk India",
    "id": "aa98b86cc3"
   },
   {
-   "value": "$667m",
-   "label": "Humain raises for AI infrastructure in Saudi Arabia",
-   "id": "e51ed4176f"
+   "value": "€623 million",
+   "label": "EU investment central Asia digital connectivity",
+   "id": "d0803f5aa7"
   },
   {
-   "value": "€623 million",
-   "label": "EU investment for Central Asia digital connectivity",
-   "id": "d0803f5aa7"
+   "value": "$667 million",
+   "label": "Humain funding Saudi Arabia AI buildout",
+   "id": "e51ed4176f"
   }
  ],
  "items": [
+  {
+   "id": "4220cfbe88",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Airsys invests in digital boiler startup ThermAI",
+   "link": "https://www.datacenterdynamics.com/en/news/airsys-invests-in-digital-boiler-startup-thermai/",
+   "ts": 1794740447,
+   "summary": "Cooling company providing spray-cooling technology to UK startup",
+   "img": "https://media.datacenterdynamics.com/media/images/globenewswire-associated0.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "e436607332",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Wingtech to Challenge Dutch Court’s Nexperia Interim Order",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/wingtech-to-challenge-dutch-court-s-nexperia-interim-order",
+   "ts": 1794738295,
+   "summary": "Wingtech Technology Co. said it opposes a Dutch court’s latest interim order in the dispute over Nexperia and plans to appeal, arguing the ruling lacks a factual basis and contains fundamental legal flaws, according to a stock exchange filing on Sunday.",
+   "img": null
+  },
+  {
+   "id": "e0f0724b6a",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
+   "ts": 1794735746,
+   "summary": "Chinese game developer Yoozoo Interactive Co. said one of its units received a 1.43 billion yuan ($214 million) order for flash-memory components, though it expects little impact on revenue or its financial data.",
+   "img": null
+  },
+  {
+   "id": "817c559f3d",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
+   "ts": 1794735654,
+   "summary": "Firmus Grid Ltd. is planning a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia Corp. and Meta Platforms Inc., the Australian Financial Review reported.",
+   "img": null
+  },
+  {
+   "id": "4fb7efd0fc",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
+   "ts": 1794732558,
+   "summary": "South Korea’s top scorer in national tax accountant qualification exams admitted that he used generative artificial intelligence and electronic devices to cheat in the tests, and has turned himself in to police.",
+   "img": null
+  },
+  {
+   "id": "3a5b1378cb",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Carney, Lula Forge Closer Ties With Forests Funding, Visits",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/carney-pledges-c-560-million-for-brazil-led-forest-project",
+   "ts": 1794720612,
+   "summary": "Canada’s Prime Minister Mark Carney and Brazil’s President Luiz Inacio Lula da Silva signaled closer ties on Sunday with funding to protect the world’s tropical forests and visits to each others’ countries.",
+   "img": null
+  },
+  {
+   "id": "0bbb539a46",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "What will Nvidia’s post-Huang era look like?",
+   "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+   "ts": 1794718814,
+   "summary": "The chip company has only itself to blame for a long list of adversaries",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99c5ac46-ba12-46b0-87b6-6986d64f3209.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "650705a34f",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "EU banking watchdog veers away from single deposit insurance scheme",
+   "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
+   "ts": 1794718813,
+   "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a15b306-437f-4b46-802b-a1cde3ac62df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "88577752d8",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Nvidia tiró de la salida a Bolsa de Anthropic con una inyección de 10.000 millones en la última operación de Huang",
+   "link": "https://elpais.com/economia/2026-11-15/nvidia-tiro-de-la-salida-a-bolsa-de-anthropic-con-una-inyeccion-de-10000-millones-en-la-ultima-operacion-de-huang.html",
+   "ts": 1794717900,
+   "summary": "Ambas compañías han cerrado numerosos acuerdos tecnológicos y financieros. El gigante de los chips y Google son los grandes valedores de la megacolocación privada del grupo de Dario Amodei",
+   "img": "https://imagenes.elpais.com/resizer/v2/UPAD2AFZP5II3PJRD4V4GOURUY.jpg?auth=b7e13e8e799fbfdd4d1280ae7f376c964046a060c56f6d1a62898ab2153d0083",
+   "title_en": "Nvidia drove Anthropic's IPO with $10 billion injection in Huang's final deal",
+   "excerpt_en": "Nvidia and Google are major backers of Anthropic's megadealing private placement following technology and financing agreements."
+  },
+  {
+   "id": "f6c6cf4d7a",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Las claves: la caída de Microsoft obliga de nuevo a prepararse mejor para el desorden tecnológico",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-15/las-claves-la-caida-de-microsoft-obliga-de-nuevo-a-prepararse-mejor-para-el-desorden-tecnologico.html",
+   "ts": 1794717600,
+   "summary": "Los servicios de la empresa tecnológica cayeron globalmente durante más de 18 horas",
+   "img": "https://imagenes.elpais.com/resizer/v2/GVU53CBLZJIZBGWHP6JFWX7QLY.jpg?auth=6297445c60d970ac056214c285ec8ca482d5d993505f3f5fa8e50d35c0aef051",
+   "title_en": "Microsoft's fall forces renewed preparation for technology disruption",
+   "excerpt_en": "Microsoft's services experienced global outages lasting over 18 hours, highlighting tech sector vulnerabilities."
+  },
+  {
+   "id": "088e381069",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Alta velocidad Madrid-Barcelona, una reforma compleja en medio de un debate incendiado",
+   "link": "https://elpais.com/espana/2026-11-15/alta-velocidad-madrid-barcelona-una-reforma-compleja-en-medio-de-un-debate-incendiado.html",
+   "ts": 1794717001,
+   "summary": "Adif ha barajado parar el tráfico en la línea para agilizar y asegurar la fiabilidad de las obras que arrancarán en 2027, lo que fue reconocido por Óscar Puente y le supuso un mar de críticas. También se analizan cortes parciales y ampliaciones de las franjas horarias de trabajo",
+   "img": "https://imagenes.elpais.com/resizer/v2/4ACBLWJVE5KIPE2K5Z65XTINQ4.jpg?auth=cd886480e1c43473d55d60db5215d2ed930b01e56b7eaf4dc434800e54a9c181",
+   "title_en": "High-speed Madrid-Barcelona reform complex amid heated debate",
+   "excerpt_en": "Adif considering traffic halt on line to speed up reliability of works starting 2027."
+  },
+  {
+   "id": "cf22214ed8",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "La banca alarga los plazos de los depósitos hasta los cuatro años y paga más del 3%",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-15/la-banca-alarga-los-plazos-de-los-depositos-hasta-los-cuatro-anos-y-paga-mas-del-3.html",
+   "ts": 1794717000,
+   "summary": "Las entidades rompen con los plazos tradicionales de estos productos para financiar sus operaciones y para fidelizar a los clientes mientras suben los tipos de interés",
+   "img": "https://imagenes.elpais.com/resizer/v2/FMK27PXZRVC6VOO2W4EYPDBEQ4.jpeg?auth=d89e2b5a9d095740b557ec0919c8eeb67d5b85d4e2d37414e198587bfcf408bc",
+   "title_en": "Banks extend deposit terms to four years, paying over 3% amid rising rates",
+   "excerpt_en": "Financial entities break with traditional deposit timeframes to fund operations and retain customers."
+  },
+  {
+   "id": "f472d7cfbe",
+   "src": "Brazil Journal",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "OPINIÃO. Um Governo negacionista exige um Senado independente",
+   "link": "https://braziljournal.com/opiniao-um-governo-negacionista-exige-um-senado-independente",
+   "ts": 1794712200,
+   "summary": "Dilma está de volta. As péssimas ideias econômicas da Presidente destituída – que levaram o País à maior crise desde a década de 1930 – estão voltando agora com o Governo Lula.",
+   "img": null,
+   "title_en": "Opinion: A denialist government requires an independent Senate",
+   "excerpt_en": "Former president's poor economic ideas that led to 1930s-level crisis returning with Lula government."
+  },
+  {
+   "id": "0684fb7cf3",
+   "src": "Brazil Journal",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Londres-Paris? O Eurostar vai ganhar concorrência",
+   "link": "https://braziljournal.com/londres-paris-o-eurostar-vai-ganhar-concorrencia",
+   "ts": 1794712200,
+   "summary": "O Eurostar – o único serviço ferroviário que opera trens de passageiros entre Londres e a Europa continental desde a inauguração do Eurotúnel, em 1994 – está prestes a perder seu monopólio. A britânica Virgin e a italiana FS Group se preparam para começar a colocar seus próprios trens no túnel até o fim da década, num esforço para atender aos anseios dos viajantes por passagens mais baratas e das ",
+   "img": "https://codex-braziljournal.codexcdn.net/assets/as4psSngvIwqUEGs0.jpg",
+   "title_en": "London-Paris? Eurostar to face competition from Virgin and Italian operators",
+   "excerpt_en": "Virgin and Italian operators set to break Eurostar's monopoly on London-Europe passenger rail service."
+  },
+  {
+   "id": "acaf00569e",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Where was Nvidia’s security team?",
+   "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "ts": 1794701287,
+   "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kind of leak that runs everyday conversations, which most corporate security teams are poorly equipped to catch.",
+   "img": null
+  },
+  {
+   "id": "83667547c1",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
+   "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
+   "ts": 1794698709,
+   "summary": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
+   "img": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg"
+  },
+  {
+   "id": "7e59a67d80",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+   "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+   "ts": 1794692684,
+   "summary": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is the first time the maneuver has successfully been executed on the Starship vehicle itself. SpaceX CEO Elon […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "0c6eb5aa3c",
+   "src": "Brazil Journal",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Na Cosan, um braço direito vira uma página",
+   "link": "https://braziljournal.com/na-cosan-um-braco-direito-vira-uma-pagina",
+   "ts": 1794692280,
+   "summary": "Vinte anos atrás, logo após fazer o IPO de seu conjunto de usinas de açúcar e etanol, Rubens Ometto contratou Marcelo Martins – um jovem banqueiro com passagens pelo Citi, UBS, BankBoston e como CFO da Votorantim Cimentos – para comandar as finanças da Cosan. Nos anos seguintes, a dupla embarcou em uma série de M&As, captações e IPOs que transformaram a companhia de Piracicaba na maior holding de ",
+   "img": "https://codex-braziljournal.codexcdn.net/assets/asjhLlo6ofZTWtwq6.jpg",
+   "title_en": "At Cosan, a right hand turns the page",
+   "excerpt_en": "Marcelo Martins, longtime CFO, departs company after 20 years since IPO of sugar and ethanol mills."
+  },
   {
    "id": "07151e1865",
    "src": "The New York Times",
@@ -28,20 +247,9 @@
    "sec": "tech",
    "title": "Tech Leaders Rally Behind Jensen Huang",
    "link": "https://www.nytimes.com/2026/11/14/technology/silicon-valley-nvidia-jensen-huang.html",
-   "ts": 1794680995,
+   "ts": 1794689858,
    "summary": "In social media posts and letters to Nvidia’s board, Mr. Huang’s billionaire peers described him as a singular leader who could not be replaced at Nvidia.",
    "img": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg"
-  },
-  {
-   "id": "43a64e6ec9",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Work to replace old copper wire led to the FAA’s ground stop",
-   "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-   "ts": 1794678268,
-   "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the result of a major modernization effort. He […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "075bbfb634",
@@ -66,28 +274,6 @@
    "img": null
   },
   {
-   "id": "dd6c643866",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Italy Fines Meta €805 Million Over Access to Users’ Photos",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
-   "ts": 1794668005,
-   "summary": "The Italian Data Protection Authority fined Meta Platforms Inc. €805 million ($887 million) for accessing photos and videos of Android users’ galleries without their explicit consent.",
-   "img": null
-  },
-  {
-   "id": "91a0c53e7b",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nvidia Looks for a New Era After Huang",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-looks-for-a-new-era-after-huang-video",
-   "ts": 1794666334,
-   "summary": "Bloomberg’s Emily Chang tells Bloomberg This Weekend what her recent interview with Jensen Huang reveals about Nvidia’s succession challenge after the longtime CEO’s abrupt departure. Speaking with hosts David Gura and Christina Ruffini, Chang examines who could succeed Huang, the questions surrounding Nvidia’s China strategy and whether the AI giant can preserve the influence and relationships Hu",
-   "img": null
-  },
-  {
    "id": "6e22a2eb49",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -99,26 +285,28 @@
    "img": "https://media.datacenterdynamics.com/media/images/foto-data-center-competence-rechen.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "b03b10c341",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
-   "ts": 1794661200,
-   "summary": "Tech giants chasing the infinite promise of AI are finding themselves increasingly on the hook for something far earthier — the electrical grid. A Democratic sweep will only intensify that.",
-   "img": null
-  },
-  {
-   "id": "567fa29889",
-   "src": "The Verge",
+   "id": "fcc2e31964",
+   "src": "The New York Times",
    "lang": "EN",
    "sec": "tech",
-   "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-   "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-   "ts": 1794657600,
-   "summary": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in blue glow, as he made his entrance in a black leather jacket that […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2194622930.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+   "title": "Microsoft’s Global Outage and Fixes: What We Know",
+   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
+   "ts": 1794662155,
+   "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
+   "img": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "c12f98e809",
+   "src": "NeoFeed",
+   "lang": "PT",
+   "sec": "brazil",
+   "title": "Circuit Breaker: como a IA, os criptoativos e a internacionalização vão definir o futuro do mercado financeiro",
+   "link": "https://neofeed.com.br/videos/circuit-breaker/circuit-breaker-como-a-ia-os-criptoativos-e-a-internacionalizacao-vao-definir-o-futuro-do-mercado-financeiro/",
+   "ts": 1794656810,
+   "summary": "Depois de revisitar as transformações que mudaram o mercado financeiro brasileiro nos últimos 25 anos, Circuit Breaker chega ao quinto e último episódio com um olhar para o futuro. A produção da NeoFeed Produções mostra como a inteligência artificial, os ativos digitais e uma nova geração de investidores devem redesenhar a indústria financeira nas próximas […] O post Circuit Breaker: como a IA, os",
+   "img": "https://neofeed.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-17.25.30-1-300x169.jpeg",
+   "title_en": "Circuit Breaker: AI, cryptocurrencies and internationalization defining financial market future",
+   "excerpt_en": "NeoFeed production examines how AI, crypto and expansion will shape Brazil's financial market."
   },
   {
    "id": "aa98b86cc3",
@@ -130,17 +318,6 @@
    "ts": 1794654055,
    "summary": "Company targets two projects outside Vizag",
    "img": "https://media.datacenterdynamics.com/media/images/airtrunk_vizag.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "c9e9cd33b8",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Nvidia exposed to possible lawsuits after Jensen Huang’s downfall",
-   "link": "https://www.ft.com/content/4aba8386-35cc-463b-a79c-a0c85c362c89?syn-25a6b1a6=1",
-   "ts": 1794654009,
-   "summary": "Chip group lacks full insurance coverage for damages stemming from the conduct of executives",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F588eb53b-ffff-4521-ad2f-c97a300af154.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
    "id": "beffcfd5da",
@@ -198,56 +375,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/NTT_docomo_shrimp_farm_-_Tokyo_Gov.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "7be772ee60",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "La perfección de Jensen Huang y Nvidia se evaporó en 40 días",
-   "link": "https://elpais.com/economia/2026-11-14/la-perfeccion-de-jensen-huang-y-nvidia-se-evaporo-en-40-dias.html",
-   "ts": 1794631500,
-   "summary": "El gurú de la IA deja la compañía por sus relaciones sentimentales un mes después de llevar a la empresa a la mayor capitalización de la historia de una firma, con una remuneración al accionista inédita y a las puertas de un récord de ingresos",
-   "img": "https://imagenes.elpais.com/resizer/v2/N7ZIWI3KA5JYRBYFZVGCIHKFKY.jpg?auth=ee6f6236fef6c2391d1d95105f2bfe2be62f1702fbc1cc5ae49b976e732bbb79",
-   "title_en": "Jensen Huang and Nvidia's perfection evaporated in 40 days",
-   "excerpt_en": "AI guru leaves company due to employee affairs one month after achieving record market cap with unprecedented shareholder returns."
-  },
-  {
-   "id": "26c62a5239",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "La oportunidad inesperada para la Bolsa europea ante el pinchazo en Wall Street",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/la-oportunidad-inesperada-para-la-bolsa-europea-ante-el-pinchazo-en-wall-street.html",
-   "ts": 1794630601,
-   "summary": "La corrección de las grandes tecnológicas y las dudas sobre la rentabilidad de la IA impulsan un cambio de percepción entre los grandes inversores, que empiezan a mirar de nuevo hacia el Viejo Continente",
-   "img": "https://imagenes.elpais.com/resizer/v2/2JODTNGRANARPBSPRNUENCON2Y.jpg?auth=9e07ce41a3563c68e30c8480fb9ff7c5d84327275dfd6befd008d343294e5cf7",
-   "title_en": "Unexpected opportunity for European stock market amid Wall Street correction",
-   "excerpt_en": "Large tech correction and AI profitability doubts drive investor perception shift toward European markets."
-  },
-  {
-   "id": "0e8a0a35fc",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Solaria, presa de la volatilidad y las dudas sobre la IA y los centros de datos",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-14/solaria-presa-de-la-volatilidad-y-las-dudas-sobre-la-ia-y-los-centros-de-datos.html",
-   "ts": 1794630601,
-   "summary": "El mercado aguarda concreción regulatoria sobre las infraestructuras para la inteligencia artificial y el día del inversor del próximo jueves",
-   "img": "https://imagenes.elpais.com/resizer/v2/KRY2B2KPF5GIFMWAQK3AR7VVD4.jpg?auth=6c50640250c5acce44092c4a44daf22066f86c8aa1ca781c681a5861f95c89d0",
-   "title_en": "Solaria caught in volatility and AI data center doubts",
-   "excerpt_en": "Market awaits regulatory clarification on AI infrastructure; investor day scheduled for next Thursday."
-  },
-  {
-   "id": "1ff2d9e323",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
-   "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-   "ts": 1794621184,
-   "summary": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials announced it was lifted at 8:15PM ET and that flights will resume. It's unclear how […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2304493507.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
-  },
-  {
    "id": "08053b1f9e",
    "src": "DPL News",
    "lang": "ES",
@@ -258,7 +385,7 @@
    "summary": "El banco Nu obtuvo una utilidad neta récord de 1,100 millones de dólares en el tercer trimestre de 2026.",
    "img": "https://dplnews.com/wp-content/uploads/2024/02/dplnewsNuMexicoCredito_rp13022024-scaled.jpg",
    "title_en": "Nu reaches 143 million customers in third quarter",
-   "excerpt_en": "Bank Nu obtained record net profit of 1,100 million dollars in Q3 2026."
+   "excerpt_en": "Nu bank achieved record net profit of $1.1 billion in Q3 2026."
   },
   {
    "id": "552732b3a7",
@@ -270,8 +397,8 @@
    "ts": 1794616033,
    "summary": "A Marinha do Brasil e a Motorola Solutions assinaram um memorando de entendimento para desenvolver requisitos e avaliar uma rede sem fio Mesh/MANET voltada às operações navais e à comunicação com veículos não tripulados. A parceria prevê uma prova de conceito em ambiente marítimo, com testes esperados durante o exercício ARAMUSS-2027. O acordo tem vigência […]",
    "img": "https://dplnews.com/wp-content/uploads/2024/06/dplnews-marinha-brasil_mf4624.webp",
-   "title_en": "Brazil's Navy and Motorola Solutions to test Mesh network for ships and drones",
-   "excerpt_en": "Navy and Motorola will evaluate Mesh network for connecting ships and unmanned vehicles during ARAMUSS-2027."
+   "title_en": "Brazil Navy and Motorola Solutions test Mesh network for ship and drone communications",
+   "excerpt_en": "Brazil Navy and Motorola will evaluate wireless Mesh network for naval operations during ARAMUSS-2027."
   },
   {
    "id": "1124bf1663",
@@ -283,167 +410,8 @@
    "ts": 1794613071,
    "summary": "El actual presidente de Lenovo Asia Pacífico asumirá el cargo el 1 de enero de 2027, con el objetivo de impulsar el segmento premium y fortalecer la presencia de Motorola.",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/image-9.jpeg",
-   "title_en": "Amar Babu to assume Motorola and Lenovo mobile business leadership",
-   "excerpt_en": "Lenovo Asia Pacific president assumes role January 1, 2027, aiming to boost premium segment and strengthen Motorola presence."
-  },
-  {
-   "id": "cf41860591",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "México | Uso de Inteligencia Artificial amplía hasta 90 minutos más la jornada laboral",
-   "link": "https://dplnews.com/mexico-uso-de-inteligencia-artificial-amplia-hasta-90-minutos-mas-la-jornada-laboral/",
-   "ts": 1794612905,
-   "summary": "El Economista El uso de inteligencia artificial (IA) en el trabajo promete ahorrar tiempo; sin embargo, un estudio reciente encontró que la jornada laboral puede extenderse hasta 90 minutos más entre los usuarios intensivos de esta tecnología. “(Este hallazgo) plantea interrogantes sobre si las mejoras en la eficiencia de la IA están reduciendo la carga […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/07/dplnewsInteligenciaArtificial_rp01072026.jpg",
-   "title_en": "Artificial intelligence use extends working day up to 90 minutes more",
-   "excerpt_en": "AI promises to save work time; recent study found work days can extend up to 90 minutes more among intensive users."
-  },
-  {
-   "id": "026e0c2332",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Apagão na Microsoft é o maior da Internet em 2026, aponta Ookla",
-   "link": "https://teletime.com.br/13/11/2026/apagao-na-microsoft-e-o-maior-da-internet-em-2026-aponta-ookla/",
-   "ts": 1794611481,
-   "summary": "A instabilidade global em serviços da Microsoft entre a última quinta-feira, 12, e esta sexta-feira, 13, é a maior interrupção em serviços de Internet registrada em 2026 até o momento, bem como nos últimos doze meses. É o que apontou análise da Ookla, dona da plataforma Downdetector.",
-   "img": "https://teletime.com.br/wp-content/uploads/2020/09/microsoft-cuts-more-jobs-its-money-making-machine-might-be-impacted-too-530563-2-534x462.jpg",
-   "title_en": "Microsoft's global outage is the largest internet disruption in 2026 so far",
-   "excerpt_en": "Microsoft's global instability on November 12-13 was the largest Internet service disruption recorded in 2026 and last twelve months."
-  },
-  {
-   "id": "d4cbe115a2",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Anatel suspende ferramenta antispam da TIM",
-   "link": "https://www.mobiletime.com.br/noticias/13/11/2026/anatel-antispam-tim/",
-   "ts": 1794610835,
-   "summary": "Para voltar com o serviço, operadora deverá realizar as adequações necessárias para cumprir as regras estabelecidas pela agência reguladora",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-bots3RDZ-300x200.jpg",
-   "title_en": "Anatel suspends TIM's anti-spam tool",
-   "excerpt_en": "Regulator suspended the anti-spam mechanism due to non-compliance with transparency rules and lack of proper challenge channels."
-  },
-  {
-   "id": "ec577d4c46",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-   "ts": 1794609780,
-   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
-   "img": null
-  },
-  {
-   "id": "45e6221298",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Brisanet anuncia R$ 28,5 milhões em juros sobre capital próprio",
-   "link": "https://teletime.com.br/13/11/2026/brisanet-r-285-milhoes-jcp/",
-   "ts": 1794608785,
-   "summary": "Brisanet deve realizar o pagamento dos juros sobre capital próprio até 30 de junho de 2027, em data ainda a ser definida pela diretoria; operadora informou que benefício levará em conta a posição acionária do dia 29 de dezembro deste ano",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/05/Brisanet-sede-divulgacao-534x462.webp",
-   "title_en": "Brisanet announces R$28.5 million in dividends",
-   "excerpt_en": "Operator will pay dividends by June 30, 2027, based on shareholder position on November 29."
-  },
-  {
-   "id": "1222ac0224",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Telebras amplia receita, mas tem prejuízo de R$ 30 milhões no terceiro trimestre",
-   "link": "https://teletime.com.br/13/11/2026/telebras-prejuizo-terceiro-trimestre/",
-   "ts": 1794608606,
-   "summary": "Apesar de uma alta de 18% no faturamento operacional líquido, impulsionado pela chegada de novos clientes, a Telebras registrou prejuízo de R$ 30,3 milhões no terceiro trimestre. Dados foram apresentados pela estatal em balanço financeiro divulgado na noite desta sexta-feira, 13",
-   "img": "https://teletime.com.br/wp-content/uploads/2022/05/Antena_Telebras-534x462.jpg",
-   "title_en": "Telebras expands revenue but posts R$30 million loss in third quarter",
-   "excerpt_en": "Operating revenue rose 18%, but state company posted R$30.3 million loss in Q3."
-  },
-  {
-   "id": "c5d31a7d36",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Vero tem prejuízo de R$ 3,7 milhões com queda na receita e na base",
-   "link": "https://teletime.com.br/13/11/2026/vero-prejuizo-terceiro-trimestre-2026/",
-   "ts": 1794607472,
-   "summary": "Vero registrou queda de 3,3% na receita e de 5,6% na base de banda larga no terceiro trimestre, na comparação com o mesmo período do ano passado. Por outro lado, provedor conseguiu elevar o ARPU e reduzir o churn de Internet fixa no período, além de ampliar a carteira de telefonia móvel para 420 mil clientes",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/02/Vero-fachada-Bauru-534x462.webp",
-   "title_en": "Vero posts R$3.7 million loss amid revenue and subscriber decline",
-   "excerpt_en": "Broadband provider saw 3.3% revenue drop and 5.6% base decline in Q3 year-over-year."
-  },
-  {
-   "id": "9db38875f4",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Wi-Fi 8 poderá melhorar redes sem troca de dispositivos",
-   "link": "https://telesintese.com.br/wi-fi-8-podera-melhorar-redes-sem-troca-de-dispositivos/",
-   "ts": 1794606844,
-   "summary": "MediaTek aposta em conexões mais estáveis e recursos para equipamentos antigos; padrão deve chegar em 2028. O post Wi-Fi 8 poderá melhorar redes sem troca de dispositivos apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/11/Roteador-Wi-Fi-8-1024x656.jpg",
-   "title_en": "Wi-Fi 8 could improve networks without device replacement",
-   "excerpt_en": "MediaTek bets on more stable connections for older equipment; standard expected to arrive in 2028."
-  },
-  {
-   "id": "af918d34fa",
-   "src": "Convergência Digital",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Startup brasileira de IA agêntica assina contratos de R$ 270 milhões com AWS e Oracle",
-   "link": "https://convergenciadigital.com.br/inovacao/startup-brasileira-de-ia-agentica-assina-contratos-de-r-270-milhoes-com-aws-e-oracle/",
-   "ts": 1794585310,
-   "summary": "Os acordos preveem capacidade computacional em nuvem por três a cinco anos com aquisição de GPUs para atender demanda de IA de órgãos do governo e privados.",
-   "img": null,
-   "title_en": "Brazilian agentic AI startup signs R$270 million contracts with AWS and Oracle",
-   "excerpt_en": "Agreements provide cloud computing capacity for three to five years with GPU acquisition for government and private AI."
-  },
-  {
-   "id": "18f4549343",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Microsoft Says Services Fully Restored After Outage Roiled World",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
-   "ts": 1794581972,
-   "summary": "Microsoft Corp. said access has been fully restored to its flagship software, ending an outage that paralyzed government offices, traders and businesses around the world.",
-   "img": null
-  },
-  {
-   "id": "af372d451f",
-   "src": "RCR Wireless",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "UE Logo 2.0 targets smarter connectivity",
-   "link": "https://rcrwireless.com/20261113/sponsored/ue-logo-connectivity",
-   "ts": 1794571285,
-   "summary": "China Mobile is leading the UE Logo 2.0 deployment, with Huawei participating in the technology ecosystem alongside device and chipset partners As telecom operators seek to translate network investment into…",
-   "img": null
-  },
-  {
-   "id": "46c5f4d2ce",
-   "src": "RCR Wireless",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Nvidia, post-Huang – who will underwrite the AI compute boom? (Analyst Angle)",
-   "link": "https://rcrwireless.com/20261113/analyst-angle/nvidia-post-huang-who-will-underwrite-the-ai-compute-boom-analyst-angle",
-   "ts": 1794565335,
-   "summary": "Nvidia’s customer financing guarantees are under scrutiny following its leadership upheaval, raising questions about whether smaller AI cloud providers can secure funding for new GPUs. Any slowdown could shift compute…",
-   "img": null
-  },
-  {
-   "id": "59a152d9a0",
-   "src": "Data Center Knowledge",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Labor Shortages Threaten Data Center Schedules",
-   "link": "https://www.datacenterknowledge.com/data-center-construction/labor-shortages-threaten-data-center-schedules",
-   "ts": 1794564000,
-   "summary": "Labor shortages and rising costs are making data center schedules more fragile, especially in Southern markets where specialized crews are already stretched.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt0a7d977f90f7ac4b/6af632453b73087229403139/Aerial_View_of_Data_Center_Cooling_Towers_Under_Construction.png?width=720&quality=80&disable=upscale"
+   "title_en": "Amar Babu assumes Motorola and Lenovo mobile business leadership",
+   "excerpt_en": "Current Lenovo Asia Pacific president takes office January 1, 2027 to strengthen Motorola's premium segment."
   }
  ]
 }
