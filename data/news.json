@@ -1,33 +1,161 @@
 {
- "updated_utc": "2026-11-15T11:14:47Z",
- "edition": "07:00",
+ "updated_utc": "2026-11-15T19:24:30Z",
+ "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "Meta fined €805 million for Android photo access violation",
-  "value": "€805 million",
-  "total": "$887 million",
-  "value_label": "EU fine",
-  "total_label": "US dollar equivalent",
-  "id": "dd6c643866"
+  "title": "Data centre construction stocks fall as AI boom unravels",
+  "value": "$4.2tn",
+  "total": "",
+  "value_label": "market value lost",
+  "total_label": "",
+  "id": "e82cc9c0a4"
  },
  "numbers": [
   {
+   "value": "$7 billion",
+   "label": "Anthropic stake held by VC firm",
+   "id": "b24410c214"
+  },
+  {
    "value": "1.8GW",
-   "label": "data center capacity target AirTrunk India",
+   "label": "data center capacity planned in India",
    "id": "aa98b86cc3"
   },
   {
    "value": "€623 million",
-   "label": "EU investment central Asia digital connectivity",
+   "label": "EU investment for Central Asia digital connectivity",
    "id": "d0803f5aa7"
   },
   {
-   "value": "$667 million",
-   "label": "Humain funding Saudi Arabia AI buildout",
-   "id": "e51ed4176f"
+   "value": "$214 million",
+   "label": "flash-memory components order for Yoozoo",
+   "id": "e0f0724b6a"
   }
  ],
  "items": [
+  {
+   "id": "1207b5c1c7",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "ts": 1794770143,
+   "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded that Huang and other Nvidia leaders testify before Congress. Senate Minority […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25545717/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "b6ddda222a",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+   "link": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?syn-25a6b1a6=1",
+   "ts": 1794769421,
+   "summary": "Tech supporters lobby chipmaker’s board to reinstate former CEO after he resigned following affair with alleged Chinese spy",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4147425d-589e-4196-83a7-198e7fdd797d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "946d02a42e",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Bessent says Nvidia needs ‘shake-up’ with external CEO",
+   "link": "https://www.ft.com/content/24edbb84-7520-4ef0-a57c-30359e12ccc5?syn-25a6b1a6=1",
+   "ts": 1794767305,
+   "summary": "US Treasury secretary demands to know if chipmaker is complying with restrictions on exports to China",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F09ab511d-0932-44a2-bf5f-ceeb90ad584b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "8984780883",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "US and allies sign accord to protect AI supply chains from China",
+   "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+   "ts": 1794764863,
+   "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0fedea5f-8437-4a6d-b0db-346f1a7a4832.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "bde7a5314a",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "FDA rejects cancer drug invented in China in blow to Beijing’s biotech sector",
+   "link": "https://www.ft.com/content/390948a3-429c-410a-b5fe-54cc5a380b99?syn-25a6b1a6=1",
+   "ts": 1794762426,
+   "summary": "Summit’s Ivonescimab was seen as a test case for whether the country’s medicine could pass scrutiny in the US",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F008a8ca0-a3cc-4297-a239-35101d9d398d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "0e3d88607b",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+   "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "ts": 1794762300,
+   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+   "img": null
+  },
+  {
+   "id": "a03993e0df",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "HPE se incorpora al portafolio de TD Synnex para crecer en Centros de Datos y redes",
+   "link": "https://dplnews.com/hpe-se-incorpora-portafolio-td-synnex/",
+   "ts": 1794760553,
+   "summary": "La alianza busca ampliar la red de canales de distribución de HPE en México, con foco en Centros de Datos, cómputo, Cloud e Inteligencia Artificial.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/20261112_171631-scaled.jpg",
+   "title_en": "HPE joins TD Synnex distribution portfolio for data centers and networks growth in Mexico",
+   "excerpt_en": "Partnership expands HPE distribution channels in Mexico, focusing on data centers, cloud, and AI."
+  },
+  {
+   "id": "70478f6246",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "House Chairman Says Huang Agrees to Testify But No Date Set Yet",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/house-chairman-says-huang-agrees-to-testify-but-no-date-set-yet",
+   "ts": 1794760363,
+   "summary": "Ousted Nvidia Corp. chief executive officer Jensen Huang agreed to testify before lawmakers behind closed doors on his relationship with alleged Chinese spy Alice Huang, according to Republican Representative John Moolenaar.",
+   "img": null
+  },
+  {
+   "id": "b24410c214",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "VC Firm Run by Madonna’s Manager Has $7 Billion Anthropic Stake",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/vc-firm-run-by-madonna-s-manager-has-7-billion-anthropic-stake",
+   "ts": 1794758405,
+   "summary": "Dario Amodei was arguably one of the least famous people in the Beverly Hills home he visited in 2023. The Anthropic PBC chief executive officer sat across from actor-turned-venture capitalist Ashton Kutcher, and Guy Oseary, the legendary music manager and industry broker who owned the house. Oseary’s framed art by rock legends like John Lennon and David Bowie hung on the wall behind them.The grou",
+   "img": null
+  },
+  {
+   "id": "2cf2d53f69",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Bessent Says Nvidia Needs ‘Dramatic Shakeup’ With Huang Out",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+   "ts": 1794755806,
+   "summary": "Treasury Secretary Scott Bessent said that Nvidia Corp. needs a “dramatic shakeup” in leadership after the ouster of Chief Executive Officer Jensen Huang.",
+   "img": null
+  },
+  {
+   "id": "642bd6145e",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "AI Investors Brace for Data Center Restrictions",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-15/ai-investors-brace-for-data-center-restrictions-video",
+   "ts": 1794753567,
+   "summary": "PIMCO market strategist Tony Crescenzi is on Bloomberg This Weekend to assess what growing political resistance to data centers could mean for the AI investment boom, arguing that new restrictions may slow construction without derailing the broader buildout. Speaking with hosts David Gura and Christina Ruffini, Crescenzi also discusses the fallout surrounding Nvidia, the outlook for the US economy",
+   "img": null
+  },
   {
    "id": "4220cfbe88",
    "src": "DatacenterDynamics",
@@ -40,81 +168,17 @@
    "img": "https://media.datacenterdynamics.com/media/images/globenewswire-associated0.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "e436607332",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Wingtech to Challenge Dutch Court’s Nexperia Interim Order",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/wingtech-to-challenge-dutch-court-s-nexperia-interim-order",
-   "ts": 1794738295,
-   "summary": "Wingtech Technology Co. said it opposes a Dutch court’s latest interim order in the dispute over Nexperia and plans to appeal, arguing the ruling lacks a factual basis and contains fundamental legal flaws, according to a stock exchange filing on Sunday.",
-   "img": null
-  },
-  {
-   "id": "e0f0724b6a",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "China’s Yoozoo Gets $214 Million Flash-Memory Components Order",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/china-s-yoozoo-gets-214-million-flash-memory-components-order",
-   "ts": 1794735746,
-   "summary": "Chinese game developer Yoozoo Interactive Co. said one of its units received a 1.43 billion yuan ($214 million) order for flash-memory components, though it expects little impact on revenue or its financial data.",
-   "img": null
-  },
-  {
-   "id": "817c559f3d",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
-   "ts": 1794735654,
-   "summary": "Firmus Grid Ltd. is planning a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia Corp. and Meta Platforms Inc., the Australian Financial Review reported.",
-   "img": null
-  },
-  {
-   "id": "4fb7efd0fc",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/korea-s-top-scorer-in-tax-accountant-exam-admits-to-ai-cheating",
-   "ts": 1794732558,
-   "summary": "South Korea’s top scorer in national tax accountant qualification exams admitted that he used generative artificial intelligence and electronic devices to cheat in the tests, and has turned himself in to police.",
-   "img": null
-  },
-  {
-   "id": "3a5b1378cb",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Carney, Lula Forge Closer Ties With Forests Funding, Visits",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-15/carney-pledges-c-560-million-for-brazil-led-forest-project",
-   "ts": 1794720612,
-   "summary": "Canada’s Prime Minister Mark Carney and Brazil’s President Luiz Inacio Lula da Silva signaled closer ties on Sunday with funding to protect the world’s tropical forests and visits to each others’ countries.",
-   "img": null
-  },
-  {
-   "id": "0bbb539a46",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "What will Nvidia’s post-Huang era look like?",
-   "link": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
-   "ts": 1794718814,
-   "summary": "The chip company has only itself to blame for a long list of adversaries",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99c5ac46-ba12-46b0-87b6-6986d64f3209.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "650705a34f",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "EU banking watchdog veers away from single deposit insurance scheme",
-   "link": "https://www.ft.com/content/016ce22d-1e09-4f1d-a7e6-9acf183e757f?syn-25a6b1a6=1",
-   "ts": 1794718813,
-   "summary": "Chair of European Banking Authority working on alternative ways to free up more cross-border lending",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8a15b306-437f-4b46-802b-a1cde3ac62df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "id": "9543e568c7",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+   "link": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+   "ts": 1794717901,
+   "summary": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
+   "img": "https://imagenes.elpais.com/resizer/v2/VZKWP23GGNJP7ELXKWKIZFOM5A.jpg?auth=1bc84a5913b0ce6bbe75e410a11f866f9b5319d56c20f41fee6b67eef47c01d4",
+   "title_en": "\"I wish you suffering\": Huang's rise and fall as Nvidia king, AI's wild verse",
+   "excerpt_en": "Fall of AI guru in alleged espionage and adultery case exposes power concentration risks in US."
   },
   {
    "id": "88577752d8",
@@ -126,73 +190,19 @@
    "ts": 1794717900,
    "summary": "Ambas compañías han cerrado numerosos acuerdos tecnológicos y financieros. El gigante de los chips y Google son los grandes valedores de la megacolocación privada del grupo de Dario Amodei",
    "img": "https://imagenes.elpais.com/resizer/v2/UPAD2AFZP5II3PJRD4V4GOURUY.jpg?auth=b7e13e8e799fbfdd4d1280ae7f376c964046a060c56f6d1a62898ab2153d0083",
-   "title_en": "Nvidia drove Anthropic's IPO with $10 billion injection in Huang's final deal",
-   "excerpt_en": "Nvidia and Google are major backers of Anthropic's megadealing private placement following technology and financing agreements."
+   "title_en": "Nvidia drove Anthropic IPO exit with $10 billion injection in Huang's final operation",
+   "excerpt_en": "Nvidia and Google backed Anthropic's mega-placement as companies completed numerous technology and financial agreements."
   },
   {
-   "id": "f6c6cf4d7a",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Las claves: la caída de Microsoft obliga de nuevo a prepararse mejor para el desorden tecnológico",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-15/las-claves-la-caida-de-microsoft-obliga-de-nuevo-a-prepararse-mejor-para-el-desorden-tecnologico.html",
-   "ts": 1794717600,
-   "summary": "Los servicios de la empresa tecnológica cayeron globalmente durante más de 18 horas",
-   "img": "https://imagenes.elpais.com/resizer/v2/GVU53CBLZJIZBGWHP6JFWX7QLY.jpg?auth=6297445c60d970ac056214c285ec8ca482d5d993505f3f5fa8e50d35c0aef051",
-   "title_en": "Microsoft's fall forces renewed preparation for technology disruption",
-   "excerpt_en": "Microsoft's services experienced global outages lasting over 18 hours, highlighting tech sector vulnerabilities."
-  },
-  {
-   "id": "088e381069",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Alta velocidad Madrid-Barcelona, una reforma compleja en medio de un debate incendiado",
-   "link": "https://elpais.com/espana/2026-11-15/alta-velocidad-madrid-barcelona-una-reforma-compleja-en-medio-de-un-debate-incendiado.html",
-   "ts": 1794717001,
-   "summary": "Adif ha barajado parar el tráfico en la línea para agilizar y asegurar la fiabilidad de las obras que arrancarán en 2027, lo que fue reconocido por Óscar Puente y le supuso un mar de críticas. También se analizan cortes parciales y ampliaciones de las franjas horarias de trabajo",
-   "img": "https://imagenes.elpais.com/resizer/v2/4ACBLWJVE5KIPE2K5Z65XTINQ4.jpg?auth=cd886480e1c43473d55d60db5215d2ed930b01e56b7eaf4dc434800e54a9c181",
-   "title_en": "High-speed Madrid-Barcelona reform complex amid heated debate",
-   "excerpt_en": "Adif considering traffic halt on line to speed up reliability of works starting 2027."
-  },
-  {
-   "id": "cf22214ed8",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "La banca alarga los plazos de los depósitos hasta los cuatro años y paga más del 3%",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-15/la-banca-alarga-los-plazos-de-los-depositos-hasta-los-cuatro-anos-y-paga-mas-del-3.html",
-   "ts": 1794717000,
-   "summary": "Las entidades rompen con los plazos tradicionales de estos productos para financiar sus operaciones y para fidelizar a los clientes mientras suben los tipos de interés",
-   "img": "https://imagenes.elpais.com/resizer/v2/FMK27PXZRVC6VOO2W4EYPDBEQ4.jpeg?auth=d89e2b5a9d095740b557ec0919c8eeb67d5b85d4e2d37414e198587bfcf408bc",
-   "title_en": "Banks extend deposit terms to four years, paying over 3% amid rising rates",
-   "excerpt_en": "Financial entities break with traditional deposit timeframes to fund operations and retain customers."
-  },
-  {
-   "id": "f472d7cfbe",
-   "src": "Brazil Journal",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "OPINIÃO. Um Governo negacionista exige um Senado independente",
-   "link": "https://braziljournal.com/opiniao-um-governo-negacionista-exige-um-senado-independente",
-   "ts": 1794712200,
-   "summary": "Dilma está de volta. As péssimas ideias econômicas da Presidente destituída – que levaram o País à maior crise desde a década de 1930 – estão voltando agora com o Governo Lula.",
-   "img": null,
-   "title_en": "Opinion: A denialist government requires an independent Senate",
-   "excerpt_en": "Former president's poor economic ideas that led to 1930s-level crisis returning with Lula government."
-  },
-  {
-   "id": "0684fb7cf3",
-   "src": "Brazil Journal",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Londres-Paris? O Eurostar vai ganhar concorrência",
-   "link": "https://braziljournal.com/londres-paris-o-eurostar-vai-ganhar-concorrencia",
-   "ts": 1794712200,
-   "summary": "O Eurostar – o único serviço ferroviário que opera trens de passageiros entre Londres e a Europa continental desde a inauguração do Eurotúnel, em 1994 – está prestes a perder seu monopólio. A britânica Virgin e a italiana FS Group se preparam para começar a colocar seus próprios trens no túnel até o fim da década, num esforço para atender aos anseios dos viajantes por passagens mais baratas e das ",
-   "img": "https://codex-braziljournal.codexcdn.net/assets/as4psSngvIwqUEGs0.jpg",
-   "title_en": "London-Paris? Eurostar to face competition from Virgin and Italian operators",
-   "excerpt_en": "Virgin and Italian operators set to break Eurostar's monopoly on London-Europe passenger rail service."
+   "id": "ce3d0293b2",
+   "src": "Ars Technica",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "SpaceX returned its Starship rocket on Saturday—but there's a catch",
+   "link": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+   "ts": 1794703259,
+   "summary": "It felt like stepping into the future.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2304631389-1024x648.jpg"
   },
   {
    "id": "acaf00569e",
@@ -206,17 +216,6 @@
    "img": null
   },
   {
-   "id": "83667547c1",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.",
-   "link": "https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html",
-   "ts": 1794698709,
-   "summary": "Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.",
-   "img": "https://static01.nyt.com/images/2026/11/13/multimedia/BIZ-JENSEN-CRASH-1-01-ljmc/BIZ-JENSEN-CRASH-1-01-ljmc-mediumSquareAt3X-v3.jpg"
-  },
-  {
    "id": "7e59a67d80",
    "src": "The Verge",
    "lang": "EN",
@@ -228,6 +227,17 @@
    "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/52822624215_2e5d62e50a_o.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
+   "id": "a4a92fbcda",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+   "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "ts": 1794692482,
+   "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+   "img": null
+  },
+  {
    "id": "0c6eb5aa3c",
    "src": "Brazil Journal",
    "lang": "PT",
@@ -237,8 +247,8 @@
    "ts": 1794692280,
    "summary": "Vinte anos atrás, logo após fazer o IPO de seu conjunto de usinas de açúcar e etanol, Rubens Ometto contratou Marcelo Martins – um jovem banqueiro com passagens pelo Citi, UBS, BankBoston e como CFO da Votorantim Cimentos – para comandar as finanças da Cosan. Nos anos seguintes, a dupla embarcou em uma série de M&As, captações e IPOs que transformaram a companhia de Piracicaba na maior holding de ",
    "img": "https://codex-braziljournal.codexcdn.net/assets/asjhLlo6ofZTWtwq6.jpg",
-   "title_en": "At Cosan, a right hand turns the page",
-   "excerpt_en": "Marcelo Martins, longtime CFO, departs company after 20 years since IPO of sugar and ethanol mills."
+   "title_en": "At Cosan, right-hand man turns the page",
+   "excerpt_en": "Marcelo Martins, veteran banker and CFO, departs Cosan after two decades following sugar and ethanol IPO."
   },
   {
    "id": "07151e1865",
@@ -252,28 +262,6 @@
    "img": "https://static01.nyt.com/images/2026/11/14/multimedia/14biz-jensen-support-Huang-vpjh/14biz-jensen-support-Huang-vpjh-mediumSquareAt3X.jpg"
   },
   {
-   "id": "075bbfb634",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "ts": 1794674055,
-   "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
-   "img": null
-  },
-  {
-   "id": "5a77154cdc",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Anthropic IPO Tests Investor Appetite for AI",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-14/anthropic-ipo-tests-investor-appetite-for-ai-video",
-   "ts": 1794671679,
-   "summary": "Bloomberg Technology co-host Ed Ludlow tells Bloomberg This Weekend why Anthropic’s upcoming IPO could be a major test of investor appetite for AI, with the offering heavily oversubscribed and poised to follow SpaceX’s blockbuster debut. Speaking with hosts David Gura and Christina Ruffini, Ludlow also explains how Nvidia and Jensen Huang’s departure loom over the offering, given Nvidia’s planned ",
-   "img": null
-  },
-  {
    "id": "6e22a2eb49",
    "src": "DatacenterDynamics",
    "lang": "EN",
@@ -285,17 +273,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/foto-data-center-competence-rechen.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "fcc2e31964",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Microsoft’s Global Outage and Fixes: What We Know",
-   "link": "https://www.nytimes.com/2026/11/13/technology/microsoft-outage-what-to-know.html",
-   "ts": 1794662155,
-   "summary": "Disruptions to the company’s email, messaging and other products lasted about 36 hours, hampering companies and services around the world.",
-   "img": "https://static01.nyt.com/images/2026/11/13/multimedia/13xp-microsoftWWK-1-lfcv/13xp-microsoftWWK-1-lfcv-mediumSquareAt3X.jpg"
-  },
-  {
    "id": "c12f98e809",
    "src": "NeoFeed",
    "lang": "PT",
@@ -305,8 +282,8 @@
    "ts": 1794656810,
    "summary": "Depois de revisitar as transformações que mudaram o mercado financeiro brasileiro nos últimos 25 anos, Circuit Breaker chega ao quinto e último episódio com um olhar para o futuro. A produção da NeoFeed Produções mostra como a inteligência artificial, os ativos digitais e uma nova geração de investidores devem redesenhar a indústria financeira nas próximas […] O post Circuit Breaker: como a IA, os",
    "img": "https://neofeed.com.br/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-17.25.30-1-300x169.jpeg",
-   "title_en": "Circuit Breaker: AI, cryptocurrencies and internationalization defining financial market future",
-   "excerpt_en": "NeoFeed production examines how AI, crypto and expansion will shape Brazil's financial market."
+   "title_en": "Circuit Breaker: how AI, crypto, and internationalization will define financial market's future",
+   "excerpt_en": "Final episode examines AI, cryptoassets, and internationalization shaping Brazil's financial market evolution."
   },
   {
    "id": "aa98b86cc3",
@@ -351,67 +328,6 @@
    "ts": 1794647198,
    "summary": "EXA Infrastructure IT International Telecom EXA Meridian Marine Installation Transatlantic Subsea Cable The strategic partnership between EXA Infrastructure and IT International Telecom Inc. (IT) for the deployment of EXA Meridian pairs one of the largest transatlantic terrestrial and subsea digital infrastructure platforms with one of North America’s foremost independent marine installation contr",
    "img": null
-  },
-  {
-   "id": "e51ed4176f",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Humain raises $667m for AI buildout in Saudi Arabia",
-   "link": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
-   "ts": 1794639648,
-   "summary": "Funding secured alongside the National Infrastructure Fund",
-   "img": "https://media.datacenterdynamics.com/media/images/Infra-new.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "0e89ea75ca",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "NTT Docomo to pilot data center heat-reuse for on-shore shrimp farm in Japan",
-   "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
-   "ts": 1794632442,
-   "summary": "Part of Tokyo city initiative to find uses for data center heat",
-   "img": "https://media.datacenterdynamics.com/media/images/NTT_docomo_shrimp_farm_-_Tokyo_Gov.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "08053b1f9e",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Nu llega a 143 millones de clientes en el tercer trimestre",
-   "link": "https://dplnews.com/nu-143-millones-de-clientes/",
-   "ts": 1794618513,
-   "summary": "El banco Nu obtuvo una utilidad neta récord de 1,100 millones de dólares en el tercer trimestre de 2026.",
-   "img": "https://dplnews.com/wp-content/uploads/2024/02/dplnewsNuMexicoCredito_rp13022024-scaled.jpg",
-   "title_en": "Nu reaches 143 million customers in third quarter",
-   "excerpt_en": "Nu bank achieved record net profit of $1.1 billion in Q3 2026."
-  },
-  {
-   "id": "552732b3a7",
-   "src": "DPL News",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Marinha e Motorola Solutions vão testar rede Mesh para comunicação com navios e drones",
-   "link": "https://dplnews.com/marinha-motorola-solutions-testar-rede-mesh/",
-   "ts": 1794616033,
-   "summary": "A Marinha do Brasil e a Motorola Solutions assinaram um memorando de entendimento para desenvolver requisitos e avaliar uma rede sem fio Mesh/MANET voltada às operações navais e à comunicação com veículos não tripulados. A parceria prevê uma prova de conceito em ambiente marítimo, com testes esperados durante o exercício ARAMUSS-2027. O acordo tem vigência […]",
-   "img": "https://dplnews.com/wp-content/uploads/2024/06/dplnews-marinha-brasil_mf4624.webp",
-   "title_en": "Brazil Navy and Motorola Solutions test Mesh network for ship and drone communications",
-   "excerpt_en": "Brazil Navy and Motorola will evaluate wireless Mesh network for naval operations during ARAMUSS-2027."
-  },
-  {
-   "id": "1124bf1663",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Amar Babu asumirá dirección de Motorola y del negocio móvil de Lenovo",
-   "link": "https://dplnews.com/amar-babu-asumira-direccion-motorola-lenovo/",
-   "ts": 1794613071,
-   "summary": "El actual presidente de Lenovo Asia Pacífico asumirá el cargo el 1 de enero de 2027, con el objetivo de impulsar el segmento premium y fortalecer la presencia de Motorola.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/image-9.jpeg",
-   "title_en": "Amar Babu assumes Motorola and Lenovo mobile business leadership",
-   "excerpt_en": "Current Lenovo Asia Pacific president takes office January 1, 2027 to strengthen Motorola's premium segment."
   }
  ]
 }
