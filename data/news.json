@@ -1,45 +1,129 @@
 {
- "updated_utc": "2026-11-21T11:26:23Z",
- "edition": "07:00",
+ "updated_utc": "2026-11-21T20:09:25Z",
+ "edition": "17:00",
  "translated": true,
  "chart": {
-  "title": "GTA VI shatters entertainment records in first day",
-  "value": "$3.79 billion",
+  "title": "Taiwan stock index posts worst weekly fall in 35 years",
+  "value": "35 years",
   "total": "",
-  "value_label": "first-day sales",
+  "value_label": "worst fall since",
   "total_label": "",
-  "id": "4b3f595fab"
+  "id": "39bdc832a2"
  },
  "numbers": [
   {
-   "value": "€9.55 million",
-   "label": "EU Baltic subsea cable repair funding",
-   "id": "01f4d23249"
+   "value": "26,000",
+   "label": "private industrial 5G networks built in China",
+   "id": "0b66ab05bf"
   },
   {
-   "value": "~$205 million",
-   "label": "Trans Americas Fiber refinancing",
+   "value": "316.7-acre",
+   "label": "Microsoft data center campus in Virginia",
+   "id": "5e7c1ca4d1"
+  },
+  {
+   "value": "$205 million",
+   "label": "Trans Americas Fiber debt refinancing",
    "id": "618f23dd8a"
   },
   {
-   "value": "$3.68 billion",
-   "label": "Bending Spoons Mailchimp acquisition",
-   "id": "2ede9796eb"
+   "value": "$240 million",
+   "label": "Harbinger Series D funding round",
+   "id": "264c5c0712"
   }
  ],
  "items": [
   {
-   "id": "42ee2d3f28",
+   "id": "dd8cf27d89",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Crowdstrike’s Talks With Zscaler Show AI-Led Cyber Consolidation",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+   "ts": 1795287744,
+   "summary": "A wave of multibillion-dollar takeovers is reshaping the cybersecurity industry as the biggest companies race to expand their defenses against increasingly sophisticated attacks powered by artificial intelligence.",
+   "img": null
+  },
+  {
+   "id": "ec64a1e8c3",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Amazon closes in on $7.5bn deal to buy AI start-up Decart",
+   "link": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616?syn-25a6b1a6=1",
+   "ts": 1795281696,
+   "summary": "Acquisition would help AWS compete with Nvidia in race for computing power",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa13a147e-b41e-446b-98ce-5ad0d9cdb430.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "aa1009c052",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+   "ts": 1795281083,
+   "summary": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
+   "img": null
+  },
+  {
+   "id": "149cf7e3a7",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Alice Huang’s links to the chip underworld",
+   "link": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9?syn-25a6b1a6=1",
+   "ts": 1795280410,
+   "summary": "Chinese executive in romantic relationship with former Nvidia CEO Jensen Huang had connections to the lucrative trade moving chips to China",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6fe93de-200b-4cfe-af71-0a7f3370247b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "7639d8af2e",
    "src": "Cinco Días",
    "lang": "ES",
    "sec": "latam",
-   "title": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
-   "link": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
-   "ts": 1795257152,
-   "summary": "Sánchez anuncia la extensión del gravamen durante 2027, con una recaudación prevista de 1.400 millones",
-   "img": "https://imagenes.elpais.com/resizer/v2/JCL4Q2E6E72J7AI5GXUDIYNH3A.jpg?auth=9e12fabd2a0a04e44d8e4fb12b1207f7be0581ee53b4f0d9c7e90605201e669a",
-   "title_en": "Spanish government extends bank tax one more year for housing",
-   "excerpt_en": "Sánchez announces tax extension for 2027 with expected revenue of €1.4 billion."
+   "title": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+   "link": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+   "ts": 1795264845,
+   "summary": "Costa propone nuevos impuestos europeos para recaudar 60.000 millones al año y amortiguar los recortes de unas cuentas ya poco ambiciosas",
+   "img": "https://imagenes.elpais.com/resizer/v2/6BIZQBAOXZIKRO6BAUUR2UIWQA.jpg?auth=9cbf6424a537eb6bc7c7c425a2e116a050027670d7b9455a0b78f71da01f25af",
+   "title_en": "EU proposes digital tax to finance next budget and reduce cuts",
+   "excerpt_en": "Costa proposes new European taxes to raise 60 billion annually, cushioning budget cuts already lacking ambition."
+  },
+  {
+   "id": "264c5c0712",
+   "src": "The Verge",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+   "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+   "ts": 1795262400,
+   "summary": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million order from FedEx and a new defense contract with the US military. Harbinger is stacking up […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gang-shot-7.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
+  },
+  {
+   "id": "acfb35e15f",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Chema Alonso, el ‘ex hacker’ de Telefónica, ficha por Meta (Facebook) y abandona Cloudflare",
+   "link": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
+   "ts": 1795260502,
+   "summary": "El directivo se incorpora como vicepresidente de Gestión de Producto de la compañía de Zuckerberg tras año y medio en la compañía enemiga de la LaLiga",
+   "img": "https://imagenes.elpais.com/resizer/v2/GGLE6CADQZCN3GMBW3FAON7UWU.png?auth=af88fb2b5a975ce33b50291398128a4984a1081e91a2383670de7acabc457674",
+   "title_en": "Chema Alonso, Telefónica's former hacker, joins Meta and exits Cloudflare",
+   "excerpt_en": "Executive joins as VP of product management after 18 months with Cloudflare as the LaLiga enemy."
+  },
+  {
+   "id": "b91d4c59f4",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+   "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+   "ts": 1795258828,
+   "summary": "Demonstrating compliance is what turns it into power",
+   "img": "https://media.datacenterdynamics.com/media/images/Daniel_Mullen_headshot.115eec91.fill-750x500.jpg"
   },
   {
    "id": "aa2df91a07",
@@ -59,20 +143,9 @@
    "sec": "tech",
    "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
    "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
-   "ts": 1795255329,
+   "ts": 1795255330,
    "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
    "img": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg"
-  },
-  {
-   "id": "18aee6fef5",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "How AI Is Reshaping China's Industrial Policy",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
-   "ts": 1795252337,
-   "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the govern",
-   "img": null
   },
   {
    "id": "39bdc832a2",
@@ -97,28 +170,6 @@
    "img": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg"
   },
   {
-   "id": "d2ef14e643",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
-   "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
-   "ts": 1795237235,
-   "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b8ebb64-44e4-47bd-a715-b91a160b942a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "9db7b9b768",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
-   "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
-   "ts": 1795237226,
-   "summary": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89f61703-abb6-42c6-8046-92cc485967fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
    "id": "accaacdca5",
    "src": "Financial Times",
    "lang": "EN",
@@ -130,19 +181,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbec13cf7-7bf7-4acf-8240-7f1ba329d078.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "d9bb8de705",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Guía práctica para sobrevivir a un fallo tecnológico",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-21/guia-practica-para-sobrevivir-a-un-fallo-tecnologico.html",
-   "ts": 1795236360,
-   "summary": "Las caídas de servicios se acumulan y van a ir a más. Estas son las claves para que el negocio siga a flote",
-   "img": "https://imagenes.elpais.com/resizer/v2/MLTE6F4D6VODNF56XTJILI2C5I.jpg?auth=4eb84ad8cb28714f69f3753a2e97e7e7415127c87449f6104a3e635be8f6c5f8",
-   "title_en": "Practical guide to surviving tech outages",
-   "excerpt_en": "Service outages are accumulating and will increase, here are keys to keep business running."
-  },
-  {
    "id": "9c67a9cf5a",
    "src": "Cinco Días",
    "lang": "ES",
@@ -152,8 +190,8 @@
    "ts": 1795236000,
    "summary": "Los amores clandestinos de Huang no son el mayor de los problemas de un sector que creyó que valía todo. Anthropic se estrenó en la víspera de un viernes negro",
    "img": "https://imagenes.elpais.com/resizer/v2/GZCKZQIDWFAPHAHXHHH6AK3SZU.jpg?auth=79ac59602a5908a37ce5cc55a9b8a0aca657fa1a6ec305b4ea8c78de0a930dda",
-   "title_en": "Nvidia sexual scandal exposes AI industry weaknesses",
-   "excerpt_en": "Huang's secret relationship reveals problems in an AI sector that believed anything goes."
+   "title_en": "Sexual scandal at Nvidia bares weak points across AI industry",
+   "excerpt_en": "Huang's secret love affairs not industry's biggest problem as Anthropic debuts on AI stock market meltdown."
   },
   {
    "id": "4e92847c62",
@@ -165,8 +203,8 @@
    "ts": 1795235401,
    "summary": "Los inversores no renuncian a su fe en la tecnología pese a las crecientes dudas y aconsejan seguir en renta variable, asumiendo más volatilidad y beneficios más modestos. Los últimos recortes dejan oportunidades de compra",
    "img": "https://imagenes.elpais.com/resizer/v2/QCSMP3TBVJKQ3JJT3Z63D3UEAM.jpg?auth=a0c0b7c00600f9f4cfbff35c0e55ed06f59c999fa96f742d9ed906e9dea15095",
-   "title_en": "AI dilemma: buying cheaper stocks or protecting portfolios before year-end",
-   "excerpt_en": "Investors refuse to give up faith in technology despite doubts, advise staying in equities."
+   "title_en": "AI dilemma worsens: seize cheaper stocks or protect portfolio before year end",
+   "excerpt_en": "Investors don't renounce AI faith despite rising doubts, advising to stay in equities, assuming more volatility."
   },
   {
    "id": "fc7eb5fd8f",
@@ -178,8 +216,8 @@
    "ts": 1795234500,
    "summary": "La compañía quiere repetir el éxito de exportación de su antecesora, la F-100, que se vendió a Noruega y Australia",
    "img": "https://imagenes.elpais.com/resizer/v2/JYFBYZZ56ZPQPKNDRUCXS5IGUU.jpg?auth=453ca873b1976354fca5e1e39950400e1cb0c265ed49a1633f948d38bf4a2c60",
-   "title_en": "Navantia seeks international clients for F-110 frigate",
-   "excerpt_en": "Spanish company pursues exports to Belgium, Denmark, USA and Middle East."
+   "title_en": "Navantia seeks international clients in Belgium, Denmark, US and Middle East for new F-110 frigate",
+   "excerpt_en": "Company wants to repeat export success of its predecessor F-100 sold to Norway and Australia."
   },
   {
    "id": "336d918322",
@@ -191,19 +229,8 @@
    "ts": 1795234500,
    "summary": "Empresas como Casa Tarradellas, COVAP o Importaco han doblado su tamaño en los últimos 10 años gracias a su alianza con la compañía de supermercados",
    "img": "https://imagenes.elpais.com/resizer/v2/J4NRIXIK55DBZOLNDVU7Z4S4C4.png?auth=6204658cc8a72a9e01ba3554a71f6c2b580a71bc4cc9712743db36ac04050ec1",
-   "title_en": "Mercadona growth lifts seven major manufacturers above 1 billion euros",
-   "excerpt_en": "Companies like Casa Tarradellas and COVAP doubled in size over ten years."
-  },
-  {
-   "id": "b05c36fbb6",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
-   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
-   "ts": 1795213704,
-   "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg"
+   "title_en": "Mercadona's growth drives seven major manufacturers above 1 billion euros in sales",
+   "excerpt_en": "Companies like Casa Tarradellas, COVAP and Importaco doubled size in ten years through Mercadona alliance."
   },
   {
    "id": "448352dfcd",
@@ -217,17 +244,6 @@
    "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf26ff22-c752-49fe-a473-f5dff8994952.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
-   "id": "6eb83dcfe6",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
-   "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
-   "ts": 1795211545,
-   "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
    "id": "c4b0222f29",
    "src": "Ars Technica",
    "lang": "EN",
@@ -237,28 +253,6 @@
    "ts": 1795211230,
    "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
    "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg"
-  },
-  {
-   "id": "99727b65c2",
-   "src": "Ars Technica",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-   "ts": 1795208348,
-   "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
-   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
-  },
-  {
-   "id": "9efc52d1f8",
-   "src": "The Verge",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
-   "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
-   "ts": 1795207432,
-   "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
-   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "63630b509b",
@@ -281,18 +275,29 @@
    "ts": 1795205027,
    "summary": "Anthropic captó 119,500 mdd entre su OPI y una colocación privada con Microsoft, Google y Nvidia, pero sus acciones retrocedieron en su segundo día de cotización.",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/image-28.png",
-   "title_en": "Anthropic raises $91.6B in IPO but shares fall after debut",
-   "excerpt_en": "Anthropic raised $119.5B between IPO and private placement but shares retreated."
+   "title_en": "Anthropic raises 91.6 billion in IPO, but shares fall after debut",
+   "excerpt_en": "Anthropic raised 119.5 billion between IPO and private placement with Microsoft, Google and Nvidia, then fell."
   },
   {
-   "id": "4c984ae277",
-   "src": "RCR Wireless",
+   "id": "340614cb1d",
+   "src": "TechCrunch",
    "lang": "EN",
-   "sec": "telecom",
-   "title": "Private 5G is scaling, but Wi-Fi isn’t going anywhere",
-   "link": "https://rcrwireless.com/20261120/5g/private-5g-scale-alongside-wifi",
-   "ts": 1795202423,
-   "summary": "Devices, CBRS support and carrier approvals still hold back private 5G In sum – what to know: Private 5G is moving beyond pilots and into requests for proposals, industrial campuses…",
+   "sec": "tech",
+   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+   "ts": 1795204421,
+   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+   "img": null
+  },
+  {
+   "id": "388977f644",
+   "src": "TechCrunch",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Super-hot rock geothermal could end data center energy woes",
+   "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+   "ts": 1795199640,
+   "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
    "img": null
   },
   {
@@ -351,17 +356,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/Screenshot_2024-08-07_123316.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "498f09a2a9",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Lambda deploys Nvidia Photonics switches at QScale data center",
-   "link": "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
-   "ts": 1795190400,
-   "summary": "Deployment in Quebec, Canada, now sports co-packaged optics switches",
-   "img": "https://media.datacenterdynamics.com/media/images/qscale_q01.2e16d0ba.fill-750x500.png"
-  },
-  {
    "id": "4c2e7c8ec7",
    "src": "Light Reading",
    "lang": "EN",
@@ -371,6 +365,39 @@
    "ts": 1795183602,
    "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltf09bca876804f230/68069de33356155de40c3453/FCC_Meeting_Room_Dais-CMR.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "6948686f72",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Eurobites: VMO2 soups up its 'social' broadband packages",
+   "link": "https://www.lightreading.com/sustainability/eurobites-vmo2-soups-up-its-social-broadband-packages",
+   "ts": 1795180934,
+   "summary": "Also in today's EMEA regional roundup: Connect Fibre half-done in Derbyshire; Orange wants to make connectivity safer for kids; BBC benefits from YouTube exposure.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt2ba933c855ae9891/6b0045b204ae64f585f45473/virgin_media_O2_logo_(sourceMaureen_McLeanAlamy_Stock_Photo).jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "5ecf5b0152",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "The Buildout: WOW goes wide in Georgia",
+   "link": "https://www.lightreading.com/broadband/the-buildout-wow-goes-wide-in-georgia",
+   "ts": 1795179600,
+   "summary": "This week in broadband builds: WOW makes $50 million investment in Columbus, Georgia; Spectrum's rural reach grows in Kentucky, Michigan, Tennessee; GoNetspeed kicks off in Newport, Rhode Island – and more.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt7166575a8d453ecb/6a0ef66690a5c101eb66cdef/RF-fiber-construction-FOR-BUILDOUT.jpg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "92bc9bcbf3",
+   "src": "RCR Wireless",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Telecom’s AI challenge: From agentic AI ambitions to safer networks",
+   "link": "https://rcrwireless.com/20261120/sponsored/telecom-ai-networks",
+   "ts": 1795175516,
+   "summary": "Following Telco Days 2026, Software Mind’s annual conference focused on the practical implications of agentic artificial intelligence and network security, the discussion among telecom industry participants is increasingly centered on…",
+   "img": null
   },
   {
    "id": "c803e39379",
@@ -393,67 +420,6 @@
    "ts": 1795165420,
    "summary": "Orange ReuNION Cable La Réunion to South Africa Indian Ocean ReuNION Singapore Extension Orange and its consortium partners have commenced marine surveys for the first phase of the ReuNION ( Réunion New Indian Ocean Network ) submarine cable linking La Réunion to South Africa, while inviting strategic co-investors to fund a second-phase extension eastward across the Indian Ocean to Singapore.",
    "img": null
-  },
-  {
-   "id": "01f4d23249",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "EU Awards €9.55 Million to Build Rapid Baltic Subsea Cable Repair Capacity",
-   "link": "https://www.submarinenetworks.com/en/nv/insights/eu-awards-%E2%82%AC9-55-million-to-build-rapid-baltic-subsea-cable-repair-capacity",
-   "ts": 1795164475,
-   "summary": "EU CEF Digital Project Merikarhu Baltic Sea Subsea Cable Repair Critical Undersea Infrastructure The European Health and Digital Executive Agency (HaDEA) has signed a €9.55 million Connecting Europe Facility (CEF Digital) grant agreement with Project Merikarhu (“Sea Bear”), a Finnish-led trilateral initiative with Sweden and Estonia to establish state-backed emergency repair capacity for submarine",
-   "img": null
-  },
-  {
-   "id": "618f23dd8a",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Trans Americas Fiber Completes ~$205 Million Refinancing Anchored by Beach Point Capital",
-   "link": "https://www.submarinenetworks.com/en/systems/brazil-us/tam-1/tafs-completes-usd-205-million-refinancing",
-   "ts": 1795163917,
-   "summary": "Trans Americas Fiber TAM-1 Subsea Cable Beach Point Capital Infrastructure Finance Latin America Trans Americas Fiber System (TAFS) has closed an approximately $205 million debt refinancing transaction anchored by a $135 million senior secured term loan from funds managed by Beach Point Capital Management , optimizing its balance sheet as the flagship TAM-1 submarine cable transitions into commerc",
-   "img": null
-  },
-  {
-   "id": "d921ce5393",
-   "src": "Mobile Time",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "TikTok lança ferramentas de segurança e controle de IA",
-   "link": "https://www.mobiletime.com.br/noticias/20/11/2026/tiktok-controle-de-ia/",
-   "ts": 1795150827,
-   "summary": "Novidades incluem verificação de conteúdos gerados por inteligência artificial, proteção contra uso indevido de imagem e novos recursos de controle parental",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-seguranca2RDZ-300x169.jpg",
-   "title_en": "TikTok launches AI safety and control tools",
-   "excerpt_en": "New features include AI-generated content verification and parental controls."
-  },
-  {
-   "id": "e64c816feb",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Projetos de postes e Fust avançam e vão à sanção presidencial",
-   "link": "https://teletime.com.br/19/11/2026/projetos_vao_a_sancao/",
-   "ts": 1795135168,
-   "summary": "Senado envia regras de compartilhamento de postes e descontingenciamento do Fust à sanção; Câmara debate ajuste fiscal, tributação digital, robocalls e atendimento ao consumidor.",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/07/Copia-de-Design-sem-nome-2-534x462.webp",
-   "title_en": "Pole-sharing and Fust projects advance to presidential approval",
-   "excerpt_en": "Senate sends pole-sharing rules and Fust decontingency to presidential approval."
-  },
-  {
-   "id": "98816de7d1",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Vivo recebe certificação por uso de IA que reduz consumo de energia",
-   "link": "https://teletime.com.br/19/11/2026/vivo-recebe-certificacao-por-uso-de-ia-que-reduz-consumo-de-energia/",
-   "ts": 1795133747,
-   "summary": "O projeto foi implementado em cerca de 10 mil células 4G e 5G de Brasília proporcionando uma redução aproximada de 10% no consumo de energia dos equipamentos avaliados. Vivo conquistou a certificação Autonomous Networks Level 4 (ANL4), do TM Forum, por conta da iniciativa",
-   "img": "https://teletime.com.br/wp-content/uploads/2021/06/radio-tower-2495325_1920-534x462.jpeg",
-   "title_en": "Vivo certified for AI use reducing energy consumption",
-   "excerpt_en": "AI implementation in 10,000 cells achieved 10% energy reduction in equipment."
   }
  ]
 }
