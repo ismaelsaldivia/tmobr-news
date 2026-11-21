@@ -1,95 +1,264 @@
 {
- "updated_utc": "2026-11-20T21:15:57Z",
- "edition": "17:00",
+ "updated_utc": "2026-11-21T11:26:23Z",
+ "edition": "07:00",
  "translated": true,
- "chart": null,
+ "chart": {
+  "title": "GTA VI shatters entertainment records in first day",
+  "value": "$3.79 billion",
+  "total": "",
+  "value_label": "first-day sales",
+  "total_label": "",
+  "id": "4b3f595fab"
+ },
  "numbers": [
   {
-   "value": "$75 billion",
-   "label": "Cognition AI funding round valuation",
-   "id": "381edecba3"
+   "value": "€9.55 million",
+   "label": "EU Baltic subsea cable repair funding",
+   "id": "01f4d23249"
   },
   {
-   "value": "316.7-acre",
-   "label": "Microsoft data center campus size in Virginia",
-   "id": "5e7c1ca4d1"
+   "value": "~$205 million",
+   "label": "Trans Americas Fiber refinancing",
+   "id": "618f23dd8a"
   },
   {
-   "value": "50 MW",
-   "label": "Superhot geothermal capacity for Google Oregon",
-   "id": "63ac21fd96"
+   "value": "$3.68 billion",
+   "label": "Bending Spoons Mailchimp acquisition",
+   "id": "2ede9796eb"
   }
  ],
  "items": [
   {
-   "id": "775145ec3a",
-   "src": "DPL News",
+   "id": "42ee2d3f28",
+   "src": "Cinco Días",
    "lang": "ES",
    "sec": "latam",
-   "title": "FCC habilita espectro para conectar barcos, aviones y drones",
-   "link": "https://dplnews.com/fcc-habilita-espectro-barcos-aviones-drones/",
-   "ts": 1795208429,
-   "summary": "La FCC habilitó frecuencias para ampliar la conectividad satelital en movimiento, modernizar las comunicaciones aéreas y detectar drones no autorizados.",
-   "img": "https://dplnews.com/wp-content/uploads/2023/06/dplnews_Aaviones_sd_300623.png",
-   "title_en": "FCC Opens Spectrum for Connected Aircraft, Ships, and Drones",
-   "excerpt_en": "FCC enabled frequencies to expand satellite connectivity in motion and detect unauthorized drones."
+   "title": "El Gobierno prorrogará el impuesto a la banca un año más para financiar políticas de vivienda",
+   "link": "https://elpais.com/economia/2026-11-21/el-gobierno-prorrogara-el-impuesto-a-la-banca-un-ano-mas-para-financiar-politicas-de-vivienda.html",
+   "ts": 1795257152,
+   "summary": "Sánchez anuncia la extensión del gravamen durante 2027, con una recaudación prevista de 1.400 millones",
+   "img": "https://imagenes.elpais.com/resizer/v2/JCL4Q2E6E72J7AI5GXUDIYNH3A.jpg?auth=9e12fabd2a0a04e44d8e4fb12b1207f7be0581ee53b4f0d9c7e90605201e669a",
+   "title_en": "Spanish government extends bank tax one more year for housing",
+   "excerpt_en": "Sánchez announces tax extension for 2027 with expected revenue of €1.4 billion."
+  },
+  {
+   "id": "aa2df91a07",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "China Plans to Strengthen AI Token Standards in Computing Push",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/china-plans-to-strengthen-ai-token-standards-in-computing-push",
+   "ts": 1795255889,
+   "summary": "China’s National Data Administration will improve standards on the measurement and billing of artificial intelligence tokens and quality assessment, as Beijing guides the development of the growing industry.",
+   "img": null
+  },
+  {
+   "id": "1f5d23fc0c",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "A New Era of A.I.-Driven Chaos? That Might Just Be Progress.",
+   "link": "https://www.nytimes.com/2026/11/21/science/outages-tech-history.html",
+   "ts": 1795255329,
+   "summary": "If artificial intelligence is giving rise to outages, cyberattacks and more, it’s consistent with history, in that it shows how new innovations often set off calamitous failure before they make life better.",
+   "img": "https://static01.nyt.com/images/2026/11/22/multimedia/22sci-failure-top1-kgbl/22sci-failure-top1-kgbl-mediumSquareAt3X-v4.jpg"
+  },
+  {
+   "id": "18aee6fef5",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "How AI Is Reshaping China's Industrial Policy",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-21/how-ai-is-reshaping-china-s-industrial-policy-video",
+   "ts": 1795252337,
+   "summary": "Can Chinese tech companies help the country achieve technological self-reliance while keeping up in the AI arms race? On this episode, we speak with Kyle Chan, a fellow at the Brookings Institution’s John L. Thornton China Center and author of the High Capacity newsletter, about Beijing’s response to the global AI boom and the tensions between Chinese companies’ commercial ambitions and the govern",
+   "img": null
+  },
+  {
+   "id": "39bdc832a2",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Taiwan Widens Short Sale Curbs After Shares Plunge on AI Concern",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+   "ts": 1795247601,
+   "summary": "Taiwan widened curbs on short sales of local stocks and said it has been buying shares, stepping up efforts to revive confidence after the island’s benchmark index had its worst weekly fall in 35 years.",
+   "img": null
+  },
+  {
+   "id": "a7362ff86a",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Alice Huang, Accused of Spying on Nvidia’s CEO, Is Linked to Firms With Ties to China’s Military",
+   "link": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+   "ts": 1795237983,
+   "summary": "Companies linked to Alice Huang, the woman at the heart of the Nvidia scandal, are part of a network of Chinese tech firms and defense contractors that need advanced computing power.",
+   "img": "https://static01.nyt.com/images/2026/11/19/multimedia/19dc-spy-chip-tbpw/19dc-spy-chip-tbpw-mediumSquareAt3X.jpg"
+  },
+  {
+   "id": "d2ef14e643",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Oil shipped through Hormuz falls as Iranian strikes increase",
+   "link": "https://www.ft.com/content/5fbc2b9d-0360-4a1f-9e4a-3e86168cbbc5?syn-25a6b1a6=1",
+   "ts": 1795237235,
+   "summary": "Recovery in Middle Eastern crude exports looks ‘increasingly fragile’, analyst says",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2b8ebb64-44e4-47bd-a715-b91a160b942a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "9db7b9b768",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "CVC claims accounting manipulation in €3bn Advent pastry ingredients deal",
+   "link": "https://www.ft.com/content/06999b01-07f1-44a1-8eab-a5d5e7ecd70f?syn-25a6b1a6=1",
+   "ts": 1795237226,
+   "summary": "US firm denies allegations that Irca’s financial performance was overstated before it agreed to sell Italian business",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F89f61703-abb6-42c6-8046-92cc485967fe.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "accaacdca5",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "The AI cyber threat is already here",
+   "link": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?syn-25a6b1a6=1",
+   "ts": 1795237216,
+   "summary": "The freezer war is just a start",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbec13cf7-7bf7-4acf-8240-7f1ba329d078.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "d9bb8de705",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Guía práctica para sobrevivir a un fallo tecnológico",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/guia-practica-para-sobrevivir-a-un-fallo-tecnologico.html",
+   "ts": 1795236360,
+   "summary": "Las caídas de servicios se acumulan y van a ir a más. Estas son las claves para que el negocio siga a flote",
+   "img": "https://imagenes.elpais.com/resizer/v2/MLTE6F4D6VODNF56XTJILI2C5I.jpg?auth=4eb84ad8cb28714f69f3753a2e97e7e7415127c87449f6104a3e635be8f6c5f8",
+   "title_en": "Practical guide to surviving tech outages",
+   "excerpt_en": "Service outages are accumulating and will increase, here are keys to keep business running."
+  },
+  {
+   "id": "9c67a9cf5a",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El escándalo sexual en Nvidia desnuda los puntos flacos de toda la industria de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/vale-todo-en-la-industria-de-la-ia-los-amorios-de-huang-no-son-el-unico-problema-de-nvidia.html",
+   "ts": 1795236000,
+   "summary": "Los amores clandestinos de Huang no son el mayor de los problemas de un sector que creyó que valía todo. Anthropic se estrenó en la víspera de un viernes negro",
+   "img": "https://imagenes.elpais.com/resizer/v2/GZCKZQIDWFAPHAHXHHH6AK3SZU.jpg?auth=79ac59602a5908a37ce5cc55a9b8a0aca657fa1a6ec305b4ea8c78de0a930dda",
+   "title_en": "Nvidia sexual scandal exposes AI industry weaknesses",
+   "excerpt_en": "Huang's secret relationship reveals problems in an AI sector that believed anything goes."
+  },
+  {
+   "id": "4e92847c62",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El dilema que agrava la IA: aprovechar una Bolsa más barata o proteger la cartera antes de fin de año",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-21/el-dilema-que-agrava-la-ia-aprovechar-una-bolsa-mas-barata-o-proteger-la-cartera-antes-de-fin-de-ano.html",
+   "ts": 1795235401,
+   "summary": "Los inversores no renuncian a su fe en la tecnología pese a las crecientes dudas y aconsejan seguir en renta variable, asumiendo más volatilidad y beneficios más modestos. Los últimos recortes dejan oportunidades de compra",
+   "img": "https://imagenes.elpais.com/resizer/v2/QCSMP3TBVJKQ3JJT3Z63D3UEAM.jpg?auth=a0c0b7c00600f9f4cfbff35c0e55ed06f59c999fa96f742d9ed906e9dea15095",
+   "title_en": "AI dilemma: buying cheaper stocks or protecting portfolios before year-end",
+   "excerpt_en": "Investors refuse to give up faith in technology despite doubts, advise staying in equities."
+  },
+  {
+   "id": "fc7eb5fd8f",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "Navantia busca clientes internacionales en Bélgica, Dinamarca, EE UU y Oriente Próximo para su nueva fragata F-110",
+   "link": "https://cincodias.elpais.com/companias/2026-11-21/navantia-busca-clientes-internacionales-en-belgica-dinamarca-ee-uu-y-oriente-proximo-para-su-nueva-fragata-f-110.html",
+   "ts": 1795234500,
+   "summary": "La compañía quiere repetir el éxito de exportación de su antecesora, la F-100, que se vendió a Noruega y Australia",
+   "img": "https://imagenes.elpais.com/resizer/v2/JYFBYZZ56ZPQPKNDRUCXS5IGUU.jpg?auth=453ca873b1976354fca5e1e39950400e1cb0c265ed49a1633f948d38bf4a2c60",
+   "title_en": "Navantia seeks international clients for F-110 frigate",
+   "excerpt_en": "Spanish company pursues exports to Belgium, Denmark, USA and Middle East."
+  },
+  {
+   "id": "336d918322",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "latam",
+   "title": "El crecimiento de Mercadona impulsa a siete grandes fabricantes por encima de los 1.000 millones de euros en ventas",
+   "link": "https://cincodias.elpais.com/companias/2026-11-21/el-crecimiento-de-mercadona-impulsa-a-siete-grandes-fabricantes-por-encima-de-los-1000-millones-de-euros-en-ventas.html",
+   "ts": 1795234500,
+   "summary": "Empresas como Casa Tarradellas, COVAP o Importaco han doblado su tamaño en los últimos 10 años gracias a su alianza con la compañía de supermercados",
+   "img": "https://imagenes.elpais.com/resizer/v2/J4NRIXIK55DBZOLNDVU7Z4S4C4.png?auth=6204658cc8a72a9e01ba3554a71f6c2b580a71bc4cc9712743db36ac04050ec1",
+   "title_en": "Mercadona growth lifts seven major manufacturers above 1 billion euros",
+   "excerpt_en": "Companies like Casa Tarradellas and COVAP doubled in size over ten years."
+  },
+  {
+   "id": "b05c36fbb6",
+   "src": "Ars Technica",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+   "ts": 1795213704,
+   "summary": "FCC preempts state rules that require AT&T to keep offering home phone service.",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/getty-att-logo-1152x648.jpg"
+  },
+  {
+   "id": "448352dfcd",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "Nvidia faces US regulator’s probe into its accounting",
+   "link": "https://www.ft.com/content/9b28ed72-aac4-4291-9734-bf60b66645ab?syn-25a6b1a6=1",
+   "ts": 1795211888,
+   "summary": "Securities and Exchange Commission’s investigation adds to difficulties facing chip group after Jensen Huang’s resignation",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbf26ff22-c752-49fe-a473-f5dff8994952.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "6eb83dcfe6",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "business",
+   "title": "US tech stocks plunge into bear market in worst week since Covid-19 crisis",
+   "link": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?syn-25a6b1a6=1",
+   "ts": 1795211545,
+   "summary": "Shares in Anthropic and Nvidia tumble as fears over the AI spending boom grip Wall Street",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F836b9904-92c4-467e-bf51-d1e08e1b4fbd.png?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "c4b0222f29",
+   "src": "Ars Technica",
+   "lang": "EN",
+   "sec": "tech",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "ts": 1795211230,
+   "summary": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+   "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Meta-El-Paso-data-center-1152x648.jpg"
   },
   {
    "id": "99727b65c2",
    "src": "Ars Technica",
    "lang": "EN",
    "sec": "tech",
-   "title": "A leaky AI supply chain is exposing secret user data at an alarming rate",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
    "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
    "ts": 1795208348,
    "summary": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
    "img": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-1152x648.jpg"
   },
   {
-   "id": "bf871e2f84",
-   "src": "Bloomberg",
+   "id": "9efc52d1f8",
+   "src": "The Verge",
    "lang": "EN",
-   "sec": "business",
-   "title": "JPMorgan Gets Lowballed Below 80 Cents for Qualtrics Hung Debt",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/jpmorgan-gets-lowballed-below-80-cents-for-qualtrics-hung-debt",
-   "ts": 1795207881,
-   "summary": "JPMorgan Chase & Co. is fielding rock-bottom offers from investors as it weighs a potential debt sale tied to an acquisition by Qualtrics International Inc.",
-   "img": null
-  },
-  {
-   "id": "381edecba3",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Cognition in Talks for $75 Billion Value With New Funding",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
-   "ts": 1795207675,
-   "summary": "Artificial intelligence coding startup Cognition AI Inc. is in funding talks at a $75 billion valuation, just two months after announcing its most recent funding round, according to people familiar with the matter.",
-   "img": null
-  },
-  {
-   "id": "5e07389467",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Starlink amplía su acceso al espectro satelital en Brasil",
-   "link": "https://dplnews.com/starlink-amplia-espectro-satelital-brasil/",
-   "ts": 1795206441,
-   "summary": "La Anatel autorizó nueve nuevas subbandas en frecuencias Ku, Ka y Q/V para ampliar la capacidad satelital de Starlink en Brasil.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/07/Gemini_Generated_Image_vrsf9ovrsf9ovrsf-scaled.png",
-   "title_en": "Starlink Expands Spectrum Access in Brazil with Nine New Subbands",
-   "excerpt_en": "Anatel authorized nine new Ku, Ka, and Q/V frequency subbands to boost Starlink capacity."
-  },
-  {
-   "id": "1046faa675",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Trump considering new Iran strikes as US military warns of strain on forces",
-   "link": "https://www.ft.com/content/2daf570c-189a-4362-a128-828c520b902e",
-   "ts": 1795205989,
-   "summary": "Officials say indefinite deployments and potential budget cuts risk eroding readiness if conflict continues into the new year",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F14bd0d8b-a71f-4179-98fd-99aa51694bce.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "sec": "tech",
+   "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+   "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+   "ts": 1795207432,
+   "summary": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the deal would also include new safeguards for teens. The settlement would allow Google to avoid a wave […]",
+   "img": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STKS526_SOCIAL_MEDIA_TRIAL_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100"
   },
   {
    "id": "63630b509b",
@@ -107,24 +276,13 @@
    "src": "DPL News",
    "lang": "ES",
    "sec": "latam",
-   "title": "Anthropic recauda 91,600 mdd en su OPI, pero sus acciones caen tras su debut",
+   "title": "Anthropic recauda 91,600 mdd en OPI, pero sus acciones caen tras su debut",
    "link": "https://dplnews.com/anthropic-recauda-opi-acciones-caen-tras-debut/",
    "ts": 1795205027,
    "summary": "Anthropic captó 119,500 mdd entre su OPI y una colocación privada con Microsoft, Google y Nvidia, pero sus acciones retrocedieron en su segundo día de cotización.",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/image-28.png",
-   "title_en": "Anthropic Raises $91.6 Billion in IPO, Then Shares Fall in Second Day",
-   "excerpt_en": "Anthropic raised $119.5 billion including private placement, but shares declined after trading debut."
-  },
-  {
-   "id": "340614cb1d",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-   "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-   "ts": 1795204421,
-   "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-   "img": null
+   "title_en": "Anthropic raises $91.6B in IPO but shares fall after debut",
+   "excerpt_en": "Anthropic raised $119.5B between IPO and private placement but shares retreated."
   },
   {
    "id": "4c984ae277",
@@ -138,54 +296,6 @@
    "img": null
   },
   {
-   "id": "c5f57b49f1",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Altán busca en privados el dinero que le falta a la CFE para ampliar su red en zonas remotas",
-   "link": "https://dplnews.com/altan-busca-en-privados-el-dinero-que-le-falta-a-la-cfe-para-ampliar-su-red-en-zonas-remotas/",
-   "ts": 1795201296,
-   "summary": "Expansión La expansión de la Red Compartida ya no dependerá únicamente de la capacidad de inversión de la Comisión Federal de Electricidad (CFE). Ante las restricciones presupuestales de la empresa estatal y las dificultades de Altán Redes para financiar nuevos despliegues, la compañía abrió la puerta a que terceros construyan y operen parte de su […]",
-   "img": "https://dplnews.com/wp-content/uploads/2025/07/dplnews-altan-redes-jb140725.webp",
-   "title_en": "Altán Seeks Private Funding to Extend Mexico's Shared Network in Remote Areas",
-   "excerpt_en": "Red Compartida expansion now depends on private capital due to CFE budget constraints."
-  },
-  {
-   "id": "120ff18d4f",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "Cloud Infrastructure Firm CloudFerro Is Said to Weigh Warsaw IPO",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/cloud-infrastructure-firm-cloudferro-is-said-to-weigh-warsaw-ipo",
-   "ts": 1795200505,
-   "summary": "Polish cloud infrastructure provider CloudFerro SA is considering an initial public offering in Warsaw as soon as next year, according to people familiar with the matter.",
-   "img": null
-  },
-  {
-   "id": "82659f9031",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "Por qué AWS eligió a Chile para instalar su tercera región en América Latina",
-   "link": "https://dplnews.com/por-que-aws-eligio-chile-tercera-region/",
-   "ts": 1795200254,
-   "summary": "Rafael Mattje detalla las ventajas competitivas de Chile y el impacto económico que AWS espera generar con esta inversión.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/07/WhatsApp-Image-2026-07-22-at-15.33.51.jpeg",
-   "title_en": "AWS Selects Chile for Third Latin America Region",
-   "excerpt_en": "AWS chose Chile for its third Latin American region due to competitive advantages and economic impact."
-  },
-  {
-   "id": "388977f644",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Super-hot rock geothermal could end data center energy woes",
-   "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-   "ts": 1795199640,
-   "summary": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-   "img": null
-  },
-  {
    "id": "932f5832b7",
    "src": "Data Center Knowledge",
    "lang": "EN",
@@ -195,28 +305,6 @@
    "ts": 1795198942,
    "summary": "Melbourne now leads Australia’s data center pipeline, but power connections will determine how much capacity actually comes online.",
    "img": "https://eu-images.contentstack.com/v3/assets/blt8eb3cdfc1fce5194/blt3daa3d0c7168c758/6b00920488c9fca2323348c7/Melbourne_Skyline_with_Princes_Bridge_at_Dusk.png?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "0793739563",
-   "src": "TechCrunch",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Chips can survive the space environment — can their financing?",
-   "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-   "ts": 1795196401,
-   "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-   "img": null
-  },
-  {
-   "id": "bde5d897cc",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
-   "title": "Anthropic’s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-   "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-   "ts": 1795194702,
-   "summary": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
-   "img": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-anthropic-employee-wealth-sub-01-cthw/19biz-anthropic-employee-wealth-sub-01-cthw-mediumSquareAt3X.jpg"
   },
   {
    "id": "dafea3bf01",
@@ -241,15 +329,26 @@
    "img": "https://media.datacenterdynamics.com/media/images/Screenshot_2026-11-20_135658.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "2ede9796eb",
-   "src": "TechCrunch",
+   "id": "0edf38a9b8",
+   "src": "DatacenterDynamics",
    "lang": "EN",
-   "sec": "tech",
-   "title": "Bending Spoons buys Mailchimp for $3.68B",
-   "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-   "ts": 1795191366,
-   "summary": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-   "img": null
+   "sec": "dc",
+   "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+   "ts": 1795194229,
+   "summary": "First facility under the pair's Japanese joint venture",
+   "img": "https://media.datacenterdynamics.com/media/images/cyrusone_kansai_osk1.2e16d0ba.fill-750x500.png"
+  },
+  {
+   "id": "99fa342154",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
+   "link": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+   "ts": 1795194103,
+   "summary": "Telco looks to offload data center biz as it acquires subsea cable company Sparkle",
+   "img": "https://media.datacenterdynamics.com/media/images/Screenshot_2024-08-07_123316.2e16d0ba.fill-750x500.png"
   },
   {
    "id": "498f09a2a9",
@@ -263,94 +362,15 @@
    "img": "https://media.datacenterdynamics.com/media/images/qscale_q01.2e16d0ba.fill-750x500.png"
   },
   {
-   "id": "9d6c65e992",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Regulation ready",
-   "link": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
-   "ts": 1795189739,
-   "summary": "How early design and development decisions shape data center approval and delivery",
-   "img": "https://media.datacenterdynamics.com/media/images/Screenshot_2026-11-20_152559.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "7e528a2bb9",
-   "src": "Utility Dive",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "Permitting reform bill heads to House as Democratic divisions persist",
-   "link": "https://www.utilitydive.com/news/senate-passes-baaja-permitting-bill/875334/",
-   "ts": 1795189693,
-   "summary": "Some Democrats say the party should not agree to a bill that contains what they consider troubling changes to environmental law and state and tribal authority. Others say no better deal is possible with a Republican president.",
-   "img": "https://imgproxy.divecdn.com/Eb8CPDIMgTZfWeoF8zWLyjtIGZVltnQffydL3GMRSFI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMzA1OTUxNjA4LmpwZw==.webp"
-  },
-  {
-   "id": "f021fb3523",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "title": "SpaceX expresses interest in building data centers in Bulgaria",
-   "link": "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
-   "ts": 1795189623,
-   "summary": "Bulgaria could also host several new Starlink ground stations, said the country’s economy ministry",
-   "img": "https://media.datacenterdynamics.com/media/images/ThinkstockPhotos-615112296.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "8ef210adba",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US Credit-Fear Hits 8-Month High as Tech Angst Roils Markets",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
-   "ts": 1795189132,
-   "summary": "Measures of perceived US credit risk reached levels not seen in nearly eight months and the cost of protecting the debt of some of the biggest tech firms against default jumped on Friday, as the wobbling AI trade spurred volatility in global markets and sent investors piling into safe havens.",
-   "img": null
-  },
-  {
-   "id": "fbb0ef253c",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "The AI fever in markets is breaking",
-   "link": "https://www.ft.com/content/b1b2e948-ff5e-48c4-bc3e-f8e75c9e4af1?syn-25a6b1a6=1",
-   "ts": 1795188218,
-   "summary": "For investors, the magic of the technology might be wearing off, with US stocks on track for one of the worst years in two decades",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5d0fa98a-b575-4358-a8f4-7202a224128c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "ca1b4ecb67",
-   "src": "Financial Times",
-   "lang": "EN",
-   "sec": "business",
-   "title": "US tech stocks plummet as AI trade unravels",
-   "link": "https://www.ft.com/content/23fa83d8-e078-4853-959e-bd1f19d14ff5?syn-25a6b1a6=1",
-   "ts": 1795183318,
-   "summary": "Investors rush for havens as heavy selling sweeps Wall Street",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6101597a-99bc-4007-916d-823a89155827.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
-  },
-  {
-   "id": "5ecf5b0152",
+   "id": "4c2e7c8ec7",
    "src": "Light Reading",
    "lang": "EN",
    "sec": "telecom",
-   "title": "The Buildout: WOW goes wide in Georgia",
-   "link": "https://www.lightreading.com/broadband/the-buildout-wow-goes-wide-in-georgia",
-   "ts": 1795179600,
-   "summary": "This week in broadband builds: WOW makes $50 million investment in Columbus, Georgia; Spectrum's rural reach grows in Kentucky, Michigan, Tennessee; GoNetspeed kicks off in Newport, Rhode Island – and more.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt7166575a8d453ecb/6a0ef66690a5c101eb66cdef/RF-fiber-construction-FOR-BUILDOUT.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
-   "id": "52d35d9e02",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "latam",
-   "title": "El Gobierno aprueba el decreto de centros de datos y la planificación eléctrica a una semana de las elecciones",
-   "link": "https://elpais.com/economia/2026-11-20/el-gobierno-aprueba-este-viernes-el-decreto-de-centros-de-datos-y-la-planificacion-electrica.html",
-   "ts": 1795170738,
-   "summary": "Aagesen cumple con el compromiso de sacar ambas medidas antes del 29-N y asegura que se evitará un sobrecoste de 5.000 millones a los consumidores al elevar exigencias a las instalaciones tecnológicas",
-   "img": "https://imagenes.elpais.com/resizer/v2/W7DBNWAHV5GEPP77UAVSBDZNQY.jpg?auth=c5dec320aca55cd1197a9c223dcaed963168f328d209a0c322a99005893a1c62",
-   "title_en": "Spain Approves Data Center Decree and Electric Planning a Week Before Elections",
-   "excerpt_en": "Government issues regulations avoiding €5 billion consumer overcharges from stricter tech facility requirements."
+   "title": "FCC tightens grip on Chinese telcos, blocks direct access to US phone numbers",
+   "link": "https://www.lightreading.com/regulatory-politics/fcc-tightens-grip-on-chinese-telcos-blocks-direct-access-to-us-phone-numbers",
+   "ts": 1795183602,
+   "summary": "The FCC has banned Chinese carriers from gaining direct access to US phone numbers over national security concerns and to crack down on scam robocalls.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltf09bca876804f230/68069de33356155de40c3453/FCC_Meeting_Room_Dais-CMR.jpg?width=720&quality=80&disable=upscale"
   },
   {
    "id": "c803e39379",
@@ -361,6 +381,17 @@
    "link": "https://www.submarinenetworks.com/en/systems/intra-asia/vts/fpt-joins-vts-cable",
    "ts": 1795169131,
    "summary": "FPT Telecom VTS Cable Viettel & Singtel MViSTA Vietnam's Subsea Infrastructure Vietnam’s FPT Telecom has passed a board resolution to jointly invest in the Vietnam–Thailand–Singapore Submarine Cable (VTS) project, expanding Vietnamese carrier participation in a flagship intra-Asian corridor that has faced multi-year delays and intense regional competition since its 2024 launch.",
+   "img": null
+  },
+  {
+   "id": "20cbd5a4c9",
+   "src": "Submarine Networks",
+   "lang": "EN",
+   "sec": "telecom",
+   "title": "Orange Seeks Strategic Partners to Extend ReuNION Subsea Cable to Singapore",
+   "link": "https://www.submarinenetworks.com/en/systems/intra-africa/reunion/orange-seeks-strategic-partners-to-extend-reunion-subsea-cable-to-singapore",
+   "ts": 1795165420,
+   "summary": "Orange ReuNION Cable La Réunion to South Africa Indian Ocean ReuNION Singapore Extension Orange and its consortium partners have commenced marine surveys for the first phase of the ReuNION ( Réunion New Indian Ocean Network ) submarine cable linking La Réunion to South Africa, while inviting strategic co-investors to fund a second-phase extension eastward across the Indian Ocean to Singapore.",
    "img": null
   },
   {
@@ -386,17 +417,6 @@
    "img": null
   },
   {
-   "id": "806c890454",
-   "src": "Light Reading",
-   "lang": "EN",
-   "sec": "telecom",
-   "title": "Telecom veteran bets airships in stratosphere can beat Starlink in space",
-   "link": "https://www.lightreading.com/satellite/telecom-veteran-bets-airships-in-stratosphere-can-beat-starlink-in-space",
-   "ts": 1795161600,
-   "summary": "Walt Anderson's latest startup Avealto is on a mission to build stratospheric airships for remote connectivity, and it aims to be far cheaper than satellite.",
-   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt3551d846069e4fa1/6afdfa86ccbfc303aad1a2b2/Avealto_resized.jpg?width=720&quality=80&disable=upscale"
-  },
-  {
    "id": "d921ce5393",
    "src": "Mobile Time",
    "lang": "PT",
@@ -406,8 +426,8 @@
    "ts": 1795150827,
    "summary": "Novidades incluem verificação de conteúdos gerados por inteligência artificial, proteção contra uso indevido de imagem e novos recursos de controle parental",
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/01/pilot-seguranca2RDZ-300x169.jpg",
-   "title_en": "TikTok Launches AI Safety Tools Including Generated Content Verification",
-   "excerpt_en": "New features include AI-generated content verification and parental control improvements."
+   "title_en": "TikTok launches AI safety and control tools",
+   "excerpt_en": "New features include AI-generated content verification and parental controls."
   },
   {
    "id": "e64c816feb",
@@ -419,8 +439,8 @@
    "ts": 1795135168,
    "summary": "Senado envia regras de compartilhamento de postes e descontingenciamento do Fust à sanção; Câmara debate ajuste fiscal, tributação digital, robocalls e atendimento ao consumidor.",
    "img": "https://teletime.com.br/wp-content/uploads/2026/07/Copia-de-Design-sem-nome-2-534x462.webp",
-   "title_en": "Brazil Senate Advances Pole-Sharing and FUST Projects to Presidential Signature",
-   "excerpt_en": "Senate sends rules for pole-sharing and FUST decontingency to presidential signature."
+   "title_en": "Pole-sharing and Fust projects advance to presidential approval",
+   "excerpt_en": "Senate sends pole-sharing rules and Fust decontingency to presidential approval."
   },
   {
    "id": "98816de7d1",
@@ -432,47 +452,8 @@
    "ts": 1795133747,
    "summary": "O projeto foi implementado em cerca de 10 mil células 4G e 5G de Brasília proporcionando uma redução aproximada de 10% no consumo de energia dos equipamentos avaliados. Vivo conquistou a certificação Autonomous Networks Level 4 (ANL4), do TM Forum, por conta da iniciativa",
    "img": "https://teletime.com.br/wp-content/uploads/2021/06/radio-tower-2495325_1920-534x462.jpeg",
-   "title_en": "Vivo Certified for AI-Driven Energy Reduction in Network Infrastructure",
-   "excerpt_en": "Vivo achieved 10% energy reduction across 10,000 4G and 5G cells in Brasília using AI."
-  },
-  {
-   "id": "08bb2adb69",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Assembleia sobre a OPA da Unifique segue em aberto e será retomada no dia 23",
-   "link": "https://telesintese.com.br/assembleia-sobre-a-opa-da-unifique-segue-em-aberto-e-sera-retomada-no-dia-23/",
-   "ts": 1795127535,
-   "summary": "Controladora negocia com acionistas após indicar que pretende desistir da oferta de R$ 6 por ação caso a assembleia aprove um novo laudo de avaliação da operadora. O post Assembleia sobre a OPA da Unifique segue em aberto e será retomada no dia 23 apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2024/08/negociacao-acordo-transacao-negocia-executivos-freepik.jpg",
-   "title_en": "Unifique Acquisition Assembly Postponed Until November 23",
-   "excerpt_en": "Shareholder negotiations continue as controller considers withdrawing R$6-per-share offer."
-  },
-  {
-   "id": "b60a35234e",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Operadoras podem ter quer antecipar bloqueio de chamadas sem autenticação",
-   "link": "https://telesintese.com.br/operadoras-podem-ter-quer-antecipar-bloqueio-de-chamadas-sem-autenticacao/",
-   "ts": 1795126410,
-   "summary": "Proposta da Anatel que vai a consulta pública abrange a identificação de ligações de empresas e a criação de uma base centralizada de numeração. Ideia é antecipar para 31 de outubro de 2027 o prazo de implementação da autenticação. O post Operadoras podem ter quer antecipar bloqueio de chamadas sem autenticação apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2024/06/celular-smartphone-protecao-autenticacao-seguranca-freepik.jpg",
-   "title_en": "Brazil Telecom Operators May Need to Accelerate Call-Blocking Implementation",
-   "excerpt_en": "Anatel proposal would advance call authentication to October 31, 2027 instead of later date."
-  },
-  {
-   "id": "030857d8c7",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "brazil",
-   "title": "Coalizão Direitos na Rede contesta PL que prevê incentivos a data centers no Norte e Nordeste",
-   "link": "https://telesintese.com.br/coalizao-direitos-na-rede-contesta-pl-que-preve-incentivos-a-data-centers-no-norte-e-nordeste/",
-   "ts": 1795125984,
-   "summary": "PL 305/2026 prevê redução de tributos e prioridade em linhas do BNDES. Entidade cobra avaliação dos impactos sobre as comunidades. O post Coalizão Direitos na Rede contesta PL que prevê incentivos a data centers no Norte e Nordeste apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2016/02/disputa-luta-conflito-espadas-força-entidades.jpg",
-   "title_en": "Coalition Contests Data Center Tax Incentive Bill for North and Northeast",
-   "excerpt_en": "Coalition demands impact assessment of PL 305/2026 offering tax cuts and BNDES financing."
+   "title_en": "Vivo certified for AI use reducing energy consumption",
+   "excerpt_en": "AI implementation in 10,000 cells achieved 10% energy reduction in equipment."
   }
  ]
 }
