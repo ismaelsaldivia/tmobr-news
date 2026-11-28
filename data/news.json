@@ -1,10 +1,45 @@
 {
- "updated_utc": "2026-11-28T14:12:13Z",
- "edition": "11:12",
+ "updated_utc": "2026-11-28T14:17:33Z",
+ "edition": "11:17",
  "curated": true,
- "chart": null,
- "numbers": [],
+ "chart": {
+  "title": "Data center de 100 MW gera 12 mil empregos e R$ 25 bilhões ao Brasil",
+  "value": "R$ 25 bilhões",
+  "total": "",
+  "value_label": "economic impact",
+  "total_label": "",
+  "id": "4727bb936e"
+ },
+ "numbers": [
+  {
+   "value": "12 mil",
+   "label": "jobs from 100 MW data center",
+   "id": "4727bb936e"
+  },
+  {
+   "value": "R$ 147 bi",
+   "label": "transmission investment potential",
+   "id": "af64439fa3"
+  },
+  {
+   "value": "71.28 millones",
+   "label": "5G mobile lines in Brazil",
+   "id": "ecd91d2cf0"
+  }
+ ],
  "items": [
+  {
+   "id": "7f913ff863",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "dc",
+   "region": "GLOBAL",
+   "title": "Federal state of Vienna, Austria, publishes new data center strategy",
+   "link": "https://www.datacenterdynamics.com/en/news/sebastian-gemkow/",
+   "ts": 1795867247,
+   "summary": "The new plan is designed to boost the sustainability and efficiency of projects in the capital city",
+   "img": "https://media.datacenterdynamics.com/media/images/GettyImages-1627052244.2e16d0ba.fill-750x500.jpg"
+  },
   {
    "id": "8bd4699a6a",
    "src": "Cinco Días",
@@ -16,6 +51,18 @@
    "ts": 1795841100,
    "summary": "Las compañías de chips acumulan un duro castigo en Bolsa en las últimas semanas. La incertidumbre sobre la IA penaliza a Anthropic y OpenAI y dispara los costes de financiación de Oracle y SoftBank",
    "img": "https://imagenes.elpais.com/resizer/v2/VGCAHZ5IJBNIJK7P2MFN7POSVM.jpg?auth=25b7119b6c71199ae74938b187790f0973bc636fa2f77944f6a6715aaf9d9275"
+  },
+  {
+   "id": "1a17dda5b2",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "De satélites a servidores de carreiras, mais setores se opõem a mudanças no comando das agências",
+   "link": "https://teletime.com.br/27/11/2026/de-satelites-a-servidores-de-carreiras-mais-setores-se-opoem-a-mudancas-no-comando-das-agencias/",
+   "ts": 1795823199,
+   "summary": "Sindisat, Abrasat e Fonacate repudiam o PL 2.896/22, que remove um período de quarentena de três anos para a indicação de candidados ou dirigentes partidários para ocuparem cargos de agências reguladoras",
+   "img": "https://teletime.com.br/wp-content/uploads/2019/10/fist-424500_1920-534x462.jpg"
   },
   {
    "id": "0d55602c61",
@@ -54,10 +101,22 @@
    "img": null
   },
   {
+   "id": "6fbda92efb",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Projetos avançam na reta final do ano Legislativo",
+   "link": "https://teletime.com.br/27/11/2026/projetos-avancam-na-reta-final-do-ano-legislativo/",
+   "ts": 1795818503,
+   "summary": "Direitos do consumidor, crimes cibernéticos, acessibilidade, bloqueio de IMEI, banda larga universal, Fust, data centers, computação em nuvem, cibersegurança, SVA e fiação em debate na Câmara e Senado. Câmara de SP cobra operadoras com dívidas",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/07/Copia-de-Design-sem-nome-2-534x462.webp"
+  },
+  {
    "id": "2a27f3d27d",
    "src": "Mobile Time",
    "lang": "PT",
-   "sec": "telecom",
+   "sec": "tech",
    "region": "BR",
    "title": "Brasil digitalizou 95% dos seus serviços públicos federais, diz MGI",
    "link": "https://www.mobiletime.com.br/noticias/27/11/2026/brasil-digitalizou-95-do/",
@@ -66,28 +125,40 @@
    "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-apps2RDZ-300x169.jpg"
   },
   {
-   "id": "471e060762",
-   "src": "TI Inside",
-   "lang": "PT",
-   "sec": "tech",
-   "region": "BR",
-   "title": "S&P eleva rating da Giga+",
-   "link": "https://tiinside.com.br/27/11/2026/sp-eleva-rating-da-giga/",
-   "ts": 1795818091,
-   "summary": "A S&P Global Ratings elevou o rating de crédito da Giga+ , uma das maiores empresas de fibra óptica do País, de ‘brA-’ para ‘brA’ na Escala Nacional Brasil, alterando a perspectiva de negativa para estável. A decisão reflete os avanços da companhia em eficiência operacional, geração de caixa, desalavancagem e governança. As medidas para ganhar eficiência e elevar a qualidade da base de clientes, c",
-   "img": "https://tiinside.com.br/wp-content/uploads/2026/11/Giga4.jpg"
-  },
-  {
-   "id": "ed33190a27",
-   "src": "TeleSíntese",
+   "id": "8554809d6a",
+   "src": "Mobile Time",
    "lang": "PT",
    "sec": "telecom",
    "region": "BR",
-   "title": "S&P eleva rating da Giga+ e muda perspectiva para estável",
-   "link": "https://telesintese.com.br/sp-eleva-rating-da-giga-e-muda-perspectiva-para-estavel/",
-   "ts": 1795817748,
-   "summary": "Agência considera renegociação de dívidas, redução dos cancelamentos e mudanças na governança da operadora de banda larga. O post S&P eleva rating da Giga+ e muda perspectiva para estável apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/10/novologogiga-1024x656.jpg"
+   "title": "MJSP identifica mais de 86 mil sites de bets ilegais em dois meses",
+   "link": "https://www.mobiletime.com.br/noticias/27/11/2026/mjsp-86-mil-bets-ilegais/",
+   "ts": 1795817843,
+   "summary": "Operação alcança aproximadamente 74,71 milhões de usuários, membros ou seguidores",
+   "img": "https://www.mobiletime.com.br/wp-content/uploads/2025/12/pilot-justicaRDZ-300x169.jpg"
+  },
+  {
+   "id": "6b8b132509",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Veja no Boletim TELETIME: politização das agências; 850 MHz; e postes",
+   "link": "https://teletime.com.br/27/11/2026/teletime-agencias-postes/",
+   "ts": 1795816782,
+   "summary": "Na edição de 27 de novembro do Boletim TELETIME, você vai entender a polêmica por trás do PL que abre caminho para indicar candidatos derrotados a agências reguladoras. Veja também a notícia de que o edital dos 850 MHz deve voltar ao conselho só em fevereiro de 2027",
+   "img": "https://www.youtube.com/embed/a0TXYxnYzu4"
+  },
+  {
+   "id": "e80b6370f8",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "A evolução do combate à pirataria audiovisual no Brasil e a proteção das redes de telecomunicações",
+   "link": "https://teletime.com.br/27/11/2026/a-evolucao-do-combate-a-pirataria-audiovisual-no-brasil-e-a-protecao-das-redes-de-telecomunicacoes/",
+   "ts": 1795816320,
+   "summary": "A experiência brasileira mostra que enfrentar serviços ilegais de IPTV e streaming exige coordenação permanente, inteligência técnica e respostas na velocidade da internet",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/11/Copia-de-Design-sem-nome-4-534x462.webp"
   },
   {
    "id": "1090b49289",
@@ -105,25 +176,13 @@
    "id": "4727bb936e",
    "src": "Teletime",
    "lang": "PT",
-   "sec": "telecom",
+   "sec": "dc",
    "region": "BR",
    "title": "Data center de 100 MW gera 12 mil empregos e R$ 25 bilhões ao Brasil, diz FGV",
    "link": "https://teletime.com.br/27/11/2026/data-center-de-100-mw-fgv/",
    "ts": 1795815158,
    "summary": "Relatório da FGV aponta benefícios econômicos para o Brasil levando em conta a instalação de data centers de 100 MW; empregos diretos, indiretos e induzidos em outros setores pode alcançar 37,2 mil vagas; apesar do potencial, País enfrente gargalos de governança e de mapeamento da rede elétrica, avalia responsável pelo estudo",
    "img": "https://teletime.com.br/wp-content/uploads/2026/11/Charles-Correa-Schramm-FGV-forum-digia-534x462.webp"
-  },
-  {
-   "id": "d6aea2f8da",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "S&P eleva rating da Giga+ e projeta queda na alavancagem",
-   "link": "https://teletime.com.br/27/11/2026/sp-eleva-rating-giga-mais/",
-   "ts": 1795815094,
-   "summary": "Rating da Giga+ foi elevado para \"brA\", com perspectiva estável; S&P avalia que medidas de eficiência operacional e controle da base de clientes, com foco em assinantes de maior rentabilidade, têm puxado as margens para cima; projeções indicam queda na alavancagem em 2026 e nos próximos dois anos",
-   "img": "https://teletime.com.br/wp-content/uploads/2026/11/Design-sem-nome-2026-11-12T202620.984-534x462.webp"
   },
   {
    "id": "9231269dfb",
@@ -150,30 +209,6 @@
    "img": "https://uploads.eixos.com.br/2026/08/Linhas-de-transmissao-de-energia-conectadas-a-hidreletrica-de-Itaipu-Foto-Caio-Coronel-Itaipu-Binacional-e1786397710128.webp"
   },
   {
-   "id": "68c095bb48",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Telebras muda regras de contratação para desenvolver soluções de IA",
-   "link": "https://telesintese.com.br/telebras-muda-regras-de-contratacao-para-desenvolver-solucoes-de-ia/",
-   "ts": 1795813918,
-   "summary": "Estatal incorpora ao regulamento de licitações mecanismo previsto no Marco Legal das Startups para desenvolver e testar novas tecnologias. O post Telebras muda regras de contratação para desenvolver soluções de IA apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/11/telebras-1.jpg"
-  },
-  {
-   "id": "02f8c51259",
-   "src": "IT Forum",
-   "lang": "PT",
-   "sec": "tech",
-   "region": "BR",
-   "title": "Astella inaugura data center de 3,5 MW em Curitiba",
-   "link": "https://itforum.com.br/astella-data-center-curitiba-2/",
-   "ts": 1795812049,
-   "summary": "Unidade no Paraná marca início de plano de expansão nacional com R$ 300 mi em 6 novas localidades",
-   "img": "https://db00ytxhy7e1q.cloudfront.net/2026/09/Infraestrutura-de-data-center-para-armazenamento-e-protecao-de-dados.png"
-  },
-  {
    "id": "ecd91d2cf0",
    "src": "DPL News",
    "lang": "ES",
@@ -186,16 +221,100 @@
    "img": "https://dplnews.com/wp-content/uploads/2026/11/261126.png"
   },
   {
-   "id": "8fb7fbf23b",
+   "id": "b0d949b5ba",
+   "src": "Convergência Digital",
+   "lang": "PT",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "SAP é a mais nova gigante de TI a sofrer ataque hacker",
+   "link": "https://convergenciadigital.com.br/mercado/sap-e-a-mais-nova-gigante-de-ti-a-sofrer-ataque-hacker/",
+   "ts": 1795810753,
+   "summary": "Gigante alemã investiga intrusão em infraestrutura de código-fonte -GitHub - após relatos de acesso a tokens de autenticação de funcionários.",
+   "img": null
+  },
+  {
+   "id": "cd2e0a2456",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+   "link": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+   "ts": 1795809768,
+   "summary": "Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?",
+   "img": null
+  },
+  {
+   "id": "3d07e38332",
+   "src": "DCD Brasil",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "LATAM",
+   "title": "México prevê investimento de 20,6 bilhões de dólares para expandir seus data centers",
+   "link": "https://www.datacenterdynamics.com/br/not%C3%ADcias/mexico-preve-20-600-milhoes-de-dolares-para-expandir-os-seus-centros-de-dados/",
+   "ts": 1795808400,
+   "summary": "MEXDC estima a capacidade instalada do país em 279 MW, com outros 205 MW em construção e mais de 1.730 MW anunciados para os próximos cinco anos",
+   "img": "https://media.datacenterdynamics.com/media/images/Asamblea_2026_MEXDC.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "aa5e83b575",
+   "src": "Revista Electricidad",
+   "lang": "ES",
+   "sec": "dc",
+   "region": "LATAM",
+   "title": "Energía pasaría a liderar inversión proyectada en Chile durante 2027",
+   "link": "https://www.revistaei.cl/energia-pasaria-a-liderar-inversion-proyectada-en-chile-durante-2027/",
+   "ts": 1795807801,
+   "summary": "Según el catastro de la Corporación de Bienes de Capital, el sector concentraría el 30% de los montos previstos para el próximo año, superando a la minería. La entrada Energía pasaría a liderar inversión proyectada en Chile durante 2027 se publicó primero en Revista Electricidad .",
+   "img": "https://www.revistaei.cl/wp-content/uploads/2026/11/Captura-de-pantalla-2026-11-27-153808.png"
+  },
+  {
+   "id": "f461c771f1",
    "src": "TeleSemana",
    "lang": "ES",
    "sec": "telecom",
+   "region": "LATAM",
+   "title": "China Unicom completa una evaluación en red comercial de la gestión autónoma de fallas del núcleo",
+   "link": "https://www.telesemana.com/blog/2026/11/27/china-unicom-completa-una-evaluacion-en-red-comercial-de-la-gestion-autonoma-de-fallas-del-nucleo/",
+   "ts": 1795804106,
+   "summary": "China Unicom informó que completó una evaluación de la gestión autónoma de fallas sobre su red central en operación. La prueba fue realizada por la Academia China de Tecnología de la Información y las Comunicaciones (CAICT) y posteriormente validada por TM Forum, según el comunicado de la operadora. El ejercicio utilizó el estándar TS1523B, desarrollado por ambas organizaciones para evaluar funcio",
+   "img": null
+  },
+  {
+   "id": "21a79a4962",
+   "src": "TI Inside",
+   "lang": "PT",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Hackers invadem a principal plataforma de computação Cloud One da Força Aérea dos EUA",
+   "link": "https://tiinside.com.br/27/11/2026/hackers-invadem-a-principal-plataforma-de-computacao-cloud-one-da-forca-aerea-dos-eua/",
+   "ts": 1795803620,
+   "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos EUA, em um acontecimento que pode colocar em risco uma vasta quantidade de dados táticos, de pessoal e de logística confidenciais. A intrusão na Cloud One foi descoberta no último mês, aproximadamente, durante trabalhos para atualizar o sistema e a descoberta causou interrupções em toda a plataforma. A identidade do",
+   "img": "https://tiinside.com.br/wp-content/uploads/2026/11/pexels-quachtungduong-32543025.jpg"
+  },
+  {
+   "id": "8fb7fbf23b",
+   "src": "TeleSemana",
+   "lang": "ES",
+   "sec": "tech",
    "region": "LATAM",
    "title": "Brasil alista su estrategia digital 2027: proyecta un nuevo ministerio y capacidad energética para la IA",
    "link": "https://www.telesemana.com/blog/2026/11/27/brasil-alista-su-estrategia-digital-2027-proyecta-un-nuevo-ministerio-y-capacidad-energetica-para-la-ia/",
    "ts": 1795803550,
    "summary": "Brasil sabe que robustecer su estrategia de desarrollo de neoindustrialización, con soberanía digital y tecnológica implica el garantizarse otros dos insumos básicos: gobernanza y una matriz energética robusta. En ese camino se inscriben dos novedades que circulan por estas horas en el país y que señalan que el presidente Luis Inácio Lula da Silva trabaja en la creación de un ministerio que comenz",
    "img": null
+  },
+  {
+   "id": "b1d7f499d7",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Can AI crack encryption?",
+   "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+   "ts": 1795803411,
+   "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a5989b-4e45-4fef-ad2a-56142542bcab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
   },
   {
    "id": "e00e2192ae",
@@ -210,100 +329,28 @@
    "img": null
   },
   {
-   "id": "21b9906f03",
+   "id": "2fa481e654",
    "src": "DPL News",
    "lang": "ES",
    "sec": "telecom",
    "region": "LATAM",
-   "title": "Perú aprueba nuevo régimen de renovación de concesiones de telecomunicaciones",
-   "link": "https://dplnews.com/peru-aprueba-nuevo-regimen-renovacion-concesiones-telecomunicaciones/",
-   "ts": 1795800628,
-   "summary": "El nuevo régimen de renovación de concesiones contempla dos modalidades: regular y simplificada, y apunta a promover el despliegue de infraestructura y la modernización de redes de telecomunicaciones, especialmente en zonas rurales y de preferente interés social.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsMTC_rp27112026.jpg"
+   "title": "Senado argentino aprueba ley para prevenir la ludopatía y regular las apuestas en línea",
+   "link": "https://dplnews.com/senado-argentino-aprueba-ley-para-prevenir-la-ludopatia-y-regular-las-apuestas-en-linea/",
+   "ts": 1795802712,
+   "summary": "El Senado de Argentina aprobó por unanimidad la ley de prevención de la ludopatía y regulación de las apuestas en línea, que establece restricciones a la publicidad de estas plataformas, prohíbe el acceso de menores de edad y exige mecanismos de verificación biométrica para validar la identidad de los usuarios. En total, la iniciativa obtuvo […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_senado-argentina_271126sd.jpeg"
   },
   {
-   "id": "24856cc240",
-   "src": "Cinco Días",
-   "lang": "ES",
-   "sec": "business",
-   "region": "GLOBAL",
-   "title": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
-   "link": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
-   "ts": 1795798669,
-   "summary": "La compañía de software más valiosa de Europa solicita a todos los departamentos que identifiquen áreas susceptibles de recortes",
-   "img": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
-  },
-  {
-   "id": "03ca598bca",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
+   "id": "c0ccd35f22",
+   "src": "IPNews",
+   "lang": "PT",
    "sec": "dc",
    "region": "GLOBAL",
-   "title": "Prysmian cable-laying ship supports Med Emre vessel in rescue off coast of Ibiza",
-   "link": "https://www.datacenterdynamics.com/en/news/prysmian-cable-laying-ship-supports-med-emre-vessel-in-rescue-off-coast-of-ibiza/",
-   "ts": 1795796309,
-   "summary": "The company said that its Monna Lisa vessel was used in efforts to rescue the crew onboard the Med Emre",
-   "img": "https://media.datacenterdynamics.com/media/images/varo-monnalisa.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "f90666bb0f",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "region": "GLOBAL",
-   "title": "Abundant Mines plans landfill-powered Bitcoin mine near Mexico City",
-   "link": "https://www.datacenterdynamics.com/en/news/abundant-mines-plans-landfill-powered-bitcoin-mine-near-mexico-city/",
-   "ts": 1795795778,
-   "summary": "Project backed by CH4, more Latin landfills targeted",
-   "img": "https://media.datacenterdynamics.com/media/images/mexico_city_landfill.2e16d0ba.fill-750x500.png"
-  },
-  {
-   "id": "5d4bc3f6e2",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "dc",
-   "region": "GLOBAL",
-   "title": "BAIT plans 100 cell towers to expand Altán's network in Mexico",
-   "link": "https://www.datacenterdynamics.com/en/news/bait-will-build-100-radio-bases-to-expand-the-altan-network/",
-   "ts": 1795795200,
-   "summary": "BAIT will no longer be merely a customer of the wholesale network but help build it",
-   "img": "https://media.datacenterdynamics.com/media/images/Antena_Telecomunicaciones.2e16d0ba.fill-750x500.jpg"
-  },
-  {
-   "id": "1cfe3a204d",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "telecom",
-   "region": "LATAM",
-   "title": "CMR-27: GSMA identifica tres prioridades para el futuro del espectro móvil",
-   "link": "https://dplnews.com/4-5-ghz-7-ghz-y-conectividad-satelital-d2d-las-prioridades-de-espectro-para-la-cmr-27-segun-gsma/",
-   "ts": 1795794646,
-   "summary": "La GSMA presentó sus prioridades para la Conferencia Mundial de Radiocomunicaciones de 2027 (CMR-27), con énfasis en la identificación de nuevas bandas de espectro para ampliar la capacidad de las redes móviles, habilitar la conectividad satelital directa a dispositivos (D2D) sin perjudicar las redes existentes y reducir la brecha digital mediante el uso de bandas […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_gsma-luciana-camargos_271126sd-scaled.jpg"
-  },
-  {
-   "id": "4dabad42ab",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "telecom",
-   "region": "LATAM",
-   "title": "Chile | Reporte Subtel: Claro lidera en portabilidad móvil y suma más de 315 mil portaciones netas en 2026",
-   "link": "https://dplnews.com/chile-reporte-subtel-claro-lidera-en-portabilidad-movil-y-suma-mas-de-315-mil-portaciones-netas-en-2026/",
-   "ts": 1795794300,
-   "summary": "biobiochile.cl La Subsecretaría de Telecomunicaciones (Subtel), lanzó recientemente su último Reporte Mensual de Portabilidad, donde periódicamente revelan las preferencias de los usuarios en este área. De acuerdo con el informe, Claro ha mantenido liderazgo en la industria móvil, con 315.197 portaciones netas entre enero y septiembre de este año, liderando durante 26 meses. Lee más.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/09/Claro-Plaza-Norte-foto-1.JPG-1-scaled-e1789060112162.jpeg"
-  },
-  {
-   "id": "c2f9e6b6bf",
-   "src": "DCD en español",
-   "lang": "ES",
-   "sec": "dc",
-   "region": "LATAM",
-   "title": "OVHcloud despliega 60.000 GPU Blackwell y LLM soberanos en Europa",
-   "link": "https://www.datacenterdynamics.com/es/noticias/ovhcloud-despliega-60000-gpu-blackwell-y-llm-soberanos-en-europa/",
-   "ts": 1795783403,
-   "summary": "En paralelo, su alianza con Qwant, Shadow (Blade) y European Search Perspective (EUSP) crea una cadena de IA 100 % europea.",
-   "img": "https://media.datacenterdynamics.com/media/images/2019_DEC_FR_PARIS_IMAGE_0119_BD.d3de65fc.fill-750x500.jpg"
+   "title": "Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre",
+   "link": "https://ipnews.com.br/vendas-de-switches-ethernet-para-redes-de-ia-mais-que-dobram-no-terceiro-trimestre/",
+   "ts": 1795795214,
+   "summary": "Mercado de redes back-end para inteligência artificial avança com implantação em escala de novas arquiteturas e aceleração dos equipamentos de 1,6 Tbps, segundo a Dell’Oro Group The post Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
   },
   {
    "id": "a2de1b93f9",
@@ -318,28 +365,28 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfa175fd84aa00ceb/6868e16be47565c3554bfcdf/South_Korea_flag_blowing_in_the_wind.jpeg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "440a596a64",
-   "src": "Bloomberg",
+   "id": "6ac93017d0",
+   "src": "Light Reading",
    "lang": "EN",
-   "sec": "business",
+   "sec": "telecom",
    "region": "GLOBAL",
-   "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
-   "ts": 1795779946,
-   "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
-   "img": null
+   "title": "Eurobites: Elisa, Drei claim roaming breakthrough with 5G SA",
+   "link": "https://www.lightreading.com/wireless/eurobites-elisa-drei-claim-roaming-breakthrough-with-5g-sa",
+   "ts": 1795781538,
+   "summary": "Also in today's EMEA regional roundup: Salt's Q3; Telefónica goes underground in Madrid; iPlayer to open up to non-BBC content?",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt4a263b696dadbd49/685d32dba3d2161c01533511/elisa_logo_on_smartphone_pointing_at_computer_screen_sourceTimon_Schneider-Alamy_Stock_Photo.jpg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "73ba92bcaf",
-   "src": "The New York Times",
-   "lang": "EN",
-   "sec": "tech",
+   "id": "53b3d7bbf9",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "business",
    "region": "GLOBAL",
-   "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
-   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
-   "ts": 1795747541,
-   "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
-   "img": "https://static01.nyt.com/images/2026/11/26/multimedia/26nvidia-SEAsia-wvmq/26nvidia-SEAsia-wvmq-mediumSquareAt3X.jpg"
+   "title": "Los bancos son el canario en la mina de la deuda de los centros de datos",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-27/los-bancos-son-el-canario-en-la-mina-de-la-deuda-de-los-centros-de-datos.html",
+   "ts": 1795754400,
+   "summary": "HSBC, ING y Société Générale reducen su exposición mediante ventas de préstamos por cientos de millones",
+   "img": "https://imagenes.elpais.com/resizer/v2/5IORIW3MLORZQGNWYMT2YE2JSQ.jpg?auth=dbe5700992231f41f0ce655199fd6bfdaa766d6b1643362d3acb3483fb1ddd64"
   }
  ]
 }
