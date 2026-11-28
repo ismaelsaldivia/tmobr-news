@@ -16,7 +16,7 @@
   {"src": "TeleSemana", "lang": "ES", "region": "LATAM", "sec": "telecom", "url": "https://www.telesemana.com/feed/", "core": true},
   {"src": "Impacto TIC", "lang": "ES", "region": "LATAM", "sec": "telecom", "url": "https://impactotic.co/feed/", "core": false},
   {"src": "DCD en español", "lang": "ES", "region": "LATAM", "sec": "dc", "url": "https://www.datacenterdynamics.com/es/rss/", "core": true},
-  {"src": "Revista Electricidad", "lang": "ES", "region": "LATAM", "sec": "dc", "url": "https://www.revistaei.cl/feed/", "core": false},
+  {"src": "Revista Electricidad", "lang": "ES", "region": "LATAM", "sec": "dc", "url": "https://www.revistaei.cl/feed/", "core": true},
   {"src": "LatamList", "lang": "EN", "region": "LATAM", "sec": "business", "url": "https://latamlist.com/feed/", "core": false},
   {"src": "Financial Times", "lang": "EN", "region": "GLOBAL", "sec": "business", "url": "https://www.ft.com/rss/home", "core": false},
   {"src": "Bloomberg", "lang": "EN", "region": "GLOBAL", "sec": "business", "url": "https://feeds.bloomberg.com/technology/news.rss", "core": false},

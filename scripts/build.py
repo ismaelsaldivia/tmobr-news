@@ -75,11 +75,16 @@ def collect():
     feeds = json.load(open(os.path.join(HERE, "feeds.json"), encoding="utf-8"))
     items, seen = [], set()
     for f in feeds:
-        try:
-            req = urllib.request.Request(f["url"], headers={"User-Agent": "Mozilla/5.0 (TMOBR News aggregator; +https://www.tmobr.com)"})
-            d = feedparser.parse(urllib.request.urlopen(req, timeout=30).read())
-        except Exception as ex:
-            log("FEED FAIL", f["src"], ex)
+        d = None
+        for attempt in range(3):
+            try:
+                req = urllib.request.Request(f["url"], headers={"User-Agent": "Mozilla/5.0 (TMOBR News aggregator; +https://www.tmobr.com)"})
+                d = feedparser.parse(urllib.request.urlopen(req, timeout=30).read())
+                break
+            except Exception as ex:
+                log("FEED RETRY" if attempt < 2 else "FEED FAIL", f["src"], ex)
+                time.sleep(4 * (attempt + 1))
+        if d is None:
             continue
         n = 0
         for e in d.entries:
@@ -127,10 +132,7 @@ PROMPT = """You are the editor of TMOBR News, a non-profit aggregator of busines
 Below are today's candidate items, one per line: id | language | region hint | section hint | source | headline | excerpt.
 
 Call the submit tool with a JSON object with these keys:
-- "keep": array of ids worth publishing. TMOBR News covers ONE industry: telecommunications (operators, fixed and mobile networks, fiber, 5G, spectrum, towers, ISPs, satellites, subsea cables, regulators and telecom policy), data centers and cloud, artificial intelligence and semiconductors, electric power and energy infrastructure that serves the digital economy, cybersecurity of networks and companies, and the business side of these sectors (deals, M&A, investments, financing, earnings, executives of companies in these sectors). Keep an item ONLY if its main subject is this industry. Drop everything else even if it comes from a business or technology outlet: general macroeconomics, central banks, fiscal policy, politics, banks and finance not tied to the sector, retail and Black Friday, consumer gadget reviews and deals, games, food, travel, culture, TV programming, sports, health, crime, oil and gas, mining, agribusiness, and M&A of companies outside the sector. When in doubt, drop it. If several items report the same story (in any language), keep only the most informative one, preferring the Brazilian or Latin American source. Expect to keep roughly 40 to 60 items.
-- "region": object mapping EVERY kept id to "BR" (the story is about Brazil or a Brazilian company/market), "LATAM" (about Latin America outside Brazil, or the region as a whole) or "GLOBAL" (anything else). Decide by the story, not by the language or the source.
-- "sec": object mapping EVERY kept id to one of "business", "telecom", "dc" (data centers and energy) or "tech".
-- "story": object mapping EVERY kept id to a short lowercase English slug (3 to 6 words) naming the underlying event. Items that report the same event, in any language or from any source, MUST get exactly the same slug.
+- "picks": array with ONE object per item worth publishing: {"id": item id, "region": "BR" (the story is about Brazil or a Brazilian company/market) or "LATAM" (Latin America outside Brazil, or the region as a whole) or "GLOBAL" (anything else) — decide by the story, not by the language or the source; "sec": "business", "telecom", "dc" (data centers and energy) or "tech"; "story": short lowercase English slug of 3 to 6 words naming the underlying event — items about the same event, in any language or from any source, MUST get exactly the same slug}. Include every item you keep; do not skip fields. TMOBR News covers ONE industry: telecommunications (operators, fixed and mobile networks, fiber, 5G, spectrum, towers, ISPs, satellites, subsea cables, regulators and telecom policy), data centers and cloud, artificial intelligence and semiconductors, electric power and energy infrastructure that serves the digital economy, cybersecurity of networks and companies, and the business side of these sectors (deals, M&A, investments, financing, earnings, executives of companies in these sectors). Keep an item ONLY if its main subject is this industry. Drop everything else even if it comes from a business or technology outlet: general macroeconomics, central banks, fiscal policy, politics, banks and finance not tied to the sector, retail and Black Friday, consumer gadget reviews and deals, games, food, travel, culture, TV programming, sports, health, crime, oil and gas, mining, agribusiness, and M&A of companies outside the sector. When in doubt, drop it. If several items report the same story (in any language), keep only the most informative one, preferring the Brazilian or Latin American source. Expect to keep roughly 40 to 60 items.
 - "top": array of 4 kept ids, the most important stories of the day for this audience, most important first. Apply the editorial priority: Brazilian stories first, then Latin American, then global, as long as they have substance (deals, capacity, regulation, financing).
 - "chart": the most striking figure of the day for this audience, preferably from a Brazilian or Latin American item, or null. Object: {"title": short headline stating the finding, written in the same language as the source item, "value": the number exactly as written in the source text, "total": a second number from the SAME source text it should be compared against, or "", "value_label": short label for value, "total_label": short label for total or "", "id": source item id}. Use only numbers that appear literally in that item's headline or excerpt. Copy each value WITH its currency symbol and unit exactly as written (for example "$45 billion", "R$ 25 bilhões", "960MW", "4,5%"), never the bare number.
 - "numbers": array of up to 4 other striking figures: {"value": number exactly as written in the source text, "label": label of at most 10 words in the same language as the source item, "id": source item id}. Each from a different item. Use only numbers that appear literally in that item's headline or excerpt.
@@ -284,17 +286,21 @@ def main():
     ai = ask_claude(items)
 
     if ai:
-        keep = set(i for i in ai.get("keep", []) if i in byid)
-        for i, r in (ai.get("region") or {}).items():
-            if i in byid and r in REGION_RANK:
-                byid[i]["region"] = r
-        for i, t in (ai.get("sec") or {}).items():
-            if i in byid and t in TOPICS:
-                byid[i]["sec"] = t
+        picks = [p for p in (ai.get("picks") or []) if isinstance(p, dict) and p.get("id") in byid]
+        log("AI keys", sorted(ai.keys()), "| picks", len(picks), "| top", len(ai.get("top") or []))
+        keep = set(p["id"] for p in picks)
+        story = {}
+        for p in picks:
+            x = byid[p["id"]]
+            if p.get("region") in REGION_RANK:
+                x["region"] = p["region"]
+            if p.get("sec") in TOPICS:
+                x["sec"] = p["sec"]
+            if p.get("story"):
+                story[p["id"]] = p["story"]
         pool = [x for x in items if x["id"] in keep]
         top = [byid[i] for i in ai.get("top", []) if i in byid and byid[i] in pool]
         # one item per story: top picks first, then Brazil/LatAm, then items with a picture, then newest
-        story = ai.get("story") or {}
         order = sorted(pool, key=lambda x: (0 if x in top else 1, REGION_RANK[x["region"]], 0 if x.get("img") else 1, -x["ts"]))
         seen_story, dedup = set(), set()
         for x in order:
@@ -304,7 +310,17 @@ def main():
                 continue
             seen_story.add(slug); dedup.add(x["id"])
         pool = [x for x in pool if x["id"] in dedup]
-        top = [x for x in top if x["id"] in dedup]
+        # second safety net: near-identical headlines (same story from several outlets)
+        def toks(t):
+            return {w for w in norm(t).split() if len(w) > 3}
+        kept_t, final = [], set()
+        for x in sorted(pool, key=lambda x: (0 if x in top else 1, REGION_RANK[x["region"]], 0 if x.get("img") else 1, -x["ts"])):
+            t = toks(x["title"])
+            if any(len(t & k) / max(1, min(len(t), len(k))) >= 0.6 for k in kept_t):
+                log("similar headline dropped", x["src"], x["title"][:60]); continue
+            kept_t.append(t); final.add(x["id"])
+        pool = [x for x in pool if x["id"] in final]
+        top = [x for x in top if x["id"] in final]
         chart = ai.get("chart")
         if not isinstance(chart, dict):
             chart = None
