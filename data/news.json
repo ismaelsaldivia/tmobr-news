@@ -1,50 +1,31 @@
 {
- "updated_utc": "2026-11-28T14:32:31Z",
- "edition": "11:32",
+ "updated_utc": "2026-11-28T14:34:19Z",
+ "edition": "11:34",
  "curated": true,
- "chart": {
-  "title": "Brasil tem 71,28 milhões de linhas 5G",
-  "value": "25.3%",
-  "total": "",
-  "value_label": "share of 5G lines",
-  "total_label": "",
-  "id": "ecd91d2cf0"
- },
+ "chart": null,
  "numbers": [
   {
-   "value": "R$ 25 bilhões",
-   "label": "economic benefit of 100 MW data center",
-   "id": "4727bb936e"
+   "value": "R$ 540 milhões",
+   "label": "custo anual estimado da agência de cibersegurança",
+   "id": "d7394c5173"
+  },
+  {
+   "value": "71.28 millones",
+   "label": "líneas 5G en Brasil a septiembre de 2026",
+   "id": "ecd91d2cf0"
+  },
+  {
+   "value": "R$ 127,1 bi",
+   "label": "investimentos projetados em transmissão",
+   "id": "b830b07a25"
   },
   {
    "value": "R$ 2,1 bilhões",
-   "label": "Axia sale of ISA Energia shares",
+   "label": "venda de ações da ISA Energia pela Axia",
    "id": "bf72aa42b4"
-  },
-  {
-   "value": "R$ 250 milhões",
-   "label": "broadband credit for small providers",
-   "id": "b3ee702f11"
-  },
-  {
-   "value": "US$ 481 bilhões",
-   "label": "GSMA spectrum renewal socioeconomic benefit",
-   "id": "284e5c55fa"
   }
  ],
  "items": [
-  {
-   "id": "43d7d8b18d",
-   "src": "Submarine Networks",
-   "lang": "EN",
-   "sec": "telecom",
-   "region": "GLOBAL",
-   "title": "EU Grants €11.1 Million for Medusa Submarine Cable Extension to Jordan",
-   "link": "https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/eu-grants-%E2%82%AC11-1-million-for-medusa-submarine-cable-extension-to-jordan",
-   "ts": 1795842828,
-   "summary": "EU Global Gateway Medusa Submarine Cable €11.1M EU Grant AFR-IX Telecom & NaiTel Aqaba Digital Hub On November 19, 2026, the European Union (EU) and the European Investment Bank (EIB) announced an €11.1 million (approx. US$12.1–$12.2 million) grant to extend the Medusa Submarine Cable System from Egypt to Jordan. Operating under the EU’s Global Gateway strategy and the Pact for the Mediterranean ,",
-   "img": null
-  },
   {
    "id": "1a17dda5b2",
    "src": "Teletime",
@@ -79,18 +60,6 @@
    "link": "https://ipnews.com.br/sp-eleva-rating-da-giga-para-bra-apos-melhora-operacional/",
    "ts": 1795818919,
    "summary": "Agência também altera perspectiva de negativa para estável, citando aumento da margem EBITDA, redução da alavancagem e reforço dos controles internos da operadora The post S&P eleva rating da Giga+ para brA após melhora operacional appeared first on IPNews - O Portal da Conectividade .",
-   "img": null
-  },
-  {
-   "id": "e099dd595a",
-   "src": "Convergência Digital",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Prodesp restabelece fibra óptica e retoma Poupatempo e outros serviços públicos",
-   "link": "https://convergenciadigital.com.br/governo/prodesp-restabelece-fibra-optica-e-retoma-poupatempo-e-outros-servicos-publicos/",
-   "ts": 1795818638,
-   "summary": "Rompimento da fibra óptica foi causado porr terceiros na região de Taboão da Serra, em São Paulo.",
    "img": null
   },
   {
@@ -142,18 +111,6 @@
    "img": "https://uploads.eixos.com.br/2026/08/Linhas-de-transmissao-de-energia-conectadas-a-hidreletrica-de-Itaipu-Foto-Caio-Coronel-Itaipu-Binacional-e1786397710128.webp"
   },
   {
-   "id": "68c095bb48",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Telebras muda regras de contratação para desenvolver soluções de IA",
-   "link": "https://telesintese.com.br/telebras-muda-regras-de-contratacao-para-desenvolver-solucoes-de-ia/",
-   "ts": 1795813918,
-   "summary": "Estatal incorpora ao regulamento de licitações mecanismo previsto no Marco Legal das Startups para desenvolver e testar novas tecnologias. O post Telebras muda regras de contratação para desenvolver soluções de IA apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2026/11/telebras-1.jpg"
-  },
-  {
    "id": "ecd91d2cf0",
    "src": "DPL News",
    "lang": "ES",
@@ -164,18 +121,6 @@
    "ts": 1795811220,
    "summary": "A septiembre de 2026, había 71.28 millones de líneas móviles 5G en Brasil. La cifra es 33% superior a lo informado un año atrás y representa el 25.3% del total de líneas registradas por la Agencia Nacional de Telecomunicaciones (Anatel). El 4G se mantiene como tecnología dominante mientras que 3G y 2G perdieron peso en […]",
    "img": "https://dplnews.com/wp-content/uploads/2026/11/261126.png"
-  },
-  {
-   "id": "56f062d4f7",
-   "src": "Convergência Digital",
-   "lang": "PT",
-   "sec": "dc",
-   "region": "BR",
-   "title": "Artur Coimbra: Fomento à indústria local não pode impedir aporte de curto prazo nos data centers",
-   "link": "https://convergenciadigital.com.br/governo/artur-coimbra-fomento-a-industria-local-nao-pode-impedir-aporte-de-curto-prazo-nos-data-centers/",
-   "ts": 1795808724,
-   "summary": "O coordenador do Grupo de Trabalho de Data Centers da dig.ia diz que a dispensa do imposto de importação passa a ser a maior atração do Redata.",
-   "img": "https://convergenciadigital.com.br/wp-content/uploads/2026/11/DigIA2026_900.jpg"
   },
   {
    "id": "3d07e38332",
@@ -190,16 +135,64 @@
    "img": "https://media.datacenterdynamics.com/media/images/Asamblea_2026_MEXDC.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "21a79a4962",
-   "src": "TI Inside",
+   "id": "b3ee702f11",
+   "src": "IPNews",
    "lang": "PT",
-   "sec": "tech",
-   "region": "GLOBAL",
-   "title": "Hackers invadem a principal plataforma de computação Cloud One da Força Aérea dos EUA",
-   "link": "https://tiinside.com.br/27/11/2026/hackers-invadem-a-principal-plataforma-de-computacao-cloud-one-da-forca-aerea-dos-eua/",
-   "ts": 1795803620,
-   "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos EUA, em um acontecimento que pode colocar em risco uma vasta quantidade de dados táticos, de pessoal e de logística confidenciais. A intrusão na Cloud One foi descoberta no último mês, aproximadamente, durante trabalhos para atualizar o sistema e a descoberta causou interrupções em toda a plataforma. A identidade do",
-   "img": "https://tiinside.com.br/wp-content/uploads/2026/11/pexels-quachtungduong-32543025.jpg"
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Governo abre crédito de R$ 250 milhões para expansão da banda larga",
+   "link": "https://ipnews.com.br/governo-abre-credito-de-r-250-milhoes-para-expansao-da-banda-larga/",
+   "ts": 1795804765,
+   "summary": "Recursos do BID serão destinados a linhas de crédito para pequenos provedores que atendem municípios com até 30 mil habitantes; iniciativa tem potencial para alcançar 4.436 cidades e beneficiar 46 milhões de pessoas The post Governo abre crédito de R$ 250 milhões para expansão da banda larga appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "90d1f83779",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Senado acelera projeto que acaba com quarentena política para diretores da Anatel",
+   "link": "https://telesintese.com.br/senado-acelera-projeto-que-acaba-com-quarentena-politica-para-diretores-da-anatel/",
+   "ts": 1795804638,
+   "summary": "Substitutivo de Eliziane Gama elimina restrição de 36 meses para posse de dirigentes das agências reguladoras e preserva a Lei das Estatais. O post Senado acelera projeto que acaba com quarentena política para diretores da Anatel apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2024/11/esplanada_imagem_aerea_foto_geraldo_magela_agencia_senado_4.jpg"
+  },
+  {
+   "id": "547ce19322",
+   "src": "IPNews",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná",
+   "link": "https://ipnews.com.br/brasil-tecpar-conclui-aquisicao-da-ligga-e-reforca-presenca-no-parana/",
+   "ts": 1795804256,
+   "summary": "Operadora paranaense mantém marca e serviços após integração à evo, que passa a incorporar sua infraestrutura e carteira de clientes The post Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "f461c771f1",
+   "src": "TeleSemana",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "LATAM",
+   "title": "China Unicom completa una evaluación en red comercial de la gestión autónoma de fallas del núcleo",
+   "link": "https://www.telesemana.com/blog/2026/11/27/china-unicom-completa-una-evaluacion-en-red-comercial-de-la-gestion-autonoma-de-fallas-del-nucleo/",
+   "ts": 1795804106,
+   "summary": "China Unicom informó que completó una evaluación de la gestión autónoma de fallas sobre su red central en operación. La prueba fue realizada por la Academia China de Tecnología de la Información y las Comunicaciones (CAICT) y posteriormente validada por TM Forum, según el comunicado de la operadora. El ejercicio utilizó el estándar TS1523B, desarrollado por ambas organizaciones para evaluar funcio",
+   "img": null
+  },
+  {
+   "id": "241496ebdf",
+   "src": "TeleSemana",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "LATAM",
+   "title": "Elisa y Drei activan roaming comercial 5G SA entre Finlandia y Austria",
+   "link": "https://www.telesemana.com/blog/2026/11/27/elisa-y-drei-activan-roaming-comercial-5g-sa-entre-finlandia-y-austria/",
+   "ts": 1795803979,
+   "summary": "Elisa y Hutchison Drei Austria anunciaron la activación de una conexión comercial de roaming 5G SA entre Finlandia y Austria, apoyada en la plataforma de interconexión de BICS, compañía de Proximus Global. Las empresas describen el servicio como el primero de este tipo en Europa y afirman que ya opera comercialmente, después de una etapa previa de interoperabilidad. En la práctica, los clientes y ",
+   "img": null
   },
   {
    "id": "e00e2192ae",
@@ -250,28 +243,16 @@
    "img": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
   },
   {
-   "id": "c0ccd35f22",
-   "src": "IPNews",
+   "id": "d8ef777278",
+   "src": "Convergência Digital",
    "lang": "PT",
    "sec": "telecom",
-   "region": "GLOBAL",
-   "title": "Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre",
-   "link": "https://ipnews.com.br/vendas-de-switches-ethernet-para-redes-de-ia-mais-que-dobram-no-terceiro-trimestre/",
-   "ts": 1795795214,
-   "summary": "Mercado de redes back-end para inteligência artificial avança com implantação em escala de novas arquiteturas e aceleração dos equipamentos de 1,6 Tbps, segundo a Dell’Oro Group The post Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre appeared first on IPNews - O Portal da Conectividade .",
+   "region": "BR",
+   "title": "TCU vai contratar até cinco provedores de nuvem pública para conectar data centers",
+   "link": "https://convergenciadigital.com.br/governo/tcu-vai-contratar-ate-cinco-provedores-de-nuvem-publica-para-conectar-data-centers/",
+   "ts": 1795794927,
+   "summary": "Contratação prevê conexões privadas com até cinco data centers de provedores de computação em nuvem, pelo período de 30 meses. Não há referência a valores de contratação.",
    "img": null
-  },
-  {
-   "id": "1cfe3a204d",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "telecom",
-   "region": "LATAM",
-   "title": "CMR-27: GSMA identifica tres prioridades para el futuro del espectro móvil",
-   "link": "https://dplnews.com/4-5-ghz-7-ghz-y-conectividad-satelital-d2d-las-prioridades-de-espectro-para-la-cmr-27-segun-gsma/",
-   "ts": 1795794646,
-   "summary": "La GSMA presentó sus prioridades para la Conferencia Mundial de Radiocomunicaciones de 2027 (CMR-27), con énfasis en la identificación de nuevas bandas de espectro para ampliar la capacidad de las redes móviles, habilitar la conectividad satelital directa a dispositivos (D2D) sin perjudicar las redes existentes y reducir la brecha digital mediante el uso de bandas […]",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_gsma-luciana-camargos_271126sd-scaled.jpg"
   },
   {
    "id": "4dabad42ab",
@@ -284,42 +265,6 @@
    "ts": 1795794300,
    "summary": "biobiochile.cl La Subsecretaría de Telecomunicaciones (Subtel), lanzó recientemente su último Reporte Mensual de Portabilidad, donde periódicamente revelan las preferencias de los usuarios en este área. De acuerdo con el informe, Claro ha mantenido liderazgo en la industria móvil, con 315.197 portaciones netas entre enero y septiembre de este año, liderando durante 26 meses. Lee más.",
    "img": "https://dplnews.com/wp-content/uploads/2026/09/Claro-Plaza-Norte-foto-1.JPG-1-scaled-e1789060112162.jpeg"
-  },
-  {
-   "id": "b2295aeb13",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "V.tal compra empresa de infraestrutura móvel AP WIP Tower",
-   "link": "https://teletime.com.br/27/11/2026/v-tal-compra-ap-wip-tower/",
-   "ts": 1795791069,
-   "summary": "V.tal amplia o seu parque de infraestrutura de rede móvel com 64 novos sites, espalhados por 15 cidades de oito estados, nas regiões Norte, Nordeste e Sul; empresa adquirida é especializada em Street Level Solutions (SLS), incluindo antenas e rádios instalados em postes e no mobiliário urbano para reforçar o sinal das operadoras",
-   "img": "https://teletime.com.br/wp-content/uploads/2025/11/contrato-acordo-negocio-freepik-534x462.webp"
-  },
-  {
-   "id": "e311c620db",
-   "src": "Impacto TIC",
-   "lang": "ES",
-   "sec": "telecom",
-   "region": "LATAM",
-   "title": "Colombia Compra Eficiente propone reglas para comprar y usar IA",
-   "link": "https://impactotic.co/formatos/noticias-tic/colombia-compra-eficiente-ia-contratacion-estatal/",
-   "ts": 1795788282,
-   "summary": "La Agencia Nacional de Contratación Pública publicó el borrador de una guía sobre Inteligencia Artificial (IA) en la contratación estatal. Recibe comentarios hasta el 10 de diciembre de 2026.",
-   "img": null
-  },
-  {
-   "id": "c2f9e6b6bf",
-   "src": "DCD en español",
-   "lang": "ES",
-   "sec": "dc",
-   "region": "LATAM",
-   "title": "OVHcloud despliega 60.000 GPU Blackwell y LLM soberanos en Europa",
-   "link": "https://www.datacenterdynamics.com/es/noticias/ovhcloud-despliega-60000-gpu-blackwell-y-llm-soberanos-en-europa/",
-   "ts": 1795783403,
-   "summary": "En paralelo, su alianza con Qwant, Shadow (Blade) y European Search Perspective (EUSP) crea una cadena de IA 100 % europea.",
-   "img": "https://media.datacenterdynamics.com/media/images/2019_DEC_FR_PARIS_IMAGE_0119_BD.d3de65fc.fill-750x500.jpg"
   },
   {
    "id": "a2de1b93f9",
@@ -337,13 +282,25 @@
    "id": "440a596a64",
    "src": "Bloomberg",
    "lang": "EN",
-   "sec": "business",
+   "sec": "tech",
    "region": "GLOBAL",
    "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
    "ts": 1795779946,
    "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
    "img": null
+  },
+  {
+   "id": "75862c30a9",
+   "src": "DCD en español",
+   "lang": "ES",
+   "sec": "dc",
+   "region": "LATAM",
+   "title": "NxN compra Occentus y amplía sus servicios para centros de datos",
+   "link": "https://www.datacenterdynamics.com/es/noticias/nxn-compra-occentus-y-ampl%C3%ADa-sus-servicios-para-centros-de-datos/",
+   "ts": 1795778108,
+   "summary": "La adquisición incorpora a diez profesionales, entre ellos los fundadores de Occentus, Lucía Mundina y Daniel Rodríguez.",
+   "img": "https://media.datacenterdynamics.com/media/images/NxN_Madrid.2e16d0ba.fill-750x500.jpg"
   },
   {
    "id": "73ba92bcaf",
