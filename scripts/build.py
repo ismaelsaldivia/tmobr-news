@@ -54,11 +54,12 @@ def image_of(e):
 
 
 # ---------------------------------------------------------------- editorial gate
-# Items from general-interest sources ("core": false in feeds.json) must mention the industry:
+# Every item must mention the industry and must not be about excluded topics (Black Friday, betting, sports...):
 # telecom operators and networks, satellites/subsea cables, data centers/cloud, AI and chips,
-# electric power for the digital economy, or cybersecurity. Specialist sources ("core": true) skip this gate.
+# electric power for the digital economy, or cybersecurity. The "core" flag in feeds.json marks specialist sources.
 import unicodedata
-INDUSTRY = re.compile(r"""telecom|telco|operador|operadora|carrier|\b[456]g\b|\blte\b|fibra optica|fiber|fibre|ftth|banda larga|banda ancha|broadband|espectro|spectrum|anatel|subtel|enacom|\bift\b|ursec|mintic|ministerio das comunicacoes|ministerio tic|satelit|satellite|starlink|kuiper|cabo submarino|cable submarino|subsea|submarine cable|roaming|torres de telecom|cell tower|provedor de internet|provedores|\bisp\b|abrint|\bclaro\b|\bvivo\b|telefonica|\btim\b|v\.tal|brisanet|unifique|giga\+|ligga|tecpar|highline|american tower|tigo|millicom|entel|movistar|america movil|liberty latin|at&t|verizon|t-mobile|vodafone|ericsson|nokia|huawei|data ?center|datacenter|centros? de datos|centros? de dados|hyperscal|hiperescal|colocation|nuvem|\bnube\b|\bcloud\b|\baws\b|azure|equinix|ascenty|scala data|odata|\belea\b|digital realty|inteligencia artificial|\bia\b|\bai\b|a\.i\.|genai|\bllm|openai|anthropic|nvidia|semicondut|semiconduct|\bchips?\b|\bgpus?\b|tsmc|ciberseguran|cybersecur|ciberataque|cyberattack|eletricidade|energia eletrica|electricidad|electricity|transmissao|transmision|power grid|renovav|renovabl|solar|eolica|wind power|baterias?|battery|aneel|leilao de energia|subasta|\bppa\b|megawatts?|\bmw\b|\bgw\b|gigawatts?|internet""")
+INDUSTRY = re.compile(r"""telecom|telco|operador|operadora|carrier|\b[456]g\b|\blte\b|fibra optica|fiber|fibre|ftth|banda larga|banda ancha|broadband|espectro|spectrum|anatel|subtel|enacom|\bift\b|ursec|mintic|ministerio das comunicacoes|ministerio tic|satelit|satellite|starlink|kuiper|cabo submarino|cable submarino|subsea|submarine cable|roaming|torres de telecom|cell tower|provedor de internet|provedores|\bisp\b|abrint|\bclaro\b|\bvivo\b|telefonica|\btim\b|v\.tal|brisanet|unifique|giga\+|ligga|tecpar|highline|american tower|tigo|millicom|entel|movistar|america movil|liberty latin|at&t|verizon|t-mobile|vodafone|ericsson|nokia|huawei|data ?center|datacenter|centros? de datos|centros? de dados|hyperscal|hiperescal|colocation|nuvem|\bnube\b|\bcloud\b|\baws\b|azure|equinix|ascenty|scala data|odata|\belea\b|digital realty|inteligencia artificial|\bia\b|\bai\b|a\.i\.|genai|\bllm|openai|anthropic|nvidia|semicondut|semiconduct|\bchips?\b|\bgpus?\b|tsmc|ciberseguran|cybersecur|ciberataque|cyberattack|eletricidade|energia eletrica|electricidad|electricity|transmissao|transmision|power grid|renovav|renovabl|solar|eolica|wind power|baterias?|battery|aneel|leilao de energia|subasta|\bppa\b|megawatts?|\bmw\b|\bgw\b|gigawatts?|internet|telefonia|chamadas|llamadas|portabilidad|celular|smartphone|movil|movel|postes|pirataria|pirateria|hacker|ataque|conectividad|troca de trafego|\bixp|hosting|comunicacoes|comunicaciones|q-day|quantum|cuantic|quantic""")
+BLOCK = re.compile(r"black friday|cyber monday|\bbets?\b|apuestas|ludopatia|cassino|casino|futebol|futbol|libertadores|copa do mundo|gastronom|receita|recipe")
 
 
 def norm(t):
@@ -67,7 +68,8 @@ def norm(t):
 
 
 def on_topic(x):
-    return bool(INDUSTRY.search(norm(x["title"] + " " + x["summary"])))
+    t = norm(x["title"] + " " + x["summary"])
+    return bool(INDUSTRY.search(t)) and not BLOCK.search(norm(x["title"]))
 
 
 # ---------------------------------------------------------------- collect
@@ -116,8 +118,8 @@ def collect():
                 "title": title, "link": e["link"], "ts": ts,
                 "summary": summary[:400], "img": image_of(e),
             }
-            if not f.get("core") and not on_topic(item):
-                continue  # general-interest source, story outside our industry
+            if not on_topic(item):
+                continue  # story outside our industry (applies to every source; specialist ones rarely fail it)
             items.append(item)
             n += 1
             if n >= PER_SOURCE:
