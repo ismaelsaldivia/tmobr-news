@@ -1,35 +1,35 @@
 {
- "updated_utc": "2026-11-28T14:26:12Z",
- "edition": "11:26",
+ "updated_utc": "2026-11-28T14:32:31Z",
+ "edition": "11:32",
  "curated": true,
  "chart": {
   "title": "Brasil tem 71,28 milhões de linhas 5G",
-  "value": "71.28 millones",
+  "value": "25.3%",
   "total": "",
-  "value_label": "linhas 5G",
+  "value_label": "share of 5G lines",
   "total_label": "",
   "id": "ecd91d2cf0"
  },
  "numbers": [
   {
    "value": "R$ 25 bilhões",
-   "label": "impacto econômico de data center de 100 MW",
+   "label": "economic benefit of 100 MW data center",
    "id": "4727bb936e"
   },
   {
-   "value": "R$ 147 bi",
-   "label": "investimento potencial em transmissão",
-   "id": "af64439fa3"
-  },
-  {
-   "value": "US$ 20,6 bilhões",
-   "label": "investimento previsto em data centers no México",
-   "id": "3d07e38332"
+   "value": "R$ 2,1 bilhões",
+   "label": "Axia sale of ISA Energia shares",
+   "id": "bf72aa42b4"
   },
   {
    "value": "R$ 250 milhões",
-   "label": "crédito para expansão da banda larga",
+   "label": "broadband credit for small providers",
    "id": "b3ee702f11"
+  },
+  {
+   "value": "US$ 481 bilhões",
+   "label": "GSMA spectrum renewal socioeconomic benefit",
+   "id": "284e5c55fa"
   }
  ],
  "items": [
@@ -82,6 +82,18 @@
    "img": null
   },
   {
+   "id": "e099dd595a",
+   "src": "Convergência Digital",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Prodesp restabelece fibra óptica e retoma Poupatempo e outros serviços públicos",
+   "link": "https://convergenciadigital.com.br/governo/prodesp-restabelece-fibra-optica-e-retoma-poupatempo-e-outros-servicos-publicos/",
+   "ts": 1795818638,
+   "summary": "Rompimento da fibra óptica foi causado porr terceiros na região de Taboão da Serra, em São Paulo.",
+   "img": null
+  },
+  {
    "id": "1090b49289",
    "src": "TeleSíntese",
    "lang": "PT",
@@ -130,6 +142,18 @@
    "img": "https://uploads.eixos.com.br/2026/08/Linhas-de-transmissao-de-energia-conectadas-a-hidreletrica-de-Itaipu-Foto-Caio-Coronel-Itaipu-Binacional-e1786397710128.webp"
   },
   {
+   "id": "68c095bb48",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Telebras muda regras de contratação para desenvolver soluções de IA",
+   "link": "https://telesintese.com.br/telebras-muda-regras-de-contratacao-para-desenvolver-solucoes-de-ia/",
+   "ts": 1795813918,
+   "summary": "Estatal incorpora ao regulamento de licitações mecanismo previsto no Marco Legal das Startups para desenvolver e testar novas tecnologias. O post Telebras muda regras de contratação para desenvolver soluções de IA apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2026/11/telebras-1.jpg"
+  },
+  {
    "id": "ecd91d2cf0",
    "src": "DPL News",
    "lang": "ES",
@@ -142,16 +166,16 @@
    "img": "https://dplnews.com/wp-content/uploads/2026/11/261126.png"
   },
   {
-   "id": "b0d949b5ba",
+   "id": "56f062d4f7",
    "src": "Convergência Digital",
    "lang": "PT",
-   "sec": "tech",
-   "region": "GLOBAL",
-   "title": "SAP é a mais nova gigante de TI a sofrer ataque hacker",
-   "link": "https://convergenciadigital.com.br/mercado/sap-e-a-mais-nova-gigante-de-ti-a-sofrer-ataque-hacker/",
-   "ts": 1795810753,
-   "summary": "Gigante alemã investiga intrusão em infraestrutura de código-fonte -GitHub - após relatos de acesso a tokens de autenticação de funcionários.",
-   "img": null
+   "sec": "dc",
+   "region": "BR",
+   "title": "Artur Coimbra: Fomento à indústria local não pode impedir aporte de curto prazo nos data centers",
+   "link": "https://convergenciadigital.com.br/governo/artur-coimbra-fomento-a-industria-local-nao-pode-impedir-aporte-de-curto-prazo-nos-data-centers/",
+   "ts": 1795808724,
+   "summary": "O coordenador do Grupo de Trabalho de Data Centers da dig.ia diz que a dispensa do imposto de importação passa a ser a maior atração do Redata.",
+   "img": "https://convergenciadigital.com.br/wp-content/uploads/2026/11/DigIA2026_900.jpg"
   },
   {
    "id": "3d07e38332",
@@ -166,58 +190,22 @@
    "img": "https://media.datacenterdynamics.com/media/images/Asamblea_2026_MEXDC.2e16d0ba.fill-750x500.jpg"
   },
   {
-   "id": "b3ee702f11",
-   "src": "IPNews",
+   "id": "21a79a4962",
+   "src": "TI Inside",
    "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Governo abre crédito de R$ 250 milhões para expansão da banda larga",
-   "link": "https://ipnews.com.br/governo-abre-credito-de-r-250-milhoes-para-expansao-da-banda-larga/",
-   "ts": 1795804765,
-   "summary": "Recursos do BID serão destinados a linhas de crédito para pequenos provedores que atendem municípios com até 30 mil habitantes; iniciativa tem potencial para alcançar 4.436 cidades e beneficiar 46 milhões de pessoas The post Governo abre crédito de R$ 250 milhões para expansão da banda larga appeared first on IPNews - O Portal da Conectividade .",
-   "img": null
-  },
-  {
-   "id": "90d1f83779",
-   "src": "TeleSíntese",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Senado acelera projeto que acaba com quarentena política para diretores da Anatel",
-   "link": "https://telesintese.com.br/senado-acelera-projeto-que-acaba-com-quarentena-politica-para-diretores-da-anatel/",
-   "ts": 1795804638,
-   "summary": "Substitutivo de Eliziane Gama elimina restrição de 36 meses para posse de dirigentes das agências reguladoras e preserva a Lei das Estatais. O post Senado acelera projeto que acaba com quarentena política para diretores da Anatel apareceu primeiro em TeleSíntese .",
-   "img": "https://telesintese.com.br/wp-content/uploads/2024/11/esplanada_imagem_aerea_foto_geraldo_magela_agencia_senado_4.jpg"
-  },
-  {
-   "id": "547ce19322",
-   "src": "IPNews",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná",
-   "link": "https://ipnews.com.br/brasil-tecpar-conclui-aquisicao-da-ligga-e-reforca-presenca-no-parana/",
-   "ts": 1795804256,
-   "summary": "Operadora paranaense mantém marca e serviços após integração à evo, que passa a incorporar sua infraestrutura e carteira de clientes The post Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná appeared first on IPNews - O Portal da Conectividade .",
-   "img": null
-  },
-  {
-   "id": "b1d7f499d7",
-   "src": "Financial Times",
-   "lang": "EN",
    "sec": "tech",
    "region": "GLOBAL",
-   "title": "Can AI crack encryption?",
-   "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
-   "ts": 1795803411,
-   "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
-   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a5989b-4e45-4fef-ad2a-56142542bcab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+   "title": "Hackers invadem a principal plataforma de computação Cloud One da Força Aérea dos EUA",
+   "link": "https://tiinside.com.br/27/11/2026/hackers-invadem-a-principal-plataforma-de-computacao-cloud-one-da-forca-aerea-dos-eua/",
+   "ts": 1795803620,
+   "summary": "Hackers invadiram a principal plataforma de computação em nuvem da Força Aérea dos EUA, em um acontecimento que pode colocar em risco uma vasta quantidade de dados táticos, de pessoal e de logística confidenciais. A intrusão na Cloud One foi descoberta no último mês, aproximadamente, durante trabalhos para atualizar o sistema e a descoberta causou interrupções em toda a plataforma. A identidade do",
+   "img": "https://tiinside.com.br/wp-content/uploads/2026/11/pexels-quachtungduong-32543025.jpg"
   },
   {
    "id": "e00e2192ae",
    "src": "Bloomberg",
    "lang": "EN",
-   "sec": "business",
+   "sec": "telecom",
    "region": "GLOBAL",
    "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
    "link": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
@@ -262,22 +250,10 @@
    "img": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
   },
   {
-   "id": "94c907c871",
-   "src": "DPL News",
-   "lang": "ES",
-   "sec": "tech",
-   "region": "LATAM",
-   "title": "GM integra asistencia con IA a través de Gemini en sus vehículos",
-   "link": "https://dplnews.com/gm-integrara-asistencia-ia-gemini-vehiculos/",
-   "ts": 1795795320,
-   "summary": "Google Gemini llega a México como asistente de IA en vehículos Chevrolet, Buick, GMC y Cadillac modelo 2023 en adelante, en una apuesta de GM por la movilidad inteligente.",
-   "img": "https://dplnews.com/wp-content/uploads/2026/11/GM_OnStar-Gemini.jpg"
-  },
-  {
    "id": "c0ccd35f22",
    "src": "IPNews",
    "lang": "PT",
-   "sec": "dc",
+   "sec": "telecom",
    "region": "GLOBAL",
    "title": "Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre",
    "link": "https://ipnews.com.br/vendas-de-switches-ethernet-para-redes-de-ia-mais-que-dobram-no-terceiro-trimestre/",
@@ -286,16 +262,16 @@
    "img": null
   },
   {
-   "id": "5d4bc3f6e2",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
+   "id": "1cfe3a204d",
+   "src": "DPL News",
+   "lang": "ES",
    "sec": "telecom",
-   "region": "GLOBAL",
-   "title": "BAIT plans 100 cell towers to expand Altán's network in Mexico",
-   "link": "https://www.datacenterdynamics.com/en/news/bait-will-build-100-radio-bases-to-expand-the-altan-network/",
-   "ts": 1795795200,
-   "summary": "BAIT will no longer be merely a customer of the wholesale network but help build it",
-   "img": "https://media.datacenterdynamics.com/media/images/Antena_Telecomunicaciones.2e16d0ba.fill-750x500.jpg"
+   "region": "LATAM",
+   "title": "CMR-27: GSMA identifica tres prioridades para el futuro del espectro móvil",
+   "link": "https://dplnews.com/4-5-ghz-7-ghz-y-conectividad-satelital-d2d-las-prioridades-de-espectro-para-la-cmr-27-segun-gsma/",
+   "ts": 1795794646,
+   "summary": "La GSMA presentó sus prioridades para la Conferencia Mundial de Radiocomunicaciones de 2027 (CMR-27), con énfasis en la identificación de nuevas bandas de espectro para ampliar la capacidad de las redes móviles, habilitar la conectividad satelital directa a dispositivos (D2D) sin perjudicar las redes existentes y reducir la brecha digital mediante el uso de bandas […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_gsma-luciana-camargos_271126sd-scaled.jpg"
   },
   {
    "id": "4dabad42ab",
@@ -310,22 +286,22 @@
    "img": "https://dplnews.com/wp-content/uploads/2026/09/Claro-Plaza-Norte-foto-1.JPG-1-scaled-e1789060112162.jpeg"
   },
   {
-   "id": "6963d1f744",
-   "src": "DatacenterDynamics",
-   "lang": "EN",
-   "sec": "tech",
-   "region": "GLOBAL",
-   "title": "Sony spin-off Altair targets Edge AI connectivity with $100m raise - report",
-   "link": "https://www.datacenterdynamics.com/en/news/sony-spin-off-altair-targets-edge-ai-connectivity-with-100m-raise-report/",
-   "ts": 1795792359,
-   "summary": "Chipsets already testing with Ericsson amid AI-enabled wearables pivot",
-   "img": "https://media.datacenterdynamics.com/media/images/alt1250.2e16d0ba.fill-750x500.jpg"
+   "id": "b2295aeb13",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "V.tal compra empresa de infraestrutura móvel AP WIP Tower",
+   "link": "https://teletime.com.br/27/11/2026/v-tal-compra-ap-wip-tower/",
+   "ts": 1795791069,
+   "summary": "V.tal amplia o seu parque de infraestrutura de rede móvel com 64 novos sites, espalhados por 15 cidades de oito estados, nas regiões Norte, Nordeste e Sul; empresa adquirida é especializada em Street Level Solutions (SLS), incluindo antenas e rádios instalados em postes e no mobiliário urbano para reforçar o sinal das operadoras",
+   "img": "https://teletime.com.br/wp-content/uploads/2025/11/contrato-acordo-negocio-freepik-534x462.webp"
   },
   {
    "id": "e311c620db",
    "src": "Impacto TIC",
    "lang": "ES",
-   "sec": "tech",
+   "sec": "telecom",
    "region": "LATAM",
    "title": "Colombia Compra Eficiente propone reglas para comprar y usar IA",
    "link": "https://impactotic.co/formatos/noticias-tic/colombia-compra-eficiente-ia-contratacion-estatal/",
@@ -346,18 +322,6 @@
    "img": "https://media.datacenterdynamics.com/media/images/2019_DEC_FR_PARIS_IMAGE_0119_BD.d3de65fc.fill-750x500.jpg"
   },
   {
-   "id": "f6ded91f4a",
-   "src": "Bloomberg",
-   "lang": "EN",
-   "sec": "tech",
-   "region": "GLOBAL",
-   "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
-   "ts": 1795782604,
-   "summary": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
-   "img": null
-  },
-  {
    "id": "a2de1b93f9",
    "src": "Light Reading",
    "lang": "EN",
@@ -370,16 +334,28 @@
    "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfa175fd84aa00ceb/6868e16be47565c3554bfcdf/South_Korea_flag_blowing_in_the_wind.jpeg?width=720&quality=80&disable=upscale"
   },
   {
-   "id": "6075bad2a5",
-   "src": "Teletime",
-   "lang": "PT",
-   "sec": "telecom",
-   "region": "BR",
-   "title": "Novas regras para nomeação de agências podem afetar Anatel",
-   "link": "https://teletime.com.br/27/11/2026/novas-regras-para-nomeacao-de-agencias-podem-afetar-anatel/",
-   "ts": 1795748446,
-   "summary": "Nomes das senadoras Daniella Ribeiro e Eliziane Gama aparecem como cotados para o setor de telecomunicações, a depender da aprovação das mudanças na lei das agências e da composição política do governo com os partidos que comporão a base",
-   "img": "https://teletime.com.br/wp-content/uploads/2022/08/office-chair-6795421_1920-534x462.jpeg"
+   "id": "440a596a64",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "region": "GLOBAL",
+   "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+   "ts": 1795779946,
+   "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+   "img": null
+  },
+  {
+   "id": "73ba92bcaf",
+   "src": "The New York Times",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+   "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
+   "ts": 1795747541,
+   "summary": "The shipping halt, which hit four countries, follows a new U.S. rule that would require licenses for companies in the countries to buy advanced A.I. chips.",
+   "img": "https://static01.nyt.com/images/2026/11/26/multimedia/26nvidia-SEAsia-wvmq/26nvidia-SEAsia-wvmq-mediumSquareAt3X.jpg"
   }
  ]
 }
