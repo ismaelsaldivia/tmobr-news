@@ -1,10 +1,50 @@
 {
- "updated_utc": "2026-11-28T14:22:51Z",
- "edition": "11:22",
+ "updated_utc": "2026-11-28T14:26:12Z",
+ "edition": "11:26",
  "curated": true,
- "chart": null,
- "numbers": [],
+ "chart": {
+  "title": "Brasil tem 71,28 milhões de linhas 5G",
+  "value": "71.28 millones",
+  "total": "",
+  "value_label": "linhas 5G",
+  "total_label": "",
+  "id": "ecd91d2cf0"
+ },
+ "numbers": [
+  {
+   "value": "R$ 25 bilhões",
+   "label": "impacto econômico de data center de 100 MW",
+   "id": "4727bb936e"
+  },
+  {
+   "value": "R$ 147 bi",
+   "label": "investimento potencial em transmissão",
+   "id": "af64439fa3"
+  },
+  {
+   "value": "US$ 20,6 bilhões",
+   "label": "investimento previsto em data centers no México",
+   "id": "3d07e38332"
+  },
+  {
+   "value": "R$ 250 milhões",
+   "label": "crédito para expansão da banda larga",
+   "id": "b3ee702f11"
+  }
+ ],
  "items": [
+  {
+   "id": "43d7d8b18d",
+   "src": "Submarine Networks",
+   "lang": "EN",
+   "sec": "telecom",
+   "region": "GLOBAL",
+   "title": "EU Grants €11.1 Million for Medusa Submarine Cable Extension to Jordan",
+   "link": "https://www.submarinenetworks.com/en/systems/asia-europe-africa/medusa/eu-grants-%E2%82%AC11-1-million-for-medusa-submarine-cable-extension-to-jordan",
+   "ts": 1795842828,
+   "summary": "EU Global Gateway Medusa Submarine Cable €11.1M EU Grant AFR-IX Telecom & NaiTel Aqaba Digital Hub On November 19, 2026, the European Union (EU) and the European Investment Bank (EIB) announced an €11.1 million (approx. US$12.1–$12.2 million) grant to extend the Medusa Submarine Cable System from Egypt to Jordan. Operating under the EU’s Global Gateway strategy and the Pact for the Mediterranean ,",
+   "img": null
+  },
   {
    "id": "1a17dda5b2",
    "src": "Teletime",
@@ -18,16 +58,328 @@
    "img": "https://teletime.com.br/wp-content/uploads/2019/10/fist-424500_1920-534x462.jpg"
   },
   {
-   "id": "33518b2f01",
-   "src": "Mobile Time",
+   "id": "0d55602c61",
+   "src": "Agência iNFRA",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "BR",
+   "title": "ANEEL mantém bandeira tarifária verde em dezembro",
+   "link": "https://agenciainfra.com/blog/aneel-mantem-bandeira-tarifaria-verde-em-dezembro/?utm_source=rss&utm_medium=rss&utm_campaign=aneel-mantem-bandeira-tarifaria-verde-em-dezembro",
+   "ts": 1795819422,
+   "summary": "da Agência iNFRA A ANEEL (Agência Nacional de Energia Elétrica) anunciou, nesta sexta-feira (27), a manutenção da bandeira tarifária verde em dezembro, sem cobrança adicional nas contas de energia elétrica. Este será o terceiro mês consecutivo sem acréscimos referentes às bandeiras tarifárias. Segundo a agência, o período chuvoso favoreceu a recuperação dos níveis dos reservatórios […] O post ANEE",
+   "img": "https://agenciainfra.com/blog/wp-content/uploads/2026/11/Banner-AD1-1800x160-3.png"
+  },
+  {
+   "id": "32fda0add6",
+   "src": "IPNews",
    "lang": "PT",
    "sec": "telecom",
    "region": "BR",
-   "title": "Philippe Kahn, o homem por trás das câmeras — do celular",
-   "link": "https://www.mobiletime.com.br/museu-movel/27/11/2026/philippe-kahn-cameras/",
-   "ts": 1795820063,
-   "summary": "Em 1997, o francês criou uma gambiarra para enviar imediatamente o primeiro registro fotográfico de sua filha",
-   "img": "https://www.mobiletime.com.br/wp-content/uploads/2026/11/image.imageformat.carousel.dpr2_.166884725-300x150.jpg"
+   "title": "S&P eleva rating da Giga+ para brA após melhora operacional",
+   "link": "https://ipnews.com.br/sp-eleva-rating-da-giga-para-bra-apos-melhora-operacional/",
+   "ts": 1795818919,
+   "summary": "Agência também altera perspectiva de negativa para estável, citando aumento da margem EBITDA, redução da alavancagem e reforço dos controles internos da operadora The post S&P eleva rating da Giga+ para brA após melhora operacional appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "1090b49289",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Funttel formaliza contrato de R$ 184,5 milhões com a Finep",
+   "link": "https://telesintese.com.br/funttel-formaliza-contrato-de-r-1845-milhoes-com-a-finep/",
+   "ts": 1795815411,
+   "summary": "Financiamento prevê cinco anos de carência e amortização em 20 parcelas anuais; recursos serão aplicados em inovação em telecomunicações. O post Funttel formaliza contrato de R$ 184,5 milhões com a Finep apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2023/06/dinheiro-real-freepik-2023.jpg"
+  },
+  {
+   "id": "4727bb936e",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "BR",
+   "title": "Data center de 100 MW gera 12 mil empregos e R$ 25 bilhões ao Brasil, diz FGV",
+   "link": "https://teletime.com.br/27/11/2026/data-center-de-100-mw-fgv/",
+   "ts": 1795815158,
+   "summary": "Relatório da FGV aponta benefícios econômicos para o Brasil levando em conta a instalação de data centers de 100 MW; empregos diretos, indiretos e induzidos em outros setores pode alcançar 37,2 mil vagas; apesar do potencial, País enfrente gargalos de governança e de mapeamento da rede elétrica, avalia responsável pelo estudo",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/11/Charles-Correa-Schramm-FGV-forum-digia-534x462.webp"
+  },
+  {
+   "id": "9231269dfb",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Comissão do Senado recomenda criação de Agência Nacional de Cibersegurança",
+   "link": "https://teletime.com.br/27/11/2026/agencia-nacional-ciberseguranca/",
+   "ts": 1795815047,
+   "summary": "Documento também resgata a proposta apresentada pelo Gabinete de Segurança Institucional (GSI), em outubro de 2025, de transformar a Anatel em Autoridade Nacional de Cibersegurança",
+   "img": "https://teletime.com.br/wp-content/uploads/2026/01/IMG_9338-534x462.webp"
+  },
+  {
+   "id": "af64439fa3",
+   "src": "eixos",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "BR",
+   "title": "Brasil pode atrair mais de R$ 147 bi em investimentos na transmissão de energia, diz PDE 2036",
+   "link": "https://eixos.com.br/politica/brasil-pode-atrair-mais-de-r-147-bi-em-investimentos-na-transmissao-de-energia-diz-pde-2036/",
+   "ts": 1795814730,
+   "summary": "Projeção pessimista, que considera somente a implantação dos empreendimentos outorgados, tem investimento esperado de R$ 72,8 bilhões O post Brasil pode atrair mais de R$ 147 bi em investimentos na transmissão de energia, diz PDE 2036 apareceu primeiro em eixos .",
+   "img": "https://uploads.eixos.com.br/2026/08/Linhas-de-transmissao-de-energia-conectadas-a-hidreletrica-de-Itaipu-Foto-Caio-Coronel-Itaipu-Binacional-e1786397710128.webp"
+  },
+  {
+   "id": "ecd91d2cf0",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Digital Metrics | Una de cada cuatro líneas móviles en Brasil es 5G",
+   "link": "https://dplnews.com/una-de-cuatro-lineas-moviles-es-5g-brasil/",
+   "ts": 1795811220,
+   "summary": "A septiembre de 2026, había 71.28 millones de líneas móviles 5G en Brasil. La cifra es 33% superior a lo informado un año atrás y representa el 25.3% del total de líneas registradas por la Agencia Nacional de Telecomunicaciones (Anatel). El 4G se mantiene como tecnología dominante mientras que 3G y 2G perdieron peso en […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/261126.png"
+  },
+  {
+   "id": "b0d949b5ba",
+   "src": "Convergência Digital",
+   "lang": "PT",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "SAP é a mais nova gigante de TI a sofrer ataque hacker",
+   "link": "https://convergenciadigital.com.br/mercado/sap-e-a-mais-nova-gigante-de-ti-a-sofrer-ataque-hacker/",
+   "ts": 1795810753,
+   "summary": "Gigante alemã investiga intrusão em infraestrutura de código-fonte -GitHub - após relatos de acesso a tokens de autenticação de funcionários.",
+   "img": null
+  },
+  {
+   "id": "3d07e38332",
+   "src": "DCD Brasil",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "BR",
+   "title": "México prevê investimento de 20,6 bilhões de dólares para expandir seus data centers",
+   "link": "https://www.datacenterdynamics.com/br/not%C3%ADcias/mexico-preve-20-600-milhoes-de-dolares-para-expandir-os-seus-centros-de-dados/",
+   "ts": 1795808400,
+   "summary": "MEXDC estima a capacidade instalada do país em 279 MW, com outros 205 MW em construção e mais de 1.730 MW anunciados para os próximos cinco anos",
+   "img": "https://media.datacenterdynamics.com/media/images/Asamblea_2026_MEXDC.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "b3ee702f11",
+   "src": "IPNews",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Governo abre crédito de R$ 250 milhões para expansão da banda larga",
+   "link": "https://ipnews.com.br/governo-abre-credito-de-r-250-milhoes-para-expansao-da-banda-larga/",
+   "ts": 1795804765,
+   "summary": "Recursos do BID serão destinados a linhas de crédito para pequenos provedores que atendem municípios com até 30 mil habitantes; iniciativa tem potencial para alcançar 4.436 cidades e beneficiar 46 milhões de pessoas The post Governo abre crédito de R$ 250 milhões para expansão da banda larga appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "90d1f83779",
+   "src": "TeleSíntese",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Senado acelera projeto que acaba com quarentena política para diretores da Anatel",
+   "link": "https://telesintese.com.br/senado-acelera-projeto-que-acaba-com-quarentena-politica-para-diretores-da-anatel/",
+   "ts": 1795804638,
+   "summary": "Substitutivo de Eliziane Gama elimina restrição de 36 meses para posse de dirigentes das agências reguladoras e preserva a Lei das Estatais. O post Senado acelera projeto que acaba com quarentena política para diretores da Anatel apareceu primeiro em TeleSíntese .",
+   "img": "https://telesintese.com.br/wp-content/uploads/2024/11/esplanada_imagem_aerea_foto_geraldo_magela_agencia_senado_4.jpg"
+  },
+  {
+   "id": "547ce19322",
+   "src": "IPNews",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná",
+   "link": "https://ipnews.com.br/brasil-tecpar-conclui-aquisicao-da-ligga-e-reforca-presenca-no-parana/",
+   "ts": 1795804256,
+   "summary": "Operadora paranaense mantém marca e serviços após integração à evo, que passa a incorporar sua infraestrutura e carteira de clientes The post Brasil TecPar conclui aquisição da Ligga e reforça presença no Paraná appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "b1d7f499d7",
+   "src": "Financial Times",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Can AI crack encryption?",
+   "link": "https://www.ft.com/content/1a29e62d-b18d-4bad-937d-34f3eae0587a?syn-25a6b1a6=1",
+   "ts": 1795803411,
+   "summary": "New models’ advancing capabilities raise concerns over the risks of data leaks in banking and commerce",
+   "img": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9a5989b-4e45-4fef-ad2a-56142542bcab.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down"
+  },
+  {
+   "id": "e00e2192ae",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "business",
+   "region": "GLOBAL",
+   "title": "Verizon in Talks to Buy Fidium in $6 Billion Deal, FT Says",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/verizon-in-talks-to-buy-fidium-in-6-billion-deal-ft-says",
+   "ts": 1795803177,
+   "summary": "Verizon Communications Inc. is in talks to buy the broadband operator Fidium in a $6 billion deal, the Financial Times reported, a move that would expand its network and allow the mobile giant to target more internet service subscribers across the US.",
+   "img": null
+  },
+  {
+   "id": "a6ae9016fa",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "LATAM",
+   "title": "Tigo obtiene los reconocimientos de Ookla a la red fija y móvil 5G más rápidas de Colombia",
+   "link": "https://dplnews.com/tigo-obtiene-los-reconocimientos-de-ookla-a-la-red-fija-y-movil-5g-mas-rapidas-de-colombia/",
+   "ts": 1795802580,
+   "summary": "Tigo fue reconocido por Ookla como el operador con la red móvil 5G y la red fija más rápidas de Colombia durante el primer semestre de 2026, de acuerdo con los resultados de Speedtest Awards, que evaluaron el desempeño de los servicios de conectividad en el país. En la categoría de red móvil 5G, Tigo […]",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnews_tigo-col-ookla_271126sd.png"
+  },
+  {
+   "id": "21b9906f03",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "LATAM",
+   "title": "Perú aprueba nuevo régimen de renovación de concesiones de telecomunicaciones",
+   "link": "https://dplnews.com/peru-aprueba-nuevo-regimen-renovacion-concesiones-telecomunicaciones/",
+   "ts": 1795800628,
+   "summary": "El nuevo régimen de renovación de concesiones contempla dos modalidades: regular y simplificada, y apunta a promover el despliegue de infraestructura y la modernización de redes de telecomunicaciones, especialmente en zonas rurales y de preferente interés social.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/dplnewsMTC_rp27112026.jpg"
+  },
+  {
+   "id": "24856cc240",
+   "src": "Cinco Días",
+   "lang": "ES",
+   "sec": "business",
+   "region": "GLOBAL",
+   "title": "La alemana SAP planea 10.000 despidos, el 9% de su plantilla, para adaptar sus operaciones a la IA",
+   "link": "https://cincodias.elpais.com/companias/2026-11-27/la-alemana-sap-planea-10000-despidos-el-9-de-su-plantilla-para-adaptar-sus-operaciones-a-la-ia.html",
+   "ts": 1795798669,
+   "summary": "La compañía de software más valiosa de Europa solicita a todos los departamentos que identifiquen áreas susceptibles de recortes",
+   "img": "https://imagenes.elpais.com/resizer/v2/L2TZHRGJTJJIBEXNP64CICGHHA.jpg?auth=4f18e55e54b76e0073c1519f0adfa43f3492074c0dd6622850cbe7b34df93404"
+  },
+  {
+   "id": "94c907c871",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "tech",
+   "region": "LATAM",
+   "title": "GM integra asistencia con IA a través de Gemini en sus vehículos",
+   "link": "https://dplnews.com/gm-integrara-asistencia-ia-gemini-vehiculos/",
+   "ts": 1795795320,
+   "summary": "Google Gemini llega a México como asistente de IA en vehículos Chevrolet, Buick, GMC y Cadillac modelo 2023 en adelante, en una apuesta de GM por la movilidad inteligente.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/11/GM_OnStar-Gemini.jpg"
+  },
+  {
+   "id": "c0ccd35f22",
+   "src": "IPNews",
+   "lang": "PT",
+   "sec": "dc",
+   "region": "GLOBAL",
+   "title": "Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre",
+   "link": "https://ipnews.com.br/vendas-de-switches-ethernet-para-redes-de-ia-mais-que-dobram-no-terceiro-trimestre/",
+   "ts": 1795795214,
+   "summary": "Mercado de redes back-end para inteligência artificial avança com implantação em escala de novas arquiteturas e aceleração dos equipamentos de 1,6 Tbps, segundo a Dell’Oro Group The post Vendas de switches Ethernet para redes de IA mais que dobram no terceiro trimestre appeared first on IPNews - O Portal da Conectividade .",
+   "img": null
+  },
+  {
+   "id": "5d4bc3f6e2",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "telecom",
+   "region": "GLOBAL",
+   "title": "BAIT plans 100 cell towers to expand Altán's network in Mexico",
+   "link": "https://www.datacenterdynamics.com/en/news/bait-will-build-100-radio-bases-to-expand-the-altan-network/",
+   "ts": 1795795200,
+   "summary": "BAIT will no longer be merely a customer of the wholesale network but help build it",
+   "img": "https://media.datacenterdynamics.com/media/images/Antena_Telecomunicaciones.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "4dabad42ab",
+   "src": "DPL News",
+   "lang": "ES",
+   "sec": "telecom",
+   "region": "LATAM",
+   "title": "Chile | Reporte Subtel: Claro lidera en portabilidad móvil y suma más de 315 mil portaciones netas en 2026",
+   "link": "https://dplnews.com/chile-reporte-subtel-claro-lidera-en-portabilidad-movil-y-suma-mas-de-315-mil-portaciones-netas-en-2026/",
+   "ts": 1795794300,
+   "summary": "biobiochile.cl La Subsecretaría de Telecomunicaciones (Subtel), lanzó recientemente su último Reporte Mensual de Portabilidad, donde periódicamente revelan las preferencias de los usuarios en este área. De acuerdo con el informe, Claro ha mantenido liderazgo en la industria móvil, con 315.197 portaciones netas entre enero y septiembre de este año, liderando durante 26 meses. Lee más.",
+   "img": "https://dplnews.com/wp-content/uploads/2026/09/Claro-Plaza-Norte-foto-1.JPG-1-scaled-e1789060112162.jpeg"
+  },
+  {
+   "id": "6963d1f744",
+   "src": "DatacenterDynamics",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Sony spin-off Altair targets Edge AI connectivity with $100m raise - report",
+   "link": "https://www.datacenterdynamics.com/en/news/sony-spin-off-altair-targets-edge-ai-connectivity-with-100m-raise-report/",
+   "ts": 1795792359,
+   "summary": "Chipsets already testing with Ericsson amid AI-enabled wearables pivot",
+   "img": "https://media.datacenterdynamics.com/media/images/alt1250.2e16d0ba.fill-750x500.jpg"
+  },
+  {
+   "id": "e311c620db",
+   "src": "Impacto TIC",
+   "lang": "ES",
+   "sec": "tech",
+   "region": "LATAM",
+   "title": "Colombia Compra Eficiente propone reglas para comprar y usar IA",
+   "link": "https://impactotic.co/formatos/noticias-tic/colombia-compra-eficiente-ia-contratacion-estatal/",
+   "ts": 1795788282,
+   "summary": "La Agencia Nacional de Contratación Pública publicó el borrador de una guía sobre Inteligencia Artificial (IA) en la contratación estatal. Recibe comentarios hasta el 10 de diciembre de 2026.",
+   "img": null
+  },
+  {
+   "id": "c2f9e6b6bf",
+   "src": "DCD en español",
+   "lang": "ES",
+   "sec": "dc",
+   "region": "LATAM",
+   "title": "OVHcloud despliega 60.000 GPU Blackwell y LLM soberanos en Europa",
+   "link": "https://www.datacenterdynamics.com/es/noticias/ovhcloud-despliega-60000-gpu-blackwell-y-llm-soberanos-en-europa/",
+   "ts": 1795783403,
+   "summary": "En paralelo, su alianza con Qwant, Shadow (Blade) y European Search Perspective (EUSP) crea una cadena de IA 100 % europea.",
+   "img": "https://media.datacenterdynamics.com/media/images/2019_DEC_FR_PARIS_IMAGE_0119_BD.d3de65fc.fill-750x500.jpg"
+  },
+  {
+   "id": "f6ded91f4a",
+   "src": "Bloomberg",
+   "lang": "EN",
+   "sec": "tech",
+   "region": "GLOBAL",
+   "title": "Poland Signs $300 Million Palantir Deal to Use AI in Defense",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/poland-signs-300-million-palantir-deal-to-use-ai-for-defense",
+   "ts": 1795782604,
+   "summary": "Poland will use artificial intelligence-based software from Palantir Technologies Inc. to analyze battlefield data, bucking a push by some European allies to reduce their reliance on US technology for critical defense capabilities.",
+   "img": null
+  },
+  {
+   "id": "a2de1b93f9",
+   "src": "Light Reading",
+   "lang": "EN",
+   "sec": "telecom",
+   "region": "GLOBAL",
+   "title": "South Korea wraps up nationwide 5G SA deployment, eyes tiered service plans",
+   "link": "https://www.lightreading.com/5g/south-korea-wraps-up-nationwide-5g-sa-deployment-eyes-tiered-service-plans",
+   "ts": 1795782121,
+   "summary": "South Korean carriers SKT, KT and LG Uplus are expected to redesign their consumer mobile packages as the country completes its transition to 5G SA networks.",
+   "img": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/bltfa175fd84aa00ceb/6868e16be47565c3554bfcdf/South_Korea_flag_blowing_in_the_wind.jpeg?width=720&quality=80&disable=upscale"
+  },
+  {
+   "id": "6075bad2a5",
+   "src": "Teletime",
+   "lang": "PT",
+   "sec": "telecom",
+   "region": "BR",
+   "title": "Novas regras para nomeação de agências podem afetar Anatel",
+   "link": "https://teletime.com.br/27/11/2026/novas-regras-para-nomeacao-de-agencias-podem-afetar-anatel/",
+   "ts": 1795748446,
+   "summary": "Nomes das senadoras Daniella Ribeiro e Eliziane Gama aparecem como cotados para o setor de telecomunicações, a depender da aprovação das mudanças na lei das agências e da composição política do governo com os partidos que comporão a base",
+   "img": "https://teletime.com.br/wp-content/uploads/2022/08/office-chair-6795421_1920-534x462.jpeg"
   }
  ]
 }
