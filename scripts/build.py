@@ -141,12 +141,34 @@ Items:
 """
 
 
+SCHEMA = {
+    "type": "object",
+    "properties": {
+        "picks": {"type": "array", "description": "One object per item worth publishing (expect 40 to 60).",
+                  "items": {"type": "object", "properties": {
+                      "id": {"type": "string"},
+                      "region": {"type": "string", "enum": ["BR", "LATAM", "GLOBAL"]},
+                      "sec": {"type": "string", "enum": ["business", "telecom", "dc", "tech"]},
+                      "story": {"type": "string"}},
+                      "required": ["id", "region", "sec", "story"]}},
+        "top": {"type": "array", "items": {"type": "string"}, "description": "4 ids, most important first."},
+        "chart": {"type": ["object", "null"], "properties": {
+            "title": {"type": "string"}, "value": {"type": "string"}, "total": {"type": "string"},
+            "value_label": {"type": "string"}, "total_label": {"type": "string"}, "id": {"type": "string"}}},
+        "numbers": {"type": "array", "items": {"type": "object", "properties": {
+            "value": {"type": "string"}, "label": {"type": "string"}, "id": {"type": "string"}},
+            "required": ["value", "label", "id"]}},
+    },
+    "required": ["picks", "top", "chart", "numbers"],
+}
+
+
 def call_claude(prompt):
     key = os.environ.get("ANTHROPIC_API_KEY", "").strip()
     body = json.dumps({
         "model": MODEL, "max_tokens": 16000,
-        "tools": [{"name": "submit", "description": "Return the requested JSON object.",
-                   "input_schema": {"type": "object", "additionalProperties": True}}],
+        "tools": [{"name": "submit", "description": "Submit the edition: every selected item in picks, the 4 top ids, the chart and the numbers.",
+                   "input_schema": SCHEMA}],
         "tool_choice": {"type": "tool", "name": "submit"},
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
