@@ -1,10 +1,7 @@
 name: Update TMOBR News
 
 on:
-  schedule:
-    - cron: "23 3 * * *"    # 00:23 Montevideo (GitHub demora ~6 h; sale cerca de las 07:00)
-    - cron: "23 13 * * *"   # 10:23 Montevideo (GitHub demora ~6 h; sale cerca de las 17:00)
-  workflow_dispatch:
+  workflow_dispatch:   # on demand only: button "Generate new edition" on www.tmobr.com -> Run workflow
 
 permissions:
   contents: write

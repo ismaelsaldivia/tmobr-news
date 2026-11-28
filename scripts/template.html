@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+<html lang="mul">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>TMOBR News · Business &amp; Technology</title>
-<meta name="description" content="Curated business, telecom, data center and technology headlines from English, Portuguese and Spanish sources. Every story links to its original publisher.">
+<meta name="description" content="Curated business, telecom, data center and technology headlines from Brazilian, Latin American and global sources, each in its original language. Every story links to its original publisher.">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta name="robots" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
 <meta name="googlebot" content="noindex, nofollow, noarchive, nosnippet, noimageindex">
@@ -61,6 +61,8 @@ nav.sec a:hover{color:var(--ink)}
 .src{color:var(--claret)}
 .ago{color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0}
 .lang{display:inline-block;font:700 10px/1 Inter,sans-serif;letter-spacing:.06em;padding:3px 5px;border:1px solid var(--teal);color:var(--teal)}
+.mast .r a.gen{display:inline-block;margin-top:6px;padding:5px 9px;border:1px solid var(--gold);color:var(--gold-lt);font:700 11px/1 Inter,sans-serif;letter-spacing:.06em;text-transform:uppercase}
+.mast .r a.gen:hover{background:var(--gold);color:var(--navy)}
 .lang.sm{padding:2px 4px;font-size:9px}
 .card h3{font-family:Fraunces,Georgia,serif;font-weight:600;font-size:19px;line-height:1.2;margin:0 0 6px;font-variation-settings:"opsz" 36}
 .card.lead h3{font-weight:800;font-size:40px;line-height:1.08;letter-spacing:-.01em;font-variation-settings:"opsz" 120}
@@ -159,11 +161,11 @@ footer{padding:26px 0 40px}
   <div class="in">
     <div class="l"><b>MONTEVIDEO</b>{{date}}</div>
     <div class="word"><div class="t">TMOBR NEWS</div><div class="s">BUSINESS &amp; TECHNOLOGY</div></div>
-    <div class="r"><b>{{edition}} EDITION</b>Updated daily 07:00 &amp; 17:00 (UYT)</div>
+    <div class="r"><b>EDITION {{edition}} UYT</b>Generated on demand<br><a class="gen" href="https://github.com/ismaelsaldivia/tmobr-news/actions/workflows/update.yml" target="_blank" rel="noopener">⟳ Generate new edition</a></div>
   </div>
 </header>
-<div class="strap"><span><b>Curated industry headlines.</b> Every story links to its original publisher.</span><span>{{nsources}} sources · English · Português · Español</span></div>
-<nav class="sec"><a href="#business">Business &amp; Markets</a><a href="#telecom">Telecom</a><a href="#dc">Data Centers &amp; Energy</a><a href="#tech">Technology</a><a href="#brazil">Brazil</a><a href="#latam">Latin America &amp; Iberia</a></nav>
+<div class="strap"><span><b>Curated industry headlines.</b> Every story links to its original publisher.</span><span>{{count}} stories · {{nsources}} sources · Brasil · América Latina · Global · each headline in its original language</span></div>
+<nav class="sec"><a href="#brasil">Brasil</a><a href="#latam">América Latina</a><a href="#business">Business &amp; Markets</a><a href="#telecom">Telecom</a><a href="#dc">Data Centers &amp; Energy</a><a href="#tech">Technology</a></nav>
 
 <div class="top">
   <main>
@@ -171,23 +173,23 @@ footer{padding:26px 0 40px}
       <div>{{lead}}</div>
       <div class="sidecol">{{lead2}}</div>
     </div>
-    <section class="section" id="business"><h2>Business &amp; Markets</h2><div class="grid3">{{business}}</div></section>
-    <section class="section" id="telecom"><h2>Telecom</h2><div class="grid3">{{telecom}}</div></section>
-    <section class="section" id="dc"><h2>Data Centers &amp; Energy</h2><div class="grid3">{{dc}}</div></section>
-    <section class="section" id="tech"><h2>Technology</h2><div class="grid3">{{tech}}</div></section>
-    <section class="section" id="brazil"><h2>Brazil &amp; Portugal <small>headlines translated from Portuguese</small></h2><div class="grid3">{{brazil}}</div></section>
-    <section class="section" id="latam"><h2>Latin America &amp; Iberia <small>headlines translated from Spanish</small></h2><div class="grid3">{{latam}}</div></section>
+    <section class="section" id="brasil"><h2>Brasil <small>prioridade 1 · telecom, data centers, energia, tecnologia e negócios</small></h2><div class="grid3">{{brasil}}</div></section>
+    <section class="section" id="latam"><h2>América Latina <small>prioridad 2</small></h2><div class="grid3">{{latam}}</div></section>
+    <section class="section" id="business"><h2>Business &amp; Markets <small>global</small></h2><div class="grid3">{{business}}</div></section>
+    <section class="section" id="telecom"><h2>Telecom <small>global</small></h2><div class="grid3">{{telecom}}</div></section>
+    <section class="section" id="dc"><h2>Data Centers &amp; Energy <small>global</small></h2><div class="grid3">{{dc}}</div></section>
+    <section class="section" id="tech"><h2>Technology <small>global</small></h2><div class="grid3">{{tech}}</div></section>
   </main>
 
   <aside class="rail">
     <section class="mkts" id="markets">
-      <div class="rh"><span><span class="live"></span>Tech &amp; AI markets</span><small>quotes may be delayed</small></div>
+      <div class="rh"><span><span class="live"></span>Telecom &amp; tech markets</span><small>quotes may be delayed</small></div>
       <div class="tvbox">
         <div class="tradingview-widget-container">
           <div class="tradingview-widget-container__widget"></div>
           <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank">Market data by TradingView</a></div>
           <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-market-overview.js" async>
-          {"colorTheme":"dark","dateRange":"1D","showChart":true,"locale":"en","width":"100%","height":900,"isTransparent":true,"showSymbolLogo":false,"showFloatingTooltip":true,"plotLineColorGrowing":"rgba(34,197,94,1)","plotLineColorFalling":"rgba(239,68,68,1)","gridLineColor":"rgba(140,154,181,0.12)","scaleFontColor":"rgba(140,154,181,1)","belowLineFillColorGrowing":"rgba(34,197,94,0.14)","belowLineFillColorFalling":"rgba(239,68,68,0.14)","belowLineFillColorGrowingBottom":"rgba(34,197,94,0)","belowLineFillColorFallingBottom":"rgba(239,68,68,0)","symbolActiveColor":"rgba(201,162,78,0.18)","tabs":[{"title":"AI & Chips","symbols":[{"s":"NASDAQ:NVDA","d":"Nvidia"},{"s":"NASDAQ:AMD","d":"AMD"},{"s":"NASDAQ:AVGO","d":"Broadcom"},{"s":"NYSE:TSM","d":"TSMC"},{"s":"NASDAQ:ASML","d":"ASML"},{"s":"NASDAQ:ARM","d":"Arm"},{"s":"NASDAQ:QCOM","d":"Qualcomm"},{"s":"NASDAQ:MU","d":"Micron"},{"s":"NASDAQ:MRVL","d":"Marvell"},{"s":"NASDAQ:INTC","d":"Intel"}],"originalTitle":"AI & Chips"},{"title":"Big Tech","symbols":[{"s":"NASDAQ:MSFT","d":"Microsoft"},{"s":"NASDAQ:GOOGL","d":"Alphabet"},{"s":"NASDAQ:AMZN","d":"Amazon"},{"s":"NASDAQ:META","d":"Meta"},{"s":"NASDAQ:AAPL","d":"Apple"},{"s":"NASDAQ:TSLA","d":"Tesla"},{"s":"NASDAQ:NFLX","d":"Netflix"},{"s":"NYSE:IBM","d":"IBM"},{"s":"NASDAQ:SPCX","d":"SpaceX"},{"s":"NYSE:ORCL","d":"Oracle"}],"originalTitle":"Big Tech"},{"title":"AI Infra","symbols":[{"s":"NASDAQ:CRWV","d":"CoreWeave"},{"s":"NASDAQ:NBIS","d":"Nebius"},{"s":"NYSE:VRT","d":"Vertiv"},{"s":"NASDAQ:EQIX","d":"Equinix"},{"s":"NYSE:DLR","d":"Digital Realty"},{"s":"NYSE:ANET","d":"Arista Networks"},{"s":"NASDAQ:SMCI","d":"Supermicro"},{"s":"NYSE:DELL","d":"Dell"},{"s":"NASDAQ:CEG","d":"Constellation Energy"},{"s":"NYSE:VST","d":"Vistra"}],"originalTitle":"AI Infra"},{"title":"Indices","symbols":[{"s":"FOREXCOM:SPXUSD","d":"🇺🇸 S&P 500"},{"s":"FOREXCOM:NSXUSD","d":"🇺🇸 Nasdaq 100"},{"s":"FOREXCOM:DJI","d":"🇺🇸 Dow Jones 30"},{"s":"BMFBOVESPA:IBOV","d":"🇧🇷 Ibovespa"},{"s":"INDEX:SX5E","d":"🇪🇺 Euro Stoxx 50"},{"s":"INDEX:DEU40","d":"🇩🇪 DAX 40"},{"s":"FOREXCOM:UKXGBP","d":"🇬🇧 FTSE 100"},{"s":"INDEX:NKY","d":"🇯🇵 Nikkei 225"},{"s":"INDEX:HSI","d":"🇭🇰 Hang Seng"},{"s":"SSE:000001","d":"🇨🇳 Shanghai Composite"}],"originalTitle":"Indices"}]}
+          {"colorTheme":"dark","dateRange":"1D","showChart":true,"locale":"en","width":"100%","height":900,"isTransparent":true,"showSymbolLogo":false,"showFloatingTooltip":true,"plotLineColorGrowing":"rgba(34,197,94,1)","plotLineColorFalling":"rgba(239,68,68,1)","gridLineColor":"rgba(140,154,181,0.12)","scaleFontColor":"rgba(140,154,181,1)","belowLineFillColorGrowing":"rgba(34,197,94,0.14)","belowLineFillColorFalling":"rgba(239,68,68,0.14)","belowLineFillColorGrowingBottom":"rgba(34,197,94,0)","belowLineFillColorFallingBottom":"rgba(239,68,68,0)","symbolActiveColor":"rgba(201,162,78,0.18)","tabs":[{"title":"Telecom BR·US","symbols":[{"s":"BMFBOVESPA:VIVT3","d":"🇧🇷 Vivo (Telefônica Brasil)"},{"s":"BMFBOVESPA:TIMS3","d":"🇧🇷 TIM Brasil"},{"s":"BMFBOVESPA:BRST3","d":"🇧🇷 Brisanet"},{"s":"BMFBOVESPA:FIQE3","d":"🇧🇷 Unifique"},{"s":"NYSE:T","d":"🇺🇸 AT&T"},{"s":"NYSE:VZ","d":"🇺🇸 Verizon"},{"s":"NASDAQ:TMUS","d":"🇺🇸 T-Mobile US"},{"s":"NYSE:AMX","d":"🇲🇽 América Móvil (NYSE)"},{"s":"NASDAQ:CMCSA","d":"🇺🇸 Comcast"},{"s":"NASDAQ:CHTR","d":"🇺🇸 Charter"},{"s":"NASDAQ:ASTS","d":"🇺🇸 AST SpaceMobile"}],"originalTitle":"Telecom BR·US"},{"title":"Brasil Tech","symbols":[{"s":"BMFBOVESPA:IBOV","d":"🇧🇷 Ibovespa"},{"s":"BMFBOVESPA:TOTS3","d":"🇧🇷 Totvs"},{"s":"BMFBOVESPA:LWSA3","d":"🇧🇷 Locaweb (LWSA)"},{"s":"BMFBOVESPA:INTB3","d":"🇧🇷 Intelbras"},{"s":"BMFBOVESPA:POSI3","d":"🇧🇷 Positivo Tecnologia"}],"originalTitle":"Brasil Tech"},{"title":"AI & Chips","symbols":[{"s":"NASDAQ:NVDA","d":"Nvidia"},{"s":"NASDAQ:AMD","d":"AMD"},{"s":"NASDAQ:AVGO","d":"Broadcom"},{"s":"NYSE:TSM","d":"TSMC"},{"s":"NASDAQ:ASML","d":"ASML"},{"s":"NASDAQ:ARM","d":"Arm"},{"s":"NASDAQ:QCOM","d":"Qualcomm"},{"s":"NASDAQ:MU","d":"Micron"},{"s":"NASDAQ:MRVL","d":"Marvell"},{"s":"NASDAQ:INTC","d":"Intel"}],"originalTitle":"AI & Chips"},{"title":"Big Tech","symbols":[{"s":"NASDAQ:MSFT","d":"Microsoft"},{"s":"NASDAQ:GOOGL","d":"Alphabet"},{"s":"NASDAQ:AMZN","d":"Amazon"},{"s":"NASDAQ:META","d":"Meta"},{"s":"NASDAQ:AAPL","d":"Apple"},{"s":"NASDAQ:TSLA","d":"Tesla"},{"s":"NASDAQ:NFLX","d":"Netflix"},{"s":"NYSE:IBM","d":"IBM"},{"s":"NASDAQ:SPCX","d":"SpaceX"},{"s":"NYSE:ORCL","d":"Oracle"}],"originalTitle":"Big Tech"},{"title":"AI Infra","symbols":[{"s":"NASDAQ:CRWV","d":"CoreWeave"},{"s":"NASDAQ:NBIS","d":"Nebius"},{"s":"NYSE:VRT","d":"Vertiv"},{"s":"NASDAQ:EQIX","d":"Equinix"},{"s":"NYSE:DLR","d":"Digital Realty"},{"s":"NYSE:ANET","d":"Arista Networks"},{"s":"NASDAQ:SMCI","d":"Supermicro"},{"s":"NYSE:DELL","d":"Dell"},{"s":"NASDAQ:CEG","d":"Constellation Energy"},{"s":"NYSE:VST","d":"Vistra"}],"originalTitle":"AI Infra"},{"title":"Indices","symbols":[{"s":"FOREXCOM:SPXUSD","d":"🇺🇸 S&P 500"},{"s":"FOREXCOM:NSXUSD","d":"🇺🇸 Nasdaq 100"},{"s":"FOREXCOM:DJI","d":"🇺🇸 Dow Jones 30"},{"s":"BMFBOVESPA:IBOV","d":"🇧🇷 Ibovespa"},{"s":"INDEX:SX5E","d":"🇪🇺 Euro Stoxx 50"},{"s":"INDEX:DEU40","d":"🇩🇪 DAX 40"},{"s":"FOREXCOM:UKXGBP","d":"🇬🇧 FTSE 100"},{"s":"INDEX:NKY","d":"🇯🇵 Nikkei 225"},{"s":"INDEX:HSI","d":"🇭🇰 Hang Seng"},{"s":"SSE:000001","d":"🇨🇳 Shanghai Composite"}],"originalTitle":"Indices"}]}
           </script>
         </div>
       </div>
@@ -212,7 +214,7 @@ footer{padding:26px 0 40px}
 
 <footer>
   <div class="srclist"><b>Sources in this edition:</b> {{sources}}</div>
-  <p class="disc">TMOBR News is a non-profit, non-commercial aggregator of curated industry news. It shows only headlines, short excerpts and publisher-supplied thumbnails, and every item links to its original source. Headlines from Portuguese and Spanish sources are machine-translated into English for reference only; the original article prevails. All articles, images and trademarks belong to their respective publishers, which are solely responsible for their content. TMOBR News and its owner do not write, edit, endorse or verify third-party content and are not affiliated with the publishers listed. Publishers who prefer not to be included may write to contacto@tmobr.com and will be removed. Weather data by Open-Meteo.com (CC BY 4.0).</p>
+  <p class="disc">TMOBR News is a non-profit, non-commercial aggregator of curated industry news. It shows only headlines, short excerpts and publisher-supplied thumbnails, and every item links to its original source. Headlines are shown in the original language of each publisher (English, Portuguese or Spanish). All articles, images and trademarks belong to their respective publishers, which are solely responsible for their content. TMOBR News and its owner do not write, edit, endorse or verify third-party content and are not affiliated with the publishers listed. Publishers who prefer not to be included may write to contacto@tmobr.com and will be removed. Weather data by Open-Meteo.com (CC BY 4.0).</p>
   <div class="foot-brand">TMOBR News · Business &amp; Technology · contacto@tmobr.com</div>
 </footer>
 </div>
