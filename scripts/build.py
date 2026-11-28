@@ -146,7 +146,7 @@ Items:
 SCHEMA = {
     "type": "object",
     "properties": {
-        "picks": {"type": "array", "description": "One object per item worth publishing (expect 40 to 60).",
+        "picks": {"type": "array", "minItems": 25, "description": "One object per item worth publishing (expect 40 to 60). Never return only a few.",
                   "items": {"type": "object", "properties": {
                       "id": {"type": "string"},
                       "region": {"type": "string", "enum": ["BR", "LATAM", "GLOBAL"]},
@@ -196,7 +196,15 @@ def ask_claude(items):
         log("NO ANTHROPIC_API_KEY: publishing English items only, no chart")
         return None
     lines = [f'{x["id"]} | {x["lang"]} | {x["region"]} | {x["sec"]} | {x["src"]} | {x["title"]} | {x["summary"][:220]}' for x in items]
-    return call_claude(PROMPT + "\n".join(lines))
+    minimum = min(25, len(items) // 3)
+    for attempt in range(3):
+        ai = call_claude(PROMPT + "\n".join(lines))
+        n = len([p for p in ((ai or {}).get("picks") or []) if isinstance(p, dict)])
+        if ai and n >= minimum:
+            return ai
+        log(f"editor answer too short ({n} picks, attempt {attempt + 1}); retrying")
+    log("Editor failed three times; keeping the previous edition")
+    sys.exit(1)
 
 
 PT_HINTS = ("ção", "ções", "ão ", "ões", "ã", "õ", " não ", " após ", " em ", " do ", " da ", " dos ", " das ", " para o ", " com ", "ê", "lh")
